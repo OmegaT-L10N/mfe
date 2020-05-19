@@ -1,9 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_80838225a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155838Z" creationid="Hugo" creationdate="20200519T155838Z">
+        <seg>Get dan &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proze&lt;/g5&gt; &lt;g6&gt;Propriete&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155627Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek si ou fisier dict dan bon dosier (ouswa dan enn soudosier sa dosier la).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T124203Z" creationid="Hugo" creationdate="20200512T132853Z">
+        <seg>Diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T132551Z" creationid="Hugo" creationdate="20200519T132551Z">
+        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor forma StarDict ouswa Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T160042Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosier la ena trwa fisier mem non, avek extansion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T152647Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>Download fisier la - li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T132624Z" creationid="Hugo" creationdate="20200519T124358Z">
+        <seg>Kouma download ek instal diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T160337Z" creationid="Hugo" creationdate="20200519T160337Z">
+        <seg>Si li &lt;e0&gt;tar.bz&lt;/e0&gt;, ou finn blie dekonpres (desarsiv) li.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T160130Z" creationid="Hugo" creationdate="20200519T160130Z">
+        <seg>Si ena enn sel fisier, get so lextansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155258Z" creationid="Hugo" creationdate="20200519T155258Z">
+        <seg>Itilisation diksioner Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T154247Z" creationid="Hugo" creationdate="20200519T154247Z">
+        <seg>Pran kont ki an plis bann diksioner "sours-sib", kapav, si itiliz fonktion Diksioner, aksed lezot linformasion kouma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155324Z" creationid="Hugo" creationdate="20200519T155324Z">
+        <seg>Problem ek diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T152249Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Serse konbinezon langaz ki bizin - get par exanp lors &lt;u0&gt;bann lien pou diksioner ki ena lors Wiki OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
+        <seg>Sertin diksioner aksesib san kondision (setadir zot ‘lib’) alors ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155237Z" creationid="Hugo" creationdate="20200519T155237Z">
+        <seg>Sa lexanp la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T153451Z" creationid="Hugo" creationdate="20200519T153451Z">
+        <seg>Pou ena trwa fisier ek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T150141Z" creationid="Hugo" creationdate="20200519T132619Z">
+        <seg>Pou instal bann fisier StarDict neseser, bizin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200519T153310Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pour ekstrer fisier so konteni dan dosie "Dictionary" proze la.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
