@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160724Z" creationid="Hugo" creationdate="20200525T160348Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detek otomatikman bann fisie gloser dan sa dosie-la letan enn proze ouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160413Z" creationid="Hugo" creationdate="20200525T155107Z">
+        <seg>Etan done ki konteni existan pa pou modifie, pa pou ena erer dan fisie existan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155838Z" creationid="Hugo" creationdate="20200519T155838Z">
@@ -54,10 +70,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
+        <seg>Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160234Z" creationid="Hugo" creationdate="20200525T143655Z">
+        <seg>Bann gloser, zot bann fisie ki finn kree ek updated manielman pour itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160936Z" creationid="Hugo" creationdate="20200525T160936Z">
+        <seg>Vole Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T132624Z" creationid="Hugo" creationdate="20200519T124358Z">
         <seg>Kouma download ek instal diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T144423Z" creationid="Hugo" creationdate="20200525T144423Z">
+        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman an kour afise otomatikman dans vole Gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +122,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T160130Z" creationid="Hugo" creationdate="20200519T160130Z">
         <seg>Si ena enn sel fisier, get so lextansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160501Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si fisie-la deza existe, pa pou ena verifikasion so forma ou so set karakter: bann nouvo lantre pou touzour forma text separe par tabilation ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +174,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160926Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term segman en kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser pou afise dan vole Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T151320Z" creationid="Hugo" creationdate="20200525T150854Z">
+        <seg>So lextansion bizin &lt;f0&gt;.txt&lt;/f0&gt; ouswa &lt;f1&gt;.utf8&lt;/f1&gt; (sinon li pou insere otomatikman).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160422Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>Fisie-la pas bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155237Z" creationid="Hugo" creationdate="20200519T155237Z">
         <seg>Sa lexanp la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160021Z" creationid="Hugo" creationdate="20200525T151151Z">
+        <seg>Fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn soudosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +230,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160244Z" creationid="Hugo" creationdate="20200525T155611Z">
+        <seg>Pou itiliz enn gloser, met li sinpleman dans dosier &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T155139Z" creationid="Hugo" creationdate="20200525T155139Z">
+        <seg>Itilizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T153310Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pour ekstrer fisier so konteni dan dosie "Dictionary" proze la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200525T150525Z" creationid="Hugo" creationdate="20200525T150525Z">
+        <seg>Ou kapav definir so lanplasman ek so nom dan bwat dialog propriete proze.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
