@@ -21,6 +21,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>"Chek in" ?!!!</note>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
@@ -32,8 +33,8 @@
       <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155627Z" creationid="Hugo" creationdate="20200519T155627Z">
-        <seg>Chek si ou fisier dict dan bon dosier (ouswa dan enn soudosier sa dosier la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182458Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek si ou fisie dict dan bon dosie (ouswa dan enn soudosie sa dosie la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,16 +57,24 @@
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T160042Z" creationid="Hugo" creationdate="20200519T160042Z">
-        <seg>Eski dosier la ena trwa fisier mem non, avek extansion?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182631Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosie la ena trwa fisie mem nom, avek extansion?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T152647Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>Download fisier la - li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T181920Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>Download fisie la - li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T190233Z" creationid="Hugo" creationdate="20200527T190233Z">
+        <seg>Forma fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +95,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T191151Z" creationid="Hugo" creationdate="20200527T191151Z">
+        <seg>Bann fisie gloser, zot bann sinp fisie text avek trwa kolonn ki form trwa lalis delimite par tabulation avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160936Z" creationid="Hugo" creationdate="20200525T160936Z">
-        <seg>Vole Gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183517Z" creationid="Hugo" creationdate="20200525T160936Z">
+        <seg>Pano Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T190105Z" creationid="Hugo" creationdate="20200527T181609Z">
+        <seg>Highlight sa mo-la dans pano Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +145,8 @@
       <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T160130Z" creationid="Hugo" creationdate="20200519T160130Z">
-        <seg>Si ena enn sel fisier, get so lextansion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182651Z" creationid="Hugo" creationdate="20200519T160130Z">
+        <seg>Si ena enn sel fisie, get so lextansion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,26 +167,51 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184106Z" creationid="Hugo" creationdate="20200527T174837Z">
+        <seg>Kapav manielman azout enn nouvo term dan fisie gloser pandan tradiksion, ex. dan enn editer text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184510Z" creationid="Hugo" creationdate="20200527T175339Z">
+        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman fisie text-la pa enrezistre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T154247Z" creationid="Hugo" creationdate="20200519T154247Z">
-        <seg>Pran kont ki an plis bann diksioner "sours-sib", kapav, si itiliz fonktion Diksioner, aksed lezot linformasion kouma:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182334Z" creationid="Hugo" creationdate="20200519T154247Z">
+        <seg>Pran kont ki an plis bann diksioner "sours-sib", kapav, si itiliz fonksion Diksioner, aksed lezot linformasion kouma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>FR &amp; EN do not match.</note>
+      <tuv lang="en">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T190205Z" creationid="Hugo" creationdate="20200527T190205Z">
+        <seg>Pran kont ki dan sa lexamp-la,   Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Problems with dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155324Z" creationid="Hugo" creationdate="20200519T155324Z">
-        <seg>Problem ek diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
+        <seg>Problem avek diksioner</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T152249Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Serse konbinezon langaz ki bizin - get par exanp lors &lt;u0&gt;bann lien pou diksioner ki ena lors Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T181912Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +226,16 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160926Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Bann term segman en kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser pou afise dan vole Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183457Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Segman en kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou afise dan pano Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T203007Z" creationid="Hugo" creationdate="20200527T203007Z">
+        <seg>Lankodaz bann gloser determine otomatikman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +258,16 @@
       <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155237Z" creationid="Hugo" creationdate="20200519T155237Z">
-        <seg>Sa lexanp la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182410Z" creationid="Hugo" creationdate="20200519T155237Z">
+        <seg>Sa lexanp-la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184020Z" creationid="Hugo" creationdate="20200527T170641Z">
+        <seg>Fonksion gloser trouv zis bann mo ki koresponn exacteman avek bann lantre gloser (ex. li pa rekonet bann form konzige).</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,26 +280,67 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184550Z" creationid="Hugo" creationdate="20200527T175504Z">
+        <seg>Term sours-la pa neseserman enn sel mo, kouma dan sa lexamp-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T191342Z" creationid="Hugo" creationdate="20200527T191342Z">
+        <seg>Trwaziem kolonn-la li kapav itilize pou lezot linformasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>English and French do not match.</note>
+      <tuv lang="en">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184729Z">
+        <seg>Kapav trouv item souligne "pop-up menu" dan pano Gloser kouma "pojavni menu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183654Z" creationid="Hugo" creationdate="20200527T165834Z">
+        <seg>Lantre vokabiler kapav ena enn ouswa plizier komanter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183613Z" creationid="Hugo" creationdate="20200527T165641Z">
+        <seg>Bann mo avan sign =, zot bann term sours. Bann mo apre sign =, zot bann tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T153451Z" creationid="Hugo" creationdate="20200519T153451Z">
-        <seg>Pou ena trwa fisier ek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182258Z" creationid="Hugo" creationdate="20200519T153451Z">
+        <seg>Pou ena trwa fisie avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T150141Z" creationid="Hugo" creationdate="20200519T132619Z">
-        <seg>Pou instal bann fisier StarDict neseser, bizin:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T181641Z" creationid="Hugo" creationdate="20200519T132619Z">
+        <seg>Pou instal bann fisie StarDict neseser, bizin:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160244Z" creationid="Hugo" creationdate="20200525T155611Z">
-        <seg>Pou itiliz enn gloser, met li sinpleman dans dosier &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183128Z" creationid="Hugo" creationdate="20200525T155611Z">
+        <seg>Pou itiliz enn gloser, met li sinpleman dans dosie &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,16 +355,40 @@
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T153310Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pour ekstrer fisier so konteni dan dosie "Dictionary" proze la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182204Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer fisie so konteni dan dosie "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T202938Z" creationid="Hugo" creationdate="20200527T202938Z">
+        <seg>Ou kapav fer bann lantre avek kolonn sib vid, setadir ki ena zis term sours ek komanter.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T150525Z" creationid="Hugo" creationdate="20200525T150525Z">
-        <seg>Ou kapav definir so lanplasman ek so nom dan bwat dialog propriete proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182916Z" creationid="Hugo" creationdate="20200525T150525Z">
+        <seg>Ou kapav definir fisie-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182343Z" creationid="Hugo" creationdate="20200527T182343Z">
+        <seg>etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>multiple words entries in glossaries - example</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200527T175717Z" creationid="Hugo" creationdate="20200527T175717Z">
+        <seg>Antre plizier mo dan gloser – examp</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
