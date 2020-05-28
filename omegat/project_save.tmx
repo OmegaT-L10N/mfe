@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T190526Z" creationid="Hugo" creationdate="20200528T190526Z">
+        <seg>"This is a source term, which contains a comma","Ala enn term sours, ki ena enn virgil"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T160724Z" creationid="Hugo" creationdate="20200525T160348Z">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detek otomatikman bann fisie gloser dan sa dosie-la letan enn proze ouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201920Z" creationid="Hugo" creationdate="20200528T201615Z">
+        <seg>Kapav download &lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; dan preske 100 lang. Li kapav servi kouma enn fondman pou enn gloser informatik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193056Z" creationid="Hugo" creationdate="20200528T170053Z">
+        <seg>Format CSV osi aksepte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T184444Z" creationid="Hugo" creationdate="20200528T184444Z">
+        <seg>Bann komanter separe par enn virgil ','.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T124203Z" creationid="Hugo" creationdate="20200512T132853Z">
@@ -49,8 +81,8 @@
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T132551Z" creationid="Hugo" creationdate="20200519T132551Z">
-        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor forma StarDict ouswa Lingvo DSL.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T191017Z" creationid="Hugo" creationdate="20200519T132551Z">
+        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ouswa Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73,8 +105,8 @@
       <tuv lang="en">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T190233Z" creationid="Hugo" creationdate="20200527T190233Z">
-        <seg>Forma fisie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T191121Z" creationid="Hugo" creationdate="20200527T190233Z">
+        <seg>Format fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -89,16 +121,16 @@
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160234Z" creationid="Hugo" creationdate="20200525T143655Z">
-        <seg>Bann gloser, zot bann fisie ki finn kree ek updated manielman pour itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193251Z" creationid="Hugo" creationdate="20200525T143655Z">
+        <seg>Bann gloser, zot bann fisie ki finn kree ek updated manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T191151Z" creationid="Hugo" creationdate="20200527T191151Z">
-        <seg>Bann fisie gloser, zot bann sinp fisie text avek trwa kolonn ki form trwa lalis delimite par tabulation avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T170335Z" creationid="Hugo" creationdate="20200527T191151Z">
+        <seg>Bann fisie gloser, zot bann sinp fisie text avek trwa kolonn ki form trwa lalis delimite par tabulasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115,6 +147,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T190105Z" creationid="Hugo" creationdate="20200527T181609Z">
         <seg>Highlight sa mo-la dans pano Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T203004Z" creationid="Hugo" creationdate="20200528T203004Z">
+        <seg>Kouma kree bann gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,8 +193,25 @@
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160501Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si fisie-la deza existe, pa pou ena verifikasion so forma ou so set karakter: bann nouvo lantre pou touzour forma text separe par tabilation ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T191024Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si fisie-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilation ek UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Ibid.	</note>
+      <tuv lang="en">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T202506Z" creationid="Hugo" creationdate="20200528T194438Z">
+        <seg>Si ou ena enn sistem zestion termilozik, li posib ki li propoz exportasion data terminolozik via format TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193059Z" creationid="Hugo" creationdate="20200528T190742Z">
+        <seg>An plis format text brit, format TBX osi aksepte antan ki format gloser read-only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,6 +257,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T202936Z" creationid="Hugo" creationdate="20200528T202300Z">
+        <seg>Atension: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumandir pa fiab (Novam 2013). Mie vo itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201633Z" creationid="Hugo" creationdate="20200528T165728Z">
+        <seg>Parski lankodaz-la bizin konpatib ant toule de lang inplike, Unicode rekomande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Problems with dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
@@ -210,8 +283,8 @@
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T181912Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201624Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -220,6 +293,24 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
         <seg>Sertin diksioner aksesib san kondision (setadir zot ‘lib’) alors ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Vérifier apostrof pour guillemets ou inverted commas...</note>
+      <tuv lang="en">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T190305Z" creationid="Hugo" creationdate="20200528T190305Z">
+        <seg>Bann lasen karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasen karakter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Data uswa done?</note>
+      <tuv lang="en">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201428Z" creationid="Hugo" creationdate="20200528T193248Z">
+        <seg>TBX – Term Base eXchange – li enn standard lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,8 +341,8 @@
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T160422Z" creationid="Hugo" creationdate="20200525T152644Z">
-        <seg>Fisie-la pas bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T202455Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,10 +363,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193049Z" creationid="Hugo" creationdate="20200528T191249Z">
+        <seg>Fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn soudosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T160021Z" creationid="Hugo" creationdate="20200525T151151Z">
         <seg>Fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn soudosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T203338Z" creationid="Hugo" creationdate="20200528T203338Z">
+        <seg>Ou kapav done enn nom fisie gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -325,6 +432,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182258Z" creationid="Hugo" creationdate="20200519T153451Z">
         <seg>Pou ena trwa fisie avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200528T191151Z" creationid="Hugo" creationdate="20200528T170303Z">
+        <seg>Format-la li parey kouma separasion par tabulasion: term sours, term sib.</seg>
       </tuv>
     </tu>
     <tu>
