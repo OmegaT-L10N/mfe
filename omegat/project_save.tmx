@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193059Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>... me mem karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184055Z" creationid="Hugo" creationdate="20200525T160348Z">
