@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193059Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>... me mem karakter</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193224Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dans pano Editer: lextension ek lenkodaz file-la pas koresponn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -347,8 +347,8 @@
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193046Z" creationid="Hugo" creationdate="20200606T193046Z">
-        <seg>Problem: Dans pano gloser, detrwa karakter pas afiser korek</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193207Z" creationid="Hugo" creationdate="20200606T193046Z">
+        <seg>Problem: Dans pano gloser, detrwa karakter pas bien afise</seg>
       </tuv>
     </tu>
     <tu>
