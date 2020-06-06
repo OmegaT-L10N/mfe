@@ -272,6 +272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192425Z" creationid="Hugo" creationdate="20200606T192425Z">
+        <seg>Pena oken file gloser dans folder "glossary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182334Z" creationid="Hugo" creationdate="20200519T154247Z">
@@ -323,8 +331,8 @@
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192301Z" creationid="Hugo" creationdate="20200606T192301Z">
-        <seg>Problem: Okenn No glossary terms are displayed - possible causes:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192402Z" creationid="Hugo" creationdate="20200606T192301Z">
+        <seg>Problem: Pena okenn term gloser ki afise. Posibilite:</seg>
       </tuv>
     </tu>
     <tu>
@@ -435,10 +443,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192545Z" creationid="Hugo" creationdate="20200606T192545Z">
+        <seg>File gloser pa ena bon lextension (.tab, .utf8 ouswa .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192440Z" creationid="Hugo" creationdate="20200606T192440Z">
+        <seg>File gloser vid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T184020Z" creationid="Hugo" creationdate="20200527T170641Z">
         <seg>Fonksion gloser trouv zis bann mo ki koresponn exacteman avek bann lantre gloser (ex. li pa rekonet bann form konzige).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The items are not separated with a TAB character.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192512Z" creationid="Hugo" creationdate="20200606T192512Z">
+        <seg>Bann eleman pa separe par karakter TAB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,6 +560,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T183613Z" creationid="Hugo" creationdate="20200527T165641Z">
         <seg>Bann mo avan sign =, zot bann term sours. Bann mo apre sign =, zot bann tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192724Z" creationid="Hugo" creationdate="20200606T192724Z">
+        <seg>Pena enn EXACT match ant lantre gloser ek text sours dans ou dokiman (par exanp, diferans singilie/pliryel).</seg>
       </tuv>
     </tu>
     <tu>
