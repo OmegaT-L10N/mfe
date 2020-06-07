@@ -584,6 +584,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>"Quantificateur gourmand" selon Microsoft : https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/quantifiers-in-regular-expressions</note>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
