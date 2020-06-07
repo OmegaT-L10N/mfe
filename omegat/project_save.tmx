@@ -427,8 +427,16 @@
       <tuv lang="en">
         <seg>Regex - Character</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T103741Z" creationid="Hugo" creationdate="20200607T103741Z">
-        <seg>Regex - Karakter</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T131609Z" creationid="Hugo" creationdate="20200607T103741Z">
+        <seg>Regex − Karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T132217Z" creationid="Hugo" creationdate="20200607T132217Z">
+        <seg>Regex − Klas pou kategori ek blok Unicode</seg>
       </tuv>
     </tu>
     <tu>
@@ -443,8 +451,8 @@
       <tuv lang="en">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125805Z" creationid="Hugo" creationdate="20200607T125805Z">
-        <seg>Regex - Kotasion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T131616Z" creationid="Hugo" creationdate="20200607T125805Z">
+        <seg>Regex − Kotasion</seg>
       </tuv>
     </tu>
     <tu>
