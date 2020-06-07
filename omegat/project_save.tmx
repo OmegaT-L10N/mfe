@@ -353,6 +353,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T131457Z" creationid="Hugo" creationdate="20200607T131457Z">
+        <seg>Nanyen, me li fini sitasion koumanse par \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130709Z" creationid="Hugo" creationdate="20200607T130709Z">
+        <seg>Nanyen, me li sit tou bann karakter ziska \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
