@@ -588,8 +588,8 @@
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135920Z" creationid="Hugo" creationdate="20200607T135920Z">
-        <seg>Regex − Greedy quantifiers</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162637Z" creationid="Hugo" creationdate="20200607T135920Z">
+        <seg>Regex − Kantifikater gourman</seg>
       </tuv>
     </tu>
     <tu>
@@ -1087,16 +1087,16 @@
       <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140301Z" creationid="Hugo" creationdate="20200607T140301Z">
-        <seg>X, enn sel fwa ouswa pa</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162654Z" creationid="Hugo" creationdate="20200607T140301Z">
+        <seg>X, enn sel fwa ouswa nanyen</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>X, one or more times</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140349Z" creationid="Hugo" creationdate="20200607T140349Z">
-        <seg>X, enn fwa ou plis</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162715Z" creationid="Hugo" creationdate="20200607T140349Z">
+        <seg>X, enn ou plizier fwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,6 +1145,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182343Z" creationid="Hugo" creationdate="20200527T182343Z">
         <seg>etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162812Z" creationid="Hugo" creationdate="20200607T162812Z">
+        <seg>kantifikater gourman pou match otan ki ki zot kapav.</seg>
       </tuv>
     </tu>
     <tu>
