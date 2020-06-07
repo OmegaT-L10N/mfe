@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T082136Z" creationid="Hugo" creationdate="20200607T082103Z">
+        <seg>... koresponn seki isi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T193224Z" creationid="Hugo" creationdate="20200606T193059Z">
@@ -64,8 +72,8 @@
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192000Z" creationid="Hugo" creationdate="20200606T192000Z">
-        <seg>Etan done ki enn lantre kapav melanz gloser prioriter ek non prioriter, bann mo gloser prioriter afise an gra.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075754Z" creationid="Hugo" creationdate="20200606T192000Z">
+        <seg>Etan done ki enn lantre kapav mix gloser prioriter ek non prioriter, bann mo gloser prioriter afise an gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105,8 +113,8 @@
       <tuv lang="en">
         <seg>Common glossary problems</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192053Z" creationid="Hugo" creationdate="20200606T192053Z">
-        <seg>Problem gloser kouran</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075920Z" creationid="Hugo" creationdate="20200606T192053Z">
+        <seg>Problem gloser ki kouran</seg>
       </tuv>
     </tu>
     <tu>
@@ -139,6 +147,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184640Z" creationid="Hugo" creationdate="20200519T152003Z">
         <seg>Download file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T103732Z" creationid="Hugo" creationdate="20200607T103732Z">
+        <seg>Permet ou fer bann resers san respekt maziskil (par defo, resers respekt maziskil).</seg>
       </tuv>
     </tu>
     <tu>
@@ -331,8 +347,8 @@
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193001Z" creationid="Hugo" creationdate="20200606T193001Z">
-        <seg>Enn ouswa plizier problem mansione laho finn resoud, me proze pa finn reload.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080214Z" creationid="Hugo" creationdate="20200606T193001Z">
+        <seg>Enn ouswa plizier problem mansione laho finn resoud, me proze-la pa finn reload.</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,6 +385,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T103741Z" creationid="Hugo" creationdate="20200607T103741Z">
+        <seg>Regex - Karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T081955Z" creationid="Hugo" creationdate="20200607T081955Z">
+        <seg>Regex − Marker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080325Z" creationid="Hugo" creationdate="20200607T080325Z">
+        <seg>Lexpresion regilie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
@@ -381,6 +421,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T201624Z" creationid="Hugo" creationdate="20200519T151154Z">
         <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080854Z" creationid="Hugo" creationdate="20200607T080854Z">
+        <seg>Get plis referans ek lexanp enba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080739Z" creationid="Hugo" creationdate="20200607T080739Z">
+        <seg>Si ou bizin linformasion spesifik, get &lt;u0&gt;dokimantasion Java Regex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -415,6 +471,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184110Z" creationid="Hugo" creationdate="20200525T160926Z">
         <seg>Segman en kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou afise dan pano Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T103855Z" creationid="Hugo" creationdate="20200607T103855Z">
+        <seg>Karakter x, exepte seki suiv...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T082019Z" creationid="Hugo" creationdate="20200607T082019Z">
+        <seg>Konstriksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -477,8 +549,8 @@
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192545Z" creationid="Hugo" creationdate="20200606T192545Z">
-        <seg>File gloser pa ena bon lextension (.tab, .utf8 ouswa .txt).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075929Z" creationid="Hugo" creationdate="20200606T192545Z">
+        <seg>File gloser pena bon lextension (.tab, .utf8 ouswa .txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -547,6 +619,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080655Z" creationid="Hugo" creationdate="20200607T080655Z">
+        <seg>Lexpresion regilie (ou regex) itilize dan resers ek reg segmantasion li bann lexpresion itilize par Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T191507Z" creationid="Hugo" creationdate="20200606T191507Z">
@@ -606,8 +686,8 @@
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192724Z" creationid="Hugo" creationdate="20200606T192724Z">
-        <seg>Pena enn EXACT match ant lantre gloser ek text sours dans ou dokiman (par exanp, diferans singilie/pliryel).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075948Z" creationid="Hugo" creationdate="20200606T192724Z">
+        <seg>Pena enn EXACT match ant lantre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,6 +696,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183649Z" creationid="Hugo" creationdate="20200519T153451Z">
         <seg>Pou ena trwa file avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T081901Z" creationid="Hugo" creationdate="20200607T081254Z">
+        <seg>Sa sapit-la li pou bann itilizater avanse, ki bizin definir zot prop reg segmantasion ouswa fer bann resers pli konplex ek avanse.</seg>
       </tuv>
     </tu>
     <tu>
