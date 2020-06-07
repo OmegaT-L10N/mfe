@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163641Z" creationid="Hugo" creationdate="20200607T163641Z">
+        <seg>Par exanp, &lt;e0&gt;a+?&lt;/e0&gt; pou match premie &lt;e1&gt;a&lt;/e1&gt; dan &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131521Z" creationid="Hugo" creationdate="20200607T130636Z">
@@ -598,6 +606,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162637Z" creationid="Hugo" creationdate="20200607T135920Z">
         <seg>Regex − Kantifikater gourman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163655Z" creationid="Hugo" creationdate="20200607T163655Z">
+        <seg>Regex − Operater lozik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1101,6 +1117,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163734Z" creationid="Hugo" creationdate="20200607T163734Z">
+        <seg>Y apre X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162654Z" creationid="Hugo" creationdate="20200607T140301Z">
@@ -1167,8 +1191,8 @@
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162812Z" creationid="Hugo" creationdate="20200607T162812Z">
-        <seg>kantifikater gourman pou match otan ki ki zot kapav.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163609Z" creationid="Hugo" creationdate="20200607T162812Z">
+        <seg>kantifikater gourman pou match otan korespondans ki zot kapav.</seg>
       </tuv>
     </tu>
     <tu>
