@@ -1301,6 +1301,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>extra spaces after the period at the end of the line</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170724Z" creationid="Hugo" creationdate="20200607T170724Z">
+        <seg>lespas siplemanter apre pwin lafin lalign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163609Z" creationid="Hugo" creationdate="20200607T162812Z">
