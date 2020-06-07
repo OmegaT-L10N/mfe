@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T171539Z" creationid="Hugo" creationdate="20200607T171539Z">
+        <seg>Angle: bann mo ki koumans par vwayel mars normalman ek "an", pa "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File format</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184144Z" creationid="Hugo" creationdate="20200527T190233Z">
