@@ -104,8 +104,16 @@
       <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133349Z" creationid="Hugo" creationdate="20200607T133349Z">
-        <seg>Ninport ki karakter exsepte Any character except one in the Greek block (negation)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133531Z" creationid="Hugo" creationdate="20200607T133349Z">
+        <seg>Ninport ki karakter exsepte karakter blok Grek (negasion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133754Z" creationid="Hugo" creationdate="20200607T133754Z">
+        <seg>Ninport ki let exscepte let maziskil (soustraksion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -621,8 +629,8 @@
       <tuv lang="en">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124157Z" creationid="Hugo" creationdate="20200607T103855Z">
-        <seg>Karakter x, exepte pou seki suiv...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133359Z" creationid="Hugo" creationdate="20200607T103855Z">
+        <seg>Karakter x, exsepte pou seki suiv...</seg>
       </tuv>
     </tu>
     <tu>
