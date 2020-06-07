@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133953Z" creationid="Hugo" creationdate="20200607T133916Z">
+        <seg>Ninport ki karakter exsepte a, b, ou c (negasion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133531Z" creationid="Hugo" creationdate="20200607T133349Z">
@@ -112,8 +120,8 @@
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133754Z" creationid="Hugo" creationdate="20200607T133754Z">
-        <seg>Ninport ki let exscepte let maziskil (soustraksion)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133930Z" creationid="Hugo" creationdate="20200607T133754Z">
+        <seg>Ninport ki let exsepte let maziskil (soustraksion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +477,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131609Z" creationid="Hugo" creationdate="20200607T103741Z">
         <seg>Regex − Karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133815Z" creationid="Hugo" creationdate="20200607T133815Z">
+        <seg>Regex − Klas karakter</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,6 +984,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183947Z" creationid="Hugo" creationdate="20200525T150525Z">
         <seg>Ou kapav definir file-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133839Z" creationid="Hugo" creationdate="20200607T133839Z">
+        <seg>a, b, ouswa c (klas sinp)</seg>
       </tuv>
     </tu>
     <tu>
