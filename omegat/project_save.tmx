@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A non-word boundary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135901Z" creationid="Hugo" creationdate="20200607T135901Z">
+        <seg>Pa enn lextremite enne mo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-word character: [^\w]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T135528Z" creationid="Hugo" creationdate="20200607T135517Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
         <seg>Enn karakter lespasman: lespas, tabilasion, retour lalign [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135833Z" creationid="Hugo" creationdate="20200607T135833Z">
+        <seg>Lextremite enn mo</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,6 +585,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135920Z" creationid="Hugo" creationdate="20200607T135920Z">
+        <seg>Regex − Greedy quantifiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134210Z" creationid="Hugo" creationdate="20200607T134210Z">
@@ -767,6 +791,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T203007Z" creationid="Hugo" creationdate="20200527T203007Z">
         <seg>Lankodaz bann gloser determine otomatikman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135814Z" creationid="Hugo" creationdate="20200607T135814Z">
+        <seg>Lafin enn lalign</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,6 +1080,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184256Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer file-la so konteni dan folder "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140301Z" creationid="Hugo" creationdate="20200607T140301Z">
+        <seg>X, enn sel fwa ouswa pa</seg>
       </tuv>
     </tu>
     <tu>
