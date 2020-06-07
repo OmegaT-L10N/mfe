@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T164230Z" creationid="Hugo" creationdate="20200607T164230Z">
+        <seg>Ena bokou zouti interaktif ki permet devlop ek teste lexpresion regilie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
@@ -275,6 +283,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184640Z" creationid="Hugo" creationdate="20200519T152003Z">
         <seg>Download file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163750Z" creationid="Hugo" creationdate="20200607T163750Z">
+        <seg>Ouswa X ouswa Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +654,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163131Z" creationid="Hugo" creationdate="20200607T163131Z">
         <seg>Regex − Kantifikater pares (non-gourman)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163917Z" creationid="Hugo" creationdate="20200607T163917Z">
+        <seg>Zouti regex ek exanp litilizasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,6 +1169,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163246Z" creationid="Hugo" creationdate="20200607T140321Z">
         <seg>X, zero fwa ou plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163803Z" creationid="Hugo" creationdate="20200607T163803Z">
+        <seg>XY kouma enn sel group</seg>
       </tuv>
     </tu>
     <tu>
