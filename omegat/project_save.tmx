@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T132857Z" creationid="Hugo" creationdate="20200607T132857Z">
+        <seg>Enn karakter dan blok Grek (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T182111Z" creationid="Hugo" creationdate="20200606T170654Z">
