@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170250Z" creationid="Hugo" creationdate="20200607T170250Z">
+        <seg>Trouv bann rezilta swivan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162938Z" creationid="Hugo" creationdate="20200607T162830Z">
@@ -617,6 +625,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170202Z" creationid="Hugo" creationdate="20200607T170202Z">
+        <seg>Regex − Exanp lexpresion regilie dan tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081955Z" creationid="Hugo" creationdate="20200607T081955Z">
@@ -670,6 +686,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163917Z" creationid="Hugo" creationdate="20200607T163917Z">
         <seg>Zouti regex ek exanp litilizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170206Z" creationid="Hugo" creationdate="20200607T170206Z">
+        <seg>Lexpresion regilie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1249,6 +1273,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133957Z" creationid="Hugo" creationdate="20200607T133839Z">
         <seg>a, b, ou c (klas sinp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170629Z" creationid="Hugo" creationdate="20200607T170629Z">
+        <seg>virigl ouswa pwin, swivi par lespas ek enn lot virgil ouswa pwin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170259Z" creationid="Hugo" creationdate="20200607T170259Z">
+        <seg>mo doub</seg>
       </tuv>
     </tu>
     <tu>
