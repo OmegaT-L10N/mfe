@@ -1092,6 +1092,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140349Z" creationid="Hugo" creationdate="20200607T140349Z">
+        <seg>X, enn fwa ou plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140321Z" creationid="Hugo" creationdate="20200607T140321Z">
+        <seg>X, zero ouswa plizier fwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T202938Z" creationid="Hugo" creationdate="20200527T202938Z">
