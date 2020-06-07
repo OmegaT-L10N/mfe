@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125809Z" creationid="Hugo" creationdate="20200607T125809Z">
+        <seg>... koresponn seki isi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184055Z" creationid="Hugo" creationdate="20200525T160348Z">
@@ -337,6 +345,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130128Z" creationid="Hugo" creationdate="20200607T130128Z">
+        <seg>Nanyen, me Nothing, but quotes the following character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T201633Z" creationid="Hugo" creationdate="20200528T165728Z">
@@ -397,6 +413,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081955Z" creationid="Hugo" creationdate="20200607T081955Z">
         <seg>Regex − Marker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125805Z" creationid="Hugo" creationdate="20200607T125805Z">
+        <seg>Regex - Kotasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +511,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T124652Z" creationid="Hugo" creationdate="20200607T124652Z">
         <seg>Karakter retour-sario ('\u000D')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125755Z" creationid="Hugo" creationdate="20200607T125755Z">
+        <seg>Karakter avek valer hexadecimal 0xhh</seg>
       </tuv>
     </tu>
     <tu>
