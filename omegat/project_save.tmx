@@ -577,6 +577,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
+        <seg>Pwin, swivi par enn maziskil − li posib ki enn lespas manke ant enn pwin ek enn nouvo fraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priority glossary</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T191219Z" creationid="Hugo" creationdate="20200606T191219Z">
@@ -1329,6 +1337,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163609Z" creationid="Hugo" creationdate="20200607T162812Z">
         <seg>kantifikater gourman pou match otan korespondans ki zot kapav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T171749Z" creationid="Hugo" creationdate="20200607T171749Z">
+        <seg>plis ki enne lespas</seg>
       </tuv>
     </tu>
     <tu>
