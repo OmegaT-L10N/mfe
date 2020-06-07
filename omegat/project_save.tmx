@@ -1077,6 +1077,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T165134Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get enba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dans bwat text resilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081901Z" creationid="Hugo" creationdate="20200607T081254Z">
