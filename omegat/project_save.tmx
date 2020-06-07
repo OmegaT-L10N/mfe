@@ -1363,6 +1363,14 @@
         <seg>kantificater pares pou match otan tigit korespondans ki zot kapav.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T172133Z" creationid="Hugo" creationdate="20200607T172133Z">
+        <seg>Resers “is”, pas “this” ouswa “isn't” etc.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
