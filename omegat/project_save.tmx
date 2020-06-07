@@ -96,24 +96,24 @@
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135339Z" creationid="Hugo" creationdate="20200607T134420Z">
-        <seg>Ninportki lezot karakter ki enn nimero: [^0-9]</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135551Z" creationid="Hugo" creationdate="20200607T134420Z">
+        <seg>Enn karakter ki pa enn nimero: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A non-whitespace character: [^\s]</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135308Z" creationid="Hugo" creationdate="20200607T135308Z">
-        <seg>Ninport ki lezot karakter ki enn karakter lespasman: [^\s]</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135648Z" creationid="Hugo" creationdate="20200607T135308Z">
+        <seg>Enn karakter ki pa enn karakter lespasman: [^\s]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A non-word character: [^\w]</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135517Z" creationid="Hugo" creationdate="20200607T135517Z">
-        <seg>Enn karakter ki pa enn karakter mo: [^\w]</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135528Z" creationid="Hugo" creationdate="20200607T135517Z">
+        <seg>Enn karakter ki pa enn karakter enn mo: [^\w]</seg>
       </tuv>
     </tu>
     <tu>
@@ -529,6 +529,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135724Z" creationid="Hugo" creationdate="20200607T135724Z">
+        <seg>Regex − Spesifik limit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131609Z" creationid="Hugo" creationdate="20200607T103741Z">
@@ -655,6 +663,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125035Z" creationid="Hugo" creationdate="20200607T125035Z">
         <seg>Karakter alert (signal) ('\u0007')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The beginning of a line</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135752Z" creationid="Hugo" creationdate="20200607T135752Z">
+        <seg>Koumansman enn lalign</seg>
       </tuv>
     </tu>
     <tu>
