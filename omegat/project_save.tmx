@@ -64,8 +64,16 @@
       <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T132857Z" creationid="Hugo" creationdate="20200607T132857Z">
-        <seg>Enn karakter dan blok Grek (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T132936Z" creationid="Hugo" creationdate="20200607T132857Z">
+        <seg>Enn karakter dan blok Grek (sinp &lt;u0&gt; blok&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133215Z" creationid="Hugo" creationdate="20200607T133215Z">
+        <seg>Enn sinbol lamone</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193056Z" creationid="Hugo" creationdate="20200528T170053Z">
         <seg>Format CSV osi aksepte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133007Z" creationid="Hugo" creationdate="20200607T133007Z">
+        <seg>Enn let maziskil (sinp &lt;u0&gt; kategori&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
