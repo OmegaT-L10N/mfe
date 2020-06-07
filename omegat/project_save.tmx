@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T171722Z" creationid="Hugo" creationdate="20200607T171722Z">
+        <seg>Angle: mem verifikasion ki laho, me pou konsonn ("a", not "an")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T171539Z" creationid="Hugo" creationdate="20200607T171539Z">
