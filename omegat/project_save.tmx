@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134331Z" creationid="Hugo" creationdate="20200607T134331Z">
+        <seg>Ninport ki karakter (exsepte terminezon lalign)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133953Z" creationid="Hugo" creationdate="20200607T133916Z">
@@ -501,6 +509,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081955Z" creationid="Hugo" creationdate="20200607T081955Z">
         <seg>Regex − Marker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134210Z" creationid="Hugo" creationdate="20200607T134210Z">
+        <seg>Regex − Klas karakter predefini</seg>
       </tuv>
     </tu>
     <tu>
@@ -988,10 +1004,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134145Z" creationid="Hugo" creationdate="20200607T134145Z">
+        <seg>a ziska z ou A ziska Z, avek (range)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>a, b, or c (simple class)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133839Z" creationid="Hugo" creationdate="20200607T133839Z">
-        <seg>a, b, ouswa c (klas sinp)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133957Z" creationid="Hugo" creationdate="20200607T133839Z">
+        <seg>a, b, ou c (klas sinp)</seg>
       </tuv>
     </tu>
     <tu>
