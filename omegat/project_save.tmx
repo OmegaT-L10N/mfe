@@ -475,6 +475,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124652Z" creationid="Hugo" creationdate="20200607T124652Z">
+        <seg>Karakter retour-sario ('\u000D')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T124259Z" creationid="Hugo" creationdate="20200607T124259Z">
@@ -611,6 +619,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124442Z" creationid="Hugo" creationdate="20200607T124442Z">
+        <seg>Karakter pou nouvo lalign ('\u000A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184221Z" creationid="Hugo" creationdate="20200528T203338Z">
@@ -647,6 +663,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T184550Z" creationid="Hugo" creationdate="20200527T175504Z">
         <seg>Term sours-la pa neseserman enn sel mo, kouma dan sa lexamp-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124312Z" creationid="Hugo" creationdate="20200607T124312Z">
+        <seg>Karakter tab ('\u0009')</seg>
       </tuv>
     </tu>
     <tu>
