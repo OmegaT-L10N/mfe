@@ -1111,16 +1111,16 @@
       <tuv lang="en">
         <seg>X, one or more times</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162715Z" creationid="Hugo" creationdate="20200607T140349Z">
-        <seg>X, enn ou plizier fwa</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163253Z" creationid="Hugo" creationdate="20200607T140349Z">
+        <seg>X, enn fwa ou plis</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>X, zero or more times</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T140321Z" creationid="Hugo" creationdate="20200607T140321Z">
-        <seg>X, zero ouswa plizier fwa</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163246Z" creationid="Hugo" creationdate="20200607T140321Z">
+        <seg>X, zero fwa ou plis</seg>
       </tuv>
     </tu>
     <tu>
@@ -1177,6 +1177,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162838Z" creationid="Hugo" creationdate="20200527T175717Z">
         <seg>Antre plizier mo dan gloser – exanp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163548Z" creationid="Hugo" creationdate="20200607T163548Z">
+        <seg>kantificater pares pou match otan tigit korespondans ki zot kapav.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
