@@ -347,8 +347,8 @@
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130128Z" creationid="Hugo" creationdate="20200607T130128Z">
-        <seg>Nanyen, me Nothing, but quotes the following character.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
+        <seg>Nanyen, me li sit karakter swivan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,6 +832,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T185359Z" creationid="Hugo" creationdate="20200528T170303Z">
         <seg>Format-la li parey kouma separasion par tabilasion: term sours, term sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130544Z" creationid="Hugo" creationdate="20200607T130544Z">
+        <seg>Li neseser si ou bizin servi enn meta karakter swivan !$()*+.&lt;&gt;?[\]^{|} pou ki li match limem.</seg>
       </tuv>
     </tu>
     <tu>
