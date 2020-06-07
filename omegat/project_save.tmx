@@ -295,6 +295,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162938Z" creationid="Hugo" creationdate="20200607T162830Z">
+        <seg>Par exanp, &lt;e0&gt;a+&lt;/e0&gt; pou match aaa dan &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131521Z" creationid="Hugo" creationdate="20200607T130636Z">
@@ -451,8 +459,8 @@
       <tuv lang="en">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T190205Z" creationid="Hugo" creationdate="20200527T190205Z">
-        <seg>Pran kont ki dan sa lexamp-la,   Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162859Z" creationid="Hugo" creationdate="20200527T190205Z">
+        <seg>Pran kont ki dan sa lexanp-la,   Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -547,8 +555,8 @@
       <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135724Z" creationid="Hugo" creationdate="20200607T135724Z">
-        <seg>Regex − Spesifik limit</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163043Z" creationid="Hugo" creationdate="20200607T135724Z">
+        <seg>Regex − Spesifikater limit</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +614,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131616Z" creationid="Hugo" creationdate="20200607T125805Z">
         <seg>Regex − Kotasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T163131Z" creationid="Hugo" creationdate="20200607T163131Z">
+        <seg>Regex − Kantifikater pares (non-gourman)</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,8 +966,8 @@
       <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184550Z" creationid="Hugo" creationdate="20200527T175504Z">
-        <seg>Term sours-la pa neseserman enn sel mo, kouma dan sa lexamp-la:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162835Z" creationid="Hugo" creationdate="20200527T175504Z">
+        <seg>Term sours-la pa neseserman enn sel mo, kouma dan sa lexanp-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1159,8 +1175,8 @@
       <tuv lang="en">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T175717Z" creationid="Hugo" creationdate="20200527T175717Z">
-        <seg>Antre plizier mo dan gloser – examp</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162838Z" creationid="Hugo" creationdate="20200527T175717Z">
+        <seg>Antre plizier mo dan gloser – exanp</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
