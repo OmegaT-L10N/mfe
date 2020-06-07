@@ -475,6 +475,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125035Z" creationid="Hugo" creationdate="20200607T125035Z">
+        <seg>Karakter alert (signal) ('\u0007')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T124652Z" creationid="Hugo" creationdate="20200607T124652Z">
@@ -551,6 +559,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182410Z" creationid="Hugo" creationdate="20200519T155237Z">
         <seg>Sa lexanp-la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124816Z" creationid="Hugo" creationdate="20200607T124816Z">
+        <seg>Karakter lot paz ('\u000C')</seg>
       </tuv>
     </tu>
     <tu>
