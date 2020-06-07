@@ -499,10 +499,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125742Z" creationid="Hugo" creationdate="20200607T125742Z">
+        <seg>Karakter ki ena valer oktal 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125553Z" creationid="Hugo" creationdate="20200607T125553Z">
-        <seg>Karakter ki valer oktal 0n (0 &lt;= n &lt;= 7)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125626Z" creationid="Hugo" creationdate="20200607T125553Z">
+        <seg>Karakter ki ena valer oktal 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125654Z" creationid="Hugo" creationdate="20200607T125623Z">
+        <seg>Karakter ki ena valer oktal 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
