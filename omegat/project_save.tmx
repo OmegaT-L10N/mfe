@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T165804Z" creationid="Hugo" creationdate="20200607T165804Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; mem ena enn bon koleksion lexpresion regilie deza (get Opsion &gt; Segmantasion).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T135551Z" creationid="Hugo" creationdate="20200607T134420Z">
@@ -1105,6 +1113,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T185359Z" creationid="Hugo" creationdate="20200528T170303Z">
         <seg>Format-la li parey kouma separasion par tabilasion: term sours, term sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T165429Z" creationid="Hugo" creationdate="20200607T165429Z">
+        <seg>Li preske parey lexanp laho la.</seg>
       </tuv>
     </tu>
     <tu>
