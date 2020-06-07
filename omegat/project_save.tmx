@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T133349Z" creationid="Hugo" creationdate="20200607T133349Z">
+        <seg>Ninport ki karakter exsepte Any character except one in the Greek block (negation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T075754Z" creationid="Hugo" creationdate="20200606T192000Z">
