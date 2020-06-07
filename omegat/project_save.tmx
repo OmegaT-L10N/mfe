@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135308Z" creationid="Hugo" creationdate="20200607T135308Z">
+        <seg>Ninport ki lezot karakter ki enn karakter lespasman: [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
