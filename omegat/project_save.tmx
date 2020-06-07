@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134420Z" creationid="Hugo" creationdate="20200607T134420Z">
-        <seg>Enn non-nimero: [^0-9]</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135339Z" creationid="Hugo" creationdate="20200607T134420Z">
+        <seg>Ninportki lezot karakter ki enn nimero: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135517Z" creationid="Hugo" creationdate="20200607T135517Z">
+        <seg>Enn karakter ki pa enn karakter mo: [^\w]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
         <seg>Enn karakter lespasman: lespas, tabilasion, retour lalign [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135400Z" creationid="Hugo" creationdate="20200607T135400Z">
+        <seg>Enn karakter enn mo: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
