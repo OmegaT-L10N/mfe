@@ -1126,8 +1126,8 @@
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T192047Z" creationid="Hugo" creationdate="20200706T192047Z">
-        <seg>Sintax pou definision The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T192812Z" creationid="Hugo" creationdate="20200706T192047Z">
+        <seg>Sintax pou ekrir enn definision rakoursi li: &lt;c0&gt;&lt;kod litem meni&gt;=&lt;rakoursi&gt;&lt;/c0&gt;, kot &lt;e1&gt;&lt;kod litem meni&gt;&lt;/e1&gt; li enn kod dan tablo enba ek &lt;e2&gt;&lt;rakoursi&gt;&lt;/e2&gt; li enn konbinezon tous spesifie par litilizater</seg>
       </tuv>
     </tu>
     <tu>
