@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T190908Z" creationid="Hugo" creationdate="20200706T190908Z">
+        <seg>Lalign vide aksepte ek lalign komanter bizin koumans avek "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T103732Z" creationid="Hugo" creationdate="20200607T103732Z">
@@ -1088,6 +1096,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200706T184657Z" creationid="Hugo" creationdate="20200606T191507Z">
         <seg>Rezilta gloser prioriter (glossary/glossary.txt) aparet an premie dan pano Gloser ek dan TransTips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T190342Z" creationid="Hugo" creationdate="20200706T190342Z">
+        <seg>File definition rakoursi bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; ek bizin ena maximum enn definition rakoursi par lalign.</seg>
       </tuv>
     </tu>
     <tu>
