@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T191426Z" creationid="Hugo" creationdate="20200706T191426Z">
+        <seg>Seki apre "//" pas pou pran kont.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T075754Z" creationid="Hugo" creationdate="20200606T192000Z">
