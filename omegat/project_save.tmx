@@ -1012,6 +1012,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T193138Z" creationid="Hugo" creationdate="20200706T193138Z">
+        <seg>Sintax komplett pou bann tous (rakoursi) li presise dan dokimantasion Java 1.6 edite par Orcale (lipie paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T192802Z" creationid="Hugo" creationdate="20200606T192802Z">
