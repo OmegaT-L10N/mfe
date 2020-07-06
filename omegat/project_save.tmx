@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193224Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>...me mem karakter afise dans pano Editer: lextension ek lenkodaz file-la pas koresponn.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184710Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dan pano Editer: lextension ek lenkodaz file-la pas koresponn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,8 +482,8 @@
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184522Z" creationid="Hugo" creationdate="20200706T184312Z">
-        <seg>La plipar bann item ki aparet dan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184922Z" creationid="Hugo" creationdate="20200706T184312Z">
+        <seg>La plipar bann item dan meni prinsipal kapav ena zot rakoursi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,8 +506,8 @@
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192425Z" creationid="Hugo" creationdate="20200606T192425Z">
-        <seg>Pena oken file gloser dans folder "glossary".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184703Z" creationid="Hugo" creationdate="20200606T192425Z">
+        <seg>Pena oken file gloser dan folder "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -603,8 +603,8 @@
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T193207Z" creationid="Hugo" creationdate="20200606T193046Z">
-        <seg>Problem: Dans pano gloser, detrwa karakter pas bien afise</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184706Z" creationid="Hugo" creationdate="20200606T193046Z">
+        <seg>Problem: Dan pano gloser, detrwa karakter pas bien afise</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,8 +974,8 @@
       <tuv lang="en">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170113Z" creationid="Hugo" creationdate="20200607T170113Z">
-        <seg>Bann lexpresion dan lalis swivan kapav itil si ou fer enn resers dans memwar tradiksion:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184724Z" creationid="Hugo" creationdate="20200607T170113Z">
+        <seg>Bann lexpresion dan lalis swivan kapav itil si ou fer enn resers dan memwar tradiksion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,8 +1086,8 @@
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T191507Z" creationid="Hugo" creationdate="20200606T191507Z">
-        <seg>Rezilta gloser prioriter (glossary/glossary.txt) aparet an premie dan pano Gloser ek dans TransTips.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184657Z" creationid="Hugo" creationdate="20200606T191507Z">
+        <seg>Rezilta gloser prioriter (glossary/glossary.txt) aparet an premie dan pano Gloser ek dan TransTips.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1167,8 +1167,8 @@
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T165134Z" creationid="Hugo" creationdate="20200607T165134Z">
-        <seg>Zot tou normalman parey (get enba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dans bwat text resilta.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184717Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get enba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dan bwat text resilta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1281,6 +1281,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163803Z" creationid="Hugo" creationdate="20200607T163803Z">
         <seg>XY kouma enn sel group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T185459Z" creationid="Hugo" creationdate="20200706T185459Z">
+        <seg>Ou kapav sanz bann rakoursi existan ouswa kree bann nouvo rakoursi enn file You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
     </tu>
     <tu>
