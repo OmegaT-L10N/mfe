@@ -480,6 +480,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184312Z" creationid="Hugo" creationdate="20200706T184312Z">
+        <seg>La plipar bann Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184116Z" creationid="Hugo" creationdate="20200527T174837Z">
@@ -758,6 +766,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T080854Z" creationid="Hugo" creationdate="20200607T080854Z">
         <seg>Get plis referans ek lexanp enba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T183947Z" creationid="Hugo" creationdate="20200706T183947Z">
+        <seg>Personalizasion bann rakoursi</seg>
       </tuv>
     </tu>
     <tu>
