@@ -593,6 +593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200706T192019Z" creationid="Hugo" creationdate="20200706T192019Z">
+        <seg>Enn fwa ki file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo rakoursi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T080214Z" creationid="Hugo" creationdate="20200606T193001Z">
