@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131159Z" creationid="Hugo" creationdate="20200729T131159Z">
+        <seg>Meni GoTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183355Z" creationid="Hugo" creationdate="20200527T181609Z">
@@ -788,6 +796,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184137Z" creationid="Hugo" creationdate="20200527T175339Z">
         <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman file text-la pa enrezistre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131434Z" creationid="Hugo" creationdate="20200729T131434Z">
+        <seg>Segman pa enkor tradi swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1094,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163917Z" creationid="Hugo" creationdate="20200607T163917Z">
         <seg>Zouti regex ek exanp litilizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131147Z" creationid="Hugo" creationdate="20200729T131147Z">
+        <seg>Inskrir en tan ki tradiksion idantik</seg>
       </tuv>
     </tu>
     <tu>
