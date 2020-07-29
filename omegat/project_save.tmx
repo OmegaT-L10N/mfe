@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141135Z" creationid="Hugo" creationdate="20200729T141135Z">
+        <seg>Lekritir otomatik/Montre otomatikman bann sigzestion pertinan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
@@ -647,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135533Z" creationid="Hugo" creationdate="20200729T135405Z">
+        <seg>Gloser/Itiliz lematizasion pou bann lantre gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131159Z" creationid="Hugo" creationdate="20200729T131159Z">
@@ -882,8 +898,8 @@
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155258Z" creationid="Hugo" creationdate="20200519T155258Z">
-        <seg>Itilisation diksioner Merriam Webster</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135415Z" creationid="Hugo" creationdate="20200519T155258Z">
+        <seg>Itilization diksioner Merriam Webster</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,6 +2065,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132526Z" creationid="Hugo" creationdate="20200729T132526Z">
         <seg>Meni Zouti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135544Z" creationid="Hugo" creationdate="20200729T135544Z">
+        <seg>TransTips/Aktiv Transtips</seg>
       </tuv>
     </tu>
     <tu>
