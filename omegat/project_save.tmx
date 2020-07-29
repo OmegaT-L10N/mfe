@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135041Z" creationid="Hugo" creationdate="20200729T135041Z">
+        <seg>Touzour konfirme letan ferme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133007Z" creationid="Hugo" creationdate="20200607T133007Z">
@@ -1077,6 +1085,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115010Z" creationid="Hugo" creationdate="20200729T115010Z">
         <seg>Over enn proze resan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T134827Z" creationid="Hugo" creationdate="20200729T134827Z">
+        <seg>Meni Opsion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,6 +2065,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T155139Z" creationid="Hugo" creationdate="20200525T155139Z">
         <seg>Itilizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T134851Z" creationid="Hugo" creationdate="20200729T134851Z">
+        <seg>Itiliz TAB pou avanse</seg>
       </tuv>
     </tu>
     <tu>
