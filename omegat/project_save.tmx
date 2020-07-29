@@ -342,6 +342,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141207Z" creationid="Hugo" creationdate="20200729T141207Z">
+        <seg>Lekritir otomatik/Text otomatik...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141225Z" creationid="Hugo" creationdate="20200729T141225Z">
+        <seg>Lekritir otomatik/Tablo karakter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141151Z" creationid="Hugo" creationdate="20200729T141151Z">
+        <seg>Lekritir otomatik/Gloser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141135Z" creationid="Hugo" creationdate="20200729T141135Z">
@@ -435,6 +459,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115309Z" creationid="Hugo" creationdate="20200729T115309Z">
         <seg>Kree bann dokiman tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141414Z" creationid="Hugo" creationdate="20200729T141414Z">
+        <seg>Kistomizasion kouler...</seg>
       </tuv>
     </tu>
     <tu>
