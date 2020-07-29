@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141733Z" creationid="Hugo" creationdate="20200729T141733Z">
+        <seg>TMX extern...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141447Z" creationid="Hugo" creationdate="20200729T141447Z">
@@ -1249,6 +1257,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141935Z" creationid="Hugo" creationdate="20200729T141935Z">
+        <seg>Koneksion par proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115730Z" creationid="Hugo" creationdate="20200729T115730Z">
@@ -1418,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142017Z" creationid="Hugo" creationdate="20200729T142017Z">
+        <seg>Reinitializ lafenet prinsipal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
@@ -1430,6 +1454,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131044Z" creationid="Hugo" creationdate="20200729T113122Z">
         <seg>Save file-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141901Z" creationid="Hugo" creationdate="20200729T141901Z">
+        <seg>Anrezistreman ek output...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,6 +1688,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T201428Z" creationid="Hugo" creationdate="20200528T193248Z">
         <seg>TBX – Term Base eXchange – li enn standard lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141719Z" creationid="Hugo" creationdate="20200729T141719Z">
+        <seg>Tretman bann tag...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2217,6 +2257,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131748Z" creationid="Hugo" creationdate="20200729T131748Z">
         <seg>Meni Afisaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141737Z" creationid="Hugo" creationdate="20200729T141737Z">
+        <seg>Afisaz...</seg>
       </tuv>
     </tu>
     <tu>
