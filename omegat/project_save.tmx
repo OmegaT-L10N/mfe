@@ -832,6 +832,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132626Z" creationid="Hugo" creationdate="20200729T132626Z">
+        <seg>Statistik pour bann match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T134816Z" creationid="Hugo" creationdate="20200729T134816Z">
+        <seg>Statistik match pou sak file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115041Z" creationid="Hugo" creationdate="20200729T114834Z">
