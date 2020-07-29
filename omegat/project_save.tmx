@@ -198,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142228Z" creationid="Hugo" creationdate="20200729T142228Z">
+        <seg>A propo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142037Z" creationid="Hugo" creationdate="20200729T142037Z">
+        <seg>Akse folder konfigirasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115637Z" creationid="Hugo" creationdate="20200729T115637Z">
@@ -727,6 +743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142043Z" creationid="Hugo" creationdate="20200729T142043Z">
+        <seg>Mani Ed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183355Z" creationid="Hugo" creationdate="20200527T181609Z">
@@ -852,6 +876,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T122703Z" creationid="Hugo" creationdate="20200729T122640Z">
         <seg>Insert sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
+        <seg>Dernie modifikasion...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,6 +2265,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184256Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer file-la so konteni dan folder "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142105Z" creationid="Hugo" creationdate="20200729T142105Z">
+        <seg>Gid itilizater...</seg>
       </tuv>
     </tu>
     <tu>
