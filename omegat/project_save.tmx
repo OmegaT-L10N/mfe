@@ -333,6 +333,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
+        <seg>Segman presedan dan istorik...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Chek in" ?!!!</note>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
@@ -435,6 +443,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T191017Z" creationid="Hugo" creationdate="20200519T132551Z">
         <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ouswa Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131939Z" creationid="Hugo" creationdate="20200729T131918Z">
+        <seg>Afis bann segman sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,8 +593,8 @@
       <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131700Z" creationid="Hugo" creationdate="20200729T131700Z">
-        <seg>Segman swivan dan listorik...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131733Z" creationid="Hugo" creationdate="20200729T131700Z">
+        <seg>Segman swivan dan istorik...</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +768,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131936Z" creationid="Hugo" creationdate="20200729T131936Z">
+        <seg>Afis bann segman non inik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132000Z" creationid="Hugo" creationdate="20200729T132000Z">
+        <seg>Mark segman avek not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131811Z" creationid="Hugo" creationdate="20200729T131811Z">
+        <seg>Mark bann segman tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131833Z" creationid="Hugo" creationdate="20200729T131833Z">
+        <seg>Mark bann segman pa tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115041Z" creationid="Hugo" creationdate="20200729T114834Z">
@@ -842,8 +890,8 @@
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131434Z" creationid="Hugo" creationdate="20200729T131434Z">
-        <seg>Segman pa enkor tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131842Z" creationid="Hugo" creationdate="20200729T131434Z">
+        <seg>Segman pa tradi swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1929,6 +1977,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184256Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer file-la so konteni dan folder "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131748Z" creationid="Hugo" creationdate="20200729T131748Z">
+        <seg>Meni Afisaz</seg>
       </tuv>
     </tu>
     <tu>
