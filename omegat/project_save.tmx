@@ -543,6 +543,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141708Z" creationid="Hugo" creationdate="20200729T141708Z">
+        <seg>Opsion ledision...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163750Z" creationid="Hugo" creationdate="20200607T163750Z">
@@ -587,6 +595,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T122832Z" creationid="Hugo" creationdate="20200729T122832Z">
         <seg>Export seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141447Z" creationid="Hugo" creationdate="20200729T141447Z">
+        <seg>Filter file...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1482,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141453Z" creationid="Hugo" creationdate="20200729T141453Z">
+        <seg>Segmantasion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Match #1</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130514Z" creationid="Hugo" creationdate="20200729T130514Z">
@@ -1558,6 +1582,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131630Z" creationid="Hugo" creationdate="20200729T131630Z">
         <seg>Sours match seleksione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141504Z" creationid="Hugo" creationdate="20200729T141504Z">
+        <seg>Lortograf...</seg>
       </tuv>
     </tu>
     <tu>
