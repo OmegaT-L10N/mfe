@@ -768,6 +768,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132358Z" creationid="Hugo" creationdate="20200729T132358Z">
+        <seg>Mark bann segman tradi otomatikman depi folder oto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132314Z" creationid="Hugo" creationdate="20200729T132143Z">
@@ -844,6 +852,30 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155258Z" creationid="Hugo" creationdate="20200519T155258Z">
         <seg>Itilisation diksioner Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132517Z" creationid="Hugo" creationdate="20200729T132517Z">
+        <seg>Linformasion modifikasion/Afis tou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132450Z" creationid="Hugo" creationdate="20200729T132450Z">
+        <seg>Linformasion modifikasion/Pa afise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132508Z" creationid="Hugo" creationdate="20200729T132508Z">
+        <seg>Linformasion modifikasion/Afise segman aktiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,6 +1473,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132608Z" creationid="Hugo" creationdate="20200729T132608Z">
+        <seg>Statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Vérifier apostrof pour guillemets ou inverted commas...</note>
       <tuv lang="en">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
@@ -1965,6 +2005,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132526Z" creationid="Hugo" creationdate="20200729T132526Z">
+        <seg>Meni Zouti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115850Z" creationid="Hugo" creationdate="20200729T115850Z">
@@ -2001,6 +2049,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184256Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer file-la so konteni dan folder "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132538Z" creationid="Hugo" creationdate="20200729T132538Z">
+        <seg>Valid bann tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132556Z" creationid="Hugo" creationdate="20200729T132556Z">
+        <seg>Valid bann tags pou dokiman aktiel</seg>
       </tuv>
     </tu>
     <tu>
