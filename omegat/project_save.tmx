@@ -639,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135248Z" creationid="Hugo" creationdate="20200729T135112Z">
+        <seg>Gloser/Afis deskripsion kontex pou bann gloser TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GoTo Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131159Z" creationid="Hugo" creationdate="20200729T131159Z">
@@ -2073,6 +2081,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T134851Z" creationid="Hugo" creationdate="20200729T134851Z">
         <seg>Itiliz TAB pou avanse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135349Z" creationid="Hugo" creationdate="20200729T135349Z">
+        <seg>Itiliz bann term ki aparet separeman dan text sours</seg>
       </tuv>
     </tu>
     <tu>
