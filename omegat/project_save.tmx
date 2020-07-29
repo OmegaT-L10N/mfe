@@ -198,6 +198,70 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115637Z" creationid="Hugo" creationdate="20200729T115637Z">
+        <seg>Akse konteni proze/Dokiman sours aktiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115645Z" creationid="Hugo" creationdate="20200729T115645Z">
+        <seg>Akse konteni proze/Dokiman sib aktiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115540Z" creationid="Hugo" creationdate="20200729T115540Z">
+        <seg>Akse konteni proze/Diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115545Z" creationid="Hugo" creationdate="20200729T115545Z">
+        <seg>Akse konteni proze/Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115524Z" creationid="Hugo" creationdate="20200729T115446Z">
+        <seg>Akse konteni proze/Rasinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115607Z" creationid="Hugo" creationdate="20200729T115553Z">
+        <seg>Akse konteni proze/File sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115616Z" creationid="Hugo" creationdate="20200729T115554Z">
+        <seg>Akse konteni proze/File sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115714Z" creationid="Hugo" creationdate="20200729T115714Z">
+        <seg>Akse konteni proze/Gloser ekrivab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193056Z" creationid="Hugo" creationdate="20200528T170053Z">
@@ -287,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115216Z" creationid="Hugo" creationdate="20200729T115216Z">
+        <seg>Ferme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T184444Z" creationid="Hugo" creationdate="20200528T184444Z">
@@ -299,6 +371,54 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T075920Z" creationid="Hugo" creationdate="20200606T192053Z">
         <seg>Problem gloser ki kouran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115123Z" creationid="Hugo" creationdate="20200729T115123Z">
+        <seg>Kopie bann file dan folder sours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130736Z" creationid="Hugo" creationdate="20200729T130736Z">
+        <seg>Kree enn tradiksion alternativ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115350Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Create dokiman tradi aktiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122848Z" creationid="Hugo" creationdate="20200729T122848Z">
+        <seg>Kree enn lantre gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115309Z" creationid="Hugo" creationdate="20200729T115309Z">
+        <seg>Kree bann dokiman tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114844Z" creationid="Hugo" creationdate="20200729T114844Z">
+        <seg>Shortcut par defo</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,10 +447,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115153Z" creationid="Hugo" creationdate="20200729T115153Z">
+        <seg>Download paz MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115031Z" creationid="Hugo" creationdate="20200729T114916Z">
+        <seg>Download enn proze team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184640Z" creationid="Hugo" creationdate="20200519T152003Z">
         <seg>Download file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115742Z" creationid="Hugo" creationdate="20200729T115742Z">
+        <seg>Meni Edit</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +489,8 @@
       <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T190908Z" creationid="Hugo" creationdate="20200706T190908Z">
-        <seg>Lalign vide aksepte ek lalign komanter bizin koumans avek "//".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130832Z" creationid="Hugo" creationdate="20200706T190908Z">
+        <seg>Lalign vid aksepte ek lalign komanter bizin koumans avek "//".</seg>
       </tuv>
     </tu>
     <tu>
@@ -371,6 +515,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T171539Z" creationid="Hugo" creationdate="20200607T171539Z">
         <seg>Angle: bann mo ki koumans par vwayel mars normalman ek "an", pa "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122832Z" creationid="Hugo" creationdate="20200729T122832Z">
+        <seg>Export seleksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +662,22 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114813Z" creationid="Hugo" creationdate="20200729T114813Z">
+        <seg>Si zot pa inkonpatib avek bann shortcut sistem, zot pou itilizab depi OmegaT mem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T113014Z" creationid="Hugo" creationdate="20200729T113014Z">
+        <seg>Si ou lor Mac ek ou oule azout enn shortcut &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, azout lalign swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ibid.	</note>
       <tuv lang="en">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
@@ -522,8 +690,8 @@
       <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T113129Z" creationid="Hugo" creationdate="20200728T113129Z">
-        <seg>sIf you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T112231Z" creationid="Hugo" creationdate="20200728T113129Z">
+        <seg>Si ou le itiliz &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; pou ouver enn proze, sanz ou &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; kouma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -532,6 +700,54 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193059Z" creationid="Hugo" creationdate="20200528T190742Z">
         <seg>An plis format text brit, format TBX osi aksepte antan ki format gloser read-only.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T120048Z" creationid="Hugo" creationdate="20200729T120048Z">
+        <seg>Insert match ouswa seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122732Z" creationid="Hugo" creationdate="20200729T122732Z">
+        <seg>Insert tag sours mankan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T124838Z" creationid="Hugo" creationdate="20200729T122742Z">
+        <seg>Insert tag mankan swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122703Z" creationid="Hugo" creationdate="20200729T122640Z">
+        <seg>Insert sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115041Z" creationid="Hugo" creationdate="20200729T114834Z">
+        <seg>Litem meni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114851Z" creationid="Hugo" creationdate="20200729T114851Z">
+        <seg>Code litem meni</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +764,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T184312Z">
         <seg>Laplipar bann item dan meni prinsipal kapav ena zot shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114855Z" creationid="Hugo" creationdate="20200729T114855Z">
+        <seg>NouvoNew</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,6 +889,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114925Z" creationid="Hugo" creationdate="20200729T114925Z">
+        <seg>Ouver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115010Z" creationid="Hugo" creationdate="20200729T115010Z">
+        <seg>Over enn proze resan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
@@ -701,6 +941,46 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
         <seg>Problem avek diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115409Z" creationid="Hugo" creationdate="20200729T115409Z">
+        <seg>Files proze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114821Z" creationid="Hugo" creationdate="20200729T114821Z">
+        <seg>Meni Proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115400Z" creationid="Hugo" creationdate="20200729T115400Z">
+        <seg>Propriete...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115730Z" creationid="Hugo" creationdate="20200729T115730Z">
+        <seg>Ferme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115901Z" creationid="Hugo" creationdate="20200729T115901Z">
+        <seg>Refer dernie laksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,10 +1098,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130753Z" creationid="Hugo" creationdate="20200729T130753Z">
+        <seg>Delete tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T120005Z" creationid="Hugo" creationdate="20200729T120005Z">
+        <seg>Ranplas par match ouswa seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122549Z" creationid="Hugo" creationdate="20200729T122549Z">
+        <seg>Ranplas par sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T121947Z" creationid="Hugo" creationdate="20200729T121947Z">
+        <seg>Ranplas par tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
         <seg>Right-click dan pano gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo lantre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131044Z" creationid="Hugo" creationdate="20200729T113122Z">
+        <seg>Save file-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122918Z" creationid="Hugo" creationdate="20200729T122909Z">
+        <seg>Fer enn resers dan proze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T124244Z" creationid="Hugo" creationdate="20200729T124244Z">
+        <seg>Resers ek ranplase...</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,8 +1180,72 @@
       <tuv lang="en">
         <seg>See additional references and examples below.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080854Z" creationid="Hugo" creationdate="20200607T080854Z">
-        <seg>Get plis referans ek lexanp enba.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200607T080854Z">
+        <seg>Get plis referans ek lexanp anba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130514Z" creationid="Hugo" creationdate="20200729T130514Z">
+        <seg>Select match #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130519Z" creationid="Hugo" creationdate="20200729T130519Z">
+        <seg>Select match #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130522Z" creationid="Hugo" creationdate="20200729T130522Z">
+        <seg>Select match #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130525Z" creationid="Hugo" creationdate="20200729T130525Z">
+        <seg>Select match #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130528Z" creationid="Hugo" creationdate="20200729T130528Z">
+        <seg>Select match #5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130504Z" creationid="Hugo" creationdate="20200729T130504Z">
+        <seg>Select match swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130425Z" creationid="Hugo" creationdate="20200729T130409Z">
+        <seg>Select match presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131019Z" creationid="Hugo" creationdate="20200729T130822Z">
+        <seg>Definir en tan ki tradiksion vid</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,6 +1279,46 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T190305Z" creationid="Hugo" creationdate="20200528T190305Z">
         <seg>Bann lasen karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasen karakter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130314Z" creationid="Hugo" creationdate="20200729T125932Z">
+        <seg>Pas par tou bann posibilite (maziskil, miniskil, 1e let, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T125637Z" creationid="Hugo" creationdate="20200729T124657Z">
+        <seg>Met seleksion an miniskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T125834Z" creationid="Hugo" creationdate="20200729T125733Z">
+        <seg>Met selman 1e let fraz en maziskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130025Z" creationid="Hugo" creationdate="20200729T125625Z">
+        <seg>Met 1e let tou bann mo dan seleksion en maziskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T125642Z" creationid="Hugo" creationdate="20200729T125459Z">
+        <seg>Met seleksion an maziskil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,8 +1454,8 @@
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121936Z" creationid="Hugo" creationdate="20200723T185600Z">
-        <seg>Shortcut OmegaT par defo lor Mac ousi lor Sourceforge, zot tou itiliz "meta" en plas "ctrl": &lt;u0&gt;Shortcut OmegaT par defo pou Mac&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T111950Z" creationid="Hugo" creationdate="20200723T185600Z">
+        <seg>Shortcut OmegaT par defo lor Mac ousi disponib lor Sourceforge, zot tou itiliz "meta" en plas "ctrl": &lt;u0&gt;Shortcut OmegaT par defo pou Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,6 +1500,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T112041Z" creationid="Hugo" creationdate="20200729T112041Z">
+        <seg>Premie-la shortcut pou &lt;g0&gt;Open Project&lt;/g0&gt;, deziem-la pou &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182410Z" creationid="Hugo" creationdate="20200519T155237Z">
@@ -1086,8 +1534,8 @@
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T193138Z">
-        <seg>Sintax komplett pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (enba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200706T193138Z">
+        <seg>Sintax komplett pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,8 +1662,8 @@
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T192047Z">
-        <seg>Sintax pou ekrir enn definision shortcut li: &lt;c0&gt;&lt;kod litem meni&gt;=&lt;shortcut&gt;&lt;/c0&gt;, kot &lt;e1&gt;&lt;kod litem meni&gt;&lt;/e1&gt; li enn kod dan bann tablo enba-la ek &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; li enn konbinezon tous spesifie par litilizater</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122532Z" creationid="Hugo" creationdate="20200706T192047Z">
+        <seg>Sintax pou ekrir enn definision shortcut li: &lt;c0&gt;&lt;kod litem meni&gt;=&lt;shortcut&gt;&lt;/c0&gt;, kot &lt;e1&gt;&lt;kod litem meni&gt;&lt;/e1&gt; li enn kod ki trouv dan bann tablo anba-la ek &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; li enn konbinezon ki ou finn spesifie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,8 +1743,8 @@
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184717Z" creationid="Hugo" creationdate="20200607T165134Z">
-        <seg>Zot tou normalman parey (get enba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dan bwat text resilta.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get anba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dan bwat text resilta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1349,6 +1797,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115850Z" creationid="Hugo" creationdate="20200729T115850Z">
+        <seg>Anil dernie laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184248Z" creationid="Hugo" creationdate="20200606T182107Z">
@@ -1361,6 +1817,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T155139Z" creationid="Hugo" creationdate="20200525T155139Z">
         <seg>Itilizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130601Z" creationid="Hugo" creationdate="20200729T130601Z">
+        <seg>Itilize kouma tradiksion par defo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,6 +1897,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183947Z" creationid="Hugo" creationdate="20200525T150525Z">
         <seg>Ou kapav definir file-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114702Z" creationid="Hugo" creationdate="20200729T114323Z">
+        <seg>Ou nouvo shortcut pou aparet akote bann litem meni ki ou finn modifie.</seg>
       </tuv>
     </tu>
     <tu>
