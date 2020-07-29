@@ -575,6 +575,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131700Z" creationid="Hugo" creationdate="20200729T131700Z">
+        <seg>Segman swivan dan listorik...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
@@ -800,6 +808,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131533Z" creationid="Hugo" creationdate="20200729T131533Z">
+        <seg>Note swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131452Z" creationid="Hugo" creationdate="20200729T131452Z">
+        <seg>Segman swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131444Z" creationid="Hugo" creationdate="20200729T131444Z">
+        <seg>Segman tradi swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131555Z" creationid="Hugo" creationdate="20200729T131555Z">
+        <seg>Segman inik swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131434Z" creationid="Hugo" creationdate="20200729T131434Z">
@@ -925,6 +965,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
         <seg>Pwin, swivi par enn maziskil − li posib ki enn lespas manke ant enn pwin ek enn nouvo fraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131540Z" creationid="Hugo" creationdate="20200729T131540Z">
+        <seg>Note presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131514Z" creationid="Hugo" creationdate="20200729T131514Z">
+        <seg>Segman presedan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1266,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131525Z" creationid="Hugo" creationdate="20200729T131525Z">
+        <seg>Segman nimero...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Match #1</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130514Z" creationid="Hugo" creationdate="20200729T130514Z">
@@ -1294,6 +1358,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
         <seg>Sertin diksioner aksesib san kondision (setadir zot ‘lib’) alors ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131630Z" creationid="Hugo" creationdate="20200729T131630Z">
+        <seg>Sours match seleksione</seg>
       </tuv>
     </tu>
     <tu>
