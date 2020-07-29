@@ -768,6 +768,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132314Z" creationid="Hugo" creationdate="20200729T132143Z">
+        <seg>Mark bann karakter kontrol bidireksionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131936Z" creationid="Hugo" creationdate="20200729T131936Z">
@@ -776,10 +784,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132103Z" creationid="Hugo" creationdate="20200729T132103Z">
+        <seg>Mark bann lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132000Z" creationid="Hugo" creationdate="20200729T132000Z">
-        <seg>Mark segman avek not</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132013Z" creationid="Hugo" creationdate="20200729T132000Z">
+        <seg>Mark bann segman avek not</seg>
       </tuv>
     </tu>
     <tu>
@@ -796,6 +812,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131833Z" creationid="Hugo" creationdate="20200729T131833Z">
         <seg>Mark bann segman pa tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132117Z" creationid="Hugo" creationdate="20200729T132117Z">
+        <seg>Mark karakter lespasman</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,8 +882,8 @@
       <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131533Z" creationid="Hugo" creationdate="20200729T131533Z">
-        <seg>Note swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132002Z" creationid="Hugo" creationdate="20200729T131533Z">
+        <seg>Not swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1019,8 +1043,8 @@
       <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131540Z" creationid="Hugo" creationdate="20200729T131540Z">
-        <seg>Note presedan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132005Z" creationid="Hugo" creationdate="20200729T131540Z">
+        <seg>Not presedan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,8 +1606,8 @@
       <tuv lang="en">
         <seg>The control character corresponding to x</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T125204Z" creationid="Hugo" creationdate="20200607T125204Z">
-        <seg>Karakter control ki koresponn avek x</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132212Z" creationid="Hugo" creationdate="20200607T125204Z">
+        <seg>Karakter kontrol ki koresponn avek x</seg>
       </tuv>
     </tu>
     <tu>
