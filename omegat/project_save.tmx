@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T092427Z" creationid="Hugo" creationdate="20200731T092427Z">
+        <seg>Dan ou file manager, kree enn nouvo folder pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T120048Z" creationid="Hugo" creationdate="20200729T120048Z">
