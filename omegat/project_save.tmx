@@ -1179,8 +1179,8 @@
       <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201633Z" creationid="Hugo" creationdate="20200528T165728Z">
-        <seg>Parski lankodaz-la bizin konpatib ant toule de lang inplike, Unicode rekomande.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T092012Z" creationid="Hugo" creationdate="20200528T165728Z">
+        <seg>Parski lankodaz-la bizin konpatib ant toule de langaz inplike, Unicode rekomande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1548,8 +1548,8 @@
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201624Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091911Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2217,6 +2217,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130544Z" creationid="Hugo" creationdate="20200607T130544Z">
         <seg>Li neseser si ou bizin servi enn meta karakter swivan !$()*+.&lt;&gt;?[\]^{|} pou ki li match limem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T092108Z" creationid="Hugo" creationdate="20200731T092108Z">
+        <seg>Pou instal bann diksioner:</seg>
       </tuv>
     </tu>
     <tu>
