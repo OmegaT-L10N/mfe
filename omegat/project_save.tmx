@@ -847,6 +847,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ajout de "Preferans" qui n'existait pas.</note>
+      <tuv lang="en">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T095127Z" creationid="Hugo" creationdate="20200731T095127Z">
+        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek click lor &lt;g1&gt;Choose &lt;/g1&gt; akote beside the Dictionary file folder field.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
