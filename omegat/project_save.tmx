@@ -880,6 +880,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091431Z" creationid="Hugo" creationdate="20200731T091431Z">
+        <seg>Donk li kapav itiliz tou bann diksioner lib ki sa bann aplikasion-la itilize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
@@ -1157,6 +1165,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T201633Z" creationid="Hugo" creationdate="20200528T165728Z">
         <seg>Parski lankodaz-la bizin konpatib ant toule de lang inplike, Unicode rekomande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T072831Z" creationid="Hugo" creationdate="20200731T072831Z">
+        <seg>OmegaT ena enn verifikater lortograf integre ki base lor verifikater lortograf itilize par Apache OpenOffice, LibreOffice, Firefox ek Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
