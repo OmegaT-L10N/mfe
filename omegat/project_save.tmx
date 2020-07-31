@@ -397,6 +397,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091758Z" creationid="Hugo" creationdate="20200731T091758Z">
+        <seg>Avan ou kapav itiliz fonksion verifikater lortograf, ou bizin instal enn ouswa plizier diksioner en fonksion ou langaz sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Chek in" ?!!!</note>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
@@ -882,8 +890,8 @@
       <tuv lang="en">
         <seg>Installing spelling dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091502Z" creationid="Hugo" creationdate="20200731T091502Z">
-        <seg>Instalasion bann verifikater lortograf</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091514Z" creationid="Hugo" creationdate="20200731T091502Z">
+        <seg>Instalasion bann diksioner</seg>
       </tuv>
     </tu>
     <tu>
