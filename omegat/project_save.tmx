@@ -513,8 +513,8 @@
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T191017Z" creationid="Hugo" creationdate="20200519T132551Z">
-        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ouswa Lingvo DSL.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200904T120005Z" creationid="Hugo" creationdate="20200519T132551Z">
+        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ou Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,8 +1565,8 @@
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091911Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200904T151524Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lyin diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2248,8 +2248,8 @@
       <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183512Z" creationid="Hugo" creationdate="20200519T132619Z">
-        <seg>Pou instal bann file StarDict neseser, bizin:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200904T120021Z" creationid="Hugo" creationdate="20200519T132619Z">
+        <seg>Pou instal bann file StarDict neseser, ou bizin:</seg>
       </tuv>
     </tu>
     <tu>
