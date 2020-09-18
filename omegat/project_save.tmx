@@ -455,6 +455,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T132331Z" creationid="Hugo" creationdate="20200918T132108Z">
+        <seg>Enn kopi maniel bann files fer sans si ou deza ena file diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130736Z" creationid="Hugo" creationdate="20200729T130736Z">
