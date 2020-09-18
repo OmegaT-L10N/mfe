@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091758Z" creationid="Hugo" creationdate="20200731T091758Z">
-        <seg>Avan ou kapav itiliz fonksion verifikater lortograf, ou bizin instal enn ouswa plizier diksioner en fonksion ou langaz sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103112Z" creationid="Hugo" creationdate="20200731T091758Z">
+        <seg>Avan ou kapav itiliz fonksion verifikater lortograf, ou bizin instal enn ou plizier diksioner an fonksion ou langaz sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -847,12 +847,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>Ajout de "Preferans" et  qui n'existait pas.</note>
+      <note>Ajout de "Browse" et  qui n'existait pas. Peut-être à définir pour "dossier des fichiers dictionnaire."</note>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T095319Z" creationid="Hugo" creationdate="20200731T095127Z">
-        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek click lor &lt;g1&gt;Browse &lt;/g1&gt; a kote bwat folder file diksioner.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103932Z" creationid="Hugo" creationdate="20200731T095127Z">
+        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek click lor &lt;g1&gt;Browse &lt;/g1&gt; akote bwat folder file diksioner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,8 +867,8 @@
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T092427Z" creationid="Hugo" creationdate="20200731T092427Z">
-        <seg>Dan ou file manager, kree enn nouvo folder pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103330Z" creationid="Hugo" creationdate="20200731T092427Z">
+        <seg>Dan ou file manager, kre enn nouvo folder pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1061,6 +1061,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T184312Z">
         <seg>Laplipar bann item dan meni prinsipal kapav ena zot shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T110718Z" creationid="Hugo" creationdate="20200918T110718Z">
+        <seg>Al lor folder ou finn kree pou bann diksioner ek seleksionn li.</seg>
       </tuv>
     </tu>
     <tu>
