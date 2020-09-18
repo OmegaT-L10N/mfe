@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T120819Z" creationid="Hugo" creationdate="20200918T120819Z">
+        <seg>Ena prinsipalman de fason ou kapav fer sa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T192845Z" creationid="Hugo" creationdate="20200606T192845Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T185459Z">
         <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou mett enn file definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T121745Z" creationid="Hugo" creationdate="20200918T121745Z">
+        <seg>Ouswa ou kopie bann file manielman (depi nimport ki landrwa dan ou sistem) o traver ou file manager; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
       </tuv>
     </tu>
     <tu>
