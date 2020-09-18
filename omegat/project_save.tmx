@@ -1274,6 +1274,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T120734Z" creationid="Hugo" creationdate="20200918T120734Z">
+        <seg>Met file diksioner ki ou le itilize dan sa folder-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132005Z" creationid="Hugo" creationdate="20200729T131540Z">
