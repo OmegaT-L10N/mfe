@@ -929,6 +929,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T171543Z" creationid="Hugo" creationdate="20200918T171543Z">
+        <seg>Li pli sinp toutfwa resers bann diksioner It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
