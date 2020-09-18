@@ -1162,6 +1162,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200918T131359Z" creationid="Hugo" creationdate="20200918T121820Z">
+        <seg>Pran kont ki fonksion "Instal" nesesit enn koneksion Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T202936Z" creationid="Hugo" creationdate="20200528T202300Z">
