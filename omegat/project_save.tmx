@@ -405,6 +405,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T125033Z" creationid="Hugo" creationdate="20200921T125033Z">
+        <seg>Chek toutfwa ki bann kod zot exacteman parey. however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Chek in" ?!!!</note>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
