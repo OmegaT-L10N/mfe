@@ -2294,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121048Z" creationid="Hugo" creationdate="20200921T121048Z">
+        <seg>Li pa neseser dir OmegaT ki diksioner bizin itilize; li pou itiliz otomatikman diksioner aproprie an fonksion  an partikilie  Ou bizin  There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T183649Z" creationid="Hugo" creationdate="20200519T153451Z">
@@ -2442,6 +2450,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142105Z" creationid="Hugo" creationdate="20200729T142105Z">
         <seg>Gid itilizater...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120751Z" creationid="Hugo" creationdate="20200921T120751Z">
+        <seg>Kouma itiliz bann diksioner</seg>
       </tuv>
     </tu>
     <tu>
