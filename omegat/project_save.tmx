@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184710Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>...me mem karakter afise dan pano Editer: lextension ek lenkodaz file-la pas koresponn.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dan pano Editer: lextension ek lenkodaz fisie-la pas koresponn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184055Z" creationid="Hugo" creationdate="20200525T160348Z">
-        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detek otomatikman bann file gloser dan sa folder-la letan enn proze ouver.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200525T160348Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detek otomatikman bann fisie gloser dan sa dosie-la letan enn proze ouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T185414Z" creationid="Hugo" creationdate="20200606T185304Z">
-        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp file avek lantre delimite par tabilasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T185304Z">
+        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp fisie avek lantre delimite par tabilasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>Access Configuration Folder</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142037Z" creationid="Hugo" creationdate="20200729T142037Z">
-        <seg>Akse folder konfigirasion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200729T142037Z">
+        <seg>Akse dosie konfigirasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,16 +256,16 @@
       <tuv lang="en">
         <seg>Access Project Contents/Source Files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115607Z" creationid="Hugo" creationdate="20200729T115553Z">
-        <seg>Akse konteni proze/File sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T115553Z">
+        <seg>Akse konteni proze/fisie sours</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115616Z" creationid="Hugo" creationdate="20200729T115554Z">
-        <seg>Akse konteni proze/File sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T115554Z">
+        <seg>Akse konteni proze/fisie sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184044Z" creationid="Hugo" creationdate="20200525T155107Z">
-        <seg>Etan done ki konteni existan pa pou modifie, pa pou ena erer dan file existan.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T155107Z">
+        <seg>Etan done ki konteni existan pa pou modifie, pa pou ena erer dan fisie existan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,8 +417,8 @@
       <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184310Z" creationid="Hugo" creationdate="20200519T155627Z">
-        <seg>Chek si ou file dict dan bon folder (ouswa dan enn subfolder sa folder la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek si ou fisie dict dan bon dosie (ouswa dan enn sou dosie sa dosie la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,16 +457,16 @@
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115123Z" creationid="Hugo" creationdate="20200729T115123Z">
-        <seg>Kopie bann file dan folder sours...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200729T115123Z">
+        <seg>Kopie bann fisie dan dosie sours...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T132331Z" creationid="Hugo" creationdate="20200918T132108Z">
-        <seg>Enn kopi maniel bann files fer sans si ou deza ena file diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200918T132108Z">
+        <seg>Enn kopi maniel bann fisies fer sans si ou deza ena fisie diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,8 +553,8 @@
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184649Z" creationid="Hugo" creationdate="20200519T160042Z">
-        <seg>Eski folder la ena trwa file mem nom, avek lextansion?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosie la ena trwa fisie mem nom, avek lextansion?</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,8 +577,8 @@
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184640Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>Download file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>Download fisie la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,16 +657,16 @@
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141447Z" creationid="Hugo" creationdate="20200729T141447Z">
-        <seg>Filter file...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T141447Z">
+        <seg>Filter fisie...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184144Z" creationid="Hugo" creationdate="20200527T190233Z">
-        <seg>Format file</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T190233Z">
+        <seg>Format fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -697,8 +697,8 @@
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T114738Z" creationid="Hugo" creationdate="20200921T114738Z">
-        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, files diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, fisies diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -737,16 +737,16 @@
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183936Z" creationid="Hugo" creationdate="20200525T143655Z">
-        <seg>Enn gloser, li enn file ki finn kree ek aktialize manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T143655Z">
+        <seg>Enn gloser, li enn fisie ki finn kree ek aktialize manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T185316Z" creationid="Hugo" creationdate="20200527T191151Z">
-        <seg>Bann file gloser, zot bann sinp file text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T191151Z">
+        <seg>Bann fisie gloser, zot bann sinp fisie text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -833,16 +833,16 @@
       <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183758Z" creationid="Hugo" creationdate="20200519T160130Z">
-        <seg>Si ena enn sel file, get so lextansion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T160130Z">
+        <seg>Si ena enn sel fisie, get so lextansion.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T185334Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si file-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si fisie-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,8 +874,8 @@
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120511Z" creationid="Hugo" creationdate="20200921T114812Z">
-        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann files-la zot es_es.dic ek es_es.aff), ou kapav kopie bann files-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann fisies-la zot es_es.dic ek es_es.aff), ou kapav kopie bann fisies-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103932Z" creationid="Hugo" creationdate="20200731T095127Z">
-        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek click lor &lt;g1&gt;Browse &lt;/g1&gt; akote bwat folder file diksioner.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200731T095127Z">
+        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek click lor &lt;g1&gt;Browse &lt;/g1&gt; akote bwat dosie fisie diksioner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -907,8 +907,8 @@
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103330Z" creationid="Hugo" creationdate="20200731T092427Z">
-        <seg>Dan ou file manager, kre enn nouvo folder pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200731T092427Z">
+        <seg>Dan ou fisie manager, kre enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
       </tuv>
     </tu>
     <tu>
@@ -979,8 +979,8 @@
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132358Z" creationid="Hugo" creationdate="20200729T132358Z">
-        <seg>Mark bann segman tradi otomatikman depi folder oto</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200729T132358Z">
+        <seg>Mark bann segman tradi otomatikman depi dosie oto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1051,8 +1051,8 @@
       <tuv lang="en">
         <seg>Match Statistics per File</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T134816Z" creationid="Hugo" creationdate="20200729T134816Z">
-        <seg>Statistik match pou sak file</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T134816Z">
+        <seg>Statistik match pou sak fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,8 +1115,8 @@
       <tuv lang="en">
         <seg>Navigate to and select the folder you created for dictionaries.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T110718Z" creationid="Hugo" creationdate="20200918T110718Z">
-        <seg>Al lor folder ou finn kree pou bann diksioner ek seleksionn li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200918T110718Z">
+        <seg>Al lor dosie ou finn kree pou bann diksioner ek seleksionn li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,16 +1131,16 @@
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184116Z" creationid="Hugo" creationdate="20200527T174837Z">
-        <seg>Kapav manielman azout enn nouvo term dan file gloser pandan tradiksion, ex. dan enn editer text.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T174837Z">
+        <seg>Kapav manielman azout enn nouvo term dan fisie gloser pandan tradiksion, ex. dan enn editer text.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121140Z" creationid="Hugo" creationdate="20200527T175339Z">
-        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman file text-la pa anrezistre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T175339Z">
+        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman fisie text-la pa anrezistre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,8 +1187,8 @@
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184703Z" creationid="Hugo" creationdate="20200606T192425Z">
-        <seg>Pena oken file gloser dan folder "glossary".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200606T192425Z">
+        <seg>Pena oken fisie gloser dan dosie "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,8 +1292,8 @@
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T192019Z">
-        <seg>Enn fwa ki file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo shortcut.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T192019Z">
+        <seg>Enn fwa ki fisie &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo shortcut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,8 +1340,8 @@
       <tuv lang="en">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T120734Z" creationid="Hugo" creationdate="20200918T120734Z">
-        <seg>Met file diksioner ki ou le itilize dan sa folder-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200918T120734Z">
+        <seg>Met fisie diksioner ki ou le itilize dan sa dosie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,8 +1396,8 @@
       <tuv lang="en">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115409Z" creationid="Hugo" creationdate="20200729T115409Z">
-        <seg>Files proze...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T115409Z">
+        <seg>fisies proze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,8 +1613,8 @@
       <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131044Z" creationid="Hugo" creationdate="20200729T113122Z">
-        <seg>Save file-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T113122Z">
+        <seg>Save fisie-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,8 +1879,8 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121129Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Segman an kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou afise dan pano Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Segman an kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou afise dan pano Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,8 +1967,8 @@
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184227Z" creationid="Hugo" creationdate="20200606T171410Z">
-        <seg>File gloser so konteni garde dan memwar ek sarze kan ouver ouswa resarz proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T171410Z">
+        <seg>fisie gloser so konteni garde dan memwar ek sarze kan ouver ouswa resarz proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2039,8 +2039,8 @@
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184025Z" creationid="Hugo" creationdate="20200525T152644Z">
-        <seg>File-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,24 +2087,24 @@
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192802Z" creationid="Hugo" creationdate="20200606T192802Z">
-        <seg>File gloser pena enn ankodaz korek.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192802Z">
+        <seg>fisie gloser pena enn ankodaz korek.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075929Z" creationid="Hugo" creationdate="20200606T192545Z">
-        <seg>File gloser pena bon lextension (.tab, .utf8 ouswa .txt).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192545Z">
+        <seg>fisie gloser pena bon lextension (.tab, .utf8 ouswa .txt).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192440Z" creationid="Hugo" creationdate="20200606T192440Z">
-        <seg>File gloser vid.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192440Z">
+        <seg>fisie gloser vid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2127,32 +2127,32 @@
       <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184216Z" creationid="Hugo" creationdate="20200528T191249Z">
-        <seg>File &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan folder &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn subfolder (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200528T191249Z">
+        <seg>fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn sou dosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184021Z" creationid="Hugo" creationdate="20200525T151151Z">
-        <seg>File-la bizin dan folder &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn subfolder (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200525T151151Z">
+        <seg>fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn sou dosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184503Z" creationid="Hugo" creationdate="20200606T183327Z">
-        <seg>Kapav sanz lanplasman file gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriete... &lt;/g0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T183327Z">
+        <seg>Kapav sanz lanplasman fisie gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriete... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T114510Z" creationid="Hugo" creationdate="20200921T114143Z">
-        <seg>Nom bann files bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann fisies bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2175,8 +2175,8 @@
       <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184221Z" creationid="Hugo" creationdate="20200528T203338Z">
-        <seg>Ou kapav done enn nom file gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200528T203338Z">
+        <seg>Ou kapav done enn nom fisie gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2215,8 +2215,8 @@
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T190342Z">
-        <seg>File definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalign.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T190342Z">
+        <seg>fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalign.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,8 +2312,8 @@
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183649Z" creationid="Hugo" creationdate="20200519T153451Z">
-        <seg>Pou ena trwa file avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T153451Z">
+        <seg>Pou ena trwa fisie avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,16 +2368,16 @@
       <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200904T120021Z" creationid="Hugo" creationdate="20200519T132619Z">
-        <seg>Pou instal bann file StarDict neseser, ou bizin:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T132619Z">
+        <seg>Pou instal bann fisie StarDict neseser, ou bizin:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184337Z" creationid="Hugo" creationdate="20200525T155611Z">
-        <seg>Pou itiliz enn gloser, met li sinpleman dan folder &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200525T155611Z">
+        <seg>Pou itiliz enn gloser, met li sinpleman dan dosie &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2408,8 @@
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184248Z" creationid="Hugo" creationdate="20200606T182107Z">
-        <seg>Savedir li bien sinp aktializ enn file gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak lantre) ek save file-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T182107Z">
+        <seg>Savedir li bien sinp aktializ enn fisie gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak lantre) ek save fisie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2448,8 +2448,8 @@
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184256Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou ekstrer file-la so konteni dan folder "Dictionary" proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121821Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer fisie-la so konteni dan dosie "Dictionary" proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,16 +2544,16 @@
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T185459Z">
-        <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou mett enn file definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T185459Z">
+        <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou mett enn fisie definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T121745Z" creationid="Hugo" creationdate="20200918T121745Z">
-        <seg>Ouswa ou kopie bann file manielman (depi nimport ki landrwa dan ou sistem) o traver ou file manager; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200918T121745Z">
+        <seg>Ouswa ou kopie bann fisie manielman (depi nimport ki landrwa dan ou sistem) o traver ou fisie manager; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,8 +2568,8 @@
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183947Z" creationid="Hugo" creationdate="20200525T150525Z">
-        <seg>Ou kapav definir file-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T150525Z">
+        <seg>Ou kapav definir fisie-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
       </tuv>
     </tu>
     <tu>
