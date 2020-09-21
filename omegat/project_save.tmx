@@ -866,8 +866,8 @@
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120410Z" creationid="Hugo" creationdate="20200921T114812Z">
-        <seg>Si ou ena selman enn diksioner espagnol standar (kot nom bann files-la zot es_es.dic ek es_es.aff par exanp), ou kapav kopie bann files-la ek sanz zot nom an es_MX.dic ek es_MX.aff, ek diksioner-la pou fonksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120511Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann files-la zot es_es.dic ek es_es.aff), ou kapav kopie bann files-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1206,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200918T131359Z" creationid="Hugo" creationdate="20200918T121820Z">
         <seg>Pran kont ki fonksion "Instal" nesesit enn koneksion Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120725Z" creationid="Hugo" creationdate="20200921T120725Z">
+        <seg>Pran kont ki bann koreksion pou an Espagnol standar (Kastiyan) me pa an Espagnol Mexiken.</seg>
       </tuv>
     </tu>
     <tu>
