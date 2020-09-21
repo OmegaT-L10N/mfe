@@ -423,6 +423,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T114057Z" creationid="Hugo" creationdate="20200921T114057Z">
+        <seg>Si ou klik lor bouton &lt;g0&gt;Instal enn nouvo diksioner&lt;/g0&gt;, OmegaT pou ouver lafnet instalasion diksioner, kot ou kapav swazir bann diksioner ou le instale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115216Z" creationid="Hugo" creationdate="20200729T115216Z">
@@ -679,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T114738Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, files diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200723T185325Z">
@@ -848,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120410Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standar (kot nom bann files-la zot es_es.dic ek es_es.aff par exanp), ou kapav kopie bann files-la ek sanz zot nom an es_MX.dic ek es_MX.aff, ek diksioner-la pou fonksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T112231Z" creationid="Hugo" creationdate="20200728T113129Z">
@@ -931,8 +955,8 @@
       <tuv lang="en">
         <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T171543Z" creationid="Hugo" creationdate="20200918T171543Z">
-        <seg>Li pli sinp toutfwa resers bann diksioner It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T111153Z" creationid="Hugo" creationdate="20200918T171543Z">
+        <seg>Li pli sinp toutfwa rod bann diksioner lor Internet ek servi bwat &lt;e0&gt;URL bann diksioner lor Internet&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,6 +1779,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T111212Z" creationid="Hugo" creationdate="20200921T111212Z">
+        <seg>Konfigirasion verifikater lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132608Z" creationid="Hugo" creationdate="20200729T132608Z">
@@ -1815,8 +1847,8 @@
       <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T201428Z" creationid="Hugo" creationdate="20200528T193248Z">
-        <seg>TBX – Term Base eXchange – li enn standard lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120407Z" creationid="Hugo" creationdate="20200528T193248Z">
+        <seg>TBX – Term Base eXchange – li enn standar lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2097,6 +2129,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T184503Z" creationid="Hugo" creationdate="20200606T183327Z">
         <seg>Kapav sanz lanplasman file gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriete... &lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T114510Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann files bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
