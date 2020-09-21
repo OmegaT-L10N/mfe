@@ -471,6 +471,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121101Z" creationid="Hugo" creationdate="20200921T121101Z">
+        <seg>Kree enn lantre gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130736Z" creationid="Hugo" creationdate="20200729T130736Z">
@@ -1131,8 +1139,8 @@
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184137Z" creationid="Hugo" creationdate="20200527T175339Z">
-        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman file text-la pa enrezistre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121140Z" creationid="Hugo" creationdate="20200527T175339Z">
+        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman file text-la pa anrezistre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1533,8 +1541,8 @@
       <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131147Z" creationid="Hugo" creationdate="20200729T131147Z">
-        <seg>Inskrir en tan ki tradiksion idantik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121100Z" creationid="Hugo" creationdate="20200729T131147Z">
+        <seg>Inskrir an tan ki tradiksion idantik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1733,8 +1741,8 @@
       <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131019Z" creationid="Hugo" creationdate="20200729T130822Z">
-        <seg>Definir en tan ki tradiksion vid</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
+        <seg>Definir an tan ki tradiksion vid</seg>
       </tuv>
     </tu>
     <tu>
@@ -1871,8 +1879,8 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T184110Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Segman en kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou afise dan pano Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121129Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Segman an kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou afise dan pano Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2264,8 @@
       <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183654Z" creationid="Hugo" creationdate="20200527T165834Z">
-        <seg>Lantre vokabiler kapav ena enn ouswa plizier komanter.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121328Z" creationid="Hugo" creationdate="20200527T165834Z">
+        <seg>Enn lantre vokabiler kapav ena enn (ou plizier) komanter.</seg>
       </tuv>
     </tu>
     <tu>
