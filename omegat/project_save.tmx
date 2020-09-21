@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T153200Z" creationid="Hugo" creationdate="20200921T151217Z">
+        <seg>Chek ousi si kod langaz sib ou proze li koresponn avek bann leksik disponib dan lafnet konfigirasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193056Z" creationid="Hugo" creationdate="20200528T170053Z">
@@ -408,8 +416,8 @@
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T125033Z" creationid="Hugo" creationdate="20200921T125033Z">
-        <seg>Chek toutfwa ki bann kod zot exacteman parey. however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T135129Z" creationid="Hugo" creationdate="20200921T125033Z">
+        <seg>Chek toutfwa ki bann kod langaz exakteman parey: enn diksioner FR-FR pa pou marse si ou finn swazir kod FR pou definir ou langaz sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -473,8 +481,8 @@
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200918T132108Z">
-        <seg>Enn kopi maniel bann fisies fer sans si ou deza ena fisie diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142823Z" creationid="Hugo" creationdate="20200918T132108Z">
+        <seg>Enn kopi maniel bann fisie fer sans si ou deza ena fisie diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -705,8 +713,8 @@
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114738Z">
-        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, fisies diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142832Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -807,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T150634Z" creationid="Hugo" creationdate="20200921T150634Z">
+        <seg>Konsey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T203004Z" creationid="Hugo" creationdate="20200528T203004Z">
@@ -839,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T144941Z" creationid="Hugo" creationdate="20200921T142803Z">
+        <seg>Si neseser, sanz nom bann fisie diksioner ouswa sanz paramet langaz ou proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T160130Z">
@@ -851,6 +875,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T154835Z">
         <seg>Si fisie-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T151223Z" creationid="Hugo" creationdate="20200921T151147Z">
+        <seg>Si verifikater lortograf pa pe fonksione, chek sipa kaz &lt;g0&gt;"Chek lortograf otomatikman"&lt;/g0&gt; ena enn mark (&lt;g1&gt;Opsion &gt; Verifikasion lortograf...)&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T155016Z" creationid="Hugo" creationdate="20200921T155016Z">
+        <seg>Si sa bann leksik-la itilize par lezot aplikasion lor ou sistem, zot pou disparet depi sa bann aplikasion-la ousi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +910,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T154332Z" creationid="Hugo" creationdate="20200921T154332Z">
+        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod langaz sib ou proze pa koresponn avek kod langaz verifikater lortograf (par exanp, ou langaz li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ibid.	</note>
       <tuv lang="en">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
@@ -882,8 +930,8 @@
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114812Z">
-        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann fisies-la zot es_es.dic ek es_es.aff), ou kapav kopie bann fisies-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142838Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann fisie-la zot es_es.dic ek es_es.aff), ou kapav kopie bann fisies-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -892,6 +940,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T112231Z" creationid="Hugo" creationdate="20200728T113129Z">
         <seg>Si ou le itiliz &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; pou ouver enn proze, sanz ou &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; kouma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T155443Z" creationid="Hugo" creationdate="20200921T155443Z">
+        <seg>Si pou ninport ki rezon ou bizin fer sa detan-z-antan, li kapav pli sinp kopie tou bann fisie dan enn dosie diferan, rezerve zis pou OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1201,6 +1257,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T154808Z" creationid="Hugo" creationdate="20200921T154808Z">
+        <seg>Pran kont ki &lt;f0&gt;Siprime&lt;/f0&gt; li efas fisikman bann leksik seleksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182334Z" creationid="Hugo" creationdate="20200519T154247Z">
@@ -1270,6 +1334,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
         <seg>Nanyen, me li sit karakter swivan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T154623Z" creationid="Hugo" creationdate="20200921T154623Z">
+        <seg>Evidaman li pli sinp fer enn "break" ek "download" bann bon version verifikater lortograf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,8 +1476,8 @@
       <tuv lang="en">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T115409Z">
-        <seg>fisies proze...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142816Z" creationid="Hugo" creationdate="20200729T115409Z">
+        <seg>Fisie proze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1687,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
         <seg>Right-click dan pano gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo lantre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T150039Z" creationid="Hugo" creationdate="20200921T150039Z">
+        <seg>Enn "right-click" lor enn mo souligne (Artund dan ilistrasion laho la) pou ouver enn meni avek enn lalis sigzestion pou so koreksion (Art und).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2159,8 +2239,8 @@
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200921T114143Z">
-        <seg>Nom bann fisies bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142827Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann fisie bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2241,6 +2321,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162835Z" creationid="Hugo" creationdate="20200527T175504Z">
         <seg>Term sours-la pa neseserman enn sel mo, kouma dan sa lexanp-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T153550Z" creationid="Hugo" creationdate="20200921T153550Z">
+        <seg>Verifikater lortograf servi kod langaz sib pou determnn ki langaz pou itilize: si langaz sib li Portige Brezilyen (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T145541Z" creationid="Hugo" creationdate="20200921T145442Z">
+        <seg>Pou koumans verifikater lortograf, seleksionn &lt;g0&gt;Opsion &gt; Verifikasion lortograf&lt;/g0&gt; ek met enn mark dan kaz &lt;g1&gt;Chek lortograf otomatikman&lt;/g1&gt; (get laho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200731T092108Z" creationid="Hugo" creationdate="20200731T092108Z">
@@ -2470,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T145554Z" creationid="Hugo" creationdate="20200921T145554Z">
+        <seg>Itilizasion verifikater lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spelling dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T120751Z" creationid="Hugo" creationdate="20200921T120751Z">
@@ -2550,10 +2654,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T150624Z" creationid="Hugo" creationdate="20200921T150624Z">
+        <seg>Ou kapav ousi dir verifikater lortograf aret pran kont enn mo kot ena enn fot, ouswa azout li dan diksioner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T185459Z">
-        <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou mett enn fisie definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200921T145501Z" creationid="Hugo" creationdate="20200706T185459Z">
+        <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou met enn fisie definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
