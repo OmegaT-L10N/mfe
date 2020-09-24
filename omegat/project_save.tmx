@@ -216,8 +216,8 @@
       <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115637Z" creationid="Hugo" creationdate="20200729T115637Z">
-        <seg>Akse konteni proze/Dokiman sours aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140451Z" creationid="Hugo" creationdate="20200729T115637Z">
+        <seg>Akse konteni proze/Dokiman sours ankour</seg>
       </tuv>
     </tu>
     <tu>
@@ -471,6 +471,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140621Z" creationid="Hugo" creationdate="20200924T140621Z">
+        <seg>Deselektionn sa lopsion-la pou desaktiv resers otomatik – si bann diksioner tro long, par exanp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133824Z" creationid="Hugo" creationdate="20200924T133824Z">
@@ -641,8 +649,8 @@
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115031Z" creationid="Hugo" creationdate="20200729T114916Z">
-        <seg>Download enn proze team</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140304Z" creationid="Hugo" creationdate="20200729T114916Z">
+        <seg>Download enn proze an ekip</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,8 +1356,8 @@
       <tuv lang="en">
         <seg>New</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114855Z" creationid="Hugo" creationdate="20200729T114855Z">
-        <seg>NouvoNew</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140315Z" creationid="Hugo" creationdate="20200729T114855Z">
+        <seg>Nouvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,8 +2922,8 @@
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132556Z" creationid="Hugo" creationdate="20200729T132556Z">
-        <seg>Valid bann tags pou dokiman aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140503Z" creationid="Hugo" creationdate="20200729T132556Z">
+        <seg>Valid bann tags pou dokiman ankour</seg>
       </tuv>
     </tu>
     <tu>
