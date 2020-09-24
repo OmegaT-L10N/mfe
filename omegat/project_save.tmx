@@ -2912,6 +2912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T141907Z" creationid="Hugo" creationdate="20200924T141907Z">
+        <seg>Servi sa lopsion-la si ou finn detas, deplas, ou kasiet enn ouswa plizier konpozan, ek ou pa pe kapav retrouv enn laranzman satisfezan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112616Z" creationid="Hugo" creationdate="20200519T153310Z">
