@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140003Z" creationid="Hugo" creationdate="20200924T140003Z">
+        <seg>Rod otomatikman text segman ankour dan diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
@@ -587,6 +595,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200904T120005Z" creationid="Hugo" creationdate="20200519T132551Z">
         <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ou Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135857Z" creationid="Hugo" creationdate="20200924T135857Z">
+        <seg>Diksioner</seg>
       </tuv>
     </tu>
     <tu>
