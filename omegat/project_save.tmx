@@ -1964,6 +1964,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142943Z" creationid="Hugo" creationdate="20200924T142943Z">
+        <seg>Get paramet font dan Miscellaneous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131525Z" creationid="Hugo" creationdate="20200729T131525Z">
