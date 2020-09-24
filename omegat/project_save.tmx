@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142117Z" creationid="Hugo" creationdate="20200924T142117Z">
+        <seg>Ou kapav servi li ousi si apre enn update OmegaT bann vole pa aparet kouma bizin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113441Z" creationid="Hugo" creationdate="20200731T091431Z">
