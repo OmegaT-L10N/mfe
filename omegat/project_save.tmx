@@ -545,8 +545,8 @@
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115350Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Create dokiman tradi aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140158Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree dokiman ankour so version tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -561,8 +561,8 @@
       <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115309Z" creationid="Hugo" creationdate="20200729T115309Z">
-        <seg>Kree bann dokiman tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140243Z" creationid="Hugo" creationdate="20200729T115309Z">
+        <seg>Kree bann dokiman zot version tradi</seg>
       </tuv>
     </tu>
     <tu>
