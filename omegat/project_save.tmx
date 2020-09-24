@@ -2100,6 +2100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142436Z" creationid="Hugo" creationdate="20200924T142436Z">
+        <seg>Montre bwat dialog pou sanz font afisaz text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
@@ -2940,6 +2948,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142105Z" creationid="Hugo" creationdate="20200729T142105Z">
         <seg>Gid itilizater...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142749Z" creationid="Hugo" creationdate="20200924T142749Z">
+        <seg>Si ou servi enn vie computer ek sanzman dimansion lafnet pran boukou letan, ou kapav sey sanz font.</seg>
       </tuv>
     </tu>
     <tu>
