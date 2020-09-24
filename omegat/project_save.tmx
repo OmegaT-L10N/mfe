@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140955Z" creationid="Hugo" creationdate="20200924T140955Z">
+        <seg>Laparans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T115558Z" creationid="Hugo" creationdate="20200606T192000Z">
@@ -2028,6 +2036,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140737Z" creationid="Hugo" creationdate="20200924T140737Z">
+        <seg>Swazir sa lopsion-la si ou oule ki diksioner montre bann mo ki ena mem rasinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T123323Z" creationid="Hugo" creationdate="20200924T123323Z">
@@ -2860,6 +2876,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112141Z" creationid="Hugo" creationdate="20200729T130601Z">
         <seg>Servi kouma tradiksion par defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140707Z" creationid="Hugo" creationdate="20200924T140707Z">
+        <seg>Servi korespondans parsiel pou lantre diksioner</seg>
       </tuv>
     </tu>
     <tu>
