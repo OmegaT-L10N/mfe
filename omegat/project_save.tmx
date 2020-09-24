@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134628Z" creationid="Hugo" creationdate="20200924T134628Z">
+        <seg>Konsilt bann koleksion TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T135129Z" creationid="Hugo" creationdate="20200921T125033Z">
@@ -994,8 +1002,8 @@
       <tuv lang="en">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134436Z" creationid="Hugo" creationdate="20200924T134436Z">
-        <seg>Si sa lopsion-la seleksione, OmegaT pa pou </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134535Z" creationid="Hugo" creationdate="20200924T134436Z">
+        <seg>Si sa lopsion-la seleksione, OmegaT pa pou retenir lakle lakse ant bann sesion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2615,6 +2623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135228Z" creationid="Hugo" creationdate="20200924T135228Z">
+        <seg>Kan ou klik lor sa bouton-la, ou kapav konsilt ek download bann koleksion ki existe pou langaz sours ek langaz sib ou proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081901Z" creationid="Hugo" creationdate="20200607T081254Z">
@@ -2954,8 +2970,8 @@
       <tuv lang="en">
         <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133909Z" creationid="Hugo" creationdate="20200924T133909Z">
-        <seg>Apre ou kapav kree enn lakle lakse lor paz &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134443Z" creationid="Hugo" creationdate="20200924T133909Z">
+        <seg>Apre ou pou kapav kree enn lakle lakse lor paz &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
