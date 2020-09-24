@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133644Z" creationid="Hugo" creationdate="20200924T133644Z">
+        <seg>Prokir-ou enn lakle API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
@@ -1035,8 +1043,8 @@
       <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130951Z" creationid="Hugo" creationdate="20200924T124624Z">
-        <seg>Pa pran kont bann lantre ki ena enn ouswa plizier let kapital bien diferan (ex.: FOO ek foo).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133312Z" creationid="Hugo" creationdate="20200924T124624Z">
+        <seg>Pa pran kont bann lantre ki ena enn ouswa plizier let kapital (ex.: FOO ek foo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112741Z" creationid="Hugo" creationdate="20200528T193248Z">
         <seg>TBX – Term Base eXchange – li enn standar lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133323Z" creationid="Hugo" creationdate="20200924T133323Z">
+        <seg>Terminolozi TaaS</seg>
       </tuv>
     </tu>
     <tu>
