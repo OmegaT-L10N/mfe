@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115910Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>...me mem karakter afise dan pano Editer: lextension fisie-la pas koresponn avek so lankodaz.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dan vole Editer: lextension fisie-la pas koresponn avek so lankodaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +881,8 @@
       <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T183517Z" creationid="Hugo" creationdate="20200525T160936Z">
-        <seg>Pano Gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142218Z" creationid="Hugo" creationdate="20200525T160936Z">
+        <seg>Vole Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,8 +922,8 @@
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183355Z" creationid="Hugo" creationdate="20200527T181609Z">
-        <seg>Highlight sa mo-la dan pano Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200527T181609Z">
+        <seg>Highlight sa mo-la dan vole Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,8 +954,8 @@
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115002Z" creationid="Hugo" creationdate="20200525T144423Z">
-        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman ankour zot pou montre otomatikman dan pano Gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200525T144423Z">
+        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman ankour zot pou montre otomatikman dan vole Gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1188,8 +1188,8 @@
       <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142117Z" creationid="Hugo" creationdate="20200924T142117Z">
-        <seg>Ou kapav servi li ousi si apre enn update OmegaT bann vole pa aparet kouma bizin.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142154Z" creationid="Hugo" creationdate="20200924T142117Z">
+        <seg>Ou kapav servi li ousi si apre enn update OmegaT si bann vole pa aparet kouma zot bizin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1645,8 +1645,8 @@
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184706Z" creationid="Hugo" creationdate="20200606T193046Z">
-        <seg>Problem: Dan pano gloser, detrwa karakter pas bien afise</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142323Z" creationid="Hugo" creationdate="20200606T193046Z">
+        <seg>Problem: Dan vole Gloser, detrwa karakter pas bien afise</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,16 +1886,16 @@
       <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T141311Z" creationid="Hugo" creationdate="20200924T141311Z">
-        <seg>Rann bann konpozan laftnet prinsipal OmegaT la zot laspe par defo.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142119Z" creationid="Hugo" creationdate="20200924T141311Z">
+        <seg>Rann bann konpozan laftnet prinsipal OmegaT zot laspe par defo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
-        <seg>Right-click dan pano gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo lantre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142309Z" creationid="Hugo" creationdate="20200606T170318Z">
+        <seg>Right-click dan vole Gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo lantre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,8 +2232,8 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115247Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Bann term depi segman ankour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan pano Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term depi segman ankour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,8 +2336,8 @@
       <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183017Z" creationid="Hugo" creationdate="20200606T183017Z">
-        <seg>Konteni pano gloser-la pou aktialize en fonksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142313Z" creationid="Hugo" creationdate="20200606T183017Z">
+        <seg>Konteni vole Gloser-la pou aktialize en fonksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,8 +2576,8 @@
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184657Z" creationid="Hugo" creationdate="20200606T191507Z">
-        <seg>Rezilta gloser prioriter (glossary/glossary.txt) aparet an premie dan pano Gloser ek dan TransTips.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200606T191507Z">
+        <seg>Rezilta gloser prioriter (glossary/glossary.txt) aparet an premie dan vole Gloser ek dan TransTips.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,8 +2641,8 @@
       <tuv lang="en">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184729Z">
-        <seg>Kapav trouv item souligne "pop-up menu" dan pano Gloser kouma "pojavni menu".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z">
+        <seg>Kapav trouv item souligne "pop-up menu" dan vole Gloser kouma "pojavni menu".</seg>
       </tuv>
     </tu>
     <tu>
