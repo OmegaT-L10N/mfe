@@ -1587,6 +1587,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135302Z" creationid="Hugo" creationdate="20200924T135302Z">
+        <seg>Bann koleksion prive montre an gra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200706T184706Z" creationid="Hugo" creationdate="20200606T193046Z">
@@ -2226,6 +2234,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133359Z" creationid="Hugo" creationdate="20200607T103855Z">
         <seg>Karakter x, exsepte pou seki suiv...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135435Z" creationid="Hugo" creationdate="20200924T135435Z">
+        <seg>Bann koleksion-la zot download antan ki gloser TBX ek zot anrezistre dan dosie gloser proze-la.</seg>
       </tuv>
     </tu>
     <tu>
