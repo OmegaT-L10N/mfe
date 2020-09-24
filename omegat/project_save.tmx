@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>...me mem karakter afise dan pano Editer: lextension ek lenkodaz fisie-la pas koresponn.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115910Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dan pano Editer: lextension fisie-la pas koresponn avek so lankodaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T164230Z" creationid="Hugo" creationdate="20200607T164230Z">
-        <seg>Ena bokou zouti interaktif ki permet devlop ek teste lexpresion regilie.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122808Z" creationid="Hugo" creationdate="20200607T164230Z">
+        <seg>Ena boukou zouti interaktif ki permet devlop ek teste lexpresion regilie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075754Z" creationid="Hugo" creationdate="20200606T192000Z">
-        <seg>Etan done ki enn lantre kapav mix gloser prioriter ek non prioriter, bann mo gloser prioriter afise an gra.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115558Z" creationid="Hugo" creationdate="20200606T192000Z">
+        <seg>Etan done ki enn lantre li kapav enn mix gloser prioriter ek non prioriter, bann mo gloser prioriter montre an karakter gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T111045Z" creationid="Hugo" creationdate="20200924T110128Z">
+        <seg>Al rod bann tradiksion otomatikman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
@@ -408,8 +416,8 @@
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T103112Z" creationid="Hugo" creationdate="20200731T091758Z">
-        <seg>Avan ou kapav itiliz fonksion verifikater lortograf, ou bizin instal enn ou plizier diksioner an fonksion ou langaz sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113522Z" creationid="Hugo" creationdate="20200731T091758Z">
+        <seg>Avan ou kapav servi fonksion verifikater lortograf, ou bizin instal enn ouswa plizier diksioner an fonksion ou langaz sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -435,6 +443,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200519T155627Z">
         <seg>Chek si ou fisie dict dan bon dosie (ouswa dan enn sou dosie sa dosie la).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200924T111850Z">
+        <seg>Swazir sa kaz-la pou envway selman bann segman ki pa finn tradi ou servis tradiksion otomatik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -497,8 +513,8 @@
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130736Z" creationid="Hugo" creationdate="20200729T130736Z">
-        <seg>Kree enn tradiksion alternativ</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112206Z" creationid="Hugo" creationdate="20200729T130736Z">
+        <seg>Kree enn tradiksion alternatif</seg>
       </tuv>
     </tu>
     <tu>
@@ -561,8 +577,16 @@
       <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131939Z" creationid="Hugo" creationdate="20200729T131918Z">
-        <seg>Afis bann segman sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120146Z" creationid="Hugo" creationdate="20200729T131918Z">
+        <seg>Montre bann segman sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121720Z" creationid="Hugo" creationdate="20200924T114912Z">
+        <seg>Montre deskripsion kontextiel pou bann gloser TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113928Z" creationid="Hugo" creationdate="20200924T111036Z">
+        <seg>Kikfwa, pou bann rezon konfidansialite, ou pa oule envway tou bann segman ou servis tradiksion otomatik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162938Z" creationid="Hugo" creationdate="20200607T162830Z">
@@ -713,8 +745,8 @@
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142832Z" creationid="Hugo" creationdate="20200921T114738Z">
-        <seg>Par exanp, si ou finn seleksionn ES-MX (Espagnol Mexiken) kouma langaz sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120918Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn swazir ES-MX (Espagnol Mexiken) kouma langaz sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -743,6 +775,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T074832Z" creationid="Hugo" creationdate="20200924T074832Z">
+        <seg>Zeneral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T074538Z" creationid="Hugo" creationdate="20200924T074538Z">
+        <seg>Preferans zeneral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
@@ -755,6 +803,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T143655Z">
         <seg>Enn gloser, li enn fisie ki finn kree ek aktialize manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T114702Z" creationid="Hugo" creationdate="20200924T114702Z">
+        <seg>Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,11 +830,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>"context description" &gt; deskripsion kontextiel</note>
       <tuv lang="en">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135248Z" creationid="Hugo" creationdate="20200729T135112Z">
-        <seg>Gloser/Afis deskripsion kontex pou bann gloser TBX</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121716Z" creationid="Hugo" creationdate="20200729T135112Z">
+        <seg>Gloser/Montre deskripsion kontextiel pou bann gloser TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,8 +898,16 @@
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T183335Z" creationid="Hugo" creationdate="20200525T144423Z">
-        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman an kour afise otomatikman dan pano Gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115002Z" creationid="Hugo" creationdate="20200525T144423Z">
+        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman ankour zot pou montre otomatikman dan pano Gloser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130155Z" creationid="Hugo" creationdate="20200924T124338Z">
+        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Integ text sours&lt;/g1&gt;&lt;/l0&gt; zot toule de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +946,8 @@
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T151223Z" creationid="Hugo" creationdate="20200921T151147Z">
-        <seg>Si verifikater lortograf pa pe fonksione, chek sipa kaz &lt;g0&gt;"Chek lortograf otomatikman"&lt;/g0&gt; ena enn mark (&lt;g1&gt;Opsion &gt; Verifikasion lortograf...)&lt;/g1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121518Z" creationid="Hugo" creationdate="20200921T151147Z">
+        <seg>Si verifikater lortograf pa pe fonksione, get sipa &lt;g0&gt;"Chek lortograf otomatikman"&lt;/g0&gt; finn seleksione (&lt;g1&gt;Opsion &gt; Verifikasion lortograf...)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,6 +964,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T114813Z" creationid="Hugo" creationdate="20200729T114813Z">
         <seg>Si zot pa inkonpatib avek bann shortcut sistem, zot pou itilizab depi OmegaT mem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T125403Z" creationid="Hugo" creationdate="20200924T125259Z">
+        <seg>Si sa lopsion-la li seleksione, gloser-la pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn kas diferan) dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,10 +1009,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T111618Z" creationid="Hugo" creationdate="20200924T111618Z">
+        <seg>Si ou deseleksionn sa lopsion-la, program-la pou al rod bann tradiksion otomatik selman si ou apiy lor &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; lor OS X) dan segman ankour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T112231Z" creationid="Hugo" creationdate="20200728T113129Z">
-        <seg>Si ou le itiliz &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; pou ouver enn proze, sanz ou &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; kouma:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113314Z" creationid="Hugo" creationdate="20200728T113129Z">
+        <seg>Si ou le servi &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; pou ouver enn proze, sanz ou &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; sa fason-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -948,6 +1029,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T155443Z" creationid="Hugo" creationdate="20200921T155443Z">
         <seg>Si pou ninport ki rezon ou bizin fer sa detan-z-antan, li kapav pli sinp kopie tou bann fisie dan enn dosie diferan, rezerve zis pou OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T124746Z" creationid="Hugo" creationdate="20200924T124624Z">
+        <seg>Pa pran kont bann lantre ki ena kas bien diferan (ex.: FOO ek foo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1017,10 +1106,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T074757Z" creationid="Hugo" creationdate="20200924T074757Z">
+        <seg>Li permet definision bann paramet pou tou bann proze tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T091431Z" creationid="Hugo" creationdate="20200731T091431Z">
-        <seg>Donk li kapav itiliz tou bann diksioner lib ki sa bann aplikasion-la itilize.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113441Z" creationid="Hugo" creationdate="20200731T091431Z">
+        <seg>Donk li kapav servi tou bann diksioner lib ki sa bann aplikasion-la itilize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1037,6 +1134,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
         <seg>Dernie modifikasion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T110029Z" creationid="Hugo" creationdate="20200924T110029Z">
+        <seg>Tradiksion otomatik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1059,8 +1164,8 @@
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131936Z" creationid="Hugo" creationdate="20200729T131936Z">
-        <seg>Afis bann segman non inik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120150Z" creationid="Hugo" creationdate="20200729T131936Z">
+        <seg>Montre bann segman ki pa inik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,8 +1188,8 @@
       <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131811Z" creationid="Hugo" creationdate="20200729T131811Z">
-        <seg>Mark bann segman tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121404Z" creationid="Hugo" creationdate="20200729T131811Z">
+        <seg>Mark bann segman deza tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,8 +1204,8 @@
       <tuv lang="en">
         <seg>Mark Whitespace</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132117Z" creationid="Hugo" creationdate="20200729T132117Z">
-        <seg>Mark karakter lespasman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121429Z" creationid="Hugo" creationdate="20200729T132117Z">
+        <seg>Mark bann karakter lespasman</seg>
       </tuv>
     </tu>
     <tu>
@@ -1147,24 +1252,24 @@
       <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132517Z" creationid="Hugo" creationdate="20200729T132517Z">
-        <seg>Linformasion modifikasion/Afis tou</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120231Z" creationid="Hugo" creationdate="20200729T132517Z">
+        <seg>Linformasion modifikasion/Montre tou</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Modification Info/Display None</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132450Z" creationid="Hugo" creationdate="20200729T132450Z">
-        <seg>Linformasion modifikasion/Pa afise</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120210Z" creationid="Hugo" creationdate="20200729T132450Z">
+        <seg>Linformasion modifikasion/Pa montre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T132508Z" creationid="Hugo" creationdate="20200729T132508Z">
-        <seg>Linformasion modifikasion/Afise segman aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120224Z" creationid="Hugo" creationdate="20200729T132508Z">
+        <seg>Linformasion modifikasion/Montre segman ankour</seg>
       </tuv>
     </tu>
     <tu>
@@ -1251,8 +1356,8 @@
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200606T192425Z">
-        <seg>Pena oken fisie gloser dan dosie "glossary".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115801Z" creationid="Hugo" creationdate="20200606T192425Z">
+        <seg>Pa ena okenn fisie gloser dan dosie "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,8 +1372,8 @@
       <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182334Z" creationid="Hugo" creationdate="20200519T154247Z">
-        <seg>Pran kont ki an plis bann diksioner "sours-sib", kapav, si itiliz fonksion Diksioner, aksed lezot linformasion kouma:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112641Z" creationid="Hugo" creationdate="20200519T154247Z">
+        <seg>Pran kont ki an plis bann diksioner "sours-sib", ou kapav, si ou servi fonksion Diksioner, aksed lezot linformasion kouma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1300,16 +1405,16 @@
       <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T202936Z" creationid="Hugo" creationdate="20200528T202300Z">
-        <seg>Atension: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumandir pa fiab (Novam 2013). Mie vo itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112940Z" creationid="Hugo" creationdate="20200528T202300Z">
+        <seg>Pran kont: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumandir pa fiab (Novam 2013). Vo mie itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T191155Z" creationid="Hugo" creationdate="20200606T191155Z">
-        <seg>Personn pa anpes ou itiliz par exanp Notepad++ dan Windows, GEdit dan Linux ouswa enn program spreadsheet pou kree enn gloser: ou kapav itiliz ninport ki aplikasion ki kapav pran an sarz UTF-8 (ouswa UTF-16 LE) ek afis bann karakter lespasman (pou kapav itiliz karater &lt;k1&gt;TAB&lt;/k1&gt; ki obligatwar).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115340Z" creationid="Hugo" creationdate="20200606T191155Z">
+        <seg>Personn pa anpes ou servi par exanp Notepad++ dan Windows, GEdit dan Linux ouswa enn program spreadsheet pou kree enn gloser: ou kapav itiliz ninport ki program ki kapav tret UTF-8 (ouswa UTF-16 LE) ek afis bann karakter lespasman (pou kapav itiliz karater &lt;k1&gt;TAB&lt;/k1&gt; ki obligatwar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,8 +1445,8 @@
       <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T154623Z" creationid="Hugo" creationdate="20200921T154623Z">
-        <seg>Evidaman li pli sinp fer enn "break" ek "download" bann bon version verifikater lortograf.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T102122Z" creationid="Hugo" creationdate="20200921T154623Z">
+        <seg>Evidaman li pli sinp fer enn break ek download bann bon version verifikater lortograf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,16 +1461,16 @@
       <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T072831Z" creationid="Hugo" creationdate="20200731T072831Z">
-        <seg>OmegaT ena enn verifikater lortograf integre ki base lor verifikater lortograf itilize par Apache OpenOffice, LibreOffice, Firefox ek Thunderbird.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
+        <seg>OmegaT ena enn verifikater lortograf integre ki base lor mem verifikater lortograf ki Apache OpenOffice, LibreOffice, Firefox ek Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200723T184921Z" creationid="Hugo" creationdate="20200723T184921Z">
-        <seg>Lor Mac, bizin itiliz modifikater &lt;e0&gt;meta&lt;/e0&gt; pou spesifie tous &lt;e1&gt;command&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113126Z" creationid="Hugo" creationdate="20200723T184921Z">
+        <seg>Lor Mac, bizin servi modifikater &lt;e0&gt;meta&lt;/e0&gt; pou definir tous &lt;e1&gt;command&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,8 +1525,8 @@
       <tuv lang="en">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200918T120734Z">
-        <seg>Met fisie diksioner ki ou le itilize dan sa dosie-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113613Z" creationid="Hugo" creationdate="20200918T120734Z">
+        <seg>Met fisie diksioner ki ou oule servi dan sa dosie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1460,8 +1565,8 @@
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192402Z" creationid="Hugo" creationdate="20200606T192301Z">
-        <seg>Problem: Pena okenn term gloser ki afise. Posibilite:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115659Z" creationid="Hugo" creationdate="20200606T192301Z">
+        <seg>Problem: Okenn term gloser pe afise. Lakoz posib:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1667,6 +1772,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T123746Z" creationid="Hugo" creationdate="20200924T123746Z">
+        <seg>Ranplas bann lantre gloser kan integ text sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with Machine Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T121947Z" creationid="Hugo" creationdate="20200729T121947Z">
@@ -1773,56 +1886,72 @@
       <tuv lang="en">
         <seg>Select Match #1</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130514Z" creationid="Hugo" creationdate="20200729T130514Z">
-        <seg>Select match #1</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130514Z">
+        <seg>Swazir match #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #2</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130519Z" creationid="Hugo" creationdate="20200729T130519Z">
-        <seg>Select match #2</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130519Z">
+        <seg>Swazir match #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #3</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130522Z" creationid="Hugo" creationdate="20200729T130522Z">
-        <seg>Select match #3</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130522Z">
+        <seg>Swazir match #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #4</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130525Z" creationid="Hugo" creationdate="20200729T130525Z">
-        <seg>Select match #4</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130525Z">
+        <seg>Swazir match #4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #5</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130528Z" creationid="Hugo" creationdate="20200729T130528Z">
-        <seg>Select match #5</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130528Z">
+        <seg>Swazir match #5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Next Match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130504Z" creationid="Hugo" creationdate="20200729T130504Z">
-        <seg>Select match swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130504Z">
+        <seg>Swazir match swivan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Previous Match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130425Z" creationid="Hugo" creationdate="20200729T130409Z">
-        <seg>Select match presedan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130409Z">
+        <seg>Swazir match presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200924T114250Z">
+        <seg>Swazir enn servis dan lalis ek, si neseser, klik lor &lt;g0&gt;Konfigire&lt;/g0&gt; pou met ou bann detay idantifikasion sa servis-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T123323Z" creationid="Hugo" creationdate="20200924T123323Z">
+        <seg>Swazir sa lopsion-la si ou oule ki gloser montre bann mo ki ena mem rasinn</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,6 +1960,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
         <seg>Definir an tan ki tradiksion vid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T102107Z" creationid="Hugo" creationdate="20200924T102107Z">
+        <seg>Definir Tab kouma tous validasion enn segman olie Enter (tous par defo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1951,7 +2088,7 @@
       <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120407Z" creationid="Hugo" creationdate="20200528T193248Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112741Z" creationid="Hugo" creationdate="20200528T193248Z">
         <seg>TBX – Term Base eXchange – li enn standar lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
       </tuv>
     </tu>
@@ -1967,8 +2104,8 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Segman an kour so bann term ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou afise dan pano Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115247Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term depi segman ankour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan pano Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2055,8 +2192,8 @@
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T171410Z">
-        <seg>fisie gloser so konteni garde dan memwar ek sarze kan ouver ouswa resarz proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120403Z" creationid="Hugo" creationdate="20200606T171410Z">
+        <seg>Konteni fisie gloser li garde dan memwar ek sarze kan ouver ouswa resarz proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,8 +2224,8 @@
       <tuv lang="en">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T111950Z" creationid="Hugo" creationdate="20200723T185600Z">
-        <seg>Shortcut OmegaT par defo lor Mac ousi disponib lor Sourceforge, zot tou itiliz "meta" en plas "ctrl": &lt;u0&gt;Shortcut OmegaT par defo pou Mac&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113250Z" creationid="Hugo" creationdate="20200723T185600Z">
+        <seg>Shortcut OmegaT par defo lor Mac ousi disponib lor Sourceforge, zot tou servi "meta" dan plas "ctrl": &lt;u0&gt;Shortcut OmegaT par defo pou Mac&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2127,8 +2264,8 @@
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T152644Z">
-        <seg>fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120310Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2175,24 +2312,24 @@
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192802Z">
-        <seg>fisie gloser pena enn ankodaz korek.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115809Z" creationid="Hugo" creationdate="20200606T192802Z">
+        <seg>Fisie gloser pena enn ankodaz korek.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192545Z">
-        <seg>fisie gloser pena bon lextension (.tab, .utf8 ouswa .txt).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115751Z" creationid="Hugo" creationdate="20200606T192545Z">
+        <seg>Fisie gloser pa ena bon lextension (.tab, .utf8 ouswa .txt).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T192440Z">
-        <seg>fisie gloser vid.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115714Z" creationid="Hugo" creationdate="20200606T192440Z">
+        <seg>Fisie gloser vid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2215,16 +2352,16 @@
       <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200528T191249Z">
-        <seg>fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn sou dosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120323Z" creationid="Hugo" creationdate="20200528T191249Z">
+        <seg>Fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn sou dosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121759Z" creationid="Hugo" creationdate="20200525T151151Z">
-        <seg>fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn sou dosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120307Z" creationid="Hugo" creationdate="20200525T151151Z">
+        <seg>Fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn sou dosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2257,6 +2394,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121436Z" creationid="Hugo" creationdate="20200723T185216Z">
         <seg>Bann evennman tous (keyevents) posib liste dan dokimantasion Java 1.6 edite par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T114701Z" creationid="Hugo" creationdate="20200924T114701Z">
+        <seg>Bann prosedir pou konfigir lakse Microsoft Translator ek Google Translate zot presize &lt;u0&gt;isi&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T110015Z" creationid="Hugo" creationdate="20200924T110015Z">
+        <seg>Program-la pou touzour demann enn konfirmasion avan li ferme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2303,8 +2456,8 @@
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T190342Z">
-        <seg>fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalign.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120423Z" creationid="Hugo" creationdate="20200706T190342Z">
+        <seg>Fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalign.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,24 +2537,24 @@
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T192845Z" creationid="Hugo" creationdate="20200606T192845Z">
-        <seg>Okenn term dan segman an kour match enn term dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115014Z" creationid="Hugo" creationdate="20200606T192845Z">
+        <seg>Okenn term dan segman ankour match enn term dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T075948Z" creationid="Hugo" creationdate="20200606T192724Z">
-        <seg>Pena enn EXACT match ant lantre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115755Z" creationid="Hugo" creationdate="20200606T192724Z">
+        <seg>Pa ena enn EXACT match ant lantre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T123815Z" creationid="Hugo" creationdate="20200921T121048Z">
-        <seg>Li pa neseser dir OmegaT ki diksioner bizin itilize; aplikasion-la pou itiliz diksioner aproprie an fonksion kod langaz ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113632Z" creationid="Hugo" creationdate="20200921T121048Z">
+        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; aplikasion-la pou itiliz diksioner aproprie an fonksion kod langaz ou proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2569,8 @@
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200607T165134Z">
-        <seg>Zot tou normalman parey (get anba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text resers (bwat text omilie), met tou korespondans ki li finn trouve ensam ek afis zot dan bwat text resilta.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120125Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get anba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text ki pe serse (bwat text omilie), met tou korespondans ki li finn trouve ensam, ek afis zot dan bwat text rezilta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2579,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T081901Z" creationid="Hugo" creationdate="20200607T081254Z">
         <seg>Sa sapit-la li pou bann itilizater avanse, ki bizin definir zot prop reg segmantasion ouswa fer bann resers pli konplex ek avanse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T074648Z" creationid="Hugo" creationdate="20200924T074648Z">
+        <seg>Sa bwat dialog-la li aksesib depi &lt;m0&gt; &lt;g1&gt;Opsion&lt;/g1&gt; &lt;g2&gt;Preferans...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,10 +2615,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T105420Z" creationid="Hugo" creationdate="20200924T105420Z">
+        <seg>Sa lopsion-la li bien pratik pou sertin keyboard kouma Sinwa, Zapone ou Koreen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T145541Z" creationid="Hugo" creationdate="20200921T145442Z">
-        <seg>Pou koumans verifikater lortograf, seleksionn &lt;g0&gt;Opsion &gt; Verifikasion lortograf&lt;/g0&gt; ek met enn mark dan kaz &lt;g1&gt;Chek lortograf otomatikman&lt;/g1&gt; (get laho).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121325Z" creationid="Hugo" creationdate="20200921T145442Z">
+        <seg>Pou aktiv verifikater lortograf, klik lor &lt;g0&gt;Opsion &gt; Verifikasion lortograf&lt;/g0&gt; ek seleksionn &lt;g1&gt;Chek lortograf otomatikman&lt;/g1&gt; (get laho).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,8 +2649,8 @@
       <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200525T155611Z">
-        <seg>Pou itiliz enn gloser, met li sinpleman dan dosie &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112656Z" creationid="Hugo" creationdate="20200525T155611Z">
+        <seg>Pou servi enn gloser, met li sinpleman dan dosie &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,10 +2671,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121944Z" creationid="Hugo" creationdate="20200924T120547Z">
+        <seg>Si deskripsion kontextiel ki montre pou sak lantre gloser pas neseser ouswa tro long, pa seleksionn sa lopsion-la </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122902Z" creationid="Hugo" creationdate="20200924T122758Z">
+        <seg>Deselektionn sa lopsion-la si gloser pe montre tro boukou fos pozitif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115850Z" creationid="Hugo" creationdate="20200729T115850Z">
         <seg>Anil dernie laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T111841Z" creationid="Hugo" creationdate="20200924T111754Z">
+        <seg>Selman segman pa tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2528,8 +2721,17 @@
       <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T134851Z" creationid="Hugo" creationdate="20200729T134851Z">
-        <seg>Itiliz TAB pou avanse</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113324Z" creationid="Hugo" creationdate="20200729T134851Z">
+        <seg>Servi TAB pou avanse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Valider ou avancer ?</note>
+      <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113713Z" creationid="Hugo" creationdate="20200924T074846Z">
+        <seg>Servi TAB pou avanse</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,16 +2746,32 @@
       <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130601Z" creationid="Hugo" creationdate="20200729T130601Z">
-        <seg>Itilize kouma tradiksion par defo</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112141Z" creationid="Hugo" creationdate="20200729T130601Z">
+        <seg>Servi kouma tradiksion par defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T123120Z" creationid="Hugo" creationdate="20200924T123120Z">
+        <seg>Servi lematizasion pou bann lantre gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122008Z" creationid="Hugo" creationdate="20200924T122008Z">
+        <seg>Itiliz bann term ki aparet separeman dan text sours</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121821Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Itiliz itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer fisie-la so konteni dan dosie "Dictionary" proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112616Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Servi itiliter desarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer fisie-la so konteni dan dosie "Dictionary" proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,8 +2794,8 @@
       <tuv lang="en">
         <seg>Using spelling dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120751Z" creationid="Hugo" creationdate="20200921T120751Z">
-        <seg>Kouma itiliz bann diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113619Z" creationid="Hugo" creationdate="20200921T120751Z">
+        <seg>Kouma servi bann diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,16 +2818,24 @@
       <tuv lang="en">
         <seg>View Menu</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131748Z" creationid="Hugo" creationdate="20200729T131748Z">
-        <seg>Meni Afisaz</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120134Z" creationid="Hugo" creationdate="20200729T131748Z">
+        <seg>Meni Lafisaz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>View...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141737Z" creationid="Hugo" creationdate="20200729T141737Z">
-        <seg>Afisaz...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120247Z" creationid="Hugo" creationdate="20200729T141737Z">
+        <seg>Lafisaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122621Z" creationid="Hugo" creationdate="20200924T122543Z">
+        <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann lexpresion) mem si bann mo-la aparet separeman dan text sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2916,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T150525Z">
         <seg>Ou kapav definir fisie-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113818Z" creationid="Hugo" creationdate="20200924T111729Z">
+        <seg>Apre ou pou bizin servi &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pou inser sigzestion-la.</seg>
       </tuv>
     </tu>
     <tu>
