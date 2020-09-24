@@ -1876,6 +1876,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T141311Z" creationid="Hugo" creationdate="20200924T141311Z">
+        <seg>Rann bann konpozan laftnet prinsipal OmegaT la zot laspe par defo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T170454Z" creationid="Hugo" creationdate="20200606T170318Z">
