@@ -511,6 +511,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142945Z" creationid="Hugo" creationdate="20200924T142945Z">
+        <seg>Kouler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T184444Z" creationid="Hugo" creationdate="20200528T184444Z">
