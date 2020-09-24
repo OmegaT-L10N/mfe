@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135856Z" creationid="Hugo" creationdate="20200924T135856Z">
+        <seg>Se neseser, ou kapav seleksionn enn domenn spesifik pou konsom mwin data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T160130Z">
@@ -1976,6 +1984,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200729T130409Z">
         <seg>Swazir match presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T135521Z" creationid="Hugo" creationdate="20200924T135521Z">
+        <seg>Swazir domenn resers termilozik TaaS...</seg>
       </tuv>
     </tu>
     <tu>
