@@ -970,8 +970,8 @@
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130751Z" creationid="Hugo" creationdate="20200924T125259Z">
-        <seg>Si sa lopsion-la seleksione, gloser-la pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn ouswa plisier let kapital) dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T131017Z" creationid="Hugo" creationdate="20200924T125259Z">
+        <seg>Si sa lopsion-la seleksione, gloser pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn ouswa plisier let kapital) dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,8 +986,8 @@
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T154332Z" creationid="Hugo" creationdate="20200921T154332Z">
-        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod langaz sib ou proze pa koresponn avek kod langaz verifikater lortograf (par exanp, ou langaz li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133241Z" creationid="Hugo" creationdate="20200921T154332Z">
+        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod langaz sib ou proze pa koresponn avek kod langaz verifikater lortograf (ex. ou langaz li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
