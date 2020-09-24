@@ -455,6 +455,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133824Z" creationid="Hugo" creationdate="20200924T133824Z">
+        <seg>Klik lor sa bouton-la pou al lor site internet proze &lt;u0&gt;TaaS&lt;/u0&gt; ek kree ou kont itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T114057Z" creationid="Hugo" creationdate="20200921T114057Z">
