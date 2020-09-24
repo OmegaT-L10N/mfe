@@ -992,6 +992,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134436Z" creationid="Hugo" creationdate="20200924T134436Z">
+        <seg>Si sa lopsion-la seleksione, OmegaT pa pou </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T113014Z" creationid="Hugo" creationdate="20200729T113014Z">
@@ -2051,6 +2059,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T134015Z" creationid="Hugo" creationdate="20200924T134015Z">
+        <seg>Anrezistre pou sa sesion-la selman</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Vérifier apostrof pour guillemets ou inverted commas...</note>
       <tuv lang="en">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
@@ -2932,6 +2948,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T202938Z" creationid="Hugo" creationdate="20200527T202938Z">
         <seg>Ou kapav fer bann lantre avek kolonn sib vid, setadir ki ena zis term sours ek komanter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133909Z" creationid="Hugo" creationdate="20200924T133909Z">
+        <seg>Apre ou kapav kree enn lakle lakse lor paz &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
