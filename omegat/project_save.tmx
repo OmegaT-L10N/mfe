@@ -970,8 +970,8 @@
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T125403Z" creationid="Hugo" creationdate="20200924T125259Z">
-        <seg>Si sa lopsion-la li seleksione, gloser-la pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn kas diferan) dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130751Z" creationid="Hugo" creationdate="20200924T125259Z">
+        <seg>Si sa lopsion-la seleksione, gloser-la pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn ouswa plisier let kapital) dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1035,8 +1035,8 @@
       <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T124746Z" creationid="Hugo" creationdate="20200924T124624Z">
-        <seg>Pa pran kont bann lantre ki ena kas bien diferan (ex.: FOO ek foo).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130951Z" creationid="Hugo" creationdate="20200924T124624Z">
+        <seg>Pa pran kont bann lantre ki ena enn ouswa plizier let kapital bien diferan (ex.: FOO ek foo).</seg>
       </tuv>
     </tu>
     <tu>
