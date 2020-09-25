@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T064920Z" creationid="Hugo" creationdate="20200925T064920Z">
+        <seg>Enn skrip ki vinn avek OmegaT ek apel Switch Colour Themes permet ou aplik enn tem somb par defo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
@@ -216,8 +224,8 @@
       <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140451Z" creationid="Hugo" creationdate="20200729T115637Z">
-        <seg>Akse konteni proze/Dokiman sours ankour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T115637Z">
+        <seg>Akse konteni proze/Dokiman sours an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +424,8 @@
       <tuv lang="en">
         <seg>Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140003Z" creationid="Hugo" creationdate="20200924T140003Z">
-        <seg>Rod otomatikman text segman ankour dan diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200924T140003Z">
+        <seg>Rod otomatikman text segman an kour dan diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,8 +577,8 @@
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140158Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Kree dokiman ankour so version tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree dokiman an kour so version tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,10 +759,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065643Z" creationid="Hugo" creationdate="20200925T064924Z">
+        <seg>Filt fisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T141447Z">
-        <seg>Filter fisie...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065643Z" creationid="Hugo" creationdate="20200729T141447Z">
+        <seg>Filt fisie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,8 +978,8 @@
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200525T144423Z">
-        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman ankour zot pou montre otomatikman dan vole Gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T144423Z">
+        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman an kour zot pou montre otomatikman dan vole Gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1089,10 +1105,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T071334Z" creationid="Hugo" creationdate="20200925T070901Z">
+        <seg>Si ou pa oule servi OmegaT pou tradir sertin tip fisie, ou kapav dezaktiv filt korespondan-la: rod nom forma fisie dan lalis ek deseleksionn kaz ki akote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T111618Z" creationid="Hugo" creationdate="20200924T111618Z">
-        <seg>Si ou deseleksionn sa lopsion-la, program-la pou al rod bann tradiksion otomatik selman si ou apiy lor &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; lor OS X) dan segman ankour.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200924T111618Z">
+        <seg>Si ou deseleksionn sa lopsion-la, program-la pou al rod bann tradiksion otomatik selman si ou apiy lor &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; lor OS X) dan segman an kour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,8 +1380,8 @@
       <tuv lang="en">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120224Z" creationid="Hugo" creationdate="20200729T132508Z">
-        <seg>Linformasion modifikasion/Montre segman ankour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T132508Z">
+        <seg>Linformasion modifikasion/Montre segman an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1639,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113613Z" creationid="Hugo" creationdate="20200918T120734Z">
         <seg>Met fisie diksioner ki ou oule servi dan sa dosie-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T064100Z" creationid="Hugo" creationdate="20200925T063350Z">
+        <seg>Ou kapav definir enn tem gras-a enn skrip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2288,8 @@
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Bann term depi segman ankour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term depi segman an kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2458,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120310Z" creationid="Hugo" creationdate="20200525T152644Z">
         <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T070009Z" creationid="Hugo" creationdate="20200925T065906Z">
+        <seg>Bann filt ki pe itilize par proze an kour zot montre an karakter gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,8 +2737,8 @@
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115014Z" creationid="Hugo" creationdate="20200606T192845Z">
-        <seg>Okenn term dan segman ankour match enn term dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200606T192845Z">
+        <seg>Okenn term dan segman an kour match enn term dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2759,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065635Z" creationid="Hugo" creationdate="20200925T065018Z">
+        <seg>Sa bwat dialog-la donn enn lalis tou bann filt fisie disponib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T185359Z" creationid="Hugo" creationdate="20200528T170303Z">
@@ -2787,6 +2835,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T105420Z" creationid="Hugo" creationdate="20200924T105420Z">
         <seg>Sa lopsion-la li bien pratik pou sertin keyboard kouma Sinwa, Zapone ou Koreen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T063550Z" creationid="Hugo" creationdate="20200925T063050Z">
+        <seg>Sa paz-la permet ou swazir diferan kouler pou tou bann eleman interfas litilizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,8 +3058,8 @@
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140503Z" creationid="Hugo" creationdate="20200729T132556Z">
-        <seg>Valid bann tags pou dokiman ankour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T132556Z">
+        <seg>Valid bann tags pou dokiman an kour</seg>
       </tuv>
     </tu>
     <tu>
