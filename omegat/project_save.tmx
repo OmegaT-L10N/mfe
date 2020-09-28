@@ -495,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T134342Z" creationid="Hugo" creationdate="20200928T134342Z">
+        <seg>Klik lor &lt;e0&gt;Valer par defo&lt;/e0&gt; pou reset bann filt fisie lor zot valer par defo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133824Z" creationid="Hugo" creationdate="20200924T133824Z">
@@ -1107,8 +1115,8 @@
       <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T071334Z" creationid="Hugo" creationdate="20200925T070901Z">
-        <seg>Si ou pa oule servi OmegaT pou tradir sertin tip fisie, ou kapav dezaktiv filt korespondan-la: rod nom forma fisie dan lalis ek deseleksionn kaz ki akote.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T134132Z" creationid="Hugo" creationdate="20200925T070901Z">
+        <seg>Si ou pa oule servi OmegaT pou tradir sertin tip fisie, ou kapav dezaktiv filt korespondan la: rod nom forma fisie dan lalis ek deseleksionn kaz ki akote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,6 +1583,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
         <seg>OmegaT ena enn verifikater lortograf integre ki base lor mem verifikater lortograf ki Apache OpenOffice, LibreOffice, Firefox ek Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T133950Z" creationid="Hugo" creationdate="20200928T133950Z">
+        <seg>OmegaT pa pou pran kont bann fisie korespondan kan li sarz proze-la ek pou kopie zot direk dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3084,6 +3100,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T122621Z" creationid="Hugo" creationdate="20200924T122543Z">
         <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann lexpresion) mem si bann mo-la aparet separeman dan text sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T134237Z" creationid="Hugo" creationdate="20200928T134126Z">
+        <seg>Letan ou oule reservi filt-la, nek seleksionn kaz korespondan.</seg>
       </tuv>
     </tu>
     <tu>
