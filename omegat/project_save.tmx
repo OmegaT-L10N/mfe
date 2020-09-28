@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T140616Z" creationid="Hugo" creationdate="20200928T140616Z">
+        <seg>Bwat dialog-la permet ou aktiv ouswa dezaktiv bann lopsion swivan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T203007Z" creationid="Hugo" creationdate="20200527T203007Z">
@@ -2859,6 +2867,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T063550Z" creationid="Hugo" creationdate="20200925T063050Z">
         <seg>Sa paz-la permet ou swazir diferan kouler pou tou bann eleman interfas litilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200928T140511Z" creationid="Hugo" creationdate="20200928T140511Z">
+        <seg>Pou sanz bann fisie ek lankodaz asosie avek enn filt, swazir filt-la dan lalis ek klik lor &lt;e1&gt;Modifie&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
