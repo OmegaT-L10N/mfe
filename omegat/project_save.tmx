@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T160119Z" creationid="Hugo" creationdate="20200929T155118Z">
+        <seg>Enn laspe inportan sa liberte-la se ki tou bann itilizater kapav sanz kod program-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133007Z" creationid="Hugo" creationdate="20200607T133007Z">
@@ -1482,6 +1490,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T154940Z" creationid="Hugo" creationdate="20200929T154703Z">
+        <seg>Non selman zot kapav servi li gratis, me zot lib ousi kopie li ek distribie li.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T154808Z" creationid="Hugo" creationdate="20200921T154808Z">
@@ -1583,6 +1599,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
         <seg>OmegaT ena enn verifikater lortograf integre ki base lor mem verifikater lortograf ki Apache OpenOffice, LibreOffice, Firefox ek Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T153844Z" creationid="Hugo" creationdate="20200929T153844Z">
+        <seg>OmegaT li enn proze ek enn aplikasion open-source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T153801Z" creationid="Hugo" creationdate="20200929T153801Z">
+        <seg>Filozofi open-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121436Z" creationid="Hugo" creationdate="20200723T185216Z">
@@ -2839,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T160641Z" creationid="Hugo" creationdate="20200929T160641Z">
+        <seg>Nou servi lopozision ant lib kouma "liberte lexpression" ek lib kouma "gratis" pou tradir sa lide-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is much the same as the above example.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T165429Z" creationid="Hugo" creationdate="20200607T165429Z">
@@ -2851,6 +2891,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130544Z" creationid="Hugo" creationdate="20200607T130544Z">
         <seg>Li neseser si ou bizin servi enn meta karakter swivan !$()*+.&lt;&gt;?[\]^{|} pou ki li match limem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T154818Z" creationid="Hugo" creationdate="20200929T154417Z">
+        <seg>Savedir ki kod sours program-la li aksesib par tou dimounn, ek ki lisans OmegaT li donn enn gran-gran liberte bann litilizater pou so litilizasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2899,6 +2947,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T132619Z">
         <seg>Pou instal bann fisie StarDict neseser, ou bizin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20200929T160306Z" creationid="Hugo" creationdate="20200929T160102Z">
+        <seg>Pou mouvman open-source, liberte ki bann itilizater ena pou adapte enn program kouma zot oule li pli inportan ki laspe finansie kot zot pa bizin paye.</seg>
       </tuv>
     </tu>
     <tu>
