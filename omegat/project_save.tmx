@@ -1715,6 +1715,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T114357Z" creationid="Hugo" creationdate="20201001T114357Z">
+        <seg>Tou bann sigzestion modifikasion ou ameliorasion OmegaT par enn itilizater pas par enn prosedir soumision pou so lexamin par lekip devloper. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200706T192019Z">
