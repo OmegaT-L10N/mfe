@@ -847,6 +847,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T073604Z" creationid="Hugo" creationdate="20201001T073604Z">
+        <seg>Par exanp, personn pa anpes ou ekrir ou prop gid litilizasion ouswa fer enn video demonstrasion pou OmegaT. Si bann manb lekip proze trouv kontribision-la itil, zot pou kapav met li a dispozision tou bann itilizater kominote OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131521Z" creationid="Hugo" creationdate="20200607T130636Z">
@@ -972,6 +980,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T150634Z" creationid="Hugo" creationdate="20200921T150634Z">
         <seg>Konsey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T072415Z" creationid="Hugo" creationdate="20201001T072415Z">
+        <seg>Sakenn amenn se ki li kapav, kouma li kapav.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1190,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193059Z" creationid="Hugo" creationdate="20200528T190742Z">
         <seg>An plis format text brit, format TBX osi aksepte antan ki format gloser read-only.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T072318Z" creationid="Hugo" creationdate="20201001T072318Z">
+        <seg>Si zot oule, zot kapav amenn zot kontribision dan proze-la; li enkouraze, me pena okenn lobligasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1492,8 +1516,8 @@
       <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T154940Z" creationid="Hugo" creationdate="20200929T154703Z">
-        <seg>Non selman zot kapav servi li gratis, me zot lib ousi kopie li ek distribie li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T055504Z" creationid="Hugo" creationdate="20200929T154703Z">
+        <seg>Non selman zot kapav servi li gratis, me zot lib ousi kopie ek distribie li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T055627Z" creationid="Hugo" creationdate="20201001T055627Z">
+        <seg>Filozofi proze OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125035Z" creationid="Hugo" creationdate="20200607T125035Z">
@@ -2702,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T071737Z" creationid="Hugo" creationdate="20201001T071715Z">
+        <seg>Proze OmegaT li ankre dan mem lespri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200918T132016Z" creationid="Hugo" creationdate="20200918T131503Z">
@@ -2873,8 +2913,8 @@
       <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T160641Z" creationid="Hugo" creationdate="20200929T160641Z">
-        <seg>Nou servi lopozision ant lib kouma "liberte lexpression" ek lib kouma "gratis" pou tradir sa lide-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T055614Z" creationid="Hugo" creationdate="20200929T160641Z">
+        <seg>Nou servi lopozision ant lib kouma "liberte lexpresion" ek lib kouma "gratis" pou tradir sa lide-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2897,8 +2937,8 @@
       <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T154818Z" creationid="Hugo" creationdate="20200929T154417Z">
-        <seg>Savedir ki kod sours program-la li aksesib par tou dimounn, ek ki lisans OmegaT li donn enn gran-gran liberte bann litilizater pou so litilizasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T055443Z" creationid="Hugo" creationdate="20200929T154417Z">
+        <seg>Savedir ki kod sours OmegaT li aksesib par tou dimounn, ek lisans program-la li donn enn gran-gran liberte so bann itilizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3152,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T071944Z" creationid="Hugo" creationdate="20201001T071944Z">
+        <seg>bann itilizater kapav download ek itiliz program-la gratis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142749Z" creationid="Hugo" creationdate="20200924T142749Z">
@@ -3180,6 +3228,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T134237Z" creationid="Hugo" creationdate="20200928T134126Z">
         <seg>Letan ou oule reservi filt-la, nek seleksionn kaz korespondan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T073758Z" creationid="Hugo" creationdate="20201001T073758Z">
+        <seg>bann tas routinn, bann benevol ki travay lor OmegaT zot </seg>
       </tuv>
     </tu>
     <tu>
