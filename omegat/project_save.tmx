@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074926Z" creationid="Hugo" creationdate="20201001T074926Z">
+        <seg>Par exanp, sakenn kapav sanz kod program OmegaT ek soumet sa bann sanzman lekip devlopman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120918Z" creationid="Hugo" creationdate="20200921T114738Z">
@@ -1190,6 +1198,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T193059Z" creationid="Hugo" creationdate="20200528T190742Z">
         <seg>An plis format text brit, format TBX osi aksepte antan ki format gloser read-only.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074530Z" creationid="Hugo" creationdate="20201001T074530Z">
+        <seg>Toutfwa, koordinasion li ousi neseser dan sertin ka.</seg>
       </tuv>
     </tu>
     <tu>
