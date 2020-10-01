@@ -873,8 +873,8 @@
       <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074059Z" creationid="Hugo" creationdate="20201001T073604Z">
-        <seg>Par exanp, personn pa anpes ou ekrir ou prop gid litilizasion ouswa fer enn video demonstrasion pou OmegaT. Si bann manb lekip proze trouv kontribision-la itil, zot pou met li a dispozision tou bann itilizater kominote OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T095013Z" creationid="Hugo" creationdate="20201001T073604Z">
+        <seg>Par exanp, personn pa anpes ou ekrir ou prop gid litilizasion ouswa fer enn video demonstrasion pou OmegaT. Si bann manb lekip proze trouv kontribision-la itil, zot pou met li a dispozision kominote bann itilizater OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,8 +2600,8 @@
       <tuv lang="en">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T094814Z" creationid="Hugo" creationdate="20201001T094715Z">
-        <seg>Par exanp, ena &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T094834Z" creationid="Hugo" creationdate="20201001T094715Z">
+        <seg>Par exanp, ena &lt;a0&gt;group itilizater OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3003,6 +3003,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130544Z" creationid="Hugo" creationdate="20200607T130544Z">
         <seg>Li neseser si ou bizin servi enn meta karakter swivan !$()*+.&lt;&gt;?[\]^{|} pou ki li match limem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T094941Z" creationid="Hugo" creationdate="20201001T094820Z">
+        <seg>Sa mem pwin santral kominote bann itilizater OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
