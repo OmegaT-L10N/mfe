@@ -921,8 +921,8 @@
       <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T114014Z" creationid="Hugo" creationdate="20201001T114014Z">
-        <seg>Sa mem rezon enn &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt; existe.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T154053Z" creationid="Hugo" creationdate="20201001T114014Z">
+        <seg>Pou sa rezon-la, &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt; existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1765,8 +1765,8 @@
       <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T114357Z" creationid="Hugo" creationdate="20201001T114357Z">
-        <seg>Tou bann sigzestion modifikasion ou ameliorasion OmegaT par enn itilizater pas par enn prosedir soumision pou so lexamin par lekip devloper. </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T154222Z" creationid="Hugo" creationdate="20201001T114357Z">
+        <seg>Sak sigzestion modifikasion ou ameliorasion OmegaT par enn itilizater pas par enn prosedir lexamin par lekip devlopman.</seg>
       </tuv>
     </tu>
     <tu>
