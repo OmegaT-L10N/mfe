@@ -2911,6 +2911,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074410Z" creationid="Hugo" creationdate="20201001T074410Z">
+        <seg>Sa lapros-la finn dekrir kouma enn "lanarsi delege" par koordinater aktiel proze OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T055614Z" creationid="Hugo" creationdate="20200929T160641Z">
@@ -3234,8 +3242,8 @@
       <tuv lang="en">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074211Z" creationid="Hugo" creationdate="20201001T073758Z">
-        <seg>Konsernan bann tas routinn, bann benevol ki travay lor OmegaT zot ase lib konsernan swa form zot kontribisyon.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074244Z" creationid="Hugo" creationdate="20201001T073758Z">
+        <seg>Konsernan bann tas laroutinn, bann benevol ki travay lor OmegaT zot ase lib konsernan swa form zot kontribisyon.</seg>
       </tuv>
     </tu>
     <tu>
