@@ -2598,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T094814Z" creationid="Hugo" creationdate="20201001T094715Z">
+        <seg>Par exanp, ena &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182410Z" creationid="Hugo" creationdate="20200519T155237Z">
