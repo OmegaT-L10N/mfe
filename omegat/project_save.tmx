@@ -1490,6 +1490,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T105938Z" creationid="Hugo" creationdate="20201001T105938Z">
+        <seg>Bann nouvo itilizater OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T175339Z">
