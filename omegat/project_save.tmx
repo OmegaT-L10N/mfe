@@ -1346,6 +1346,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T115838Z" creationid="Hugo" creationdate="20201001T115838Z">
+        <seg>Plizier santenn RFE finn deza soumet ek boukou-boukou finn deza integre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T110029Z" creationid="Hugo" creationdate="20200924T110029Z">
@@ -2778,6 +2786,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121436Z" creationid="Hugo" creationdate="20200723T185216Z">
         <seg>Bann evennman tous (keyevents) posib liste dan dokimantasion Java 1.6 edite par Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T114611Z" creationid="Hugo" creationdate="20201001T114611Z">
+        <seg>Sa prosedir-la apel &lt;a0&gt;"RFE" (Request for Feature Enhancement) ek li zere isi&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
