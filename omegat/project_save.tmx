@@ -585,8 +585,8 @@
       <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T113544Z" creationid="Hugo" creationdate="20201001T113544Z">
-        <seg>Bann lezot fonksion ou solision alternatif kapav ousi existe.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T153606Z" creationid="Hugo" creationdate="20201001T113544Z">
+        <seg>Lezot fonksion ou solision kapav ousi existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,8 +665,8 @@
       <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T113821Z" creationid="Hugo" creationdate="20201001T113821Z">
-        <seg>Diskision teknik lor bann sanzman bizin avek bann devloper OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T153759Z" creationid="Hugo" creationdate="20201001T113821Z">
+        <seg>Diskision teknik detaye lor bann modifikasion bizin avek bann devloper OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1789,8 +1789,8 @@
       <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T113140Z" creationid="Hugo" creationdate="20201001T113140Z">
-        <seg>Parski fonksion an kestion li kapav deza existe, ouswa kapav ena bann rezon kifer li pa kapav met en pratik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T153540Z" creationid="Hugo" creationdate="20201001T113140Z">
+        <seg>An efe, fonksion swete kapav deza existe, ouswa kapav ena bann rezon kifer pa kapav met li an pratik.</seg>
       </tuv>
     </tu>
     <tu>
