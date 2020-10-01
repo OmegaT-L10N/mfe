@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T113821Z" creationid="Hugo" creationdate="20201001T113821Z">
+        <seg>Diskision teknik lor bann sanzman bizin avek bann devloper OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T090037Z" creationid="Hugo" creationdate="20201001T090037Z">
@@ -891,6 +899,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131521Z" creationid="Hugo" creationdate="20200607T130636Z">
         <seg>Par exanp, sa karakter-la backslash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T114014Z" creationid="Hugo" creationdate="20201001T114014Z">
+        <seg>Sa mem rezon enn &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt; existe.</seg>
       </tuv>
     </tu>
     <tu>
