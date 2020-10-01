@@ -1707,6 +1707,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T113140Z" creationid="Hugo" creationdate="20201001T113140Z">
+        <seg>Parski fonksion an kestion li kapav deza existe, ouswa kapav ena bann rezon kifer li pa kapav met en pratik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T084913Z" creationid="Hugo" creationdate="20201001T074952Z">
