@@ -1723,6 +1723,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T122459Z" creationid="Hugo" creationdate="20201001T122459Z">
+        <seg>Etan done ki bann devloper OmegaT zot tou benevol, enn RFE ki finanse par so demander ena plis sans integre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113126Z" creationid="Hugo" creationdate="20200723T184921Z">
