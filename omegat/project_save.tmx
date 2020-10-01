@@ -1683,6 +1683,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T083839Z" creationid="Hugo" creationdate="20201001T074952Z">
+        <seg>-laMe zot pou integre selman si bann-ka konsider zot kouma benefik pou </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T114925Z" creationid="Hugo" creationdate="20200729T114925Z">
