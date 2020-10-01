@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T091937Z" creationid="Hugo" creationdate="20201001T091937Z">
-        <seg>Kouma tou le res proze OmegaT, travay programasion OmegaT li fer par bann volonter, ek, an akor filozofi proze-la, bann devlopman ek ameliorasion zot aport OmegaT depann zot mem.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T091944Z" creationid="Hugo" creationdate="20201001T091937Z">
+        <seg>Kouma tou le res proze OmegaT, travay programasion OmegaT li fer par bann volonter, ek, an akor filozofi proze-la, bann devlopman ek ameliorasion zot aport OmegaT depann lor zot mem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2875,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200606T192845Z">
         <seg>Okenn term dan segman an kour match enn term dan gloser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T094704Z" creationid="Hugo" creationdate="20201001T094704Z">
+        <seg>Bann itilizater kapav toutfwa sigzer bann ameliorasion ek influans devlopman fitir proze-la.</seg>
       </tuv>
     </tu>
     <tu>
