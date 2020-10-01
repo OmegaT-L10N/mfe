@@ -1056,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T120329Z" creationid="Hugo" creationdate="20201001T120329Z">
+        <seg>Toutfwa, enn RFE pa vedir ki fonksion ou ameliorasion swete la pou otomatikman integre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T144423Z">
