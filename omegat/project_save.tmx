@@ -3400,6 +3400,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T121015Z" creationid="Hugo" creationdate="20201001T121015Z">
+        <seg>Sipa li pou integre depann an premie lor lapresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X followed by Y</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163734Z" creationid="Hugo" creationdate="20200607T163734Z">
