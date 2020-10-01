@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130342Z" creationid="Hugo" creationdate="20201001T130342Z">
-        <seg>&lt;a0&gt;Sponsorizasion devlopman finn deza permet azout sertin fonksion.&lt;/a0&gt; Si ou oule finans travay integrasion </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130728Z" creationid="Hugo" creationdate="20201001T130342Z">
+        <seg>&lt;a0&gt;Sponsorizasion devlopman finn deza permet azout sertin fonksion.&lt;/a0&gt; Si ou oule finans travay integrasion enn fonksion swete, kontak lekip devlopman direkteman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -513,8 +513,8 @@
       <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140621Z" creationid="Hugo" creationdate="20200924T140621Z">
-        <seg>Deselektionn sa lopsion-la pou desaktiv resers otomatik – si bann diksioner tro long, par exanp.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130554Z" creationid="Hugo" creationdate="20200924T140621Z">
+        <seg>Deseleksionn sa lopsion-la pou desaktiv resers otomatik – si bann diksioner tro long, par exanp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,8 +1476,8 @@
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135415Z" creationid="Hugo" creationdate="20200519T155258Z">
-        <seg>Itilization diksioner Merriam Webster</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130455Z" creationid="Hugo" creationdate="20200519T155258Z">
+        <seg>Itilizasion diksioner Merriam Webster</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,8 +3209,8 @@
       <tuv lang="en">
         <seg>Uncheck this option if the glossary displays too many false positives.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122902Z" creationid="Hugo" creationdate="20200924T122758Z">
-        <seg>Deselektionn sa lopsion-la si gloser pe montre tro boukou fos pozitif.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130549Z" creationid="Hugo" creationdate="20200924T122758Z">
+        <seg>Deseleksionn sa lopsion-la si gloser pe montre tro boukou fos pozitif.</seg>
       </tuv>
     </tu>
     <tu>
