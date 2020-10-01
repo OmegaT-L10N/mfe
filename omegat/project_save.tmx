@@ -1354,6 +1354,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T132431Z" creationid="Hugo" creationdate="20201001T132431Z">
+        <seg>Lezot devlopman komisione par bann devloper extern pou kapav ousi integre dan OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
