@@ -320,8 +320,8 @@
       <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T160119Z" creationid="Hugo" creationdate="20200929T155118Z">
-        <seg>Enn laspe inportan sa liberte-la se ki tou bann itilizater kapav sanz kod program-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T142824Z" creationid="Hugo" creationdate="20200929T155118Z">
+        <seg>Enn laspe inportan sa liberte-la se ki tou bann itilizater kapav modifie kod program-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3129,8 +3129,8 @@
       <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T141227Z" creationid="Hugo" creationdate="20200929T154417Z">
-        <seg>Savedir ki kod sours program OmegaT li aksesib par tou dimounn, ek lisans OmegaT li donn enn gran liberte bann itilizater.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T142556Z" creationid="Hugo" creationdate="20200929T154417Z">
+        <seg>Savedir ki kod sours program OmegaT li aksesib par tou dimounn, ek lisans OmegaT li donn enn gran-gran liberte bann itilizater.</seg>
       </tuv>
     </tu>
     <tu>
