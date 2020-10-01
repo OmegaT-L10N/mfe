@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T134103Z" creationid="Hugo" creationdate="20201001T134103Z">
+        <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki nimport ki sanzman OmegaT pou bizin konstitie enn benefis pou laplikasion-la ek so bann litilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141207Z" creationid="Hugo" creationdate="20200729T141207Z">
