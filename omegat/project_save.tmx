@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T091937Z" creationid="Hugo" creationdate="20201001T091937Z">
+        <seg>Kouma tou le res proze OmegaT, travay programasion OmegaT li fer par bann volonter, ek, an akor filozofi proze-la, bann devlopman ek ameliorasion zot aport OmegaT depann zot mem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T115558Z" creationid="Hugo" creationdate="20200606T192000Z">
@@ -627,6 +635,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T114844Z" creationid="Hugo" creationdate="20200729T114844Z">
         <seg>Shortcut par defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T090037Z" creationid="Hugo" creationdate="20201001T090037Z">
+        <seg>Devlopman OmegaT</seg>
       </tuv>
     </tu>
     <tu>
