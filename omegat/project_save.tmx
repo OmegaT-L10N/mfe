@@ -881,8 +881,8 @@
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T083842Z" creationid="Hugo" creationdate="20201001T074926Z">
-        <seg>Par exanp, sakenn kapav sanz kod program OmegaT ek soumet sa bann sanzman-la lekip devlopman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T145751Z" creationid="Hugo" creationdate="20201001T074926Z">
+        <seg>Par exanp, sakenn kapav modifie kod program OmegaT ek soumet sa bann modifikasion-la lekip devlopman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1797,8 +1797,8 @@
       <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T084913Z" creationid="Hugo" creationdate="20201001T074952Z">
-        <seg>Me zot pou integre selman si zot konsidere kouma benefik pou bann itilizater OmegaT par bann manb lekip devlopman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T145818Z" creationid="Hugo" creationdate="20201001T074952Z">
+        <seg>Toutfwa zot pou integre selman si zot konsidere kouma benefik pou bann itilizater OmegaT par bann manb lekip devlopman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,8 +3426,8 @@
       <tuv lang="en">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T074244Z" creationid="Hugo" creationdate="20201001T073758Z">
-        <seg>Konsernan bann tas laroutinn, bann benevol ki travay lor OmegaT zot ase lib konsernan swa form zot kontribisyon.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201001T151356Z" creationid="Hugo" creationdate="20201001T073758Z">
+        <seg>Konsernan bann tas laroutinn, bann benevol ki travay lor OmegaT zot ase lib dan swa form zot kontribisyon.</seg>
       </tuv>
     </tu>
     <tu>
