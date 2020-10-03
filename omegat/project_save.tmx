@@ -496,8 +496,8 @@
       <tuv lang="en">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20201001T134103Z">
-        <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki nimport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann litilizater.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115044Z" creationid="Hugo" creationdate="20201001T134103Z">
+        <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki nimport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann itilizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,6 +1185,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115317Z" creationid="Hugo" creationdate="20201003T115317Z">
+        <seg>Eski ou finn deza pans pou ekrir dokimantasion oumem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Help Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142043Z" creationid="Hugo" creationdate="20200729T142043Z">
@@ -1597,8 +1605,8 @@
       <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114229Z" creationid="Hugo" creationdate="20201003T114229Z">
-        <seg>Kapav ou enn tradikter ki finn deza tradir boukou gid itilizater</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115112Z" creationid="Hugo" creationdate="20201003T114229Z">
+        <seg>Si ou pe lir sa, kapav ou enn tradikter ki finn deza tradir boukou gid itilizater</seg>
       </tuv>
     </tu>
     <tu>
@@ -2687,8 +2695,8 @@
       <tuv lang="en">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T043013Z" creationid="Hugo" creationdate="20201003T043013Z">
-        <seg>Litilizasion similtane plizier memwar tradiksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114953Z" creationid="Hugo" creationdate="20201003T043013Z">
+        <seg>Itilizasion similtane plizier memwar tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,8 +3771,8 @@
       <tuv lang="en">
         <seg>User portrait</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071749Z" creationid="Hugo" creationdate="20201003T071749Z">
-        <seg>Portre litilizater</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114945Z" creationid="Hugo" creationdate="20201003T071749Z">
+        <seg>Portre itilizater</seg>
       </tuv>
     </tu>
     <tu>
