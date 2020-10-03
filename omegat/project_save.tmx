@@ -1939,6 +1939,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T101459Z" creationid="Hugo" creationdate="20201003T101459Z">
+        <seg>OmegaT li enn programme open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100059Z" creationid="Hugo" creationdate="20201003T100059Z">
@@ -2762,6 +2770,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T160926Z">
         <seg>Bann term depi segman an kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T102428Z" creationid="Hugo" creationdate="20201003T102428Z">
+        <seg>Savedir ki si ou oule, ou kapav modifie OmegaT pou fer li koresponn seki ou bizin.</seg>
       </tuv>
     </tu>
     <tu>
