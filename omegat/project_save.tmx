@@ -951,6 +951,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T112257Z" creationid="Hugo" creationdate="20201003T112257Z">
+        <seg>Pou bann seki defann bann program open-source, sa liberte-la li pli inportan ankor ki fe ki pa bizin paye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113928Z" creationid="Hugo" creationdate="20200924T111036Z">
