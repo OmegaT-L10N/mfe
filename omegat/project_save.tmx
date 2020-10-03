@@ -3848,6 +3848,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T101451Z" creationid="Hugo" creationdate="20201003T101134Z">
+        <seg>Ou ousi kapav kopie li ek donn li bann lezot dimounn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T150624Z" creationid="Hugo" creationdate="20200921T150624Z">
