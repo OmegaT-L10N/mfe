@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114028Z" creationid="Hugo" creationdate="20201003T114028Z">
+        <seg>&lt;a0&gt;Dokimantasion&lt;/a0&gt; li bien-bien inportan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T031400Z" creationid="Hugo" creationdate="20201003T031400Z">
@@ -832,6 +840,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114007Z" creationid="Hugo" creationdate="20201003T114007Z">
+        <seg>Kreasion bann dokiman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200519T160042Z">
@@ -1575,6 +1591,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T110029Z" creationid="Hugo" creationdate="20200924T110029Z">
         <seg>Tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T114229Z" creationid="Hugo" creationdate="20201003T114229Z">
+        <seg>Kapav ou enn tradikter ki finn deza tradir boukou gid itilizater</seg>
       </tuv>
     </tu>
     <tu>
