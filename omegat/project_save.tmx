@@ -557,6 +557,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>"other" should be for "areas" and not (primarily) "volunteers": areas other than programming...</note>
+      <tuv lang="en">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113952Z" creationid="Hugo" creationdate="20201003T113952Z">
+        <seg>Ala enn lalis bann lezot domenn kot benevol ti pou plis ki bienveni!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Browse TaaS Collections...</seg>
       </tuv>
