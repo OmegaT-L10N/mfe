@@ -1579,6 +1579,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115645Z" creationid="Hugo" creationdate="20201003T115645Z">
+        <seg>Li kapav enn revelasion!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
