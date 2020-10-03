@@ -1931,6 +1931,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T100059Z" creationid="Hugo" creationdate="20201003T100059Z">
+        <seg>OmegaT li pa selman enn program; li ousi enn proze pasionan ki ou kapav zwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T133950Z" creationid="Hugo" creationdate="20200928T133950Z">
@@ -2746,6 +2754,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T160926Z">
         <seg>Bann term depi segman an kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T095917Z" creationid="Hugo" creationdate="20201003T095917Z">
+        <seg>Proze OmegaT ek ou</seg>
       </tuv>
     </tu>
     <tu>
