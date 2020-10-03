@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113625Z" creationid="Hugo" creationdate="20201003T113625Z">
+        <seg>Me programasion li pa sel travay ki bizin fer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T135129Z" creationid="Hugo" creationdate="20200921T125033Z">
@@ -2167,6 +2175,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035343Z" creationid="Hugo" creationdate="20201003T035343Z">
         <seg>Fonksion profesionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113530Z" creationid="Hugo" creationdate="20201003T113530Z">
+        <seg>Programasion, li vre, li fonksion ki pli inportan, ek san programasion, pena program.</seg>
       </tuv>
     </tu>
     <tu>
