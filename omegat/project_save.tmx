@@ -1603,6 +1603,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115653Z" creationid="Hugo" creationdate="20201003T115653Z">
+        <seg>Lokalizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T110029Z" creationid="Hugo" creationdate="20200924T110029Z">
@@ -2851,6 +2859,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T160926Z">
         <seg>Bann term depi segman an kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou montre dan vole Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115834Z" creationid="Hugo" creationdate="20201003T115834Z">
+        <seg>Gras-a travay boukou bann tradikter, linterfas itilizater ek bann text led OmegaT finn tradi dans plizier langaz.</seg>
       </tuv>
     </tu>
     <tu>
