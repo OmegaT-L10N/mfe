@@ -1202,8 +1202,8 @@
       <tuv lang="en">
         <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T080626Z" creationid="Hugo" creationdate="20201003T080626Z">
-        <seg>Mo finn itiliz OmegaT kouma tradikter profesionel depi plis ki 10 banane. Depi premie zour, mo finn bien kontan fasilite so litilizasion ek so forom ki bien-bien itil.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T112704Z" creationid="Hugo" creationdate="20201003T080626Z">
+        <seg>Mo finn itiliz OmegaT kouma tradikter profesionel depi plis ki 10 banane. Depi premie zour, mo finn bien profit fasilite so litilizasion ek so forom ki bien-bien itil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,6 +2810,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T055627Z" creationid="Hugo" creationdate="20201001T055627Z">
         <seg>Filozofi proze OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113128Z" creationid="Hugo" creationdate="20201003T112636Z">
+        <seg>Proze OmegaT ti pou profite enn pli gran soutien bann benevol dan tou bann domenn.</seg>
       </tuv>
     </tu>
     <tu>
