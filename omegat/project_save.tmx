@@ -1611,6 +1611,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T120147Z" creationid="Hugo" creationdate="20201003T120147Z">
+        <seg>Lokalizasion OmegaT dan lezot langaz li ousi enn travay ki zame fini, parski ena bann nouvo fonksion ki pe azoute an permanans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T110029Z" creationid="Hugo" creationdate="20200924T110029Z">
@@ -2883,6 +2891,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T101047Z" creationid="Hugo" creationdate="20201003T100424Z">
         <seg>Savedir ki bann itilizater kouma oumem kapav download li ek servi li san okenn restriksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T115952Z" creationid="Hugo" creationdate="20201003T115952Z">
+        <seg>Savedir ki ena zis ankor detrwa mil pou fer!</seg>
       </tuv>
     </tu>
     <tu>
