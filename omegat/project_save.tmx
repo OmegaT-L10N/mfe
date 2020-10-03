@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T035331Z" creationid="Hugo" creationdate="20201003T032542Z">
+        <seg>(Bann program ki fer sa apel bann "tradikter otomatik", ek ou pou bizin chek enn lot plas si sa-mem ki ou pe rode.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>, one can find:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200723T190417Z" creationid="Hugo" creationdate="20200723T190417Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054552Z" creationid="Hugo" creationdate="20201003T054552Z">
+        <seg>...ek apepre 30 lezot forma fisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200606T193059Z">
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125809Z" creationid="Hugo" creationdate="20200607T125809Z">
         <seg>... koresponn seki isi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031400Z" creationid="Hugo" creationdate="20201003T031400Z">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;A nou ale&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +106,38 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200606T185304Z">
         <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp fisie avek lantre delimite par tabilasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071729Z" creationid="Hugo" creationdate="20201003T071729Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Dernie version disponib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071707Z" creationid="Hugo" creationdate="20201003T071533Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Version standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055652Z" creationid="Hugo" creationdate="20201003T031733Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; li enn program lib memwar tradiksion ki fonksionn lor Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T065545Z" creationid="Hugo" creationdate="20201003T065545Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; disponib dan diferan version pou satisfer diferan profil itilizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +242,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T064920Z" creationid="Hugo" creationdate="20200925T064920Z">
         <seg>Enn skrip ki vinn avek OmegaT ek apel Switch Colour Themes permet ou aplik enn tem somb par defo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T080826Z" creationid="Hugo" creationdate="20201003T080826Z">
+        <seg>Li ena boukou fonksion, enn linterfas sinp, ek, plis ki tout, enn devlopman open-source konstan ek regilie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +368,16 @@
       <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193056Z" creationid="Hugo" creationdate="20200528T170053Z">
-        <seg>Format CSV osi aksepte.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054106Z" creationid="Hugo" creationdate="20200528T170053Z">
+        <seg>Forma CSV ousi aksepte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071403Z" creationid="Hugo" creationdate="20201003T071403Z">
+        <seg>Si ou deza kone ki version ou oule telesarze, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +480,8 @@
       <tuv lang="en">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T134103Z" creationid="Hugo" creationdate="20201001T134103Z">
-        <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki nimport ki sanzman OmegaT pou bizin konstitie enn benefis pou laplikasion-la ek so bann litilizater.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20201001T134103Z">
+        <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki nimport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann litilizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055641Z" creationid="Hugo" creationdate="20201003T055641Z">
+        <seg>Konpatib avek bann lezot program memwar tradiksion (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T153606Z" creationid="Hugo" creationdate="20201001T113544Z">
@@ -689,8 +769,8 @@
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200904T120005Z" creationid="Hugo" creationdate="20200519T132551Z">
-        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ou Lingvo DSL.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054042Z" creationid="Hugo" creationdate="20200519T132551Z">
+        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor forma StarDict ou Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -699,6 +779,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T135857Z" creationid="Hugo" creationdate="20200924T135857Z">
         <seg>Diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T073323Z" creationid="Hugo" creationdate="20201003T073323Z">
+        <seg>Diego Merino - Tradikter EN &gt; ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -731,6 +819,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115153Z" creationid="Hugo" creationdate="20200729T115153Z">
         <seg>Download paz MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071512Z" creationid="Hugo" creationdate="20201003T071512Z">
+        <seg>Download</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,8 +937,8 @@
       <tuv lang="en">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T190233Z">
-        <seg>Format fisie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054055Z" creationid="Hugo" creationdate="20200527T190233Z">
+        <seg>Forma fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -935,6 +1031,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T035407Z" creationid="Hugo" creationdate="20201003T035407Z">
+        <seg>Korespondans parsiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T074832Z" creationid="Hugo" creationdate="20200924T074832Z">
@@ -955,6 +1059,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133644Z" creationid="Hugo" creationdate="20200924T133644Z">
         <seg>Prokir-ou enn lakle API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031504Z" creationid="Hugo" creationdate="20201003T031504Z">
+        <seg>Demare ek OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1192,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T080626Z" creationid="Hugo" creationdate="20201003T080626Z">
+        <seg>Mo finn itiliz OmegaT kouma tradikter profesionel depi plis ki 10 banane. Depi premie zour, mo finn bien kontan fasilite so litilizasion ek so forom ki bien-bien itil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T144423Z">
@@ -1130,8 +1250,8 @@
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si fisie-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054049Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si fisie-la deza existe, pa pou ena verifikasion so forma ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,8 +1266,8 @@
       <tuv lang="en">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T155016Z" creationid="Hugo" creationdate="20200921T155016Z">
-        <seg>Si sa bann leksik-la itilize par lezot aplikasion lor ou sistem, zot pou disparet depi sa bann aplikasion-la ousi.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200921T155016Z">
+        <seg>Si sa bann leksik-la itilize par lezot program lor ou sistem, zot pou disparet depi sa bann program-la ousi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,15 +1315,15 @@
       <tuv lang="en">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T202506Z" creationid="Hugo" creationdate="20200528T194438Z">
-        <seg>Si ou ena enn sistem zestion termilozik, li posib ki li propoz exportasion data terminolozik via format TBX.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054214Z" creationid="Hugo" creationdate="20200528T194438Z">
+        <seg>Si ou ena enn sistem zestion termilozik, li posib ki li propoz exportasion data terminolozik via forma TBX.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142838Z" creationid="Hugo" creationdate="20200921T114812Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071657Z" creationid="Hugo" creationdate="20200921T114812Z">
         <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann fisie-la zot es_es.dic ek es_es.aff), ou kapav kopie bann fisies-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
@@ -1260,8 +1380,8 @@
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T193059Z" creationid="Hugo" creationdate="20200528T190742Z">
-        <seg>An plis format text brit, format TBX osi aksepte antan ki format gloser read-only.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054200Z" creationid="Hugo" creationdate="20200528T190742Z">
+        <seg>An plis forma text brit, format TBX ousi aksepte antan ki format gloser read-only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1450,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055550Z" creationid="Hugo" creationdate="20201003T055550Z">
+        <seg>Verifikater lortograf integral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055858Z" creationid="Hugo" creationdate="20201003T055858Z">
+        <seg>Interfas avek Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It allows parameters to be set for all translation projects.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T074757Z" creationid="Hugo" creationdate="20200924T074757Z">
@@ -1346,10 +1482,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T032238Z" creationid="Hugo" creationdate="20201003T032238Z">
+        <seg>Li pa tradir pou ou!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T032224Z" creationid="Hugo" creationdate="20201003T032224Z">
+        <seg>Li enn zouti pou bann tradikter profesionel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113441Z" creationid="Hugo" creationdate="20200731T091431Z">
-        <seg>Donk li kapav servi tou bann diksioner lib ki sa bann aplikasion-la itilize.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200731T091431Z">
+        <seg>Donk li kapav servi tou bann diksioner lib ki sa bann program-la itilize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,8 +1548,8 @@
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200729T132358Z">
-        <seg>Mark bann segman tradi otomatikman depi dosie oto</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045902Z" creationid="Hugo" creationdate="20200729T132358Z">
+        <seg>Mark bann segman ki finn tradi depi dosie oto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T035435Z" creationid="Hugo" creationdate="20201003T035435Z">
+        <seg>Propagasion bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menu Item</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115041Z" creationid="Hugo" creationdate="20200729T114834Z">
@@ -1494,6 +1654,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T130455Z" creationid="Hugo" creationdate="20200519T155258Z">
         <seg>Itilizasion diksioner Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054231Z" creationid="Hugo" creationdate="20201003T054231Z">
+        <seg>Microsoft Word, Excel, PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -1588,8 +1756,8 @@
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131444Z" creationid="Hugo" creationdate="20200729T131444Z">
-        <seg>Segman tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045701Z" creationid="Hugo" creationdate="20200729T131444Z">
+        <seg>Segman fini tradi swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1604,8 +1772,8 @@
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131842Z" creationid="Hugo" creationdate="20200729T131434Z">
-        <seg>Segman pa tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045145Z" creationid="Hugo" creationdate="20200729T131434Z">
+        <seg>Segman pa ankor tradi swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1707,6 +1875,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T073603Z" creationid="Hugo" creationdate="20201003T073603Z">
+        <seg>Bann tradikter italiens ODFAuthors ek LibreOffice fier itiliz enn ousi bon zouti pou fer zot travay dan kominote LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T102122Z" creationid="Hugo" creationdate="20200921T154623Z">
@@ -1723,6 +1899,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T034337Z" creationid="Hugo" creationdate="20201003T031332Z">
+        <seg>OmegaT &lt;s0&gt;zouti lib memwar tradiksion&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055906Z" creationid="Hugo" creationdate="20201003T055906Z">
+        <seg>Screenshot OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
@@ -1733,8 +1925,8 @@
       <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T153844Z" creationid="Hugo" creationdate="20200929T153844Z">
-        <seg>OmegaT li enn proze ek enn aplikasion open-source.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200929T153844Z">
+        <seg>OmegaT li enn proze ek enn program open-source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,6 +2003,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054406Z" creationid="Hugo" creationdate="20201003T054256Z">
+        <seg>Forma OpenDocument (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Recent Project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115010Z" creationid="Hugo" creationdate="20200729T115010Z">
@@ -1839,6 +2039,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113613Z" creationid="Hugo" creationdate="20200918T120734Z">
         <seg>Met fisie diksioner ki ou oule servi dan sa dosie-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054433Z" creationid="Hugo" creationdate="20201003T054433Z">
+        <seg>Text brit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054612Z" creationid="Hugo" creationdate="20201003T054612Z">
+        <seg>Bann zouti pwisan</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,6 +2119,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
         <seg>Problem avek diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T035343Z" creationid="Hugo" creationdate="20201003T035343Z">
+        <seg>Fonksion profesionel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,8 +2406,8 @@
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200904T151524Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lyin diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071439Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2348,10 +2572,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031023Z" creationid="Hugo" creationdate="20201003T031023Z">
+        <seg>Met version morisien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142436Z" creationid="Hugo" creationdate="20200924T142436Z">
         <seg>Montre bwat dialog pou sanz font afisaz text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T042927Z" creationid="Hugo" creationdate="20201003T042927Z">
+        <seg>Tretman paralel bann proze miltifisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T043013Z" creationid="Hugo" creationdate="20201003T043013Z">
+        <seg>Litilizasion similtane plizier memwar tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2421,6 +2669,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055426Z" creationid="Hugo" creationdate="20201003T055410Z">
+        <seg>Priz an sarz ban langaz drwat-gos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130314Z" creationid="Hugo" creationdate="20200729T125932Z">
@@ -2439,16 +2695,16 @@
       <tuv lang="en">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T125834Z" creationid="Hugo" creationdate="20200729T125733Z">
-        <seg>Met selman 1e let fraz en maziskil</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055448Z" creationid="Hugo" creationdate="20200729T125733Z">
+        <seg>Met selman 1e let fraz an maziskil</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130025Z" creationid="Hugo" creationdate="20200729T125625Z">
-        <seg>Met 1e let tou bann mo dan seleksion en maziskil</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055443Z" creationid="Hugo" creationdate="20200729T125625Z">
+        <seg>Met 1e let tou bann mo dan seleksion an maziskil</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,8 +2720,8 @@
       <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112741Z" creationid="Hugo" creationdate="20200528T193248Z">
-        <seg>TBX – Term Base eXchange – li enn standar lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071554Z" creationid="Hugo" creationdate="20200528T193248Z">
+        <seg>TBX – Term Base eXchange – li enn standard lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,8 +2984,8 @@
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200706T193138Z">
-        <seg>Sintax komplett pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T072056Z" creationid="Hugo" creationdate="20200706T193138Z">
+        <seg>Sintax konplett pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +3074,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200929T153801Z" creationid="Hugo" creationdate="20200929T153801Z">
         <seg>Filozofi open-source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T073157Z" creationid="Hugo" creationdate="20201003T072015Z">
+        <seg>Enn konpagnon ideal pou tou sa ki pa bizin konplexite me lefikasite; bann gloser, auto-complete ek tradiksion otomatik rann mwa pli prodiktif pou mo bann tradiksion literer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3009,8 +3273,8 @@
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113632Z" creationid="Hugo" creationdate="20200921T121048Z">
-        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; aplikasion-la pou itiliz diksioner aproprie an fonksion kod langaz ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200921T121048Z">
+        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; program-la pou itiliz diksioner aproprie an fonksion kod langaz ou proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3081,8 +3345,8 @@
       <tuv lang="en">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200606T185359Z" creationid="Hugo" creationdate="20200528T170303Z">
-        <seg>Format-la li parey kouma separasion par tabilasion: term sours, term sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054146Z" creationid="Hugo" creationdate="20200528T170303Z">
+        <seg>Forma-la li parey kouma separasion par tabilasion: term sours, term sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055529Z" creationid="Hugo" creationdate="20201003T031106Z">
+        <seg>Sit-la li ousi disponib an Kreol Morisien!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T140511Z" creationid="Hugo" creationdate="20200928T140511Z">
@@ -3163,6 +3435,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T121325Z" creationid="Hugo" creationdate="20200921T145442Z">
         <seg>Pou aktiv verifikater lortograf, klik lor &lt;g0&gt;Opsion &gt; Verifikasion lortograf&lt;/g0&gt; ek seleksionn &lt;g1&gt;Chek lortograf otomatikman&lt;/g1&gt; (get laho).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071409Z" creationid="Hugo" creationdate="20201003T070259Z">
+        <seg>Pou trouv version ki pli adapte pou ou, chek Download Selector lor lien enba la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3515,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115850Z" creationid="Hugo" creationdate="20200729T115850Z">
         <seg>Anil dernie laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055421Z" creationid="Hugo" creationdate="20201003T054923Z">
+        <seg>Priz an sarz Unicode (UTF-8): itilizasion posib avek bann alfabe non latin</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,6 +3632,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T050020Z" creationid="Hugo" creationdate="20201003T050020Z">
+        <seg>Gloser avek idantifikasion bann fleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071749Z" creationid="Hugo" creationdate="20201003T071749Z">
+        <seg>Portre litilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T144522Z" creationid="Hugo" creationdate="20201001T071944Z">
@@ -3388,6 +3692,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T132556Z">
         <seg>Valid bann tags pou dokiman an kour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T073610Z" creationid="Hugo" creationdate="20201003T073610Z">
+        <seg>Valter Mura - Tradikter EN &gt; IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031518Z" creationid="Hugo" creationdate="20201003T031511Z">
+        <seg>Video &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3440,6 +3760,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054023Z" creationid="Hugo" creationdate="20201003T054023Z">
+        <seg>Siport plis ki 30 forma fisie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X followed by Y</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163734Z" creationid="Hugo" creationdate="20200607T163734Z">
@@ -3468,6 +3796,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163246Z" creationid="Hugo" creationdate="20200607T140321Z">
         <seg>X, zero fwa ou plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054235Z" creationid="Hugo" creationdate="20201003T054235Z">
+        <seg>XHTML ek HTML</seg>
       </tuv>
     </tu>
     <tu>
