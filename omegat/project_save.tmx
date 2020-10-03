@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113322Z" creationid="Hugo" creationdate="20201003T113322Z">
+        <seg>Malgre boukou itilizater konn sa, zot reaksion li souvan "Me mo pa konn programe!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T135041Z" creationid="Hugo" creationdate="20200729T135041Z">
