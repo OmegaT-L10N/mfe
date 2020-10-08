@@ -1193,6 +1193,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084608Z" creationid="Hugo" creationdate="20201008T084608Z">
+        <seg>Eski ou finn deza ekrir enn lartik dan zournal ou lasosiason profesionel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Help Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142043Z" creationid="Hugo" creationdate="20200729T142043Z">
