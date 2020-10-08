@@ -960,6 +960,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152351Z" creationid="Hugo" creationdate="20201008T152351Z">
+        <seg>Tradikter version morisien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T171722Z" creationid="Hugo" creationdate="20200607T171722Z">
@@ -4053,6 +4061,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091327Z" creationid="Hugo" creationdate="20201008T091327Z">
         <seg>Nou pa pe kapav trouv paz ki ou pe rode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152308Z" creationid="Hugo" creationdate="20201008T152308Z">
+        <seg>Oter bann konteni sit Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152325Z" creationid="Hugo" creationdate="20201008T152325Z">
+        <seg>Design sit Internet</seg>
       </tuv>
     </tu>
     <tu>
