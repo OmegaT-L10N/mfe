@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071403Z" creationid="Hugo" creationdate="20201003T071403Z">
-        <seg>Si ou deza kone ki version ou oule telesarze, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081344Z" creationid="Hugo" creationdate="20201003T071403Z">
+        <seg>Si ou deza kone ki version ou oule download, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@
       <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055426Z" creationid="Hugo" creationdate="20201003T055410Z">
-        <seg>Priz an sarz ban langaz drwat-gos</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081248Z" creationid="Hugo" creationdate="20201003T055410Z">
+        <seg>Priz an sarz ban langaz drwat-gos (ex. arabe)</seg>
       </tuv>
     </tu>
     <tu>
