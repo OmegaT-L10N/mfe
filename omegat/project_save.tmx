@@ -808,6 +808,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153045Z" creationid="Hugo" creationdate="20201008T153045Z">
+        <seg>Bann devloper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T090037Z" creationid="Hugo" creationdate="20201001T090037Z">
@@ -868,6 +876,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T114007Z" creationid="Hugo" creationdate="20201003T114007Z">
         <seg>Kreasion bann dokiman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152951Z" creationid="Hugo" creationdate="20201008T152951Z">
+        <seg>Responsab dokimantasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -1703,6 +1719,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T115653Z" creationid="Hugo" creationdate="20201003T115653Z">
         <seg>Lokalizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153036Z" creationid="Hugo" creationdate="20201008T153036Z">
+        <seg>Responsab lokalizasion, proprieter group itilizater</seg>
       </tuv>
     </tu>
     <tu>
@@ -2877,6 +2901,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153437Z" creationid="Hugo" creationdate="20201008T153437Z">
+        <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot kontribier, tro boukou pou kapav sit zot tou isi. Toutfwa, nou bien-bien rekonesan pou zot led.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
@@ -3443,6 +3475,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100642Z" creationid="Hugo" creationdate="20201003T072015Z">
         <seg>Enn konpagnon ideal pou nou tou ki pa bizin konplexite me lefikasite; bann gloser, auto-complete ek tradiksion otomatik rann mwa pli prodiktif pou mo bann tradiksion literer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153118Z" creationid="Hugo" creationdate="20201008T153118Z">
+        <seg>Filozofi proze-la li finn dekrir &lt;a0&gt;isi&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
