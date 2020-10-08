@@ -2300,6 +2300,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084048Z" creationid="Hugo" creationdate="20201008T084048Z">
+        <seg>Reklam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115730Z" creationid="Hugo" creationdate="20200729T115730Z">
