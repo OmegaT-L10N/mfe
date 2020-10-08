@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090108Z" creationid="Hugo" creationdate="20201008T090108Z">
+        <seg>Me ou pou dir mwa: me mo pa konn ditou programe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T113625Z" creationid="Hugo" creationdate="20201003T113625Z">
@@ -1377,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090433Z" creationid="Hugo" creationdate="20201008T090433Z">
+        <seg>Si ou deza familie ek bann computer an zeneral ek ou swazi enn langaz skrip sinp kouma Javascript ou Tcl/Tk, ou kapav aprann sifizaman dan detrwa semenn pou ekrir bann skrip itil </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T113014Z" creationid="Hugo" creationdate="20200729T113014Z">
@@ -1387,8 +1403,8 @@
       <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085902Z" creationid="Hugo" creationdate="20201008T085818Z">
-        <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar aplikasion prinsipal.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085956Z" creationid="Hugo" creationdate="20201008T085818Z">
+        <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar pou aplikasion prinsipal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090007Z" creationid="Hugo" creationdate="20201008T085949Z">
+        <seg>Par exanp, boukou program finn ekrir dan Javascript, Groovy ek Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T081248Z" creationid="Hugo" creationdate="20201003T055410Z">
@@ -4005,6 +4029,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120247Z" creationid="Hugo" creationdate="20200729T141737Z">
         <seg>Lafisaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090124Z" creationid="Hugo" creationdate="20201008T090124Z">
+        <seg>Eski ou finn deza pans aprann?</seg>
       </tuv>
     </tu>
     <tu>
