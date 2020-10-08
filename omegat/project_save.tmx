@@ -248,8 +248,8 @@
       <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T064920Z" creationid="Hugo" creationdate="20200925T064920Z">
-        <seg>Enn skrip ki vinn avek OmegaT ek apel Switch Colour Themes permet ou aplik enn tem somb par defo.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090536Z" creationid="Hugo" creationdate="20200925T064920Z">
+        <seg>Enn skript ki vinn avek OmegaT ek apel Switch Colour Themes permet ou aplik enn tem somb par defo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +708,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055641Z" creationid="Hugo" creationdate="20201003T055641Z">
         <seg>Konpatib avek bann lezot program memwar tradiksion (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T091211Z" creationid="Hugo" creationdate="20201008T091211Z">
+        <seg>Devlopman profesionel li enn prosesis kontiniel!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1387,8 +1395,8 @@
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090513Z" creationid="Hugo" creationdate="20201008T090433Z">
-        <seg>Si ou deza familie ek bann computer an zeneral, ek ou swazi enn langaz skrip sinp kouma Javascript ou Tcl/Tk, ou kapav aprann sifizaman dan detrwa semenn pou ekrir bann skrip itil </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090635Z" creationid="Hugo" creationdate="20201008T090433Z">
+        <seg>Si ou deza familie ek bann computer an zeneral, ek ou swazi enn langaz skript ki sinp kouma Javascript ouswa Tcl/Tk, ou kapav aprann sifizaman par oumem dan detrwa semenn pou ekrir bann skrip sinp me bien itil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,8 +2270,8 @@
       <tuv lang="en">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T064100Z" creationid="Hugo" creationdate="20200925T063350Z">
-        <seg>Ou kapav definir enn tem gras-a enn skrip.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090532Z" creationid="Hugo" creationdate="20200925T063350Z">
+        <seg>Ou kapav definir enn tem gras-a enn skript.</seg>
       </tuv>
     </tu>
     <tu>
