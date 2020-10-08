@@ -1442,6 +1442,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085644Z" creationid="Hugo" creationdate="20201008T085644Z">
+        <seg>Si ou enn devloper ek ou konn Java, chek dokimantasion dan &lt;a0&gt;kod sours&lt;/a0&gt; dan dosie /docs_devel pou kone kouma demare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T155443Z" creationid="Hugo" creationdate="20200921T155443Z">
