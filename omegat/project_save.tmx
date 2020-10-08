@@ -864,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084717Z" creationid="Hugo" creationdate="20201008T084717Z">
+        <seg>Don</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115153Z" creationid="Hugo" creationdate="20200729T115153Z">
@@ -1390,6 +1398,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T054214Z" creationid="Hugo" creationdate="20200528T194438Z">
         <seg>Si ou ena enn sistem zestion termilozik, li posib ki li propoz exportasion data terminolozik via forma TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084932Z" creationid="Hugo" creationdate="20201008T084932Z">
+        <seg>Si ou finn trouv OmegaT itil ek ou anvi fer enn &lt;a0&gt;don&lt;/a0&gt;, ou kapav servi nou kont Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2052,6 +2068,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084955Z" creationid="Hugo" creationdate="20201008T084955Z">
+        <seg>OmegaT finn ekrir dan langaz Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100059Z" creationid="Hugo" creationdate="20201003T100059Z">
@@ -2272,6 +2296,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035343Z" creationid="Hugo" creationdate="20201003T035343Z">
         <seg>Fonksion profesionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084939Z" creationid="Hugo" creationdate="20201008T084939Z">
+        <seg>Programasion (Java)</seg>
       </tuv>
     </tu>
     <tu>
