@@ -2022,8 +2022,8 @@
       <tuv lang="en">
         <seg>OmegaT is open-source software.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T101459Z" creationid="Hugo" creationdate="20201003T101459Z">
-        <seg>OmegaT li enn programme open-source.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081748Z" creationid="Hugo" creationdate="20201003T101459Z">
+        <seg>OmegaT li enn program open-source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,8 +2881,8 @@
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T102428Z" creationid="Hugo" creationdate="20201003T102428Z">
-        <seg>Savedir ki si ou oule, ou kapav modifie OmegaT pou fer li koresponn seki ou bizin.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081743Z" creationid="Hugo" creationdate="20201003T102428Z">
+        <seg>Savedir ki si ou oule, ou kapav modifie OmegaT pou fer li koresponn exakteman kouma seki ou bizin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2921,8 +2921,8 @@
       <tuv lang="en">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T113128Z" creationid="Hugo" creationdate="20201003T112636Z">
-        <seg>Proze OmegaT ti pou profite enn pli gran soutien bann benevol dan tou bann domenn.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T082023Z" creationid="Hugo" creationdate="20201003T112636Z">
+        <seg>Proze OmegaT li ti pou tir profi enn pli gran soutien bann benevol dan tou bann domenn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3185,8 +3185,8 @@
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T184020Z" creationid="Hugo" creationdate="20200527T170641Z">
-        <seg>Fonksion gloser trouv zis bann mo ki koresponn exacteman avek bann lantre gloser (ex. li pa rekonet bann form konzige).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081717Z" creationid="Hugo" creationdate="20200527T170641Z">
+        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann lantre gloser (ex. li pa rekonet bann form konzige).</seg>
       </tuv>
     </tu>
     <tu>
