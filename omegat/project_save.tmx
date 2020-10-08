@@ -1683,6 +1683,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152920Z" creationid="Hugo" creationdate="20201008T152920Z">
+        <seg>Devloper prinsipal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T115838Z" creationid="Hugo" creationdate="20201001T115838Z">
@@ -2240,6 +2248,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T134827Z" creationid="Hugo" creationdate="20200729T134827Z">
         <seg>Meni Opsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152837Z" creationid="Hugo" creationdate="20201008T152837Z">
+        <seg>Kreater program OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3439,6 +3455,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152811Z" creationid="Hugo" creationdate="20201008T152811Z">
+        <seg>Bann akter prinsipal proze la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T114611Z" creationid="Hugo" creationdate="20201001T114611Z">
@@ -4101,6 +4125,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T152325Z" creationid="Hugo" creationdate="20201008T152325Z">
         <seg>Design sit Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152943Z" creationid="Hugo" creationdate="20201008T152943Z">
+        <seg>Responsab sit Internet</seg>
       </tuv>
     </tu>
     <tu>
