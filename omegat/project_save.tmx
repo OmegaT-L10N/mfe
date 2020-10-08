@@ -2853,6 +2853,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T091310Z" creationid="Hugo" creationdate="20201008T091310Z">
+        <seg>Sori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected Match</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131630Z" creationid="Hugo" creationdate="20200729T131630Z">
@@ -4041,6 +4049,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T091327Z" creationid="Hugo" creationdate="20201008T091327Z">
+        <seg>Nou pa pe kapav trouv paz ki ou pe rode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090124Z" creationid="Hugo" creationdate="20201008T090124Z">
@@ -4165,6 +4181,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200918T121745Z">
         <seg>Ouswa ou kopie bann fisie manielman (depi nimport ki landrwa dan ou sistem) o traver ou fisie manager; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152207Z" creationid="Hugo" creationdate="20201008T152207Z">
+        <seg>Ou kapav al lor &lt;a0&gt;homepage&lt;/a0&gt; pou rod bann linformasion ki ou bizin.</seg>
       </tuv>
     </tu>
     <tu>
