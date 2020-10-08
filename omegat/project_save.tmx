@@ -1080,14 +1080,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Fuzzy matching</seg>
-      </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T035407Z" creationid="Hugo" creationdate="20201003T035407Z">
-        <seg>Korespondans parsiel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>General</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T074832Z" creationid="Hugo" creationdate="20200924T074832Z">
@@ -1114,8 +1106,8 @@
       <tuv lang="en">
         <seg>Get Started with OmegaT</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031504Z" creationid="Hugo" creationdate="20201003T031504Z">
-        <seg>Demare ek OmegaT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080845Z" creationid="Hugo" creationdate="20201003T031504Z">
+        <seg>Demare avek OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,8 +3755,8 @@
       <tuv lang="en">
         <seg>Use fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140707Z" creationid="Hugo" creationdate="20200924T140707Z">
-        <seg>Servi korespondans parsiel pou lantre diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080942Z" creationid="Hugo" creationdate="20200924T140707Z">
+        <seg>Servi fuzzy matching pou lantre diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -3813,6 +3805,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T050020Z" creationid="Hugo" creationdate="20201003T050020Z">
         <seg>Gloser avek idantifikasion bann fleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080746Z" creationid="Hugo" creationdate="20201008T080746Z">
+        <seg>Gid itilizater...</seg>
       </tuv>
     </tu>
     <tu>
