@@ -1667,6 +1667,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152735Z" creationid="Hugo" creationdate="20201008T152735Z">
+        <seg>So lobzektif li devlop, distribie ek promouvwar OmegaT, enn program open-source memwar tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
@@ -3055,10 +3063,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152356Z" creationid="Hugo" creationdate="20201008T152356Z">
+        <seg>Proze OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project and you</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T081549Z" creationid="Hugo" creationdate="20201003T095917Z">
         <seg>Proze OmegaT ek ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152632Z" creationid="Hugo" creationdate="20201008T152632Z">
+        <seg>Proze OmegaT li existe gras-a enn group informel ek internasional benevol.</seg>
       </tuv>
     </tu>
     <tu>
