@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084035Z" creationid="Hugo" creationdate="20201008T084035Z">
+        <seg>Ek kan zot trouv enn zafer ki pa pe marse, ouswa enn problem dan dokimantasion, zot inform nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T134331Z" creationid="Hugo" creationdate="20200607T134331Z">
