@@ -778,8 +778,8 @@
       <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T154017Z" creationid="Hugo" creationdate="20201001T113821Z">
-        <seg>Bann diskision teknik detaye lor bann modifikasion zot bizin direkteman avek bann devloper OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080355Z" creationid="Hugo" creationdate="20201001T113821Z">
+        <seg>Apre, bann diskision teknik detaye lor bann modifikasion bizin fer direkteman avek bann devloper OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,8 +1066,8 @@
       <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T154053Z" creationid="Hugo" creationdate="20201001T114014Z">
-        <seg>Pou sa rezon-la, &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt; existe.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080458Z" creationid="Hugo" creationdate="20201001T114014Z">
+        <seg>Pou sa rezon-la, ena enn &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1453,8 +1453,8 @@
       <tuv lang="en">
         <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201002T134132Z" creationid="Hugo" creationdate="20201001T072318Z">
-        <seg>Si zot oule, zot kapav ousi amenn zot kontribision dan proze-la; li enkouraze, me pena okenn obligasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T075703Z" creationid="Hugo" creationdate="20201001T072318Z">
+        <seg>Si zot oule, zot kapav ousi amenn zot kontribision dan proze-la; li ankouraze, me pena okenn obligasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1877,8 +1877,8 @@
       <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T055504Z" creationid="Hugo" creationdate="20200929T154703Z">
-        <seg>Non selman zot kapav servi li gratis, me zot lib ousi kopie ek distribie li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T073935Z" creationid="Hugo" creationdate="20200929T154703Z">
+        <seg>Non selman zot kapav servi li gratwitman, me zot lib ousi kopie ek distribie li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,8 +2054,8 @@
       <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T122459Z" creationid="Hugo" creationdate="20201001T122459Z">
-        <seg>Etan done ki bann devloper OmegaT zot tou benevol, enn RFE ki finanse par so demander ena plis sans integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080642Z" creationid="Hugo" creationdate="20201001T122459Z">
+        <seg>Etan done ki bann devloper OmegaT zot tou benevol, enn RFE ki finanse par dimounn ou lantite ki bizin sa fonksion-la li ena plis sans integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,8 +2094,8 @@
       <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T153540Z" creationid="Hugo" creationdate="20201001T113140Z">
-        <seg>An efe, fonksion swete kapav deza existe, ouswa kapav ena bann rezon kifer pa kapav met li an pratik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080313Z" creationid="Hugo" creationdate="20201001T113140Z">
+        <seg>An-efe, fonksion swete kapav li deza existe, ouswa kapav ena bann rezon kifer pa kapav met li an pratik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,8 +3434,8 @@
       <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T152656Z" creationid="Hugo" creationdate="20201001T094704Z">
-        <seg>Bann itilizater kapav toutfwa sigzer bann ameliorasion ek inflians fitir devlopman proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080131Z" creationid="Hugo" creationdate="20201001T094704Z">
+        <seg>Ena toutfwa plizier fason bann itilizater kapav sigzer bann ameliorasion ek inflians fitir devlopman proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,8 +3538,8 @@
       <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T144441Z" creationid="Hugo" creationdate="20200929T160641Z">
-        <seg>Nou servi lopozision ant "liberte lexpresion" ek "gratis" pou bien fer konpran sa lide-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T075539Z" creationid="Hugo" creationdate="20200929T160641Z">
+        <seg>Nou servi lopozision ant "lib" (setadir ki pena kontrint ou restriksion) ek "gratwi" (setadir ki ou pa bizin peye) pou bien fer konpran sa lide-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,8 +3642,8 @@
       <tuv lang="en">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T112343Z" creationid="Hugo" creationdate="20200929T160102Z">
-        <seg>Pou mouvman open-source, liberte ki bann itilizater ena adapte enn program kouma zot oule li pli inportan ki laspe finansie, setadir ki zot pa bizin peye.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T074058Z" creationid="Hugo" creationdate="20200929T160102Z">
+        <seg>Pou mouvman open-source, sa liberte ki bann itilizater ena pou adapte enn program kouma zot oule li pli inportan ki laspe finansie, setadir laspe kot zot pa bizin peye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,8 +3827,8 @@
       <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T144522Z" creationid="Hugo" creationdate="20201001T071944Z">
-        <seg>Bann itilizater kapav download ek itiliz program-la gratis.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T075609Z" creationid="Hugo" creationdate="20201001T071944Z">
+        <seg>Bann itilizater kapav download ek itiliz program-la gratwitman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3923,16 +3923,16 @@
       <tuv lang="en">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T151356Z" creationid="Hugo" creationdate="20201001T073758Z">
-        <seg>Konsernan bann tas laroutinn, bann benevol ki travay lor OmegaT zot ase lib dan swa form zot kontribisyon.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080006Z" creationid="Hugo" creationdate="20201001T073758Z">
+        <seg>Konsernan bann tas laroutinn, bann benevol ki travay lor OmegaT zot ase lib dan swa form zot kontribision.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T121015Z" creationid="Hugo" creationdate="20201001T121015Z">
-        <seg>Sipa li pou integre depann an premie lor lapresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080534Z" creationid="Hugo" creationdate="20201001T121015Z">
+        <seg>Sipa li pou integre depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
       </tuv>
     </tu>
     <tu>
