@@ -2132,6 +2132,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153608Z" creationid="Hugo" creationdate="20201008T153608Z">
+        <seg>OmegaT ena enn group itilizater ki bien-bien aktif. Li fonksionn lor lantred ek li miltiling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200929T153844Z">
@@ -4045,6 +4053,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T050020Z" creationid="Hugo" creationdate="20201003T050020Z">
         <seg>Gloser avek idantifikasion bann fleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153457Z" creationid="Hugo" creationdate="20201008T153457Z">
+        <seg>Group itilizater</seg>
       </tuv>
     </tu>
     <tu>
