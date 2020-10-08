@@ -1385,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085902Z" creationid="Hugo" creationdate="20201008T085818Z">
+        <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar aplikasion prinsipal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133241Z" creationid="Hugo" creationdate="20200921T154332Z">
@@ -2312,6 +2320,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T084939Z" creationid="Hugo" creationdate="20201008T084939Z">
         <seg>Programasion (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085705Z" creationid="Hugo" creationdate="20201008T085705Z">
+        <seg>Programasion (pa Java)</seg>
       </tuv>
     </tu>
     <tu>
