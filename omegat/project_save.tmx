@@ -3277,6 +3277,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054338Z" creationid="Hugo" creationdate="20201010T054338Z">
+        <seg>Ou kapav swazir  Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044202Z" creationid="Hugo" creationdate="20201010T044202Z">
