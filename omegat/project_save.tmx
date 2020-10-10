@@ -1256,6 +1256,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T072338Z" creationid="Hugo" creationdate="20201010T072338Z">
+        <seg>Kapav tradir bann files forma XML Microsoft Office direkteman dan OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170250Z" creationid="Hugo" creationdate="20200607T170250Z">
