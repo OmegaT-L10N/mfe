@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040943Z" creationid="Hugo" creationdate="20201010T040943Z">
+        <seg>Par Sheila Gomes (Portige Brezilien).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T040650Z" creationid="Hugo" creationdate="20201010T040517Z">
@@ -1068,6 +1076,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141733Z" creationid="Hugo" creationdate="20200729T141733Z">
         <seg>TMX extern...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T041008Z" creationid="Hugo" creationdate="20201010T041008Z">
+        <seg>Dokimantasion extern</seg>
       </tuv>
     </tu>
     <tu>
@@ -1647,6 +1663,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200731T092427Z">
         <seg>Dan ou fisie manager, kre enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T041158Z" creationid="Hugo" creationdate="20201010T041158Z">
+        <seg>Linformasion lor bann prosedir ek fonksion OmegaT pou bann itilizater avanse lor bann lezot sit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,8 +3825,8 @@
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T153550Z" creationid="Hugo" creationdate="20200921T153550Z">
-        <seg>Verifikater lortograf servi kod langaz sib pou determnn ki langaz pou itilize: si langaz sib li Portige Brezilyen (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040952Z" creationid="Hugo" creationdate="20200921T153550Z">
+        <seg>Verifikater lortograf servi kod langaz sib pou determnn ki langaz pou itilize: si langaz sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
