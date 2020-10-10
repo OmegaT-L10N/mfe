@@ -3631,6 +3631,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T064552Z" creationid="Hugo" creationdate="20201010T063955Z">
+        <seg>Version "standard" OmegaT konpran enn gid litilizasion konplet (omwin an Angle). Li finn teste pou siprim tou bann bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T061838Z" creationid="Hugo" creationdate="20201010T061838Z">
@@ -4210,8 +4218,8 @@
       <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T052026Z" creationid="Hugo" creationdate="20201010T052026Z">
-        <seg>Linstalasion par itilizater. Li lopsion abitiel bann itilizater regilie OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T064023Z" creationid="Hugo" creationdate="20201010T052026Z">
+        <seg>Instalasion par itilizater. Li lopsion abitiel bann itilizater regilie OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
