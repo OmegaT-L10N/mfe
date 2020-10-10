@@ -2468,6 +2468,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055341Z" creationid="Hugo" creationdate="20201010T055341Z">
+        <seg>OmegaT nesesit minimom JRE version 1.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T040433Z" creationid="Hugo" creationdate="20201010T040433Z">
@@ -4218,8 +4226,8 @@
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200921T121048Z">
-        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; program-la pou itiliz diksioner aproprie an fonksion kod langaz ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055008Z" creationid="Hugo" creationdate="20200921T121048Z">
+        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; program-la pou itiliz diksioner apropriye an fonksion kod langaz ou proze.</seg>
       </tuv>
     </tu>
     <tu>
