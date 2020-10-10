@@ -1593,6 +1593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T062909Z" creationid="Hugo" creationdate="20201010T062909Z">
+        <seg>Si ou pe ezite, swazir sa version-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T052540Z" creationid="Hugo" creationdate="20201010T052540Z">
@@ -4885,6 +4893,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T080534Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou integre depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T063021Z" creationid="Hugo" creationdate="20201010T063021Z">
+        <seg>Avek JRE 64-bit</seg>
       </tuv>
     </tu>
     <tu>
