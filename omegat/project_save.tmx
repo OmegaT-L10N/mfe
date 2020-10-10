@@ -4640,6 +4640,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075244Z" creationid="Hugo" creationdate="20201010T075244Z">
+        <seg>Pou telesarz OpenOffice.org ou LibreOffice, al lor paz "Program tiers" (aksesib depi meni dan gos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T074058Z" creationid="Hugo" creationdate="20200929T160102Z">
