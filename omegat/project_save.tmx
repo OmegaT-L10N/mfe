@@ -1491,8 +1491,8 @@
       <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T085956Z" creationid="Hugo" creationdate="20201008T085818Z">
-        <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar pou aplikasion prinsipal.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035423Z" creationid="Hugo" creationdate="20201008T085818Z">
+        <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar a program prinsipal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1695,6 +1695,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142154Z" creationid="Hugo" creationdate="20200924T142117Z">
         <seg>Ou kapav servi li ousi si apre enn update OmegaT si bann vole pa aparet kouma zot bizin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035719Z" creationid="Hugo" creationdate="20201010T035719Z">
+        <seg>Ou pou trouv li a linteryer dosie program Omegat dan dosie "docs".</seg>
       </tuv>
     </tu>
     <tu>
