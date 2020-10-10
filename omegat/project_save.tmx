@@ -2356,6 +2356,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050628Z" creationid="Hugo" creationdate="20201010T050628Z">
+        <seg>Selekter Telesarzman OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Screenshot</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055906Z" creationid="Hugo" creationdate="20201003T055906Z">
