@@ -3527,6 +3527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040426Z" creationid="Hugo" creationdate="20201010T040148Z">
+        <seg>Bann tutorials swivan disponib online ouswa pou download:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T124816Z" creationid="Hugo" creationdate="20200607T124816Z">
