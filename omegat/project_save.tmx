@@ -2067,6 +2067,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080801Z" creationid="Hugo" creationdate="20201010T080801Z">
+        <seg>Li finn itilize depi inpe letan aster ek li finn fer so prev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T032224Z" creationid="Hugo" creationdate="20201003T032224Z">
@@ -2111,6 +2119,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T082254Z" creationid="Hugo" creationdate="20201003T115645Z">
         <seg>Li kapav enn gran revelasion!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080939Z" creationid="Hugo" creationdate="20201010T080939Z">
+        <seg>So dokimantasion li plizoumwin azour, antouka an Angle.</seg>
       </tuv>
     </tu>
     <tu>
