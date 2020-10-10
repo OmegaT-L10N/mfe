@@ -2652,6 +2652,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T071257Z" creationid="Hugo" creationdate="20201010T071257Z">
+        <seg>OmegaT pou marse lor ninport ki sistem kot JRE (Java Runtime Environment) apropriye finn instale ouswa kapav instale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T133950Z" creationid="Hugo" creationdate="20200928T133950Z">
@@ -3189,6 +3197,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070417Z" creationid="Hugo" creationdate="20201010T070417Z">
+        <seg>Konfigirasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore Main Window</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200918T131511Z" creationid="Hugo" creationdate="20200729T142017Z">
@@ -3610,6 +3626,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T125642Z" creationid="Hugo" creationdate="20200729T125459Z">
         <seg>Met seleksion an maziskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070424Z" creationid="Hugo" creationdate="20201010T070424Z">
+        <seg>Konfigirasion sistem</seg>
       </tuv>
     </tu>
     <tu>
