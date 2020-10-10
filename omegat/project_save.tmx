@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T130728Z" creationid="Hugo" creationdate="20201001T130342Z">
-        <seg>&lt;a0&gt;Sponsorizasion devlopman finn deza permet azout sertin fonksion.&lt;/a0&gt; Si ou oule finans travay integrasion enn fonksion swete, kontak lekip devlopman direkteman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095905Z" creationid="Hugo" creationdate="20201001T130342Z">
+        <seg>&lt;a0&gt;Sponsorizasion devlopman finn deza permet azout sertin fonksion.&lt;/a0&gt; Si ou oule finans travay inplemantasion enn fonksion swete, kontak lekip devlopman direkteman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1076,6 +1076,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032103Z" creationid="Hugo" creationdate="20201010T032103Z">
         <seg>Tracking system pou dokimantasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T100224Z" creationid="Hugo" creationdate="20201010T100224Z">
+        <seg>Dokimantasion, an partikilie lor bann nouvo fonksionalite, pou mwins detaye ki dan version standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2085,8 +2093,8 @@
       <tuv lang="en">
         <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093958Z" creationid="Hugo" creationdate="20201010T093958Z">
-        <seg>Li enn version ki pli resan ki version standard, ek li inklir bann nouvo fonksionalite.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095927Z" creationid="Hugo" creationdate="20201010T093958Z">
+        <seg>Li enn version ki pli resan ki version standard, ek ki inklir bann nouvo fonksionalite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,8 +2790,8 @@
       <tuv lang="en">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080642Z" creationid="Hugo" creationdate="20201001T122459Z">
-        <seg>Etan done ki bann devloper OmegaT zot tou benevol, enn RFE ki finanse par dimounn ou lantite ki bizin sa fonksion-la li ena plis sans integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095842Z" creationid="Hugo" creationdate="20201001T122459Z">
+        <seg>Etan done ki bann devloper OmegaT zot tou benevol, enn RFE ki finanse par dimounn ou lantite ki bizin sa fonksion-la li ena plis sans inplemante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3859,6 +3867,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T093530Z" creationid="Hugo" creationdate="20201010T093530Z">
         <seg>Dernie version nesesit Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T100035Z" creationid="Hugo" creationdate="20201010T100035Z">
+        <seg>Normalman dernie version pou relativman stab ek itilizab, me li kapav ena detrwa bug.</seg>
       </tuv>
     </tu>
     <tu>
