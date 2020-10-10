@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053726Z" creationid="Hugo" creationdate="20201010T053726Z">
+        <seg>&lt;s3&gt;Dezavantaz&lt;/s3&gt;: ou pa kapav servi plugins pou lemoman, setadir pa tou bann fonksion ki pou disponib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200723T184745Z">
