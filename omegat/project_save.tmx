@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T042107Z" creationid="Hugo" creationdate="20201010T042107Z">
+        <seg>Gid pratik lor bann utilities Text Extraction ek Text Merging dan Rainbow pou pre- ek post-process bann files pou tradir dan Omegat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T081501Z" creationid="Hugo" creationdate="20201003T080826Z">
@@ -2576,6 +2584,30 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
         <seg>Problem avek diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T041313Z" creationid="Hugo" creationdate="20201010T041313Z">
+        <seg>Prosedir pou servi OmegaT pou lokaliz Magento (Angle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T041402Z" creationid="Hugo" creationdate="20201010T041402Z">
+        <seg>Prosedir pou servi OmegaT pour lokaliz bann XLIFF files ki finn exporte depi Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T041245Z" creationid="Hugo" creationdate="20201010T041245Z">
+        <seg>Prosedir pou servi OmegaT pou lokaliz NetBeans IDE (Angle).</seg>
       </tuv>
     </tu>
     <tu>
