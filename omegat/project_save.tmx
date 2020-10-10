@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054156Z" creationid="Hugo" creationdate="20201010T054156Z">
-        <seg>&lt;i1&gt;Ou kapav instal OmegaT lor ninport ki operating system ki integ Java runtime environment version 1.6.&lt;/i1&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095501Z" creationid="Hugo" creationdate="20201010T054156Z">
+        <seg>&lt;i1&gt;Ou kapav instal OmegaT lor ninport ki operating system ki pran an sarz Java runtime environment version 1.6.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1659,8 +1659,8 @@
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094708Z" creationid="Hugo" creationdate="20200924T124338Z">
-        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094714Z" creationid="Hugo" creationdate="20200924T124338Z">
+        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1843,8 +1843,8 @@
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T154332Z">
-        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod lang sib ou proze pa koresponn avek kod lang verifikater lortograf (ex. ou lang li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094714Z" creationid="Hugo" creationdate="20200921T154332Z">
+        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod lang sib ou proze pa koresponn avek kod lang verifikater lortograf (ex. ou lang li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule-de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,8 +2598,8 @@
       <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200528T165728Z">
-        <seg>Parski lankodaz-la bizin konpatib ant toule de lang inplike, Unicode rekomande.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094714Z" creationid="Hugo" creationdate="20200528T165728Z">
+        <seg>Parski lankodaz-la bizin konpatib ant toule-de lang inplike, Unicode rekomande.</seg>
       </tuv>
     </tu>
     <tu>
