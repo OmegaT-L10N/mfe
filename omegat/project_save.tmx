@@ -3615,6 +3615,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T061838Z" creationid="Hugo" creationdate="20201010T061838Z">
+        <seg>Version OmegaT "avek batri", setadir avek so prop Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T035909Z" creationid="Hugo" creationdate="20201010T035909Z">
@@ -4869,6 +4877,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T080534Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou integre depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T061443Z" creationid="Hugo" creationdate="20201010T061443Z">
+        <seg>Avek JRE</seg>
       </tuv>
     </tu>
     <tu>
