@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040517Z" creationid="Hugo" creationdate="20201010T040517Z">
+        <seg>Par Susan Welsh (Angle, Forma Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T135129Z" creationid="Hugo" creationdate="20200921T125033Z">
@@ -2208,6 +2216,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T031640Z" creationid="Hugo" creationdate="20201010T025825Z">
         <seg>OmegaT ena ousi bann mailing lists ek tracking system ki eberze lor Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040433Z" creationid="Hugo" creationdate="20201010T040433Z">
+        <seg>OmegaT for Beginners</seg>
       </tuv>
     </tu>
     <tu>
