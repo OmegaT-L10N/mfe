@@ -5423,6 +5423,22 @@
         <seg>lindistri tradiksion</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093500Z" creationid="Hugo" creationdate="20201010T093500Z">
+        <seg>{% else %} &lt;a0&gt;Telesarze&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093358Z" creationid="Hugo" creationdate="20201010T093358Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Telesarze&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
