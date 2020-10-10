@@ -2083,6 +2083,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093958Z" creationid="Hugo" creationdate="20201010T093958Z">
+        <seg>Li enn version ki pli resan ki version standard, ek li inklir bann nouvo fonksionalite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T032224Z" creationid="Hugo" creationdate="20201003T032224Z">
@@ -2159,6 +2167,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T064734Z" creationid="Hugo" creationdate="20201010T064628Z">
         <seg>Dernie version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093519Z" creationid="Hugo" creationdate="20201010T093519Z">
+        <seg>Dernie version - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3835,6 +3851,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T071443Z" creationid="Hugo" creationdate="20201010T071443Z">
         <seg>Etan done ki JRE fourni avek OmegaT, ou pa bizin telesarz ek instal li apar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093530Z" creationid="Hugo" creationdate="20201010T093530Z">
+        <seg>Dernie version nesesit Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
