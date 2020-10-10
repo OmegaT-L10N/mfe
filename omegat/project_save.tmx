@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043843Z" creationid="Hugo" creationdate="20201010T043843Z">
+        <seg>(Italien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100448Z" creationid="Hugo" creationdate="20201003T032542Z">
@@ -615,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043817Z" creationid="Hugo" creationdate="20201010T043817Z">
+        <seg>Liv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T134628Z" creationid="Hugo" creationdate="20200924T134628Z">
@@ -643,6 +659,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T113625Z" creationid="Hugo" creationdate="20201003T113625Z">
         <seg>Me programasion li pa sel travay ki bizin fer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043826Z" creationid="Hugo" creationdate="20201010T043826Z">
+        <seg>Par Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1244,6 +1268,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131733Z" creationid="Hugo" creationdate="20200729T131700Z">
         <seg>Segman swivan dan istorik...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043806Z" creationid="Hugo" creationdate="20201010T043806Z">
+        <seg>Depi seri video YouTube lor OmegaT par Miguel Navarro (Espagnol).</seg>
       </tuv>
     </tu>
     <tu>
