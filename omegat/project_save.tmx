@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054156Z" creationid="Hugo" creationdate="20201010T054156Z">
+        <seg>&lt;i1&gt;Ou kapav instal OmegaT lor ninport ki operating system ki integ Java runtime environment version 1.6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T071729Z" creationid="Hugo" creationdate="20201003T071729Z">
@@ -1308,6 +1316,38 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T131521Z" creationid="Hugo" creationdate="20200607T130636Z">
         <seg>Par exanp, sa karakter-la backslash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053809Z" creationid="Hugo" creationdate="20201010T053809Z">
+        <seg>Pou linstalasion lor Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053759Z" creationid="Hugo" creationdate="20201010T053759Z">
+        <seg>Pou linstalasion lor Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053746Z" creationid="Hugo" creationdate="20201010T053746Z">
+        <seg>Pou linstalasion lor Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053848Z" creationid="Hugo" creationdate="20201010T053848Z">
+        <seg>Pou linstalasion lor lezot operating systems (par exanp FreeBSD ek Solaris).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2616,6 +2656,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T152837Z" creationid="Hugo" creationdate="20201008T152837Z">
         <seg>Kreater program OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053812Z" creationid="Hugo" creationdate="20201010T053812Z">
+        <seg>Lezot</seg>
       </tuv>
     </tu>
     <tu>
