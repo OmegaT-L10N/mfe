@@ -1723,8 +1723,8 @@
       <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055923Z" creationid="Hugo" creationdate="20201010T055923Z">
-        <seg>Si ou pa sir ou ena enn version apropriye</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T060106Z" creationid="Hugo" creationdate="20201010T055923Z">
+        <seg>Si ou pa sir ki enn version JRE apropriye deza instale, ou kapav telesarz ek instal version OmegaT avek JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4412,6 +4412,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055529Z" creationid="Hugo" creationdate="20201003T031106Z">
         <seg>Sit-la li ousi disponib an Kreol Morisien!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T061435Z" creationid="Hugo" creationdate="20201010T061435Z">
+        <seg>Sa metod-la pena okenn risk etan done ki OmegaT pou servi so version JRE lokalman: pa pou ena okenn konfli, ranplasman ouswa dezinstalasion sistem JRE ki deza instale.</seg>
       </tuv>
     </tu>
     <tu>
