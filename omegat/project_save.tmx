@@ -3559,6 +3559,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T052837Z" creationid="Hugo" creationdate="20201010T052837Z">
+        <seg>Version Web Start li enn version "Instale apre blie".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125035Z" creationid="Hugo" creationdate="20200607T125035Z">
