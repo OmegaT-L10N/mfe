@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031732Z" creationid="Hugo" creationdate="20201010T030505Z">
+        <seg>Bann bug, reket nouvo fonksionalite, ek bann problem dan dokimantasion trete lor Sourceforge par sa tracking systems swivan-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090108Z" creationid="Hugo" creationdate="20201008T090108Z">
@@ -1016,6 +1024,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031948Z" creationid="Hugo" creationdate="20201010T031948Z">
+        <seg>Tracking system pou bann reket nouvo fonksionalite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Filters</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065643Z" creationid="Hugo" creationdate="20200925T064924Z">
@@ -1122,8 +1138,8 @@
       <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080458Z" creationid="Hugo" creationdate="20201001T114014Z">
-        <seg>Pou sa rezon-la, ena enn &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025131Z" creationid="Hugo" creationdate="20201001T114014Z">
+        <seg>Pou sa rezon-la, ena enn &lt;a0&gt;mailing list pou devloper&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1631,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055858Z" creationid="Hugo" creationdate="20201003T055858Z">
         <seg>Interfas avek Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031925Z" creationid="Hugo" creationdate="20201010T031925Z">
+        <seg>Tracking system pou bann problem/bug</seg>
       </tuv>
     </tu>
     <tu>
@@ -2124,6 +2148,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031640Z" creationid="Hugo" creationdate="20201010T025825Z">
+        <seg>OmegaT ena ousi bann mailing lists ek tracking system ki eberze lor Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
@@ -2320,6 +2352,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T120317Z" creationid="Hugo" creationdate="20201003T120317Z">
         <seg>Pran kontak avek &lt;a0&gt;koordinater lokalizasion OmegaT&lt;/a0&gt; pou konn tou bann detay lor tradiksion/lokalizasion OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031856Z" creationid="Hugo" creationdate="20201010T031604Z">
+        <seg>Silvouple napa servi sa bann sistem swivi-la avan diskit problem-la lor group itilizater ouswa dan bann mailing lists.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3119,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025847Z" creationid="Hugo" creationdate="20201010T025847Z">
+        <seg>Mailing list bann devloper OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T152356Z" creationid="Hugo" creationdate="20201008T152356Z">
@@ -3802,8 +3850,8 @@
       <tuv lang="en">
         <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201009T160328Z" creationid="Hugo" creationdate="20201009T160328Z">
-        <seg>Limem &lt;a0&gt;kanal sipor recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025017Z" creationid="Hugo" creationdate="20201009T160328Z">
+        <seg>Limem &lt;a0&gt;kanal sipor ki rekomande&lt;/a0&gt;, ek ki tou bann itilizater ankouraze servi li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3860,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T153334Z" creationid="Hugo" creationdate="20201001T094820Z">
         <seg>Li mem leker kominote bann itilizater OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T030220Z" creationid="Hugo" creationdate="20201010T030220Z">
+        <seg>Sa lalis-la li pou bann diskision teknik lor bann fonksionalite ek lor devlopman. Li destine bann devloper OmegaT ek bann dimounn interese so devlopman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T030259Z" creationid="Hugo" creationdate="20201010T030259Z">
+        <seg>Mailing list pou bann lokalizater OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
