@@ -992,6 +992,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T100640Z" creationid="Hugo" creationdate="20201010T100640Z">
+        <seg>Version devloper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153045Z" creationid="Hugo" creationdate="20201008T153045Z">
@@ -3843,6 +3851,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T061838Z" creationid="Hugo" creationdate="20201010T061838Z">
         <seg>Version OmegaT "avek batri", setadir avek so prop Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T101040Z" creationid="Hugo" creationdate="20201010T101040Z">
+        <seg>Li enn "master" version ki ankor an version "alpha", setadir ki son devlopman pe kontigne.</seg>
       </tuv>
     </tu>
     <tu>
