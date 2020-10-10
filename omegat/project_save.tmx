@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T031400Z" creationid="Hugo" creationdate="20201003T031400Z">
-        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;A nou ale&lt;/a1&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050133Z" creationid="Hugo" creationdate="20201003T031400Z">
+        <seg>&lt;a0&gt;Telesarz&lt;/a0&gt; &lt;a1&gt;A nou ale&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20201003T071403Z">
-        <seg>Si ou deza kone ki version ou oule telesarz, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045949Z" creationid="Hugo" creationdate="20201003T071403Z">
+        <seg>Si ou deza kone ki version ou oule telesarze, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,34 +1040,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050239Z" creationid="Hugo" creationdate="20201010T050239Z">
+        <seg>Telesarzman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115153Z" creationid="Hugo" creationdate="20200729T115153Z">
-        <seg>Download paz MediaWiki...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050133Z" creationid="Hugo" creationdate="20200729T115153Z">
+        <seg>Telesarz paz MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download Overview</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071512Z" creationid="Hugo" creationdate="20201003T071512Z">
-        <seg>Download</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050133Z" creationid="Hugo" creationdate="20201003T071512Z">
+        <seg>Telesarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050253Z" creationid="Hugo" creationdate="20201010T050253Z">
+        <seg>Selekter Telesarzman</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T140304Z" creationid="Hugo" creationdate="20200729T114916Z">
-        <seg>Download enn proze an ekip</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050133Z" creationid="Hugo" creationdate="20200729T114916Z">
+        <seg>Telesarz enn proze an ekip</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>Download fisie la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050133Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>Telesarz fisie la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,8 +4282,8 @@
       <tuv lang="en">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071409Z" creationid="Hugo" creationdate="20201003T070259Z">
-        <seg>Pou trouv version ki pli adapte pou ou, chek Download Selector lor lien enba la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050230Z" creationid="Hugo" creationdate="20201003T070259Z">
+        <seg>Pou trouv version ki pli adapte pou ou, chek Selekter Telesarzman lor lien enba la.</seg>
       </tuv>
     </tu>
     <tu>
