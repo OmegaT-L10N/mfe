@@ -1289,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035829Z" creationid="Hugo" creationdate="20201010T035829Z">
+        <seg>Gid itilizater HTML online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T115317Z" creationid="Hugo" creationdate="20201003T115317Z">
@@ -3247,6 +3255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035909Z" creationid="Hugo" creationdate="20201010T035909Z">
+        <seg>Gid itilizater HTML pou versin standar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T025847Z" creationid="Hugo" creationdate="20201010T025847Z">
@@ -3776,6 +3792,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035808Z" creationid="Hugo" creationdate="20201010T035808Z">
+        <seg>Gid itilizater OmegaT an forma PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121328Z" creationid="Hugo" creationdate="20200527T165834Z">
@@ -4229,6 +4253,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153457Z" creationid="Hugo" creationdate="20201008T153457Z">
         <seg>Group itilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035734Z" creationid="Hugo" creationdate="20201010T035734Z">
+        <seg>Gid itilizater online</seg>
       </tuv>
     </tu>
     <tu>
