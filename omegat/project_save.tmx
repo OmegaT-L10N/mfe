@@ -1619,8 +1619,8 @@
       <tuv lang="en">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T120329Z" creationid="Hugo" creationdate="20201001T120329Z">
-        <seg>Toutfwa, enn RFE pa vedir ki fonksion ou ameliorasion swete la pou otomatikman integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095632Z" creationid="Hugo" creationdate="20201001T120329Z">
+        <seg>Toutfwa, enn RFE pa vedir ki fonksion ou ameliorasion swete la pou otomatikman inplemante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2197,8 +2197,8 @@
       <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T115838Z" creationid="Hugo" creationdate="20201001T115838Z">
-        <seg>Plizier santenn RFE finn deza soumet ek boukou-boukou finn deza integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095819Z" creationid="Hugo" creationdate="20201001T115838Z">
+        <seg>Plizier santenn RFE finn deza soumet ek boukou-boukou finn deza inplemante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,8 +4201,8 @@
       <tuv lang="en">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095522Z" creationid="Hugo" creationdate="20201010T063216Z">
-        <seg>Version JRE ki finn inklir li 64-bit.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095551Z" creationid="Hugo" creationdate="20201010T063216Z">
+        <seg>Version JRE ki finn integre li 64-bit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,8 +5155,8 @@
       <tuv lang="en">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080534Z" creationid="Hugo" creationdate="20201001T121015Z">
-        <seg>Sipa li pou integre depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T095719Z" creationid="Hugo" creationdate="20201001T121015Z">
+        <seg>Sipa li pou inplemante depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
       </tuv>
     </tu>
     <tu>
