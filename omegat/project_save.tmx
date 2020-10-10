@@ -1729,6 +1729,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T063924Z" creationid="Hugo" creationdate="20201010T063924Z">
+        <seg>Si ou sir ki enn version JRE apropriye deza instale lor ou computer nivo sistem, ou kapav swazir version san JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T060106Z" creationid="Hugo" creationdate="20201010T055923Z">
@@ -4917,6 +4925,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T061443Z" creationid="Hugo" creationdate="20201010T061443Z">
         <seg>Avek JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T063620Z" creationid="Hugo" creationdate="20201010T063620Z">
+        <seg>San JRE</seg>
       </tuv>
     </tu>
     <tu>
