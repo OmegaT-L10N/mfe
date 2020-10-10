@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044500Z" creationid="Hugo" creationdate="20201010T044500Z">
+        <seg>(Angle)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043843Z" creationid="Hugo" creationdate="20201010T043843Z">
         <seg>(Italien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044506Z" creationid="Hugo" creationdate="20201010T044506Z">
+        <seg>(Ris)</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,6 +635,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T113952Z" creationid="Hugo" creationdate="20201003T113952Z">
         <seg>Ala enn lalis bann lezot domenn kot benevol ti pou plis ki bienveni!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044452Z" creationid="Hugo" creationdate="20201010T044452Z">
+        <seg>Paz blog lor OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1887,6 +1911,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T152920Z" creationid="Hugo" creationdate="20201008T152920Z">
         <seg>Devloper prinsipal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045507Z" creationid="Hugo" creationdate="20201010T045507Z">
+        <seg>Bann lien anba-la permet ou download diferan version OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
