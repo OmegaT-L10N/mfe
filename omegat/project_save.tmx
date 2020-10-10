@@ -1803,8 +1803,8 @@
       <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075902Z" creationid="Hugo" creationdate="20201010T075902Z">
-        <seg>Si ou pa siport bann instriksion, ou si ou lapros li plito klik lor tou bann bouton ziska ou resi fer enn kiksoz ki resanble seki ou ti anvi fer, alor  </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080043Z" creationid="Hugo" creationdate="20201010T075902Z">
+        <seg>Si ou pa siport bann instriksion, ou si ou lapros li plito klik lor tou bann bouton ziska ou resi fer enn kiksoz ki resanble seki ou ti anvi fer, alor kapav OmegaT pa enn bon zouti pou ou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,8 +3543,8 @@
       <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155114Z" creationid="Hugo" creationdate="20200519T155114Z">
-        <seg>Sertin diksioner aksesib san kondision (setadir zot ‘lib’) alors ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075937Z" creationid="Hugo" creationdate="20200519T155114Z">
+        <seg>Sertin diksioner aksesib san kondision (setadir zot 'lib') alor ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
       </tuv>
     </tu>
     <tu>
