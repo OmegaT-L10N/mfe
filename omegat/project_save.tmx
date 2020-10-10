@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080050Z" creationid="Hugo" creationdate="20201010T080050Z">
+        <seg>Avan koumanse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200731T091758Z">
@@ -1192,6 +1200,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080601Z" creationid="Hugo" creationdate="20201010T080601Z">
+        <seg>Mem si sa program la gratwi, si ou trouv li itil ek si ou swet exprim ou gratitid, ou kapav fer enn don lor nou kont Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export Selection</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T122832Z" creationid="Hugo" creationdate="20200729T122832Z">
@@ -1517,6 +1533,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T035829Z" creationid="Hugo" creationdate="20201010T035829Z">
         <seg>Gid itilizater HTML online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T080246Z" creationid="Hugo" creationdate="20201010T080217Z">
+        <seg>Eski ou finn deza pans fer enn don OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
