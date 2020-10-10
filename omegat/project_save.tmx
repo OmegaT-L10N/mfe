@@ -976,6 +976,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093224Z" creationid="Hugo" creationdate="20201010T093224Z">
+        <seg>Instriksion detaye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T080355Z" creationid="Hugo" creationdate="20201001T113821Z">
