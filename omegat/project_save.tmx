@@ -1160,6 +1160,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032928Z" creationid="Hugo" creationdate="20201010T032928Z">
+        <seg>Pou bann reket sipor, servi &lt;a1&gt;kanal sipor rekomande&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T025131Z" creationid="Hugo" creationdate="20201001T114014Z">
