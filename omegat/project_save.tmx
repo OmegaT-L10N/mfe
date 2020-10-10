@@ -896,6 +896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032103Z" creationid="Hugo" creationdate="20201010T032103Z">
+        <seg>Tracking system pou dokimantasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200519T160042Z">
@@ -1026,8 +1034,8 @@
       <tuv lang="en">
         <seg>Feature requests tracking system</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031948Z" creationid="Hugo" creationdate="20201010T031948Z">
-        <seg>Tracking system pou bann reket nouvo fonksionalite</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032053Z" creationid="Hugo" creationdate="20201010T031948Z">
+        <seg>Tracking system pou bann reket nouvo fonksionalite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2953,6 +2961,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153437Z" creationid="Hugo" creationdate="20201008T153437Z">
         <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot kontribier, tro boukou pou kapav sit zot tou isi. Toutfwa, nou bien-bien rekonesan pou zot led.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032401Z" creationid="Hugo" creationdate="20201010T032401Z">
+        <seg>Rezo sosial</seg>
       </tuv>
     </tu>
     <tu>
