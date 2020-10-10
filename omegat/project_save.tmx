@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070029Z" creationid="Hugo" creationdate="20201010T070029Z">
+        <seg>Dapre ou seleksion, nou rekomann ou servi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113522Z" creationid="Hugo" creationdate="20200731T091758Z">
