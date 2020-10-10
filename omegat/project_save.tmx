@@ -1529,6 +1529,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T052540Z" creationid="Hugo" creationdate="20201010T052540Z">
+        <seg>Si ou pe ezite, swazir sa version-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200519T160337Z" creationid="Hugo" creationdate="20200519T160337Z">
