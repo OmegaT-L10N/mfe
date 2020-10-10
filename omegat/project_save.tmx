@@ -1424,6 +1424,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T101524Z" creationid="Hugo" creationdate="20201010T101524Z">
+        <seg>Pou laplipar bann itilizater, zot pa pou ena lintere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032928Z" creationid="Hugo" creationdate="20201010T032928Z">
@@ -1629,6 +1637,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20200519T124358Z">
         <seg>Kouma telesarz ek instal diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T134517Z" creationid="Hugo" creationdate="20201010T134517Z">
+        <seg>Toutfwa, sertin itilizater kapav trouv zot itil, sirtou si zot pe rankontre bann kontrint avek zot operating system ouswa avek Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2207,6 +2223,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T101125Z" creationid="Hugo" creationdate="20201010T101125Z">
         <seg>Version obsolet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T101410Z" creationid="Hugo" creationdate="20201010T101410Z">
+        <seg>Zot bann vie-vie version ki finn ranplase.</seg>
       </tuv>
     </tu>
     <tu>
