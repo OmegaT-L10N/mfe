@@ -5033,6 +5033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T100336Z" creationid="Hugo" creationdate="20201010T100336Z">
+        <seg>Bann itilizater ki ena lexperyans OmegaT souvan prefer dernie version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T145554Z" creationid="Hugo" creationdate="20200921T145554Z">
