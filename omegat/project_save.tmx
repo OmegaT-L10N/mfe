@@ -1729,6 +1729,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070402Z" creationid="Hugo" creationdate="20201010T070402Z">
+        <seg>Si sa version-la pa disponib, ou kapav sey &lt;a0&gt;telesarz version non-signe&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090635Z" creationid="Hugo" creationdate="20201008T090433Z">
@@ -5237,6 +5245,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172133Z" creationid="Hugo" creationdate="20200607T172133Z">
         <seg>Resers “is”, pas “this” ouswa “isn't” etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070049Z" creationid="Hugo" creationdate="20201010T070049Z">
+        <seg>enn sertin version</seg>
       </tuv>
     </tu>
     <tu>
