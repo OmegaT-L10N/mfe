@@ -1721,6 +1721,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055923Z" creationid="Hugo" creationdate="20201010T055923Z">
+        <seg>Si ou pa sir ou ena enn version apropriye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T035423Z" creationid="Hugo" creationdate="20201008T085818Z">
