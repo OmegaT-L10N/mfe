@@ -4457,6 +4457,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035308Z" creationid="Hugo" creationdate="20201010T034746Z">
+        <seg>Ou kapav ousi lir gid litilizasion OmegaT andeor program-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T150624Z" creationid="Hugo" creationdate="20200921T150624Z">
