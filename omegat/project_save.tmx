@@ -1264,6 +1264,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T072441Z" creationid="Hugo" creationdate="20201010T072441Z">
+        <seg>Pou bann Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170250Z" creationid="Hugo" creationdate="20200607T170250Z">
