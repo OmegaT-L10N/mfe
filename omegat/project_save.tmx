@@ -633,8 +633,24 @@
       <tuv lang="en">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040517Z" creationid="Hugo" creationdate="20201010T040517Z">
-        <seg>Par Susan Welsh (Angle, Forma Open Document).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040650Z" creationid="Hugo" creationdate="20201010T040517Z">
+        <seg>Par Susan Welsh (Angle, Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040656Z" creationid="Hugo" creationdate="20201010T040640Z">
+        <seg>By Susan Welsh (Angle, PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040832Z" creationid="Hugo" creationdate="20201010T040832Z">
+        <seg>Par Vladimir Zhdanov (Ris).</seg>
       </tuv>
     </tu>
     <tu>
