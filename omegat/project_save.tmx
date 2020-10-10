@@ -3960,6 +3960,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043337Z" creationid="Hugo" creationdate="20201010T043337Z">
+        <seg>Sa bann utilities-la permet ou servi OmegaT pou tradir bann forma fisie kot bann filt konversion XLIFF deza existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120125Z" creationid="Hugo" creationdate="20200607T165134Z">
