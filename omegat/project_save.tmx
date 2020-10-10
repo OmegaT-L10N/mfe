@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044225Z" creationid="Hugo" creationdate="20201010T044225Z">
+        <seg>Blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043817Z" creationid="Hugo" creationdate="20201010T043817Z">
@@ -665,8 +673,8 @@
       <tuv lang="en">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043826Z" creationid="Hugo" creationdate="20201010T043826Z">
-        <seg>Par Marco Cevoli and Sergio Alasia.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044221Z" creationid="Hugo" creationdate="20201010T043826Z">
+        <seg>Par Marco Cevoli ek Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,6 +4537,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044355Z" creationid="Hugo" creationdate="20201010T044355Z">
+        <seg>Blog institisionel Velior &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T031518Z" creationid="Hugo" creationdate="20201003T031511Z">
@@ -4857,10 +4873,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044417Z" creationid="Hugo" creationdate="20201010T044417Z">
+        <seg>lor tradiksion ek &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172133Z" creationid="Hugo" creationdate="20200607T172133Z">
         <seg>Resers “is”, pas “this” ouswa “isn't” etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044439Z" creationid="Hugo" creationdate="20201010T044439Z">
+        <seg>lindistri tradiksion</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
