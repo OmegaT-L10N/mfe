@@ -1659,8 +1659,8 @@
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T130155Z" creationid="Hugo" creationdate="20200924T124338Z">
-        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Integ text sours&lt;/g1&gt;&lt;/l0&gt; zot toule de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094708Z" creationid="Hugo" creationdate="20200924T124338Z">
+        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
       </tuv>
     </tu>
     <tu>
