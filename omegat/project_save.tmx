@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032515Z" creationid="Hugo" creationdate="20201010T032515Z">
+        <seg>Administrasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T153200Z" creationid="Hugo" creationdate="20200921T151217Z">
@@ -1028,6 +1036,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141733Z" creationid="Hugo" creationdate="20200729T141733Z">
         <seg>TMX extern...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032456Z" creationid="Hugo" creationdate="20201010T032456Z">
+        <seg>Group Facebook</seg>
       </tuv>
     </tu>
     <tu>
@@ -2172,6 +2188,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032447Z" creationid="Hugo" creationdate="20201010T032447Z">
+        <seg>OmegaT prezan lor diferan rezo sosial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153608Z" creationid="Hugo" creationdate="20201008T153608Z">
@@ -2360,6 +2384,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T120317Z" creationid="Hugo" creationdate="20201003T120317Z">
         <seg>Pran kontak avek &lt;a0&gt;koordinater lokalizasion OmegaT&lt;/a0&gt; pou konn tou bann detay lor tradiksion/lokalizasion OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032836Z" creationid="Hugo" creationdate="20201010T032836Z">
+        <seg>Pran kontak avek &lt;a0&gt;koordinater proze OmegaT&lt;/a0&gt; pou ninport ki pwin ki pa finn aborde laho.</seg>
       </tuv>
     </tu>
     <tu>
