@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20200528T201615Z">
-        <seg>Kapav telesarz &lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; dan preske 100 langaz. Li kapav servi kouma enn fondman pou enn gloser informatik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200528T201615Z">
+        <seg>Kapav telesarz &lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; dan preske 100 lang. Li kapav servi kouma enn fondman pou enn gloser informatik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T153200Z" creationid="Hugo" creationdate="20200921T151217Z">
-        <seg>Chek ousi si kod langaz sib ou proze li koresponn avek bann leksik disponib dan lafnet konfigirasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T151217Z">
+        <seg>Chek ousi si kod lang sib ou proze li koresponn avek bann leksik disponib dan lafnet konfigirasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113522Z" creationid="Hugo" creationdate="20200731T091758Z">
-        <seg>Avan ou kapav servi fonksion verifikater lortograf, ou bizin instal enn ouswa plizier diksioner an fonksion ou langaz sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200731T091758Z">
+        <seg>Avan ou kapav servi fonksion verifikater lortograf, ou bizin instal enn ouswa plizier diksioner an fonksion ou lang sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,8 +777,8 @@
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T135129Z" creationid="Hugo" creationdate="20200921T125033Z">
-        <seg>Chek toutfwa ki bann kod langaz exakteman parey: enn diksioner FR-FR pa pou marse si ou finn swazir kod FR pou definir ou langaz sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T125033Z">
+        <seg>Chek toutfwa ki bann kod lang exakteman parey: enn diksioner FR-FR pa pou marse si ou finn swazir kod FR pou definir ou lang sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,8 +1266,8 @@
       <tuv lang="en">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T072441Z" creationid="Hugo" creationdate="20201010T072441Z">
-        <seg>Pou bann Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T074700Z" creationid="Hugo" creationdate="20201010T072441Z">
+        <seg>Pou bann files MS Word, Excel ek Powerpoint ki pli ansien, kapav tradir zot apre enn konversion dan forma Microsoft Office resan, ouswa forma Open XML depi OpenOffice.org ou LibreOffice (gratwitman).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,8 +1322,8 @@
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120918Z" creationid="Hugo" creationdate="20200921T114738Z">
-        <seg>Par exanp, si ou finn swazir ES-MX (Espagnol Mexiken) kouma langaz sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn swazir ES-MX (Espagnol Mexiken) kouma lang sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1659,8 +1659,8 @@
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T144941Z" creationid="Hugo" creationdate="20200921T142803Z">
-        <seg>Si neseser, sanz nom bann fisie diksioner ouswa sanz paramet langaz ou proze</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T142803Z">
+        <seg>Si neseser, sanz nom bann fisie diksioner ouswa sanz paramet lang ou proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,7 +1755,7 @@
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T090635Z" creationid="Hugo" creationdate="20201008T090433Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073516Z" creationid="Hugo" creationdate="20201008T090433Z">
         <seg>Si ou deza familie ek bann computer an zeneral, ek ou swazi enn langaz skript ki sinp kouma Javascript ouswa Tcl/Tk, ou kapav aprann sifizaman par oumem dan detrwa semenn pou ekrir bann skrip sinp me bien itil.</seg>
       </tuv>
     </tu>
@@ -1795,7 +1795,7 @@
       <tuv lang="en">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035423Z" creationid="Hugo" creationdate="20201008T085818Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073506Z" creationid="Hugo" creationdate="20201008T085818Z">
         <seg>Si ou konn enn lot langaz programasion, ou kapav ekrir enn kod akseswar a program prinsipal.</seg>
       </tuv>
     </tu>
@@ -1803,8 +1803,8 @@
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133241Z" creationid="Hugo" creationdate="20200921T154332Z">
-        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod langaz sib ou proze pa koresponn avek kod langaz verifikater lortograf (ex. ou langaz li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T154332Z">
+        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod lang sib ou proze pa koresponn avek kod lang verifikater lortograf (ex. ou lang li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2149,8 +2149,8 @@
       <tuv lang="en">
         <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T083409Z" creationid="Hugo" creationdate="20201003T120147Z">
-        <seg>Lokalizasion OmegaT dan lezot langaz li ousi enn travay ki zame fini, parski ena bann nouvo fonksion ki azoute an permanans.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20201003T120147Z">
+        <seg>Lokalizasion OmegaT dan lezot lang li ousi enn travay ki zame fini, parski ena bann nouvo fonksion ki azoute an permanans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,8 +2526,8 @@
       <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200731T092012Z" creationid="Hugo" creationdate="20200528T165728Z">
-        <seg>Parski lankodaz-la bizin konpatib ant toule de langaz inplike, Unicode rekomande.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200528T165728Z">
+        <seg>Parski lankodaz-la bizin konpatib ant toule de lang inplike, Unicode rekomande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,7 +2654,7 @@
       <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T084955Z" creationid="Hugo" creationdate="20201008T084955Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073500Z" creationid="Hugo" creationdate="20201008T084955Z">
         <seg>OmegaT finn ekrir dan langaz Java.</seg>
       </tuv>
     </tu>
@@ -3295,8 +3295,8 @@
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T071439Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon langaz ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,8 +3608,8 @@
       <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081248Z" creationid="Hugo" creationdate="20201003T055410Z">
-        <seg>Priz an sarz ban langaz drwat-gos (ex. arabe)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20201003T055410Z">
+        <seg>Priz an sarz ban lang drwat-gos (ex. arabe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,8 +3705,8 @@
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T083309Z" creationid="Hugo" creationdate="20201003T115834Z">
-        <seg>Gras-a travay boukou tradikter, linterfas itilizater ek text lasistans OmegaT finn deza tradi dan plizier langaz.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20201003T115834Z">
+        <seg>Gras-a travay boukou tradikter, linterfas itilizater ek text lasistans OmegaT finn deza tradi dan plizier lang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4137,8 +4137,8 @@
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T142827Z" creationid="Hugo" creationdate="20200921T114143Z">
-        <seg>Nom bann fisie bizin koresponn avek kod langaz ou langaz sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann fisie bizin koresponn avek kod lang ou lang sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4257,8 +4257,8 @@
       <tuv lang="en">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200918T132016Z" creationid="Hugo" creationdate="20200918T131503Z">
-        <seg>Bann langaz seleksione pou instale ek pou aparet dan lafnet konfigirasion verifikater lortograf (li kapav pran inpe letan).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200918T131503Z">
+        <seg>Bann lang seleksione pou instale ek pou aparet dan lafnet konfigirasion verifikater lortograf (li kapav pran inpe letan).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,8 +4289,8 @@
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T040952Z" creationid="Hugo" creationdate="20200921T153550Z">
-        <seg>Verifikater lortograf servi kod langaz sib pou determnn ki langaz pou itilize: si langaz sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T153550Z">
+        <seg>Verifikater lortograf servi kod lang sib pou determnn ki lang pou itilize: si lang sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,8 +4386,8 @@
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055008Z" creationid="Hugo" creationdate="20200921T121048Z">
-        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; program-la pou itiliz diksioner apropriye an fonksion kod langaz ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T121048Z">
+        <seg>Li pa neseser dir OmegaT ki diksioner bizin servi; program-la pou itiliz diksioner apropriye an fonksion kod lang ou proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4418,8 +4418,8 @@
       <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20200924T135228Z">
-        <seg>Kan ou klik lor sa bouton-la, ou kapav konsilt ek telesarz bann koleksion ki existe pou langaz sours ek langaz sib ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200924T135228Z">
+        <seg>Kan ou klik lor sa bouton-la, ou kapav konsilt ek telesarz bann koleksion ki existe pou lang sours ek lang sib ou proze.</seg>
       </tuv>
     </tu>
     <tu>
