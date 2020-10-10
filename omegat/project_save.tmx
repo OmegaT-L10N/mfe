@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T064902Z" creationid="Hugo" creationdate="20201010T064902Z">
+        <seg>Dernie version OmegaT li pli resan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200525T155107Z">
@@ -2011,6 +2019,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T064624Z" creationid="Hugo" creationdate="20201010T064624Z">
+        <seg>Li version ki nou rekomann bann nouvo itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T132431Z" creationid="Hugo" creationdate="20201001T132431Z">
@@ -2039,6 +2055,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
         <seg>Dernie modifikasion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T064734Z" creationid="Hugo" creationdate="20201010T064628Z">
+        <seg>Dernie version</seg>
       </tuv>
     </tu>
     <tu>
