@@ -2636,6 +2636,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075420Z" creationid="Hugo" creationdate="20201010T075420Z">
+        <seg>OmegaT pa difisil pou instale ek servi, me ou bizin oule lir ek swiv bann instriksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is open-source software.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T081748Z" creationid="Hugo" creationdate="20201003T101459Z">
@@ -4877,6 +4885,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T114945Z" creationid="Hugo" creationdate="20201003T071749Z">
         <seg>Portre itilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075302Z" creationid="Hugo" creationdate="20201010T075302Z">
+        <seg>Profil itilizater</seg>
       </tuv>
     </tu>
     <tu>
