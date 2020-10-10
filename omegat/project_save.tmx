@@ -3125,6 +3125,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T044202Z" creationid="Hugo" creationdate="20201010T044202Z">
+        <seg>Formasion online an Angle (peyan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
@@ -4260,6 +4268,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132526Z" creationid="Hugo" creationdate="20200729T132526Z">
         <seg>Meni Zouti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043854Z" creationid="Hugo" creationdate="20201010T043854Z">
+        <seg>Formasion</seg>
       </tuv>
     </tu>
     <tu>
