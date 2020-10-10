@@ -3287,8 +3287,8 @@
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T123746Z" creationid="Hugo" creationdate="20200924T123746Z">
-        <seg>Ranplas bann lantre gloser kan integ text sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094430Z" creationid="Hugo" creationdate="20200924T123746Z">
+        <seg>Inklir bann lantre gloser kan text sours insere</seg>
       </tuv>
     </tu>
     <tu>
