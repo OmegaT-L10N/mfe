@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T034711Z" creationid="Hugo" creationdate="20201010T034711Z">
+        <seg>Par defo, enn gid demaraz rapid ki prezant bann prosedir ek fonksion prinsipal OmegaT afise lor linterfas itilizater letan ou demar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T142824Z" creationid="Hugo" creationdate="20200929T155118Z">
