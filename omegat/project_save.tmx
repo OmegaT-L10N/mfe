@@ -2470,8 +2470,8 @@
       <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055341Z" creationid="Hugo" creationdate="20201010T055341Z">
-        <seg>OmegaT nesesit minimom JRE version 1.6.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055409Z" creationid="Hugo" creationdate="20201010T055341Z">
+        <seg>OmegaT nesesit JRE version 1.6 minimum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,8 +2502,8 @@
       <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153608Z" creationid="Hugo" creationdate="20201008T153608Z">
-        <seg>OmegaT ena enn group itilizater ki bien-bien aktif. Li fonksionn lor lantred ek li miltiling.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055348Z" creationid="Hugo" creationdate="20201008T153608Z">
+        <seg>OmegaT ena enn group itilizater ki bien-bien aktif. Li fonksionn lor lantred ek li miltileng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4412,6 +4412,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T033722Z" creationid="Hugo" creationdate="20201010T033722Z">
         <seg>Gid-la li aksesib direkteman depi OmegaT atraver Asistans &gt; Gid itilizater, ouswa kan ou apiy lor F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055857Z" creationid="Hugo" creationdate="20201010T055857Z">
+        <seg>Pou chek ki version JRE ou ena lor ou sistem Linux, si ou ena enn, ouver enn konsol (lafnet command-line) ek ekrir:</seg>
       </tuv>
     </tu>
     <tu>
