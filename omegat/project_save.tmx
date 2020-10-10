@@ -1801,6 +1801,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075902Z" creationid="Hugo" creationdate="20201010T075902Z">
+        <seg>Si ou pa siport bann instriksion, ou si ou lapros li plito klik lor tou bann bouton ziska ou resi fer enn kiksoz ki resanble seki ou ti anvi fer, alor  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T154332Z">
