@@ -1346,8 +1346,8 @@
       <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T053848Z" creationid="Hugo" creationdate="20201010T053848Z">
-        <seg>Pou linstalasion lor lezot operating systems (par exanp FreeBSD ek Solaris).&lt;br0/&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054355Z" creationid="Hugo" creationdate="20201010T053848Z">
+        <seg>Pou linstalasion lor lezot operating systems (par exanp FreeBSD ou Solaris).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1565,6 +1565,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T112704Z" creationid="Hugo" creationdate="20201003T080626Z">
         <seg>Mo finn itiliz OmegaT kouma tradikter profesionel depi plis ki 10 banane. Depi premie zour, mo finn bien profit fasilite so litilizasion ek so forom ki bien-bien itil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054623Z" creationid="Hugo" creationdate="20201010T054623Z">
+        <seg>Si enn JRE apropriye deza instale lor ou computer, swazir "San JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3279,8 +3287,8 @@
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054338Z" creationid="Hugo" creationdate="20201010T054338Z">
-        <seg>Ou kapav swazir  Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054428Z" creationid="Hugo" creationdate="20201010T054338Z">
+        <seg>Ou kapav telesarz OmegaT avek ou san Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
