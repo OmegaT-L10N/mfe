@@ -2404,6 +2404,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T033158Z" creationid="Hugo" creationdate="20201010T032943Z">
+        <seg>Pran kontak avek &lt;a3&gt;webmaster&lt;/a3&gt; pou ninport ki pwin lor sit Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T031856Z" creationid="Hugo" creationdate="20201010T031604Z">
@@ -3906,8 +3914,8 @@
       <tuv lang="en">
         <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025017Z" creationid="Hugo" creationdate="20201009T160328Z">
-        <seg>Limem &lt;a0&gt;kanal sipor ki rekomande&lt;/a0&gt;, ek ki tou bann itilizater ankouraze servi li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032934Z" creationid="Hugo" creationdate="20201009T160328Z">
+        <seg>Limem &lt;a0&gt;kanal sipor rekomande&lt;/a0&gt;, ek ki tou bann itilizater ankouraze servi li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,8 +4203,8 @@
       <tuv lang="en">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080746Z" creationid="Hugo" creationdate="20201008T080746Z">
-        <seg>Gid itilizater...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T033207Z" creationid="Hugo" creationdate="20201008T080746Z">
+        <seg>Gid itilizater</seg>
       </tuv>
     </tu>
     <tu>
