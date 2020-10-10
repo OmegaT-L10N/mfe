@@ -1811,6 +1811,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050644Z" creationid="Hugo" creationdate="20201010T050644Z">
+        <seg>Tip linstalasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing spelling dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200731T091514Z" creationid="Hugo" creationdate="20200731T091502Z">
@@ -4040,6 +4048,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T052026Z" creationid="Hugo" creationdate="20201010T052026Z">
+        <seg>Linstalasion par itilizater. Li lopsion abitiel bann itilizater regilie OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121328Z" creationid="Hugo" creationdate="20200527T165834Z">
@@ -4340,6 +4356,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132526Z" creationid="Hugo" creationdate="20200729T132526Z">
         <seg>Meni Zouti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050723Z" creationid="Hugo" creationdate="20201010T050723Z">
+        <seg>Klasik</seg>
       </tuv>
     </tu>
     <tu>
