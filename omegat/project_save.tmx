@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043628Z" creationid="Hugo" creationdate="20201010T043628Z">
+        <seg>Enn video introdiksion OmegaT an Angle par John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133007Z" creationid="Hugo" creationdate="20200607T133007Z">
@@ -2300,6 +2308,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043507Z" creationid="Hugo" creationdate="20201010T043507Z">
+        <seg>Tutorial introdiksion OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200929T153844Z">
@@ -2344,6 +2360,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100059Z" creationid="Hugo" creationdate="20201003T100059Z">
         <seg>OmegaT li pa selman enn program; li ousi enn proze pasionan ki ou kapav zwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043446Z" creationid="Hugo" creationdate="20201010T043446Z">
+        <seg>Video OmegaT lor lasenn YouTube Qabiria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,6 +2504,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T054433Z" creationid="Hugo" creationdate="20201003T054433Z">
         <seg>Text brit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043417Z" creationid="Hugo" creationdate="20201010T043417Z">
+        <seg>Lalis video lor OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4196,6 +4228,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132526Z" creationid="Hugo" creationdate="20200729T132526Z">
         <seg>Meni Zouti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T043358Z" creationid="Hugo" creationdate="20201010T043358Z">
+        <seg>Video de formasion</seg>
       </tuv>
     </tu>
     <tu>
