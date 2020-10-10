@@ -1625,6 +1625,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054733Z" creationid="Hugo" creationdate="20201010T054733Z">
+        <seg>Sinon, ouswa si ou pa sir, swazir "avek JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not, why not write an article on using OmegaT?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T084705Z" creationid="Hugo" creationdate="20201008T084705Z">
@@ -2560,6 +2568,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T133950Z" creationid="Hugo" creationdate="20200928T133950Z">
         <seg>OmegaT pa pou pran kont bann fisie korespondan kan li sarz proze-la ek pou kopie zot direk dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054959Z" creationid="Hugo" creationdate="20201010T054959Z">
+        <seg>OmegaT pou marse lor ninport ki sistem Linux kot enn version apropriye Java Runtime Environment (JRE) finn instale.</seg>
       </tuv>
     </tu>
     <tu>
