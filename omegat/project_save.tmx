@@ -1769,6 +1769,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153321Z" creationid="Hugo" creationdate="20201013T153321Z">
+        <seg>Icon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T054623Z" creationid="Hugo" creationdate="20201010T054623Z">
@@ -3825,6 +3833,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T054428Z" creationid="Hugo" creationdate="20201010T054338Z">
         <seg>Ou kapav telesarz OmegaT avek ou san Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153540Z" creationid="Hugo" creationdate="20201013T153540Z">
+        <seg>Enn seri icons alternatif pou OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
