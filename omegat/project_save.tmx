@@ -920,6 +920,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153254Z" creationid="Hugo" creationdate="20201013T153254Z">
+        <seg>Li konsiste an enn liv zelev avek bann ransegnman pou so adaptasion par bann formater, ek bann exersis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091211Z" creationid="Hugo" creationdate="20201008T091211Z">
