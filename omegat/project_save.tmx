@@ -1641,6 +1641,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T135108Z" creationid="Hugo" creationdate="20201013T135108Z">
+        <seg>Finn teste lor Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered donating to OmegaT?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T080246Z" creationid="Hugo" creationdate="20201010T080217Z">
@@ -2748,6 +2756,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T143804Z" creationid="Hugo" creationdate="20201013T143804Z">
+        <seg>ONline DIctionary LOokup TOol, itiliter resers pou bann diksioner online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20200921T154623Z">
@@ -3533,6 +3549,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T135032Z" creationid="Hugo" creationdate="20201013T135032Z">
+        <seg>Nesesit tcl/tk, Abiword ek pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requires tcl/tk.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T134910Z" creationid="Hugo" creationdate="20201013T134910Z">
@@ -4009,8 +4033,8 @@
       <tuv lang="en">
         <seg>TKount text counting utility.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134928Z" creationid="Hugo" creationdate="20201013T134928Z">
-        <seg>Itiliter TKount text counting utility.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T135019Z" creationid="Hugo" creationdate="20201013T134928Z">
+        <seg>Itiliter kontaz pou text.</seg>
       </tuv>
     </tu>
     <tu>
