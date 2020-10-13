@@ -1528,6 +1528,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153702Z" creationid="Hugo" creationdate="20201013T153702Z">
+        <seg>Pou fer bann test ouswa demonstrasion OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T025131Z" creationid="Hugo" creationdate="20201001T114014Z">
@@ -2407,6 +2415,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153036Z" creationid="Hugo" creationdate="20201008T153036Z">
         <seg>Responsab lokalizasion, proprieter group itilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153744Z" creationid="Hugo" creationdate="20201013T153744Z">
+        <seg>Resours lokalizasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -3645,6 +3661,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153620Z" creationid="Hugo" creationdate="20201013T153620Z">
+        <seg>Text lexanp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200729T113122Z">
@@ -3839,8 +3863,8 @@
       <tuv lang="en">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153540Z" creationid="Hugo" creationdate="20201013T153540Z">
-        <seg>Enn seri icons alternatif pou OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T153556Z" creationid="Hugo" creationdate="20201013T153540Z">
+        <seg>Enn seri icon alternatif pou OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
