@@ -3575,8 +3575,8 @@
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134111Z" creationid="Hugo" creationdate="20201013T134111Z">
-        <seg>Enn skript pou extrer bann text pou tradiksion depi bann fisie text brit (ex. kod informatik) pou so tradiksion dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134757Z" creationid="Hugo" creationdate="20201013T134111Z">
+        <seg>Enn skript pou extrer text depi enn fisie text-sinp (ex. enn kod informatik) pou tradiksion dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
