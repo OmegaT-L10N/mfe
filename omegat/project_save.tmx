@@ -3060,6 +3060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T132937Z" creationid="Hugo" creationdate="20201013T132937Z">
+        <seg>Bann lezot itilizater zot ankouraze servi &lt;a0&gt;Plug-in Filt Okapi&lt;/a0&gt; anplas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
@@ -4744,6 +4752,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T132802Z" creationid="Hugo" creationdate="20201013T132802Z">
+        <seg>Sa koleksion skript la pou itil bann devloper ki deza ena konesans dans tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T074648Z" creationid="Hugo" creationdate="20200924T074648Z">
@@ -5259,8 +5275,8 @@
       <tuv lang="en">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T132501Z" creationid="Hugo" creationdate="20201013T132501Z">
-        <seg>Itiliter pou konverti bann fisie Trados TagEditor (TTX) </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T132556Z" creationid="Hugo" creationdate="20201013T132501Z">
+        <seg>Itiliter pou konverti bann fisie Trados TagEditor (TTX) dan enn format intermedier kot kapav tradir zot dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
