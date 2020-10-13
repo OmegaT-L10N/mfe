@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134915Z" creationid="Hugo" creationdate="20201013T134915Z">
+        <seg>Enn kontribision Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T153606Z" creationid="Hugo" creationdate="20201001T113544Z">
@@ -1586,8 +1594,8 @@
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121711Z" creationid="Hugo" creationdate="20200527T191151Z">
-        <seg>Bann fisie gloser, zot bann sinp fisie text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134815Z" creationid="Hugo" creationdate="20200527T191151Z">
+        <seg>Bann fisie gloser, zot bann sinp fisie plain-text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,8 +2045,8 @@
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134250Z" creationid="Hugo" creationdate="20200528T190742Z">
-        <seg>An plis format text sinp, format TBX ousi aksepte antan ki format gloser read-only.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134825Z" creationid="Hugo" creationdate="20200528T190742Z">
+        <seg>An plis format plaint-text, format TBX ousi aksepte antan ki format gloser read-only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,8 +3102,8 @@
       <tuv lang="en">
         <seg>Plain text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134337Z" creationid="Hugo" creationdate="20201003T054433Z">
-        <seg>Text sinp</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134839Z" creationid="Hugo" creationdate="20201003T054433Z">
+        <seg>Plain-text</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,6 +3533,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134910Z" creationid="Hugo" creationdate="20201013T134910Z">
+        <seg>Nesesit tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore Main Window</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200918T131511Z" creationid="Hugo" creationdate="20200729T142017Z">
@@ -3575,8 +3591,8 @@
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134757Z" creationid="Hugo" creationdate="20201013T134111Z">
-        <seg>Enn skript pou extrer text depi enn fisie text-sinp (ex. enn kod informatik) pou tradiksion dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134932Z" creationid="Hugo" creationdate="20201013T134111Z">
+        <seg>Skript pou extrer text depi enn fisie plain-text (ex. enn kod informatik) pou tradiksion dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3987,6 +4003,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T071554Z" creationid="Hugo" creationdate="20200528T193248Z">
         <seg>TBX – Term Base eXchange – li enn standard lib, baze lor XML, ki itilize pou esanz data terminolozik striktire. TBX finn aprouve antan ki norm internasional par LISA ek ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TKount text counting utility.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134928Z" creationid="Hugo" creationdate="20201013T134928Z">
+        <seg>Itiliter TKount text counting utility.</seg>
       </tuv>
     </tu>
     <tu>
