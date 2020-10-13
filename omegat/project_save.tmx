@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T160204Z" creationid="Hugo" creationdate="20201013T160026Z">
+        <seg>Enn koleksion konplet itiliter pou prepar bann fisie pou zot tradiksion dan enn CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A currency symbol</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133215Z" creationid="Hugo" creationdate="20200607T133215Z">
@@ -2852,6 +2860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155918Z" creationid="Hugo" creationdate="20201013T155918Z">
+        <seg>Framework Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T090957Z" creationid="Hugo" creationdate="20201013T090957Z">
@@ -4585,8 +4601,8 @@
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T072056Z" creationid="Hugo" creationdate="20200706T193138Z">
-        <seg>Sintax konplett pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T160106Z" creationid="Hugo" creationdate="20200706T193138Z">
+        <seg>Sintax konplet pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
