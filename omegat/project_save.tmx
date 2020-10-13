@@ -2037,8 +2037,8 @@
       <tuv lang="en">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T125325Z" creationid="Hugo" creationdate="20200528T190742Z">
-        <seg>An plis format text brit, format TBX ousi aksepte antan ki format gloser read-only.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134250Z" creationid="Hugo" creationdate="20200528T190742Z">
+        <seg>An plis format text sinp, format TBX ousi aksepte antan ki format gloser read-only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,8 +3094,8 @@
       <tuv lang="en">
         <seg>Plain text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T054433Z" creationid="Hugo" creationdate="20201003T054433Z">
-        <seg>Text brit</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134337Z" creationid="Hugo" creationdate="20201003T054433Z">
+        <seg>Text sinp</seg>
       </tuv>
     </tu>
     <tu>
