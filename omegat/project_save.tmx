@@ -2956,6 +2956,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T152452Z" creationid="Hugo" creationdate="20201013T152452Z">
+        <seg>Formasion lor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043446Z" creationid="Hugo" creationdate="20201010T043446Z">
@@ -5148,6 +5156,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043854Z" creationid="Hugo" creationdate="20201010T043854Z">
         <seg>Formasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training course</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T144727Z" creationid="Hugo" creationdate="20201013T144701Z">
+        <seg>Training</seg>
       </tuv>
     </tu>
     <tu>
