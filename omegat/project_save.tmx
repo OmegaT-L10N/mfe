@@ -2539,6 +2539,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Miscellaneous resources</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T144652Z" creationid="Hugo" creationdate="20201013T144652Z">
+        <seg>Resours diver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification Info/Display All</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120231Z" creationid="Hugo" creationdate="20200729T132517Z">
