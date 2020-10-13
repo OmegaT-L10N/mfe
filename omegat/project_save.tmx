@@ -2411,6 +2411,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T154036Z" creationid="Hugo" creationdate="20201013T154036Z">
+        <seg>Repository TMX lokalizasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153036Z" creationid="Hugo" creationdate="20201008T153036Z">
@@ -4115,6 +4123,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T135019Z" creationid="Hugo" creationdate="20201013T134928Z">
         <seg>Itiliter kontaz pou text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T154817Z" creationid="Hugo" creationdate="20201013T154817Z">
+        <seg>Bann fisie TMX pou lokalizasion dokimantasion ek site web OmegaT. Zot destine bann lokalizater.</seg>
       </tuv>
     </tu>
     <tu>
