@@ -1552,6 +1552,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155909Z" creationid="Hugo" creationdate="20201013T155909Z">
+        <seg>Alternatif gratwi (ek konpatib) Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043806Z" creationid="Hugo" creationdate="20201010T043806Z">
@@ -3092,6 +3100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155742Z" creationid="Hugo" creationdate="20201013T155742Z">
+        <seg>Repertwar bann diksioner lortograf ki kapav itilize avek OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T145818Z" creationid="Hugo" creationdate="20201001T074952Z">
@@ -4013,6 +4029,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155652Z" creationid="Hugo" creationdate="20201013T155652Z">
+        <seg>Diksioner lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T080618Z" creationid="Hugo" creationdate="20201010T080618Z">
@@ -4916,6 +4940,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120125Z" creationid="Hugo" creationdate="20200607T165134Z">
         <seg>Zot tou normalman parey (get anba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text ki pe serse (bwat text omilie), met tou korespondans ki li finn trouve ensam, ek afis zot dan bwat text rezilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155620Z" creationid="Hugo" creationdate="20201013T155620Z">
+        <seg>Program tiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T155643Z" creationid="Hugo" creationdate="20201013T155643Z">
+        <seg>Program tier pou itilizasion avek OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
