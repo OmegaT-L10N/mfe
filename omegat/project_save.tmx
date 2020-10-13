@@ -3549,6 +3549,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T143956Z" creationid="Hugo" creationdate="20201013T143956Z">
+        <seg>Nesesit Linux, w3m ek tcl/tk (toule-de normalman instale avek Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T135032Z" creationid="Hugo" creationdate="20201013T135032Z">
@@ -5557,6 +5565,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T063620Z" creationid="Hugo" creationdate="20201010T063620Z">
         <seg>San JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast TMX file converter</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T144146Z" creationid="Hugo" creationdate="20201013T144146Z">
+        <seg>Konvertiser fisie Wordfast TMX</seg>
       </tuv>
     </tu>
     <tu>
