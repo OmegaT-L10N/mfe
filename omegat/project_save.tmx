@@ -2339,6 +2339,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133248Z" creationid="Hugo" creationdate="20201013T133248Z">
+        <seg>Version biner Toxic pou Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T095819Z" creationid="Hugo" creationdate="20201001T115838Z">
@@ -3092,6 +3100,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133412Z" creationid="Hugo" creationdate="20201013T133412Z">
+        <seg>Miltiplatform – nesesit tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043417Z" creationid="Hugo" creationdate="20201010T043417Z">
@@ -3553,6 +3569,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141901Z" creationid="Hugo" creationdate="20200729T141901Z">
         <seg>Anrezistreman ek output...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T134111Z" creationid="Hugo" creationdate="20201013T134111Z">
+        <seg>Enn skript pou extrer bann text pou tradiksion depi bann fisie text brit (ex. kod informatik) pou so tradiksion dan OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133328Z" creationid="Hugo" creationdate="20201013T133328Z">
+        <seg>Bann version skript Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,6 +5032,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133228Z" creationid="Hugo" creationdate="20201013T133228Z">
+        <seg>Toxic pou Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133153Z" creationid="Hugo" creationdate="20201013T133153Z">
+        <seg>Toxic pou Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133305Z" creationid="Hugo" creationdate="20201013T133305Z">
+        <seg>Bann skript Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133150Z" creationid="Hugo" creationdate="20201013T133150Z">
@@ -5421,6 +5477,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T095719Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou inplemante depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pour travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201013T133220Z" creationid="Hugo" creationdate="20201013T133220Z">
+        <seg>Version Toxic pou Windows.</seg>
       </tuv>
     </tu>
     <tu>
