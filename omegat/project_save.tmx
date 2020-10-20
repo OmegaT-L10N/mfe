@@ -5062,8 +5062,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112940Z" creationid="Hugo" creationdate="20200528T202300Z">
-        <seg>Pran kont: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumandir pa fiab (Novam 2013). Vo mie itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T124851Z" creationid="Hugo" creationdate="20200528T202300Z">
+        <seg>Pran kont: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumadir pa fiab (Novam 2013). Vo mie itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7103,8 +7103,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T124810Z" creationid="Hugo" creationdate="20201020T124810Z">
-        <seg>Sertin dosie proze koumandir finn deplase.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125021Z" creationid="Hugo" creationdate="20201020T124810Z">
+        <seg>Koumadir sertin dosie proze finn deplase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9515,6 +9515,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113818Z" creationid="Hugo" creationdate="20200924T111729Z">
         <seg>Apre ou pou bizin servi &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pou inser sigzestion-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125152Z" creationid="Hugo" creationdate="20201020T125152Z">
+        <seg>Ou bizin mansionn zot nouvo lanplasman ou rekree zot.</seg>
       </tuv>
     </tu>
     <tu>
