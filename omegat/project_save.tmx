@@ -5816,6 +5816,14 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125506Z" creationid="Hugo" creationdate="20201020T125506Z">
+        <seg>Swazir lang ou bann file sours ek lang sib dan lekel ou oule tradir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T131744Z" creationid="Hugo" creationdate="20201015T131744Z">
@@ -9521,8 +9529,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125152Z" creationid="Hugo" creationdate="20201020T125152Z">
-        <seg>Ou bizin mansionn zot nouvo lanplasman ou rekree zot.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125324Z" creationid="Hugo" creationdate="20201020T125152Z">
+        <seg>Ou bizin mansionn zot nouvo lanplasman ouswa refer zot.</seg>
       </tuv>
     </tu>
     <tu>
