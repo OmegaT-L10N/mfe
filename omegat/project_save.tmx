@@ -56,16 +56,16 @@
       <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T083818Z" creationid="Hugo" creationdate="20201015T083818Z">
-        <seg>&amp;Azoute</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130440Z" creationid="Hugo" creationdate="20201015T083818Z">
+        <seg>&amp;Azout</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T083800Z" creationid="Hugo" creationdate="20201015T083800Z">
-        <seg>&amp;Azoute...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130433Z" creationid="Hugo" creationdate="20201015T083800Z">
+        <seg>&amp;Azout...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,6 +4635,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130711Z" creationid="Hugo" creationdate="20201020T130711Z">
+        <seg>'Mapping' bann Dosie 'Local' ver bann Dosie 'Remote' dan bann 'Repositories'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074201Z" creationid="Hugo" creationdate="20201016T074201Z">
@@ -6381,6 +6389,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130547Z" creationid="Hugo" creationdate="20201020T130531Z">
+        <seg>'Bann Remote Repository'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130513Z" creationid="Hugo" creationdate="20201020T130513Z">
+        <seg>&amp;Siprime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115708Z" creationid="Hugo" creationdate="20201020T115708Z">
@@ -6489,6 +6513,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T121947Z" creationid="Hugo" creationdate="20200729T121947Z">
         <seg>Ranplas par tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130536Z" creationid="Hugo" creationdate="20201020T130536Z">
+        <seg>'Repository Mapping'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7785,8 +7817,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120310Z" creationid="Hugo" creationdate="20200525T152644Z">
-        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azoute premie lantre dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130459Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azout premie lantre dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8724,6 +8756,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095915Z" creationid="Hugo" creationdate="20201016T095915Z">
         <seg>Dernie modifikasion tradiksion-la par {0} le {1} {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130551Z" creationid="Hugo" creationdate="20201020T130551Z">
+        <seg>Tip</seg>
       </tuv>
     </tu>
     <tu>
