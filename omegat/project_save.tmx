@@ -1224,6 +1224,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130005Z" creationid="Hugo" creationdate="20201020T130005Z">
+        <seg>&amp;Azout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T112406Z" creationid="Hugo" creationdate="20201014T112406Z">
@@ -1830,6 +1838,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125817Z" creationid="Hugo" creationdate="20201020T125817Z">
+        <seg>Swazir enn proze MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T130554Z" creationid="Hugo" creationdate="20200924T140621Z">
@@ -2200,8 +2216,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T114909Z" creationid="Hugo" creationdate="20201020T114909Z">
-        <seg>Kree enn Nouvu Proze</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125802Z" creationid="Hugo" creationdate="20201020T114909Z">
+        <seg>Kree enn Nouvo Proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2226,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135253Z" creationid="Hugo" creationdate="20200729T115309Z">
         <seg>Kree bann Dokiman Tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125758Z" creationid="Hugo" creationdate="20201020T125758Z">
+        <seg>Kree enn Nouvo Proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,9 +3794,9 @@ Erer 404</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T082438Z" creationid="Hugo" creationdate="20201015T082223Z">
-        <seg>Si komann-la invoke dan enn git working tree ou enn svn chekout,
-		bann rezilta pou met an atant/azoute.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130428Z" creationid="Hugo" creationdate="20201015T082223Z">
+        <seg>Si komann-la invoke dan enn 'git working tree' ou enn 'svn chekout',
+		bann rezilta pou an-atant/azoute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,6 +5224,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T050628Z" creationid="Hugo" creationdate="20201010T050628Z">
         <seg>Selekter Telesarzman OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125834Z" creationid="Hugo" creationdate="20201020T125834Z">
+        <seg>File Proze OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,6 +8744,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125929Z" creationid="Hugo" creationdate="20201020T125929Z">
+        <seg>Inposib konvertir proze-la!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125950Z" creationid="Hugo" creationdate="20201020T125950Z">
+        <seg>Inposib telesarz proze lekip-la!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125912Z" creationid="Hugo" creationdate="20201020T125912Z">
+        <seg>Inposib lir file proze la!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T121944Z" creationid="Hugo" creationdate="20200924T120547Z">
@@ -9555,6 +9611,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T124018Z" creationid="Hugo" creationdate="20201015T095623Z">
         <seg>Ou proze pena okenn file dan enn format ki OmegaT kapav zere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125825Z" creationid="Hugo" creationdate="20201020T125825Z">
+        <seg>File ZIP</seg>
       </tuv>
     </tu>
     <tu>
