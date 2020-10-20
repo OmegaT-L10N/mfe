@@ -3503,6 +3503,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125746Z" creationid="Hugo" creationdate="20201020T125746Z">
+        <seg>Isi ou kapav ousi mansionn bann lezot dosie pou ou proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200527T181609Z">
@@ -5818,8 +5826,8 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
       <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125506Z" creationid="Hugo" creationdate="20201020T125506Z">
-        <seg>Swazir lang ou bann file sours ek lang sib dan lekel ou oule tradir.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125640Z" creationid="Hugo" creationdate="20201020T125506Z">
+        <seg>Swazir lang ou bann file sours ek lang sib ou oule tradir.</seg>
       </tuv>
     </tu>
     <tu>
