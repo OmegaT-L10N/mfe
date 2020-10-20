@@ -2850,6 +2850,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130837Z" creationid="Hugo" creationdate="20201020T130825Z">
+        <seg>'Pattern' Exklizion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T132313Z" creationid="Hugo" creationdate="20201016T132227Z">
@@ -4115,6 +4123,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130833Z" creationid="Hugo" creationdate="20201020T130833Z">
+        <seg>'Pattern' Inklizion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T135850Z" creationid="Hugo" creationdate="20201016T135339Z">
@@ -4255,6 +4271,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T112808Z" creationid="Hugo" creationdate="20201014T112808Z">
         <seg>Introdiksion OmegaT (2.5.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T142652Z" creationid="Hugo" creationdate="20201020T142652Z">
+        <seg>Tip repository pa valid: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,6 +4587,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130733Z" creationid="Hugo" creationdate="20201020T130733Z">
+        <seg>File/Dosier Lokal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T115653Z" creationid="Hugo" creationdate="20201003T115653Z">
@@ -4637,8 +4669,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130711Z" creationid="Hugo" creationdate="20201020T130711Z">
-        <seg>'Mapping' bann Dosie 'Local' ver bann Dosie 'Remote' dan bann 'Repositories'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130746Z" creationid="Hugo" creationdate="20201020T130711Z">
+        <seg>'Mapping' bann Dosie Lokal ver bann Dosie 'Remote' dan bann 'Repository'</seg>
       </tuv>
     </tu>
     <tu>
@@ -6389,6 +6421,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130756Z" creationid="Hugo" creationdate="20201020T130756Z">
+        <seg>File/Dosie 'Remote'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T130547Z" creationid="Hugo" creationdate="20201020T130531Z">
@@ -6513,6 +6553,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T121947Z" creationid="Hugo" creationdate="20200729T121947Z">
         <seg>Ranplas par tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130714Z" creationid="Hugo" creationdate="20201020T130714Z">
+        <seg>'Repository'</seg>
       </tuv>
     </tu>
     <tu>
