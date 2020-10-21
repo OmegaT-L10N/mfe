@@ -2414,6 +2414,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144658Z" creationid="Hugo" creationdate="20201021T144658Z">
+        <seg>Dosie mansione pou bann file diksioner pa existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T073323Z" creationid="Hugo" creationdate="20201003T073323Z">
@@ -2630,6 +2638,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144716Z" creationid="Hugo" creationdate="20201021T144716Z">
+        <seg>Erer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115742Z" creationid="Hugo" creationdate="20200729T115742Z">
@@ -2686,6 +2702,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T130832Z" creationid="Hugo" creationdate="20200706T190908Z">
         <seg>Lalign vid aksepte ek lalign komanter bizin koumans avek "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T132849Z" creationid="Hugo" creationdate="20201021T132317Z">
+        <seg>URL repository vid dan mapping</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,8 +2876,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130837Z" creationid="Hugo" creationdate="20201020T130825Z">
-        <seg>'Pattern' Exklizion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124650Z" creationid="Hugo" creationdate="20201020T130825Z">
+        <seg>Pattern Exklizion</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3454,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200527T191151Z">
         <seg>Bann file gloser, zot bann sinp file plain-text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134330Z" creationid="Hugo" creationdate="20201021T134330Z">
+        <seg>Dosie mansione pou bann file gloser pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4125,8 +4157,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Include Pattern</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130833Z" creationid="Hugo" creationdate="20201020T130833Z">
-        <seg>'Pattern' Inklizion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124648Z" creationid="Hugo" creationdate="20201020T130833Z">
+        <seg>Pattern Inklizion</seg>
       </tuv>
     </tu>
     <tu>
@@ -4277,8 +4309,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T142652Z" creationid="Hugo" creationdate="20201020T142652Z">
-        <seg>Tip repository pa valid: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124637Z" creationid="Hugo" creationdate="20201020T142652Z">
+        <seg>Tip repository la pa valid: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4669,8 +4701,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130746Z" creationid="Hugo" creationdate="20201020T130711Z">
-        <seg>'Mapping' bann Dosie Lokal ver bann Dosie 'Remote' dan bann 'Repository'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124704Z" creationid="Hugo" creationdate="20201020T130711Z">
+        <seg>Mapping bann Dosie Lokal ver bann Dosie Remote dan bann Repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -6423,16 +6455,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130756Z" creationid="Hugo" creationdate="20201020T130756Z">
-        <seg>File/Dosie 'Remote'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124653Z" creationid="Hugo" creationdate="20201020T130756Z">
+        <seg>File/Dosie Remote</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130547Z" creationid="Hugo" creationdate="20201020T130531Z">
-        <seg>'Bann Remote Repository'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124708Z" creationid="Hugo" creationdate="20201020T130531Z">
+        <seg>Bann Remote Repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -6557,18 +6589,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Repository</seg>
+        <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130714Z" creationid="Hugo" creationdate="20201020T130714Z">
-        <seg>'Repository'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T125644Z" creationid="Hugo" creationdate="20201021T125644Z">
+        <seg>Repository {0} deza prezan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Repository Mapping</seg>
+        <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130536Z" creationid="Hugo" creationdate="20201020T130536Z">
-        <seg>'Repository Mapping'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T131149Z" creationid="Hugo" creationdate="20201021T131149Z">
+        <seg>Repository {0} inkoni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7281,6 +7313,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091723Z" creationid="Hugo" creationdate="20201016T091723Z">
         <seg>Bann file sours finn anrezistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134302Z" creationid="Hugo" creationdate="20201021T134302Z">
+        <seg>Dosie mansione pou bann file sours pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8011,6 +8051,16 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T133531Z" creationid="Hugo" creationdate="20201021T133531Z">
+        <seg>Kod lang bizin dan format xx-YY, xxx-YY, xx_YY ouswa xxx_YY, 
+kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120323Z" creationid="Hugo" creationdate="20200528T191249Z">
@@ -8179,6 +8229,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T133311Z" creationid="Hugo" creationdate="20201021T133311Z">
+        <seg>Lang file sours pa valid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T162835Z" creationid="Hugo" creationdate="20200527T175504Z">
@@ -8207,6 +8265,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T191342Z" creationid="Hugo" creationdate="20200527T191342Z">
         <seg>Trwaziem kolonn-la li kapav itilize pou lezot linformasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T133942Z" creationid="Hugo" creationdate="20201021T133942Z">
+        <seg>Lang file sib pa valid!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8248,6 +8314,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T183613Z" creationid="Hugo" creationdate="20200527T165641Z">
         <seg>Bann mo avan sign =, zot bann term sours. Bann mo apre sign =, zot bann tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144625Z" creationid="Hugo" creationdate="20201021T144625Z">
+        <seg>File gloser ekrivab bizin dan dosie pou bann gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -8776,6 +8850,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134309Z" creationid="Hugo" creationdate="20201021T134309Z">
+        <seg>Dosie mansione pou bann file sib pa existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T101523Z" creationid="Hugo" creationdate="20201016T101523Z">
@@ -8804,6 +8886,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095915Z" creationid="Hugo" creationdate="20201016T095915Z">
         <seg>Dernie modifikasion tradiksion-la par {0} le {1} {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144649Z" creationid="Hugo" creationdate="20201021T144649Z">
+        <seg>Dosie mansione pou bann file memwar tradiksion pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9489,6 +9579,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115312Z" creationid="Hugo" creationdate="20201020T115100Z">
         <seg>File Gloser Ekrivab:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134350Z" creationid="Hugo" creationdate="20201021T134350Z">
+        <seg>Dosie mansione pou file gloser ekrivab pa existe!</seg>
       </tuv>
     </tu>
     <tu>
