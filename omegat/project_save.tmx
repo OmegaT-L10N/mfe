@@ -6645,6 +6645,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T131645Z" creationid="Hugo" creationdate="20201022T131645Z">
+        <seg>Enn resers par expresion regilie pou pran kont bann expresion regilie Java (get gid litilizasion pou bann detay).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T085811Z" creationid="Hugo" creationdate="20200607T080325Z">
@@ -9811,6 +9819,16 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073700Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou inplemante depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pou travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T131829Z" creationid="Hugo" creationdate="20201022T131829Z">
+        <seg>Joker:
+Bann resers exak ek par keyword zot toule de aksept bann karakter joker "*" ek "?".</seg>
       </tuv>
     </tu>
     <tu>
