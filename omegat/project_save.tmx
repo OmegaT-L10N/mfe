@@ -2566,6 +2566,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T104040Z" creationid="Hugo" creationdate="20201022T104040Z">
+        <seg>Eski ou oule kontigne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T153719Z" creationid="Hugo" creationdate="20201014T153719Z">
@@ -5372,6 +5380,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T104103Z" creationid="Hugo" creationdate="20201022T104103Z">
+        <seg>Kantite segman ki koresponn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T101507Z" creationid="Hugo" creationdate="20201016T101507Z">
@@ -7831,6 +7847,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T103943Z" creationid="Hugo" creationdate="20201022T103943Z">
+        <seg>Ranplas Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T103929Z" creationid="Hugo" creationdate="20201022T103929Z">
+        <seg>Resers &amp;textiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20201003T115834Z">
@@ -9931,6 +9963,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T081641Z" creationid="Hugo" creationdate="20201003T101134Z">
         <seg>Ou ousi kapav kopie li ek distribie li lezot dimounn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T104031Z" creationid="Hugo" creationdate="20201022T104031Z">
+        <seg>Ou pou modifie {0} segman.</seg>
       </tuv>
     </tu>
     <tu>
