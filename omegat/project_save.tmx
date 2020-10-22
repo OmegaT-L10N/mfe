@@ -641,9 +641,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T132623Z" creationid="Hugo" creationdate="20201022T132623Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T134011Z" creationid="Hugo" creationdate="20201022T132623Z">
         <seg>'*' al rod zero ou plizier karakter ('mam*' pou al rod 'mam', 'mama', 'mamzel', 'mamlouk', etc.)
-'?' al rod exakteman enn sel karakter ('mam?' pou al rod 'mama' ek 'mame', me pa 'mam' ouswa 'mamzel').</seg>
+'?' al rod exakteman enn sel karakter ('mam?' pou al rod 'mama' ek 'mame', me pa 'mam' ou 'mamzel').</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,9 +7106,9 @@ Erer 404</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T130441Z" creationid="Hugo" creationdate="20201022T130441Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133940Z" creationid="Hugo" creationdate="20201022T130441Z">
         <seg>Porte:
-Par defo, resers so porte li lor lansanb proze, me kapav konfigir li lor ninport ki file dan enn striktir dosie defini.</seg>
+Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki file dan enn striktir dosie defini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,8 +7187,8 @@ Par defo, resers so porte li lor lansanb proze, me kapav konfigir li lor ninport
       <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T101528Z" creationid="Hugo" creationdate="20201022T101528Z">
-        <seg>Resers dan:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133841Z" creationid="Hugo" creationdate="20201022T101528Z">
+        <seg>Rod dan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9162,8 +9162,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T102836Z" creationid="Hugo" creationdate="20201022T102836Z">
-        <seg>Tradi ou &amp;pa tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133901Z" creationid="Hugo" creationdate="20201022T102836Z">
+        <seg>Tradi ouswa &amp;pa tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,8 +9837,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133629Z" creationid="Hugo" creationdate="20201022T133209Z">
-        <seg>Kan ou pe servi bann expresion regilie, ou kapav met bann referans pou bann group ki ou finn defini dan bwat 'Resers' dan bwat 'Ranplase par'.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T134053Z" creationid="Hugo" creationdate="20201022T133209Z">
+        <seg>Kan ou pe servi bann expresion regilie, ou kapav met bann referans dan bwat 'Ranplase par' pou bann group ki ou finn defini dan bwat 'Al rod'.</seg>
       </tuv>
     </tu>
     <tu>
