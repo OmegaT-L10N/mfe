@@ -638,6 +638,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T132623Z" creationid="Hugo" creationdate="20201022T132623Z">
+        <seg>'*' al rod zero ou plizier karakter ('mam*' pou al rod 'mam', 'mama', 'mamzel', 'mamlouk', etc.)
+'?' al rod exakteman enn sel karakter ('mam?' pou al rod 'mama' ek 'mame', me pa 'mam' ouswa 'mamzel').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044500Z" creationid="Hugo" creationdate="20201010T044500Z">
