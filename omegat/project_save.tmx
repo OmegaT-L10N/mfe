@@ -4639,8 +4639,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133029Z" creationid="Hugo" creationdate="20201022T133029Z">
-        <seg>Bann resers par keyword zot pa disponib dan </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133328Z" creationid="Hugo" creationdate="20201022T133029Z">
+        <seg>Bann resers par keyword zot pa disponib dan enn resers-ranplasman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9829,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133209Z" creationid="Hugo" creationdate="20201022T133209Z">
-        <seg>Kan ou pe servi bann expresion regilie, </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133629Z" creationid="Hugo" creationdate="20201022T133209Z">
+        <seg>Kan ou pe servi bann expresion regilie, ou kapav met bann referans pou bann group ki ou finn defini dan bwat 'Resers' dan bwat 'Ranplase par'.</seg>
       </tuv>
     </tu>
     <tu>
