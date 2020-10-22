@@ -4637,6 +4637,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133029Z" creationid="Hugo" creationdate="20201022T133029Z">
+        <seg>Bann resers par keyword zot pa disponib dan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131303Z" creationid="Hugo" creationdate="20201022T131303Z">
@@ -9815,6 +9823,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090457Z" creationid="Hugo" creationdate="20200924T122543Z">
         <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann expresion) mem si bann mo-la aparet separeman dan text sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133209Z" creationid="Hugo" creationdate="20201022T133209Z">
+        <seg>Kan ou pe servi bann expresion regilie, </seg>
       </tuv>
     </tu>
     <tu>
