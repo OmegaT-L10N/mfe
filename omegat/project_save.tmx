@@ -7061,6 +7061,16 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T130441Z" creationid="Hugo" creationdate="20201022T130441Z">
+        <seg>Porte:
+Par defo, resers so porte li lor lansanb proze, me kapav konfigir li lor ninport ki file dan enn striktir dosie defini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T134111Z">
