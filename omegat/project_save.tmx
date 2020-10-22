@@ -4627,6 +4627,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T131303Z" creationid="Hugo" creationdate="20201022T131303Z">
+        <seg>Enn resers par keyword li pou rod tou bann mo ki finn separe par enn lespas, san pran kont zot lord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152315Z" creationid="Hugo" creationdate="20201014T152315Z">
