@@ -9220,6 +9220,16 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T131047Z" creationid="Hugo" creationdate="20201022T131047Z">
+        <seg>Tip:
+Bann resers exak zot koresponn lansanb text dan bwat resers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102755Z" creationid="Hugo" creationdate="20201022T102755Z">
