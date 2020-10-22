@@ -7899,6 +7899,16 @@ Par defo, resers so porte li lor lansanb proze, me kapav konfigir li lor ninport
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T132936Z" creationid="Hugo" creationdate="20201022T132936Z">
+        <seg>Ranplasman:
+Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103929Z" creationid="Hugo" creationdate="20201022T103929Z">
