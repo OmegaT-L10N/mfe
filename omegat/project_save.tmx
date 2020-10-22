@@ -2544,8 +2544,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Display:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T102901Z" creationid="Hugo" creationdate="20201022T102901Z">
-        <seg>Afis</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T102915Z" creationid="Hugo" creationdate="20201022T102901Z">
+        <seg>Afis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10053,6 +10053,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T133957Z" creationid="Hugo" creationdate="20200607T133839Z">
         <seg>a, b, ou c (klas sinp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T103532Z" creationid="Hugo" creationdate="20201022T103532Z">
+        <seg>tou bann segman korespondan</seg>
       </tuv>
     </tu>
     <tu>
