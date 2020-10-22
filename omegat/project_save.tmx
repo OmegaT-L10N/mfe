@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085739Z" creationid="Hugo" creationdate="20201022T085739Z">
+        <seg>Resers exak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T083319Z" creationid="Hugo" creationdate="20201015T083319Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T140451Z" creationid="Hugo" creationdate="20201015T140435Z">
         <seg>&amp;Insert Match ou Seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085716Z" creationid="Hugo" creationdate="20201022T085716Z">
+        <seg>Resers par keyword</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +376,8 @@
       <tuv lang="en">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T135506Z" creationid="Hugo" creationdate="20201015T135506Z">
-        <seg>Propriete...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090507Z" creationid="Hugo" creationdate="20201015T135506Z">
+        <seg>Propriyete...</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T140049Z" creationid="Hugo" creationdate="20201015T140049Z">
         <seg>&amp;Refer Dernie Laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085803Z" creationid="Hugo" creationdate="20201022T085803Z">
+        <seg>Expresion re&amp;gilie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,8 +1042,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T165804Z" creationid="Hugo" creationdate="20200607T165804Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; mem ena enn bon koleksion lexpresion regilie deza (get Opsion &gt; Segmantasion).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090430Z" creationid="Hugo" creationdate="20200607T165804Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; mem ena enn pake expresion regilie (get Opsion &gt; Segmantasion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,8 +1082,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122808Z" creationid="Hugo" creationdate="20200607T164230Z">
-        <seg>Ena boukou zouti interaktif ki permet devlop ek teste lexpresion regilie.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085926Z" creationid="Hugo" creationdate="20200607T164230Z">
+        <seg>Ena boukou zouti interaktif ki permet devlop ek teste bann expresion regilie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,6 +1328,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085641Z" creationid="Hugo" creationdate="20201022T085641Z">
+        <seg>Finn rankont enn erer letan sey kree enn nouvo dosie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T142824Z" creationid="Hugo" creationdate="20200929T155118Z">
@@ -1452,6 +1484,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T130552Z" creationid="Hugo" creationdate="20201001T134103Z">
         <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki ninport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090956Z" creationid="Hugo" creationdate="20201022T090956Z">
+        <seg>O&amp;ter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1725,6 +1765,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T095312Z" creationid="Hugo" creationdate="20201022T091216Z">
+        <seg>Respek maziskil/miniskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140324Z" creationid="Hugo" creationdate="20201016T140324Z">
@@ -1761,6 +1809,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152007Z" creationid="Hugo" creationdate="20201014T152007Z">
         <seg>Toutfwa, sertin bann fonksion finn komande par bann sponnsor komersial ki anretour finn ofer zot kominote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T091130Z" creationid="Hugo" creationdate="20201022T091130Z">
+        <seg>Sanze &amp;avan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T091110Z" creationid="Hugo" creationdate="20201022T091110Z">
+        <seg>Sanze apre:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,8 +1872,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200519T155838Z" creationid="Hugo" creationdate="20200519T155838Z">
-        <seg>Get dan &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proze&lt;/g5&gt; &lt;g6&gt;Propriete&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090523Z" creationid="Hugo" creationdate="20200519T155838Z">
+        <seg>Get dan &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Proze&lt;/g5&gt; &lt;g6&gt;Propriyete&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2728,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Edit project properties here.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T114121Z" creationid="Hugo" creationdate="20201020T114121Z">
-        <seg>Edit bann propriete proze isi.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090518Z" creationid="Hugo" creationdate="20201020T114121Z">
+        <seg>Edit bann propriyete proze isi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3044,8 +3108,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T092029Z" creationid="Hugo" creationdate="20201016T092029Z">
-        <seg>Pa finn resi update bann propriete proze-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090512Z" creationid="Hugo" creationdate="20201016T092029Z">
+        <seg>Pa finn resi update bann propriyete proze-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3254,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170250Z" creationid="Hugo" creationdate="20200607T170250Z">
         <seg>Trouv bann rezilta swivan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T084904Z" creationid="Hugo" creationdate="20201022T084904Z">
+        <seg>Dosie-la deza existe ek li pa vid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3438,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043806Z" creationid="Hugo" creationdate="20201010T043806Z">
         <seg>Depi seri video YouTube lor OmegaT par Miguel Navarro (Espagnol).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T100422Z" creationid="Hugo" creationdate="20201022T100422Z">
+        <seg>Pa fer diferans ant &amp;larzer karakter fullwidth ek halfwidth</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,6 +3651,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125746Z" creationid="Hugo" creationdate="20201020T125746Z">
         <seg>Isi ou kapav ousi mansionn bann lezot dosie pou ou proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090948Z" creationid="Hugo" creationdate="20201022T090948Z">
+        <seg>Maske bann &amp;Opsion Avanse</seg>
       </tuv>
     </tu>
     <tu>
@@ -4123,6 +4211,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090835Z" creationid="Hugo" creationdate="20201022T090835Z">
+        <seg>Dan bann komanter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090621Z" creationid="Hugo" creationdate="20201022T090621Z">
+        <seg>Dan bann not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T084146Z" creationid="Hugo" creationdate="20201016T084116Z">
@@ -4645,8 +4749,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Localization manager, user group owner</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153036Z" creationid="Hugo" creationdate="20201008T153036Z">
-        <seg>Responsab lokalizasion, proprieter group itilizater</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090600Z" creationid="Hugo" creationdate="20201008T153036Z">
+        <seg>Responsab lokalizasion, propriyeter group itilizater</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4927,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035435Z" creationid="Hugo" creationdate="20201003T035435Z">
         <seg>Propagasion bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T101545Z" creationid="Hugo" creationdate="20201022T101545Z">
+        <seg>&amp;Memwar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5204,6 +5316,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T091051Z" creationid="Hugo" creationdate="20201022T091051Z">
+        <seg>Aster-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T101507Z" creationid="Hugo" creationdate="20201016T101507Z">
@@ -5308,6 +5428,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T084823Z" creationid="Hugo" creationdate="20201022T084823Z">
+        <seg>Dosie Proze OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Screenshot</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055906Z" creationid="Hugo" creationdate="20201003T055906Z">
@@ -5328,6 +5456,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T055409Z" creationid="Hugo" creationdate="20201010T055341Z">
         <seg>OmegaT nesesit JRE version 1.6 minimum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085530Z" creationid="Hugo" creationdate="20201022T085530Z">
+        <seg>OmegaT pena lotorizasion lektir ek ekritir pou sa dosie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,6 +6064,14 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T084921Z" creationid="Hugo" creationdate="20201022T084921Z">
+        <seg>Swazir enn lot dosie silvouple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125640Z" creationid="Hugo" creationdate="20201020T125506Z">
@@ -6194,8 +6338,8 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
       <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115400Z" creationid="Hugo" creationdate="20200729T115400Z">
-        <seg>Propriete...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090539Z" creationid="Hugo" creationdate="20200729T115400Z">
+        <seg>Propriyete...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6326,8 +6470,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170202Z" creationid="Hugo" creationdate="20200607T170202Z">
-        <seg>Regex − Exanp lexpresion regilie dan tradiksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090442Z" creationid="Hugo" creationdate="20200607T170202Z">
+        <seg>Regex − Exanp expresion regilie dan tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -6399,16 +6543,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Regular expression</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170206Z" creationid="Hugo" creationdate="20200607T170206Z">
-        <seg>Lexpresion regilie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090447Z" creationid="Hugo" creationdate="20200607T170206Z">
+        <seg>Expresion regilie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regular expressions</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080325Z" creationid="Hugo" creationdate="20200607T080325Z">
-        <seg>Lexpresion regilie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085811Z" creationid="Hugo" creationdate="20200607T080325Z">
+        <seg>Expresion regilie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6585,6 +6729,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T121947Z" creationid="Hugo" creationdate="20200729T121947Z">
         <seg>Ranplas par tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085701Z" creationid="Hugo" creationdate="20201022T085701Z">
+        <seg>Ranplas par:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6773,6 +6925,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T100512Z" creationid="Hugo" creationdate="20201022T100512Z">
+        <seg>Lespas konpran nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T100146Z" creationid="Hugo" creationdate="20201016T100146Z">
@@ -6881,6 +7041,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200519T151154Z">
         <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085651Z" creationid="Hugo" creationdate="20201022T085651Z">
+        <seg>Resers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T101528Z" creationid="Hugo" creationdate="20201022T101528Z">
+        <seg>Resers dan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7185,6 +7361,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T080739Z" creationid="Hugo" creationdate="20200607T080739Z">
         <seg>Si ou bizin linformasion spesifik, get &lt;u0&gt;dokimantasion Java Regex&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090927Z" creationid="Hugo" creationdate="20201022T090927Z">
+        <seg>Afis bann &amp;Opsion Avanse</seg>
       </tuv>
     </tu>
     <tu>
@@ -7504,8 +7688,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T135720Z" creationid="Hugo" creationdate="20201015T135720Z">
-        <seg>&amp;MT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T101638Z" creationid="Hugo" creationdate="20201015T135720Z">
+        <seg>&amp;Memwar Tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7953,8 +8137,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200706T184724Z" creationid="Hugo" creationdate="20200607T170113Z">
-        <seg>Bann lexpresion dan lalis swivan kapav itil si ou fer enn resers dan memwar tradiksion:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090438Z" creationid="Hugo" creationdate="20200607T170113Z">
+        <seg>Bann expresion dan lalis swivan kapav itil si ou fer enn resers dan memwar tradiksion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8079,16 +8263,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200606T183327Z">
-        <seg>Kapav sanz lanplasman file gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriete... &lt;/g0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090534Z" creationid="Hugo" creationdate="20200606T183327Z">
+        <seg>Kapav sanz lanplasman file gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriyete... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200921T114143Z">
-        <seg>Nom bann file bizin koresponn avek kod lang ou lang sib tel ki li defini dan bwat dialog propriete proze (&lt;g0&gt;Proze &gt; Propriete&lt;/g0&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090547Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann file bizin koresponn avek kod lang ou lang sib tel ki li defini dan bwat dialog propriyete proze (&lt;g0&gt;Proze &gt; Propriyete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8183,8 +8367,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080655Z" creationid="Hugo" creationdate="20200607T080655Z">
-        <seg>Lexpresion regilie (ou regex) itilize dan resers ek reg segmantasion li bann lexpresion itilize par Java.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085918Z" creationid="Hugo" creationdate="20200607T080655Z">
+        <seg>Bann expresion regilie (ou regex) itilize pou bann resers ek dan reg segmantasion zot bann expresion ki itilize par Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8396,8 +8580,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120125Z" creationid="Hugo" creationdate="20200607T165134Z">
-        <seg>Zot tou normalman parey (get anba pou enn lexanp Regular Expression Tester): lexpresion regilie (lantre laho) analiz text ki pe serse (bwat text omilie), met tou korespondans ki li finn trouve ensam, ek afis zot dan bwat text rezilta.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090110Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get anba pou enn lexanp Tester Expresion Regilie): expresion regilie-la (lantre laho) analiz text ki pe rode (bwat text omilie), met tou bann korespondans ki li finn trouve ansam, ek afis zot dan bwat text rezilta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9445,8 +9629,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T122621Z" creationid="Hugo" creationdate="20200924T122543Z">
-        <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann lexpresion) mem si bann mo-la aparet separeman dan text sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090457Z" creationid="Hugo" creationdate="20200924T122543Z">
+        <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann expresion) mem si bann mo-la aparet separeman dan text sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9739,8 +9923,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200525T150525Z">
-        <seg>Ou kapav definir file-la so lanplasman ek so nom dan bwat dialog propriete proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090528Z" creationid="Hugo" creationdate="20200525T150525Z">
+        <seg>Ou kapav definir file-la so lanplasman ek so nom dan bwat dialog propriyete proze-la.</seg>
       </tuv>
     </tu>
     <tu>
