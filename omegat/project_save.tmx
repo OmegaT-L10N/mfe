@@ -304,7 +304,7 @@
       <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085716Z" creationid="Hugo" creationdate="20201022T085716Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133811Z" creationid="Hugo" creationdate="20201022T085716Z">
         <seg>Resers par keyword</seg>
       </tuv>
     </tu>
@@ -7179,8 +7179,8 @@ Par defo, resers so porte li lor lansanb proze, me kapav konfigir li lor ninport
       <tuv lang="en">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T085651Z" creationid="Hugo" creationdate="20201022T085651Z">
-        <seg>Resers:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133732Z" creationid="Hugo" creationdate="20201022T085651Z">
+        <seg>Al rod:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,6 +9478,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T081441Z" creationid="Hugo" creationdate="20201015T081321Z">
         <seg>Itilizasion: java -jar OmegaT.jar team &lt;komann&gt; [&lt;opsion&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133711Z" creationid="Hugo" creationdate="20201022T133711Z">
+        <seg>Servi $n pou fer referans group nimero n.</seg>
       </tuv>
     </tu>
     <tu>
