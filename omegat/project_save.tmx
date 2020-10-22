@@ -6400,6 +6400,14 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201022T130703Z" creationid="Hugo" creationdate="20201022T130703Z">
+        <seg>Bann resers proze zot par defo dan bann dokiman sours ek sib, memwar tradiksion de referans, gloser, not ek komanter dan proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T155403Z" creationid="Hugo" creationdate="20201014T155403Z">
