@@ -1562,6 +1562,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201023T154626Z" creationid="Hugo" creationdate="20201023T154626Z">
+        <seg>Sinkronizasion otomatik avek Editer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically fetch translations</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T111045Z" creationid="Hugo" creationdate="20200924T110128Z">
@@ -1582,6 +1590,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
         <seg>Segman presedan dan istorik...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201023T182216Z" creationid="Hugo" creationdate="20201023T182216Z">
+        <seg>Retourn segman initial letan ferm lafnet</seg>
       </tuv>
     </tu>
     <tu>
