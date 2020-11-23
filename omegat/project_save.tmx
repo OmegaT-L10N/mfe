@@ -3260,6 +3260,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201123T123845Z" creationid="Hugo" creationdate="20201123T123845Z">
+        <seg>Pas kapav back up file preferans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091629Z" creationid="Hugo" creationdate="20201016T091507Z">
