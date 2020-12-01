@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130935Z" creationid="Hugo" creationdate="20201201T130923Z">
+        <seg>Otoriz bann tradiksion &amp;vid dan bann file sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080212Z" creationid="Hugo" creationdate="20201016T080212Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140151Z" creationid="Hugo" creationdate="20201201T140042Z">
+        <seg>&amp;Bann markpaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080534Z" creationid="Hugo" creationdate="20201016T080534Z">
@@ -150,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140203Z" creationid="Hugo" creationdate="20201201T140119Z">
+        <seg>&amp;Bann komanter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140542Z" creationid="Hugo" creationdate="20201201T140542Z">
+        <seg>&amp;Konpatibilite avek OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135759Z" creationid="Hugo" creationdate="20201015T135759Z">
@@ -166,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134524Z" creationid="Hugo" creationdate="20201201T134418Z">
+        <seg>&amp;Pa dekod bann Unicode literals (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Editor...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074228Z" creationid="Hugo" creationdate="20201016T074228Z">
         <seg>&amp;Editer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133255Z" creationid="Hugo" creationdate="20201201T133255Z">
+        <seg>&amp;Lalinn vid</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +312,8 @@
       <tuv lang="en">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075553Z" creationid="Hugo" creationdate="20201016T075553Z">
-        <seg>Pa pran &amp;kont bann lantre kot 'case' bien diferan (ex.: FOO vs. foo).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075553Z">
+        <seg>Pa pran &amp;kont bann antre kot 'case' bien diferan (ex.: FOO vs. foo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +322,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102820Z" creationid="Hugo" creationdate="20201022T102820Z">
         <seg>Dan &amp;tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135735Z" creationid="Hugo" creationdate="20201201T135735Z">
+        <seg>&amp;Bann antre index</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133134Z" creationid="Hugo" creationdate="20201201T133134Z">
+        <seg>&amp;Lafin lalinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T114847Z" creationid="Hugo" creationdate="20201020T114847Z">
@@ -318,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133303Z" creationid="Hugo" creationdate="20201201T133303Z">
+        <seg>&amp;Zame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T130949Z" creationid="Hugo" creationdate="20201015T130949Z">
@@ -330,6 +402,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152521Z" creationid="Hugo" creationdate="20201015T152521Z">
         <seg>&amp;Segman swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140200Z" creationid="Hugo" creationdate="20201201T140115Z">
+        <seg>&amp;Bann not</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +434,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080302Z" creationid="Hugo" creationdate="20201016T080302Z">
         <seg>&amp;Preferans...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140213Z" creationid="Hugo" creationdate="20201201T140213Z">
+        <seg>&amp;Bann not prezantasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +506,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084341Z" creationid="Hugo" creationdate="20201015T084341Z">
         <seg>&amp;Siprim Filt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132659Z" creationid="Hugo" creationdate="20201201T132514Z">
+        <seg>&amp;Siprim bann lasenn ki pa finn tradi dan file sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140255Z" creationid="Hugo" creationdate="20201201T140255Z">
+        <seg>&amp;Bann nom paz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T075907Z" creationid="Hugo" creationdate="20201016T075907Z">
@@ -538,6 +642,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084014Z" creationid="Hugo" creationdate="20201015T084014Z">
         <seg>&amp;Pa pran kont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131035Z" creationid="Hugo" creationdate="20201201T131035Z">
+        <seg>&amp;Inior lantet bann file PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +838,14 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200723T190417Z" creationid="Hugo" creationdate="20200723T190417Z">
         <seg>, kapav trouv:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132904Z" creationid="Hugo" creationdate="20201201T132904Z">
+        <seg>---- Bann Not Lokalizasion ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -972,8 +1092,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200606T185304Z">
-        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp file avek lantre delimite par tabilasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T185304Z">
+        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp file avek antre delimite par tabilasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1180,8 +1300,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134918Z" creationid="Hugo" creationdate="20200607T134918Z">
-        <seg>Enn karakter lespasman: lespas, tabilasion, retour lalign [ \t\n\x0B\f\r]</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T134918Z">
+        <seg>Enn karakter lespasman: lespas, tabilasion, retour lalinn [ \t\n\x0B\f\r]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,10 +1458,26 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T110015Z" creationid="Hugo" creationdate="20201201T105645Z">
+        <seg>Finn azout {0} antre gloser depi {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032515Z" creationid="Hugo" creationdate="20201010T032515Z">
         <seg>Administrasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131016Z" creationid="Hugo" creationdate="20201201T131016Z">
+        <seg>Otoriz tradiksion bann segman sours &amp;vid</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1538,18 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T094224Z" creationid="Hugo" creationdate="20201201T094124Z">
+        <seg>Erer dans analiz file TMX
+{0}
+File TMX pa pou loade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T142824Z" creationid="Hugo" creationdate="20200929T155118Z">
@@ -1450,10 +1598,18 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135614Z" creationid="Hugo" creationdate="20201201T135614Z">
+        <seg>Resours Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T134331Z" creationid="Hugo" creationdate="20200607T134331Z">
-        <seg>Ninport ki karakter (exsepte terminezon lalign)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T134331Z">
+        <seg>Ninport ki karakter (exsepte terminezon lalinn)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1524,8 +1680,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115558Z" creationid="Hugo" creationdate="20200606T192000Z">
-        <seg>Etan done ki enn lantre li kapav enn mix gloser prioriter ek non prioriter, bann mo gloser prioriter montre an karakter gra.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T192000Z">
+        <seg>Etan done ki enn antre li kapav enn mix gloser prioriter ek non prioriter, bann mo gloser prioriter montre an karakter gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1714,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090956Z" creationid="Hugo" creationdate="20201022T090956Z">
         <seg>O&amp;ter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131058Z" creationid="Hugo" creationdate="20201201T131058Z">
+        <seg>Ranplas otomatikman 'nplurals=INTEGER; &amp;plural=EXPRESSION;' dan lantet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1715,6 +1879,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044225Z" creationid="Hugo" creationdate="20201010T044225Z">
         <seg>Blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140154Z" creationid="Hugo" creationdate="20201201T140108Z">
+        <seg>&amp;Bann referans markpaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,6 +2063,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135814Z" creationid="Hugo" creationdate="20201015T135814Z">
         <seg>&amp;Dokiman Sib Aktiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134631Z" creationid="Hugo" creationdate="20201201T134631Z">
+        <seg>Camtasia pou Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -2076,6 +2256,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142945Z" creationid="Hugo" creationdate="20200924T142945Z">
         <seg>Kouler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125418Z" creationid="Hugo" creationdate="20201201T125418Z">
+        <seg>Index kolonn bizin egal 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,10 +2532,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T110822Z" creationid="Hugo" creationdate="20201201T110815Z">
+        <seg>Pa finn resi initializ laparans operating system!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T150621Z" creationid="Hugo" creationdate="20200921T121101Z">
-        <seg>Kree enn Lantre &amp;Gloser...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105959Z" creationid="Hugo" creationdate="20200921T121101Z">
+        <seg>Kree enn Antre &amp;Gloser...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,8 +2582,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122848Z" creationid="Hugo" creationdate="20200729T122848Z">
-        <seg>Kree enn lantre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200729T122848Z">
+        <seg>Kree enn antre gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,8 +2918,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200519T160042Z">
-        <seg>Eski dosie la ena trwa file mem nom, avek lextansion?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosie la ena trwa file mem nom, avek extansion?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,8 +2998,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>Telesarz file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (lextansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>Telesarz file la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,8 +3114,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T130832Z" creationid="Hugo" creationdate="20200706T190908Z">
-        <seg>Lalign vid aksepte ek lalign komanter bizin koumans avek "//".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200706T190908Z">
+        <seg>Lalign vid aksepte ek lalinn komanter bizin koumans avek "//".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2948,6 +3144,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125351Z" creationid="Hugo" creationdate="20201201T125351Z">
+        <seg>Aktive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201014T081003Z">
@@ -2968,6 +3172,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T100629Z" creationid="Hugo" creationdate="20201016T100629Z">
         <seg>Ankodaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133630Z" creationid="Hugo" creationdate="20201201T133630Z">
+        <seg>Finn rankont enn sekans \u ilegal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,10 +3260,50 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140304Z" creationid="Hugo" creationdate="20201201T140304Z">
+        <seg>Erer dan file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134837Z" creationid="Hugo" creationdate="20201201T134829Z">
+        <seg>Erer dan file {0}, lalinn {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T123236Z" creationid="Hugo" creationdate="20201201T123236Z">
+        <seg>Erer letan initializ marker '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124546Z" creationid="Hugo" creationdate="20201201T123729Z">
+        <seg>Erer letan load plugin depi klas '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T135040Z" creationid="Hugo" creationdate="20201016T135040Z">
         <seg>Erer dan monitoring komann extern!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T105323Z">
+        <seg>Erer lektir TMX level2 lalinn {0} kolonn {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3076,6 +3328,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T132344Z" creationid="Hugo" creationdate="20201016T132344Z">
         <seg>Erer demaraz komann extern: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124541Z" creationid="Hugo" creationdate="20201201T123733Z">
+        <seg>Erer letan unload plugin depi klas '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,6 +3384,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140604Z" creationid="Hugo" creationdate="20201016T140604Z">
         <seg>Match Exak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T094013Z" creationid="Hugo" creationdate="20201201T094013Z">
+        <seg>Erer dan analiz sintaxik:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,8 +3610,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T113551Z" creationid="Hugo" creationdate="20201016T113551Z">
-        <seg>Erer fatal - Proze finn anrezistre avek lextansion ".recover".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20201016T113551Z">
+        <seg>Erer fatal - Proze finn anrezistre avek extansion ".recover".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T094858Z">
+        <seg>Erer fatal lalinn {0}, kolonn {1} dan lanaliz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,6 +3660,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200729T141447Z">
         <seg>Filt file...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125347Z" creationid="Hugo" creationdate="20201201T125347Z">
+        <seg>Forma file</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,6 +3748,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T100623Z" creationid="Hugo" creationdate="20201016T100623Z">
         <seg>Filt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125036Z" creationid="Hugo" creationdate="20201201T125036Z">
+        <seg>Inposib load filt '{0}' depi '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -3652,6 +3944,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131107Z" creationid="Hugo" creationdate="20201201T131107Z">
+        <seg>Forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131733Z" creationid="Hugo" creationdate="20200729T131700Z">
@@ -3799,8 +4099,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T135533Z" creationid="Hugo" creationdate="20200729T135405Z">
-        <seg>Gloser/Itiliz lematizasion pou bann lantre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200729T135405Z">
+        <seg>Gloser/Itiliz lematizasion pou bann antre gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -3865,6 +4165,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T084608Z" creationid="Hugo" creationdate="20201008T084608Z">
         <seg>Eski ou finn deza ekrir enn lartik dan zournal ou lasosiason profesionel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134613Z" creationid="Hugo" creationdate="20201201T134613Z">
+        <seg>Asistans &amp; Gid</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,8 +4455,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094714Z" creationid="Hugo" creationdate="20200924T124338Z">
-        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn lantre gloser pou tradir otomatikman letan text sours integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T124338Z">
+        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn antre gloser pou tradir otomatikman letan text sours integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,7 +4529,7 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200519T160130Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135120Z" creationid="Hugo" creationdate="20200519T160130Z">
         <seg>Si ena enn sel file, get so lextansion.</seg>
       </tuv>
     </tu>
@@ -4229,8 +4537,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si file-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo lantre pou touzour format text separe par tabilasion ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si file-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo antre pou touzour format text separe par tabilasion ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4261,8 +4569,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T131017Z" creationid="Hugo" creationdate="20200924T125259Z">
-        <seg>Si sa lopsion-la seleksione, gloser pou montre selman enn lantre, mem si mo-la existe dan plizier form (ex. avek enn ouswa plisier let kapital) dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T125259Z">
+        <seg>Si sa lopsion-la seleksione, gloser pou montre selman enn antre, mem si mo-la existe dan plizier form (ex. avek enn ouswa plisier let kapital) dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4301,8 +4609,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T135419Z" creationid="Hugo" creationdate="20200729T113014Z">
-        <seg>Si ou lor Mac ek ou oule azout enn shortcut &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Zouti&lt;/g5&gt; &lt;g6&gt;Statistik&lt;/g6&gt; &lt;/m4&gt;, azout lalign swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200729T113014Z">
+        <seg>Si ou lor Mac ek ou oule azout enn shortcut &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Zouti&lt;/g5&gt; &lt;g6&gt;Statistik&lt;/g6&gt; &lt;/m4&gt;, azout lalinn swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,8 +4674,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200921T114812Z">
-        <seg>Si ou ena selman enn diksioner espagnol standar (par exanp kot nom bann file-la zot es_es.dic ek es_es.aff), ou kapav kopie bann file-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131315Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standard (par exanp kot nom bann file-la zot es_es.dic ek es_es.aff), ou kapav kopie bann file-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,8 +4722,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T133312Z" creationid="Hugo" creationdate="20200924T124624Z">
-        <seg>Pa pran kont bann lantre ki ena enn ouswa plizier let kapital (ex.: FOO ek foo).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T124624Z">
+        <seg>Pa pran kont bann antre ki ena enn ouswa plizier let kapital (ex.: FOO ek foo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4669,6 +4977,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131706Z" creationid="Hugo" creationdate="20201201T131706Z">
+        <seg>Forma file invalid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201021T124637Z" creationid="Hugo" creationdate="20201020T142652Z">
@@ -4813,6 +5129,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T123828Z" creationid="Hugo" creationdate="20201201T123828Z">
+        <seg>Jar ki itilize pou bann plugin: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134624Z" creationid="Hugo" creationdate="20201201T134624Z">
+        <seg>XML Properties Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133646Z" creationid="Hugo" creationdate="20201201T133646Z">
+        <seg>Opsion Filt Bann Pake Resours Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T131826Z">
@@ -4829,10 +5169,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133601Z" creationid="Hugo" creationdate="20201201T133601Z">
+        <seg>Bann Pake Resours Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095421Z" creationid="Hugo" creationdate="20201016T095421Z">
         <seg>Pe al dernie segman modifie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135638Z" creationid="Hugo" creationdate="20201201T135638Z">
+        <seg>Text Lakle=Valer</seg>
       </tuv>
     </tu>
     <tu>
@@ -4849,6 +5205,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131303Z" creationid="Hugo" creationdate="20201022T131303Z">
         <seg>Enn resers par keyword li pou rod tou bann mo ki finn separe par enn lespas, san pran kont zot lord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103340Z" creationid="Hugo" creationdate="20201201T103340Z">
+        <seg>Pa finn spesifie lang pou varyant unit tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4933,6 +5297,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133451Z" creationid="Hugo" creationdate="20201201T133451Z">
+        <seg>Longer lalinn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140225Z" creationid="Hugo" creationdate="20201201T140225Z">
+        <seg>Bann lien (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T050529Z" creationid="Hugo" creationdate="20201010T045507Z">
@@ -4985,6 +5365,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T113223Z" creationid="Hugo" creationdate="20201016T113223Z">
         <seg>Pe load bann gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105423Z" creationid="Hugo" creationdate="20201201T105336Z">
+        <seg>Pe load gloser {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5213,6 +5601,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133542Z" creationid="Hugo" creationdate="20201201T133542Z">
+        <seg>Longer lalinn maximum:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T052542Z" creationid="Hugo" creationdate="20201024T052542Z">
@@ -5301,6 +5697,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131347Z" creationid="Hugo" creationdate="20201201T131347Z">
+        <seg>Monolang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132405Z" creationid="Hugo" creationdate="20201201T132405Z">
+        <seg>PHP Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132423Z" creationid="Hugo" creationdate="20201201T132423Z">
+        <seg>Opsion Filt PHP Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T092321Z" creationid="Hugo" creationdate="20201016T092321Z">
@@ -5365,6 +5785,46 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T100857Z" creationid="Hugo" creationdate="20201016T100857Z">
         <seg>Plas &amp;Laho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132731Z" creationid="Hugo" creationdate="20201201T132731Z">
+        <seg>DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132744Z" creationid="Hugo" creationdate="20201201T132744Z">
+        <seg>Opsion Filt DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132806Z" creationid="Hugo" creationdate="20201201T132806Z">
+        <seg>FTL Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132814Z" creationid="Hugo" creationdate="20201201T132814Z">
+        <seg>Opsion Filt FTL Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132837Z" creationid="Hugo" creationdate="20201201T132837Z">
+        <seg>Lang Mozilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,8 +6036,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T120725Z" creationid="Hugo" creationdate="20200921T120725Z">
-        <seg>Pran kont ki bann koreksion pou an Espagnol standar (Kastiyan) me pa an Espagnol Mexiken.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131315Z" creationid="Hugo" creationdate="20200921T120725Z">
+        <seg>Pran kont ki bann koreksion pou an Espagnol standard (Kastiyan) me pa an Espagnol Mexiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135512Z" creationid="Hugo" creationdate="20201201T135022Z">
+        <seg>Pran kont: Bann file DocBook, zot pa selman defini par zot extansion, me ousi par enn deklarasion DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pou DocBook 4, ouswa enn Namespace: xmlns="http://docbook.org/ns/docbook" pou DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -5816,8 +6284,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T055348Z" creationid="Hugo" creationdate="20201008T153608Z">
-        <seg>OmegaT ena enn group itilizater ki bien-bien aktif. Li fonksionn lor lantred ek li miltileng.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201008T153608Z">
+        <seg>OmegaT ena enn group itilizater ki bien-bien aktif. Li fonksionn lor antred ek li miltileng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +6446,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T090511Z" creationid="Hugo" creationdate="20200928T133950Z">
         <seg>OmegaT pa pou pran kont bann file korespondan kan li load proze-la ek pou kopie zot direk dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105254Z" creationid="Hugo" creationdate="20201201T105254Z">
+        <seg>OmegaT pour sey resegmant file TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6174,6 +6650,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135708Z" creationid="Hugo" creationdate="20201201T135708Z">
+        <seg>Opsion Filt OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135511Z" creationid="Hugo" creationdate="20201015T135511Z">
@@ -6186,6 +6670,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T134827Z" creationid="Hugo" creationdate="20200729T134827Z">
         <seg>Meni Opsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133415Z" creationid="Hugo" creationdate="20201201T133415Z">
+        <seg>Opsion pou definir longer lalinn dan bann dokiman sib (0 = pena limit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,6 +6746,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130837Z" creationid="Hugo" creationdate="20201201T130837Z">
+        <seg>Opsion Filt PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page Not Found</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T154318Z" creationid="Hugo" creationdate="20201014T154318Z">
@@ -6278,6 +6778,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201026T135645Z" creationid="Hugo" creationdate="20201026T135645Z">
         <seg>Erer dan analiz file preferans!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132349Z" creationid="Hugo" creationdate="20201201T132349Z">
+        <seg>Bann file PDF ki ena password pa aksepte: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +6870,18 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T094426Z" creationid="Hugo" creationdate="20201201T094426Z">
+        <seg>Get log
+({1})
+pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T120317Z" creationid="Hugo" creationdate="20201003T120317Z">
@@ -6430,6 +6950,14 @@ avek anplis enn deskripsion lor seki finn prodwir sa erer-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T130708Z" creationid="Hugo" creationdate="20201013T130708Z">
         <seg>Plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124610Z" creationid="Hugo" creationdate="20201201T124509Z">
+        <seg>Plugin resi loade depi klas '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +7334,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T094735Z">
+        <seg>Erer rekiperab lalinn {0}, kolonn {1} dan lanaliz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103831Z" creationid="Hugo" creationdate="20201022T103831Z">
@@ -7081,8 +7617,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075320Z" creationid="Hugo" creationdate="20201016T075238Z">
-        <seg>Ranplas bann lantre &amp;gloser letan insert text sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075238Z">
+        <seg>Ranplas bann antre &amp;gloser letan insert text sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -7105,8 +7641,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T094430Z" creationid="Hugo" creationdate="20200924T123746Z">
-        <seg>Inklir bann lantre gloser kan text sours insere</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T123746Z">
+        <seg>Inklir bann antre gloser kan text sours insere</seg>
       </tuv>
     </tu>
     <tu>
@@ -7281,8 +7817,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142309Z" creationid="Hugo" creationdate="20200606T170318Z">
-        <seg>Right-click dan vole Gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo lantre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T170318Z">
+        <seg>Right-click dan vole Gloser ouswa fer &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; pou azout enn nouvo antre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7323,6 +7859,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T100512Z" creationid="Hugo" creationdate="20201022T100512Z">
         <seg>Lespas konpran nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134753Z" creationid="Hugo" creationdate="20201201T134753Z">
+        <seg>Zimaz SVG ek Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -7529,10 +8073,34 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103416Z" creationid="Hugo" creationdate="20201201T103416Z">
+        <seg>Finn trouv enn segman andeor enn varyant unit tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131525Z" creationid="Hugo" creationdate="20200729T131525Z">
         <seg>Segman nimero...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103424Z" creationid="Hugo" creationdate="20201201T103424Z">
+        <seg>Segman-la finn iniore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133008Z" creationid="Hugo" creationdate="20201201T133008Z">
+        <seg>Segmant text sours an paragraf lor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,6 +8425,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124711Z" creationid="Hugo" creationdate="20201201T124711Z">
+        <seg>Plugin ki finn deza load depi klas '{0}' finn iniore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032401Z" creationid="Hugo" creationdate="20201010T032401Z">
@@ -7885,6 +8461,22 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091310Z" creationid="Hugo" creationdate="20201008T091310Z">
         <seg>Sori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130735Z" creationid="Hugo" creationdate="20201201T130735Z">
+        <seg>Ankodaz File Sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130718Z" creationid="Hugo" creationdate="20201201T130718Z">
+        <seg>Pattern Nom File Sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,10 +8553,26 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103506Z" creationid="Hugo" creationdate="20201201T103506Z">
+        <seg>Pa finn trouv segman sours pou sertin unit tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T094438Z" creationid="Hugo" creationdate="20201016T094438Z">
         <seg>Longer sours/tradiksion (an karakter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140527Z" creationid="Hugo" creationdate="20201201T140433Z">
+        <seg>Presiz ki manier pou zer bann tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -8036,8 +8644,16 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200528T190305Z" creationid="Hugo" creationdate="20200528T190305Z">
-        <seg>Bann lasen karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasen karakter:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132618Z" creationid="Hugo" creationdate="20200528T190305Z">
+        <seg>Bann lasenn karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasenn karakter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135602Z" creationid="Hugo" creationdate="20201201T135602Z">
+        <seg>Sou-tit SubRip</seg>
       </tuv>
     </tu>
     <tu>
@@ -8147,6 +8763,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T104843Z" creationid="Hugo" creationdate="20201201T104843Z">
+        <seg>File TMX finn kree avek OmegaT 1.4.x ouswa anteryer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T154817Z">
@@ -8199,6 +8823,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T083427Z" creationid="Hugo" creationdate="20201008T083427Z">
         <seg>Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132920Z" creationid="Hugo" creationdate="20201201T132920Z">
+        <seg>Opsion Filt Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,8 +8919,8 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T035909Z" creationid="Hugo" creationdate="20201010T035909Z">
-        <seg>Gid itilizater HTML pou versin standar OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131315Z" creationid="Hugo" creationdate="20201010T035909Z">
+        <seg>Gid itilizater HTML pou version standard OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8297,6 +8929,14 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T071443Z" creationid="Hugo" creationdate="20201010T071443Z">
         <seg>Etan done ki JRE fourni avek OmegaT, ou pa bizin telesarz ek instal li apar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134550Z" creationid="Hugo" creationdate="20201201T134550Z">
+        <seg>Bann Pake Resours Java finn rankont enn exsepsion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8313,6 +8953,30 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T100035Z" creationid="Hugo" creationdate="20201010T100035Z">
         <seg>Normalman dernie version pou relativman stab ek itilizab, me li kapav ena detrwa bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132727Z" creationid="Hugo" creationdate="20201201T132727Z">
+        <seg>Filt PHP Moodle fin rankont enn exsepsion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132803Z" creationid="Hugo" creationdate="20201201T132803Z">
+        <seg>Filt DTD Mozilla finn rankont enn exsepsion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132820Z" creationid="Hugo" creationdate="20201201T132820Z">
+        <seg>Filt FTL Mozilla finn rankont enn exsepsion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8373,10 +9037,44 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T131651Z" creationid="Hugo" creationdate="20201201T131651Z">
+        <seg>Filt PO finn rankont enn exsepsion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T080630Z" creationid="Hugo" creationdate="20201010T080630Z">
         <seg>Version standard nesesit Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T104604Z" creationid="Hugo" creationdate="20201201T104604Z">
+        <seg>File TMX pou kontign loade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T095211Z" creationid="Hugo" creationdate="20201201T095211Z">
+        <seg>File TMX pa pou loade
+Sey koriz erer-la, ek reload proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T104542Z" creationid="Hugo" creationdate="20201201T104542Z">
+        <seg>Lang sours TMX ({0}) ek lang sours proze ({1}) diferan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8399,8 +9097,8 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135752Z" creationid="Hugo" creationdate="20200607T135752Z">
-        <seg>Koumansman enn lalign</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T135752Z">
+        <seg>Koumansman enn lalinn</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,8 +9233,8 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T135814Z" creationid="Hugo" creationdate="20200607T135814Z">
-        <seg>Lafin enn lalign</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T135814Z">
+        <seg>Lafin enn lalinn</seg>
       </tuv>
     </tu>
     <tu>
@@ -8551,7 +9249,7 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T151320Z" creationid="Hugo" creationdate="20200525T150854Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135125Z" creationid="Hugo" creationdate="20200525T150854Z">
         <seg>So lextansion bizin &lt;f0&gt;.txt&lt;/f0&gt; ouswa &lt;f1&gt;.utf8&lt;/f1&gt; (sinon li pou insere otomatikman).</seg>
       </tuv>
     </tu>
@@ -8559,8 +9257,8 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130459Z" creationid="Hugo" creationdate="20200525T152644Z">
-        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azout premie lantre dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200525T152644Z">
+        <seg>Fisie-la pa bizin existe letan konfigirasion, li pou kree (si neseser) kan azout premie antre dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8663,8 +9361,8 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081717Z" creationid="Hugo" creationdate="20200527T170641Z">
-        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann lantre gloser (ex. li pa rekonet bann form konzige).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200527T170641Z">
+        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann antre gloser (ex. li pa rekonet bann form konzige).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8749,8 +9447,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T124442Z" creationid="Hugo" creationdate="20200607T124442Z">
-        <seg>Karakter pou nouvo lalign ('\u000A')</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T124442Z">
+        <seg>Karakter pou nouvo lalinn ('\u000A')</seg>
       </tuv>
     </tu>
     <tu>
@@ -8869,8 +9567,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120423Z" creationid="Hugo" creationdate="20200706T190342Z">
-        <seg>Fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalign.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200706T190342Z">
+        <seg>Fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalinn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,8 +9656,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121328Z" creationid="Hugo" creationdate="20200527T165834Z">
-        <seg>Enn lantre vokabiler kapav ena enn (ou plizier) komanter.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200527T165834Z">
+        <seg>Enn antre vokabiler kapav ena enn (ou plizier) komanter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9006,8 +9704,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T115755Z" creationid="Hugo" creationdate="20200606T192724Z">
-        <seg>Pa ena enn EXACT match ant lantre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T192724Z">
+        <seg>Pa ena enn EXACT match ant antre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9022,8 +9720,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200519T153451Z">
-        <seg>Pou ena trwa file avek lextansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20200519T153451Z">
+        <seg>Pou ena trwa file avek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9040,6 +9738,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103532Z" creationid="Hugo" creationdate="20201201T103532Z">
+        <seg>Sa bann unit-la finn iniore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201010T043337Z">
@@ -9050,8 +9756,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090110Z" creationid="Hugo" creationdate="20200607T165134Z">
-        <seg>Zot tou normalman parey (get anba pou enn lexanp Tester Expresion Regilie): expresion regilie-la (lantre laho) analiz text ki pe rode (bwat text omilie), met tou bann korespondans ki li finn trouve ansam, ek afis zot dan bwat text rezilta.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200607T165134Z">
+        <seg>Zot tou normalman parey (get anba pou enn lexanp Tester Expresion Regilie): expresion regilie-la (antre laho) analiz text ki pe rode (bwat text omilie), met tou bann korespondans ki li finn trouve ansam, ek afis zot dan bwat text rezilta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,6 +10186,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135721Z" creationid="Hugo" creationdate="20201201T135721Z">
+        <seg>Tradir bann eleman swivan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130813Z" creationid="Hugo" creationdate="20201201T130754Z">
+        <seg>Ankodaz File Tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130829Z" creationid="Hugo" creationdate="20201201T130829Z">
+        <seg>Pattern Nom File Tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T123005Z" creationid="Hugo" creationdate="20201020T123000Z">
@@ -9508,6 +10238,16 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T115019Z" creationid="Hugo" creationdate="20201016T114958Z">
         <seg>Bann dokiman tradi finn kree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125341Z" creationid="Hugo" creationdate="20201201T125341Z">
+        <seg>Sime file tradiksion bizin diferan sime file sours:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9560,6 +10300,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T102743Z" creationid="Hugo" creationdate="20201201T102743Z">
+        <seg>Finn trouv enn unit tradiksion avan lantet TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T102854Z" creationid="Hugo" creationdate="20201201T102854Z">
+        <seg>Finn trouv enn varyant unit tradiksion andeor unit tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T130551Z" creationid="Hugo" creationdate="20201020T130551Z">
@@ -9574,6 +10330,22 @@ Exact searches match the whole search string.</seg>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131435Z" creationid="Hugo" creationdate="20201022T131047Z">
         <seg>Tip:
 Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134644Z" creationid="Hugo" creationdate="20201201T134644Z">
+        <seg>LocManager Typo3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134653Z" creationid="Hugo" creationdate="20201201T134653Z">
+        <seg>l10nmgr Typo3</seg>
       </tuv>
     </tu>
     <tu>
@@ -9626,6 +10398,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125011Z" creationid="Hugo" creationdate="20201201T124915Z">
+        <seg>Analiz file konfigirasion bann filt inposib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201027T124756Z" creationid="Hugo" creationdate="20201027T124756Z">
@@ -9642,10 +10422,18 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125004Z" creationid="Hugo" creationdate="20201201T124924Z">
+        <seg>Anrezistreman file konfigirasion bann filt inposib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121944Z" creationid="Hugo" creationdate="20200924T120547Z">
-        <seg>Si deskripsion kontextiel ki montre pou sak lantre gloser pas neseser ouswa tro long, pa seleksionn sa lopsion-la </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T120547Z">
+        <seg>Si deskripsion kontextiel ki montre pou sak antre gloser pas neseser ouswa tro long, pa seleksionn sa lopsion-la </seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +10558,26 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T111053Z" creationid="Hugo" creationdate="20201201T110845Z">
+        <seg>Tip '{0}' plugin dan '{1}' inkoni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T094939Z">
+        <seg>Erer irekiperab dan lanaliz file TMX
+{0}
+lalinn {1}, kolonn {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T094944Z" creationid="Hugo" creationdate="20201024T054507Z">
@@ -9804,8 +10612,16 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200606T182107Z">
-        <seg>Savedir li bien sinp aktializ enn file gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak lantre) ek save file-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T182107Z">
+        <seg>Savedir li bien sinp aktializ enn file gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak antre) ek save file-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105350Z" creationid="Hugo" creationdate="20201201T105350Z">
+        <seg>Pe upgrade...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9844,8 +10660,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075651Z" creationid="Hugo" creationdate="20201016T075645Z">
-        <seg>Servi &amp;Fuzzy Matching pou bann Lantre Diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105954Z" creationid="Hugo" creationdate="20201016T075645Z">
+        <seg>Servi &amp;Fuzzy Matching pou bann Antre Diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -9860,16 +10676,16 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075708Z" creationid="Hugo" creationdate="20201016T075656Z">
-        <seg>Servi &amp;fuzzy matching pou bann lantre diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075656Z">
+        <seg>Servi &amp;fuzzy matching pou bann antre diksioner</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075245Z" creationid="Hugo" creationdate="20201016T075208Z">
-        <seg>Servi &amp;lematizasion pou bann lantre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075208Z">
+        <seg>Servi &amp;lematizasion pou bann antre gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -9909,16 +10725,16 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Use fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T080942Z" creationid="Hugo" creationdate="20200924T140707Z">
-        <seg>Servi fuzzy matching pou lantre diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T140707Z">
+        <seg>Servi fuzzy matching pou antre diksioner</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T123120Z" creationid="Hugo" creationdate="20200924T123120Z">
-        <seg>Servi lematizasion pou bann lantre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T123120Z">
+        <seg>Servi lematizasion pou bann antre gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -10091,6 +10907,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T103252Z" creationid="Hugo" creationdate="20201201T103252Z">
+        <seg>Varyant-la finn iniore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T141639Z" creationid="Hugo" creationdate="20201128T141639Z">
@@ -10139,10 +10963,26 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T094509Z">
+        <seg>Warning lalinn {0}, kolonn {1} dan lanaliz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091327Z" creationid="Hugo" creationdate="20201008T091327Z">
         <seg>Nou pa pe kapav trouv paz ki ou pe rode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135609Z" creationid="Hugo" creationdate="20201201T135609Z">
+        <seg>Sou-tit WebVTT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,6 +11067,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134658Z" creationid="Hugo" creationdate="20201201T134658Z">
+        <seg>Localization WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -10245,6 +11093,14 @@ Your page is not found</seg>
         <seg>Divan pe soufle
 Sa paz-la finn ale...
 Erer 404</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132355Z" creationid="Hugo" creationdate="20201201T132355Z">
+        <seg>Resours Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -10409,6 +11265,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140313Z" creationid="Hugo" creationdate="20201201T140313Z">
+        <seg>Opsion Filt XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T134822Z" creationid="Hugo" creationdate="20201201T134822Z">
+        <seg>Spreadsheet XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XY as a single group</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163803Z" creationid="Hugo" creationdate="20200607T163803Z">
@@ -10485,8 +11357,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T202938Z" creationid="Hugo" creationdate="20200527T202938Z">
-        <seg>Ou kapav fer bann lantre avek kolonn sib vid, setadir ki ena zis term sours ek komanter.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200527T202938Z">
+        <seg>Ou kapav fer bann antre avek kolonn sib vid, setadir ki ena zis term sours ek komanter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10551,6 +11423,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125324Z" creationid="Hugo" creationdate="20201020T125152Z">
         <seg>Ou bizin mansionn zot nouvo lanplasman ouswa refer zot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T135606Z" creationid="Hugo" creationdate="20201201T135606Z">
+        <seg>Sou-tit YouTube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105224Z" creationid="Hugo" creationdate="20201201T105224Z">
+        <seg>Proze-la servi segmantasion par fraz alor ki file TMX servi segmantasion par paragraf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10645,8 +11533,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T170724Z" creationid="Hugo" creationdate="20200607T170724Z">
-        <seg>lespas siplemanter apre pwin lafin lalign</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T170724Z">
+        <seg>lespas siplemanter apre pwin lafin lalinn</seg>
       </tuv>
     </tu>
     <tu>
