@@ -1170,6 +1170,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210105T085504Z" creationid="Hugo" creationdate="20210105T085504Z">
+        <seg>Atribi &amp;resname &lt;trans-unit&gt; ki disponib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200528T201615Z">
@@ -4437,6 +4445,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210105T085401Z" creationid="Hugo" creationdate="20210105T085401Z">
+        <seg>Lidantifian pou servi pou bann tradiksion alternatif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T054623Z" creationid="Hugo" creationdate="20201010T054623Z">
@@ -7022,6 +7038,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131514Z" creationid="Hugo" creationdate="20200729T131514Z">
         <seg>Segman presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210105T085420Z" creationid="Hugo" creationdate="20210105T085420Z">
+        <seg>Paragraf presedan ek &amp;swivan</seg>
       </tuv>
     </tu>
     <tu>
