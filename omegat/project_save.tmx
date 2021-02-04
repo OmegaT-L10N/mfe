@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153759Z" creationid="Hugo" creationdate="20210204T153759Z">
+        <seg>&amp;Kopie bann informasion asistans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135759Z" creationid="Hugo" creationdate="20201015T135759Z">
@@ -230,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151110Z" creationid="Hugo" creationdate="20210204T150308Z">
+        <seg>Bann not lafin &amp;dokiman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T085739Z" creationid="Hugo" creationdate="20201022T085739Z">
@@ -266,6 +282,22 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T083915Z" creationid="Hugo" creationdate="20201015T083915Z">
         <seg>&amp;Koriz Tou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151107Z" creationid="Hugo" creationdate="20210204T150240Z">
+        <seg>Bann not lafin &amp;paz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T144837Z" creationid="Hugo" creationdate="20210204T144610Z">
+        <seg>&amp;Fors shortcut "f" pou bann tag &lt;it pos="end"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T145222Z" creationid="Hugo" creationdate="20210204T145222Z">
+        <seg>&amp;Pa pran kont bann atribi type ek ctype letan konstrir bann tag shortcut &lt;ph&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102820Z" creationid="Hugo" creationdate="20201022T102820Z">
@@ -352,8 +392,16 @@
       <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T080353Z" creationid="Hugo" creationdate="20201016T080353Z">
-        <seg>Dernie modifikasion...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153912Z" creationid="Hugo" creationdate="20201016T080353Z">
+        <seg>Bann &amp;dernie modifikasion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T152356Z" creationid="Hugo" creationdate="20210204T152356Z">
+        <seg>&amp;Lisans</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +490,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T140213Z" creationid="Hugo" creationdate="20201201T140213Z">
         <seg>&amp;Bann not prezantasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151919Z" creationid="Hugo" creationdate="20210204T151919Z">
+        <seg>&amp;Prezerv bann lespas pou tou bann tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +672,8 @@
       <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T140255Z" creationid="Hugo" creationdate="20201201T140255Z">
-        <seg>&amp;Bann nom paz</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151210Z" creationid="Hugo" creationdate="20201201T140255Z">
+        <seg>&amp;Nom bann fey</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1394,30 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151855Z" creationid="Hugo" creationdate="20210204T151855Z">
+        <seg>A&amp;ggregate Bann Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153609Z" creationid="Hugo" creationdate="20210204T153609Z">
+        <seg>ANTLR (lisans ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153138Z" creationid="Hugo" creationdate="20210204T153138Z">
+        <seg>Aaron Madlon-Kay li project manager OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091302Z" creationid="Hugo" creationdate="20201015T080056Z">
@@ -1350,6 +1430,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T153714Z" creationid="Hugo" creationdate="20201014T153433Z">
         <seg>Lekip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T152340Z" creationid="Hugo" creationdate="20210204T152340Z">
+        <seg>A-propo OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1738,14 @@ File TMX pa pou loade.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200706T191426Z" creationid="Hugo" creationdate="20200706T191426Z">
         <seg>Seki apre "//" pas pou pran kont.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153648Z" creationid="Hugo" creationdate="20210204T153648Z">
+        <seg>Apache Commons (lisans Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,6 +2155,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151722Z" creationid="Hugo" creationdate="20210204T151633Z">
+        <seg>Bann &amp;chart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140324Z" creationid="Hugo" creationdate="20201016T140324Z">
@@ -2260,6 +2364,24 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151103Z" creationid="Hugo" creationdate="20210204T145451Z">
+        <seg>Bann ko&amp;manter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153337Z" creationid="Hugo" creationdate="20210204T153234Z">
+        <seg>Sa bann dimounn-la finn aport zot kontribision dan kod:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142945Z" creationid="Hugo" creationdate="20200924T142945Z">
@@ -2284,6 +2406,14 @@ Erer 404</seg>
         <seg>Komann:
 	-h, --help
 		Montre linformasion lor litilizasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151050Z" creationid="Hugo" creationdate="20210204T151023Z">
+        <seg>Bann koman&amp;ter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2532,6 +2662,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T152350Z" creationid="Hugo" creationdate="20210204T152350Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk ek lezot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T115807Z" creationid="Hugo" creationdate="20201016T115807Z">
@@ -2688,6 +2826,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141414Z" creationid="Hugo" creationdate="20200729T141414Z">
         <seg>Kistomizasion kouler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151658Z" creationid="Hugo" creationdate="20210204T151658Z">
+        <seg>Bann d&amp;iagram</seg>
       </tuv>
     </tu>
     <tu>
@@ -2884,6 +3030,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151124Z" creationid="Hugo" creationdate="20210204T151010Z">
+        <seg>Bann propriyete doki&amp;man</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T153719Z" creationid="Hugo" creationdate="20201014T153719Z">
@@ -3020,6 +3174,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151737Z" creationid="Hugo" creationdate="20210204T151737Z">
+        <seg>Bann de&amp;sin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T150953Z" creationid="Hugo" creationdate="20210204T150953Z">
+        <seg>Text konpatibilite diplike</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T092239Z" creationid="Hugo" creationdate="20201016T092239Z">
@@ -3064,6 +3234,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053919Z" creationid="Hugo" creationdate="20201024T053919Z">
         <seg>&amp;Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T154922Z" creationid="Hugo" creationdate="20210204T154922Z">
+        <seg>Modifie enn filt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,6 +3642,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151620Z" creationid="Hugo" creationdate="20210204T151620Z">
+        <seg>Bann lien ex&amp;tern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115855Z" creationid="Hugo" creationdate="20201020T115855Z">
@@ -3808,6 +3994,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151118Z" creationid="Hugo" creationdate="20210204T150426Z">
+        <seg>Bann &amp;lipie paz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T112317Z" creationid="Hugo" creationdate="20201003T112257Z">
@@ -4129,6 +4323,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153709Z" creationid="Hugo" creationdate="20210204T153709Z">
+        <seg>Groovy (lisans Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053119Z" creationid="Hugo" creationdate="20201024T053119Z">
@@ -4141,6 +4343,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T035829Z" creationid="Hugo" creationdate="20201010T035829Z">
         <seg>Gid itilizater HTML online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153520Z" creationid="Hugo" creationdate="20210204T153520Z">
+        <seg>HTMLParser 1.6 par Somik Raha, Derrick Oswald ek lezot (lisans LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4173,6 +4383,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T084608Z" creationid="Hugo" creationdate="20201008T084608Z">
         <seg>Eski ou finn deza ekrir enn lartik dan zournal ou lasosiason profesionel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151113Z" creationid="Hugo" creationdate="20210204T150047Z">
+        <seg>Bann an&amp;tet</seg>
       </tuv>
     </tu>
     <tu>
@@ -4744,6 +4962,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T145315Z" creationid="Hugo" creationdate="20210204T145315Z">
+        <seg>Pa pran kont bann atribi type ek ctype letan konstrir bann tag shortcut &lt;&amp;bpt&gt; ek &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T130814Z" creationid="Hugo" creationdate="20201013T130526Z">
@@ -5145,6 +5371,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153617Z" creationid="Hugo" creationdate="20210204T153617Z">
+        <seg>JGit (lisans Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153619Z" creationid="Hugo" creationdate="20210204T153619Z">
+        <seg>JSch (lisans JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T123828Z" creationid="Hugo" creationdate="20201201T123828Z">
@@ -5193,6 +5435,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153547Z" creationid="Hugo" creationdate="20210204T153547Z">
+        <seg>Jmyspell (lisans LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095421Z" creationid="Hugo" creationdate="20201016T095421Z">
@@ -5233,6 +5483,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153659Z" creationid="Hugo" creationdate="20210204T153659Z">
+        <seg>LanguageTool (lisans LGPL ek lezot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152315Z" creationid="Hugo" creationdate="20201014T152315Z">
@@ -5243,8 +5501,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T142241Z" creationid="Hugo" creationdate="20200729T142241Z">
-        <seg>Dernie modifikasion...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153921Z" creationid="Hugo" creationdate="20200729T142241Z">
+        <seg>Bann dernie modifikasion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153858Z" creationid="Hugo" creationdate="20210204T153858Z">
+        <seg>Bann dernie modifikasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,6 +5719,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103546Z" creationid="Hugo" creationdate="20201022T103546Z">
         <seg>Lanplasman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T154006Z" creationid="Hugo" creationdate="20210204T154006Z">
+        <seg>Zournal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153644Z" creationid="Hugo" creationdate="20210204T153644Z">
+        <seg>Lucene (lisans Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,6 +6283,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T145438Z" creationid="Hugo" creationdate="20210204T145438Z">
+        <seg>Te&amp;xt instriksion non vizib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T054517Z" creationid="Hugo" creationdate="20201024T054517Z">
@@ -6330,6 +6620,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153012Z" creationid="Hugo" creationdate="20210204T152655Z">
+        <seg>OmegaT li enn zouti tradiksion asiste par ordinater milti-platform ki lib ek open source, avek resers bann korespondans, memwar tradiksion, resers par mo kle, gloser, ek reitilizasion bann tradiksion dan bann proze ki finn modifie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152311Z" creationid="Hugo" creationdate="20201014T152311Z">
@@ -6378,6 +6676,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153113Z" creationid="Hugo" creationdate="20210204T153113Z">
+        <seg>OmegaT li inisialman enn realizasion Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073500Z" creationid="Hugo" creationdate="20201008T084955Z">
@@ -6390,6 +6696,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100059Z" creationid="Hugo" creationdate="20201003T100059Z">
         <seg>OmegaT li pa selman enn program; li ousi enn proze pasionan ki ou kapav zwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153832Z" creationid="Hugo" creationdate="20210204T153832Z">
+        <seg>OmegaT, lisans</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,6 +6744,16 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T152452Z" creationid="Hugo" creationdate="20201013T152452Z">
         <seg>Formasion lor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153449Z" creationid="Hugo" creationdate="20210204T153449Z">
+        <seg>OmegaT servi bann bibliotek swivan:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6634,6 +6958,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T145328Z" creationid="Hugo" creationdate="20210204T145328Z">
+        <seg>Opsion filt Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T101315Z" creationid="Hugo" creationdate="20201016T101256Z">
@@ -6746,6 +7078,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151805Z" creationid="Hugo" creationdate="20210204T151805Z">
+        <seg>Bann Lezot Opsion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153430Z" creationid="Hugo" creationdate="20210204T153430Z">
+        <seg>Finn detay bann lezot kontribision dan file readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133123Z" creationid="Hugo" creationdate="20201013T132937Z">
@@ -6758,6 +7106,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T093043Z" creationid="Hugo" creationdate="20201016T093043Z">
         <seg>Mod Overwrite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153702Z" creationid="Hugo" creationdate="20210204T153702Z">
+        <seg>PDFBox (lisans Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,6 +8235,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151315Z" creationid="Hugo" creationdate="20210204T151315Z">
+        <seg>Bann komanter bann &amp;slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T100512Z" creationid="Hugo" creationdate="20201022T100512Z">
@@ -7887,10 +8251,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153613Z" creationid="Hugo" creationdate="20210204T153613Z">
+        <seg>SQLJet (lisans GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T134753Z" creationid="Hugo" creationdate="20201201T134753Z">
         <seg>Zimaz SVG ek Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153552Z" creationid="Hugo" creationdate="20210204T153552Z">
+        <seg>SVNKit (lisans TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8045,6 +8425,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T090817Z" creationid="Hugo" creationdate="20201015T090817Z">
         <seg>Get "Sapit 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153458Z" creationid="Hugo" creationdate="20210204T153458Z">
+        <seg>Get /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8353,6 +8741,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153605Z" creationid="Hugo" creationdate="20210204T153605Z">
+        <seg>Sequence Library (lisans Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
@@ -8427,8 +8823,8 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T153437Z" creationid="Hugo" creationdate="20201008T153437Z">
-        <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot kontribier, tro boukou pou kapav sit zot tou isi. Toutfwa, nou bien-bien rekonesan pou zot led.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153257Z" creationid="Hugo" creationdate="20201008T153437Z">
+        <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot dimounn, tro boukou pou kapav sit zot tou isi. Toutfwa, nou bien-bien rekonesan pou zot led.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8453,6 +8849,22 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T124711Z" creationid="Hugo" creationdate="20201201T124711Z">
         <seg>Plugin ki finn deza load depi klas '{0}' finn iniore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151338Z" creationid="Hugo" creationdate="20210204T151338Z">
+        <seg>Bann mask bann &amp;slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151416Z" creationid="Hugo" creationdate="20210204T151416Z">
+        <seg>Miz-&amp;an-paj bann slide</seg>
       </tuv>
     </tu>
     <tu>
@@ -8649,6 +9061,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T152229Z" creationid="Hugo" creationdate="20210204T151925Z">
+        <seg>Koumans enn nouvo paragraf &amp;pou bann sanzman lalinn Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132608Z" creationid="Hugo" creationdate="20200729T132608Z">
@@ -8686,6 +9106,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090007Z" creationid="Hugo" creationdate="20201008T085949Z">
         <seg>Par exanp, boukou program finn ekrir dan Javascript, Groovy ek Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153706Z" creationid="Hugo" creationdate="20210204T153706Z">
+        <seg>SuperTMXMerge (lisans Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9335,6 +9763,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T144536Z" creationid="Hugo" creationdate="20210204T144536Z">
+        <seg>Bann lopsion swivan pa aplike si "Konpatibilite avek OmegaT 2.6" finn seleksione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following tutorials are available online/for download:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T045940Z" creationid="Hugo" creationdate="20201010T040148Z">
@@ -9958,6 +10394,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T114816Z" creationid="Hugo" creationdate="20200925T063050Z">
         <seg>Sa paz-la permet ou swazir diferan kouler pou tou bann eleman interfas itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T154906Z" creationid="Hugo" creationdate="20210204T154906Z">
+        <seg>Sa program-la distribie dan lespwar ki li pou itil, me SAN OKENN GARANTI; san mem enn garanti inplisit konsernan so KOMERSIALIZASION ouswa so FITNESS POU ENN OBZEKTIF SPESIFIK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T154437Z" creationid="Hugo" creationdate="20210204T154437Z">
+        <seg>Sa program-la li enn program lib; ou kapav redistribie li ek/ou modifie li dan kad lisans GNU General Public ki finn pibliye par Free Software Foundation. Lisans ki aplikab li version 3, ouswa ninport ki lisans ki pli resan. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10907,6 +11359,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153543Z" creationid="Hugo" creationdate="20210204T153543Z">
+        <seg>VLDocking Framework (lisans LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Validate Tags</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091310Z" creationid="Hugo" creationdate="20200729T132538Z">
@@ -11055,6 +11515,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090457Z" creationid="Hugo" creationdate="20200924T122543Z">
         <seg>Kan sa lopsion-la li seleksione, gloser pou montre bann per ouswa bann group mo (bann expresion) mem si bann mo-la aparet separeman dan text sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T144427Z" creationid="Hugo" creationdate="20210204T144329Z">
+        <seg>Si li pa disponib, pou itiliz ID dan so plas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11589,10 +12057,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153623Z" creationid="Hugo" creationdate="20210204T153623Z">
+        <seg>jsch-agent-proxy (lisans jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T071039Z" creationid="Hugo" creationdate="20201024T071039Z">
         <seg>sarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153719Z" creationid="Hugo" creationdate="20210204T153719Z">
+        <seg>mALIGNa (lisans MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11645,6 +12129,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153713Z" creationid="Hugo" creationdate="20210204T153713Z">
+        <seg>slf4j (lisans MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>some version</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T070049Z" creationid="Hugo" creationdate="20201010T070049Z">
@@ -11657,6 +12149,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044439Z" creationid="Hugo" creationdate="20201010T044439Z">
         <seg>lindistri tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153723Z" creationid="Hugo" creationdate="20210204T153723Z">
+        <seg>trie4j (lisans Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153639Z" creationid="Hugo" creationdate="20210204T153639Z">
+        <seg>trilead-ssh2 (lisans Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
