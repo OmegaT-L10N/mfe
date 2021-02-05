@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T140325Z" creationid="Hugo" creationdate="20210205T140325Z">
+        <seg>Valer par &amp;defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135654Z" creationid="Hugo" creationdate="20201015T135649Z">
@@ -2211,6 +2219,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T140033Z" creationid="Hugo" creationdate="20210205T140033Z">
+        <seg>Inposib reinisializ filt-la lor so valer par defo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152007Z" creationid="Hugo" creationdate="20201014T152007Z">
@@ -2494,6 +2510,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084407Z" creationid="Hugo" creationdate="20201015T084407Z">
         <seg>Konfirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T135031Z" creationid="Hugo" creationdate="20210205T134922Z">
+        <seg>Konfirm sipresion pattern {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3598,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T140315Z" creationid="Hugo" creationdate="20210205T140303Z">
+        <seg>Finn rankont enn exsepsion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T094013Z" creationid="Hugo" creationdate="20201201T094013Z">
@@ -3830,6 +3862,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074212Z" creationid="Hugo" creationdate="20201015T135542Z">
         <seg>&amp;Filt pou bann File...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T140333Z" creationid="Hugo" creationdate="20210205T140333Z">
+        <seg>&amp;Forma file</seg>
       </tuv>
     </tu>
     <tu>
@@ -7943,6 +7983,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091333Z" creationid="Hugo" creationdate="20201014T112618Z">
         <seg>Siprim tou bann text exsepte bann tag, ouswa siprim tou bann tag exsepte bann texte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210205T135527Z" creationid="Hugo" creationdate="20210205T135527Z">
+        <seg>Siprim pattern-la?</seg>
       </tuv>
     </tu>
     <tu>
