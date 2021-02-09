@@ -4627,6 +4627,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T160057Z" creationid="Hugo" creationdate="20210209T160057Z">
+        <seg>Segmantasion HTML, XHTML, ODF ek Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153520Z" creationid="Hugo" creationdate="20210204T153520Z">
@@ -6701,6 +6709,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T160847Z" creationid="Hugo" creationdate="20210209T160812Z">
+        <seg>Pran kont: si ena plizier reg segmantasion pou enn pattern lang, OmegaT pou aplik zot dan lord indike.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135512Z" creationid="Hugo" creationdate="20201201T135022Z">
@@ -7999,6 +8015,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T160421Z" creationid="Hugo" creationdate="20210209T160421Z">
+        <seg>Konfigirasion pou Segmantasion Spesifik pou Proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T135106Z" creationid="Hugo" creationdate="20201016T135106Z">
@@ -9014,6 +9038,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T160117Z" creationid="Hugo" creationdate="20210209T160113Z">
+        <seg>Konfigirasion pou Segmantasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation method: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T141451Z" creationid="Hugo" creationdate="20201128T141451Z">
@@ -9846,6 +9878,14 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103929Z" creationid="Hugo" creationdate="20201022T103929Z">
         <seg>Resers &amp;textiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T160042Z" creationid="Hugo" creationdate="20210209T160042Z">
+        <seg>Segmantasion pou bann file text</seg>
       </tuv>
     </tu>
     <tu>
@@ -10979,6 +11019,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T154836Z" creationid="Hugo" creationdate="20201013T154836Z">
         <seg>Sa sit web-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210209T161307Z" creationid="Hugo" creationdate="20210209T161307Z">
+        <seg>Donk, par exanp, bann reg pou Angle Britanik (EN-GB) bizin plis ot ki bann reg pou Angle (EN.*), ek plis ot ki bann reg par defo (.*).</seg>
       </tuv>
     </tu>
     <tu>
