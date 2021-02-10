@@ -6412,6 +6412,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145002Z" creationid="Hugo" creationdate="20210210T145002Z">
+        <seg>Model afisaz pou bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match propagation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035435Z" creationid="Hugo" creationdate="20201003T035435Z">
@@ -7783,6 +7791,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163342Z" creationid="Hugo" creationdate="20210208T163342Z">
         <seg>Pattern Avan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T144903Z" creationid="Hugo" creationdate="20210210T144903Z">
+        <seg>Penalite pou bann korespondans dan bann lezot lang:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,6 +9686,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145056Z" creationid="Hugo" creationdate="20210210T145056Z">
+        <seg>Triy bann korespondans par:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source File Encoding</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T130735Z" creationid="Hugo" creationdate="20201201T130735Z">
@@ -10084,6 +10108,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111705Z" creationid="Hugo" creationdate="20210210T111650Z">
         <seg>Opsion Lekip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T144920Z" creationid="Hugo" creationdate="20210210T144920Z">
+        <seg>Varyab model:</seg>
       </tuv>
     </tu>
     <tu>
