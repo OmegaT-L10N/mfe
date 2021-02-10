@@ -4554,6 +4554,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145158Z" creationid="Hugo" creationdate="20210210T145158Z">
+        <seg>Full text, avek bann tag ek bann nimero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T100422Z" creationid="Hugo" creationdate="20201022T100422Z">
@@ -6492,6 +6500,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145230Z" creationid="Hugo" creationdate="20210210T145230Z">
+        <seg>Sey minimum pou afis enn fuzzy match:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Miscellaneous resources</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T144652Z" creationid="Hugo" creationdate="20201013T144652Z">
@@ -6820,6 +6836,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053721Z" creationid="Hugo" creationdate="20201024T053536Z">
         <seg>Resers finn trouv okenn rezilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145141Z" creationid="Hugo" creationdate="20210210T145141Z">
+        <seg>Okenn tag ek okenn nimero</seg>
       </tuv>
     </tu>
     <tu>
@@ -9898,6 +9922,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132608Z" creationid="Hugo" creationdate="20200729T132608Z">
         <seg>Statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145129Z" creationid="Hugo" creationdate="20210210T145129Z">
+        <seg>Lematizasion, okenn tag ek okenn nimero</seg>
       </tuv>
     </tu>
     <tu>
