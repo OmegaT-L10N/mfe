@@ -10224,6 +10224,22 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151624Z" creationid="Hugo" creationdate="20210210T151624Z">
+        <seg>Tretman bann Tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151618Z" creationid="Hugo" creationdate="20210210T151618Z">
+        <seg>Opsion pou Tretman bann Tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag Processing...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141719Z" creationid="Hugo" creationdate="20200729T141719Z">
@@ -12388,6 +12404,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T075302Z" creationid="Hugo" creationdate="20201010T075302Z">
         <seg>Profil itilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151604Z" creationid="Hugo" creationdate="20210210T151604Z">
+        <seg>Itilizater:</seg>
       </tuv>
     </tu>
     <tu>
