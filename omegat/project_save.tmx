@@ -1960,8 +1960,8 @@ File TMX pa pou loade.</seg>
       <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134958Z" creationid="Hugo" creationdate="20210210T134958Z">
-        <seg>Sey konverti bann &amp;nimero letan insert enn fuzzy match</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145416Z" creationid="Hugo" creationdate="20210210T134958Z">
+        <seg>Sey konverti bann &amp;nimero letan insert enn korespondans parsiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,8 +6502,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Minimal threshold to show a fuzzy match:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145230Z" creationid="Hugo" creationdate="20210210T145230Z">
-        <seg>Sey minimum pou afis enn fuzzy match:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145543Z" creationid="Hugo" creationdate="20210210T145230Z">
+        <seg>Nivo minimum pou afis enn korespondans parsiel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10080,6 +10080,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145550Z" creationid="Hugo" creationdate="20210210T145550Z">
+        <seg>Korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T104843Z" creationid="Hugo" creationdate="20201201T104843Z">
@@ -12081,8 +12089,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105954Z" creationid="Hugo" creationdate="20201016T075645Z">
-        <seg>Servi &amp;Fuzzy Matching pou bann Antre Diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145350Z" creationid="Hugo" creationdate="20201016T075645Z">
+        <seg>Servi bann &amp;korespondans parsiel pou bann Antre Diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -12105,8 +12113,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075656Z">
-        <seg>Servi &amp;fuzzy matching pou bann antre diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145402Z" creationid="Hugo" creationdate="20201016T075656Z">
+        <seg>Servi bann &amp;korespondans parsiel pou bann antre diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -12376,10 +12384,26 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145614Z" creationid="Hugo" creationdate="20210210T145614Z">
+        <seg>Afisaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View Menu</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120134Z" creationid="Hugo" creationdate="20200729T131748Z">
         <seg>Meni Lafisaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145602Z" creationid="Hugo" creationdate="20210210T145602Z">
+        <seg>Opsion Afisaz</seg>
       </tuv>
     </tu>
     <tu>
