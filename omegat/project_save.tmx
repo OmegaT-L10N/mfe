@@ -3722,6 +3722,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150526Z" creationid="Hugo" creationdate="20210210T150526Z">
+        <seg>Inskrir enn term sours, enn term sib ek enn komanter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111756Z" creationid="Hugo" creationdate="20201016T092136Z">
@@ -6446,8 +6454,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Match display template</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145002Z" creationid="Hugo" creationdate="20210210T145002Z">
-        <seg>Model afisaz pou bann korespondans</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150335Z" creationid="Hugo" creationdate="20210210T145002Z">
+        <seg>Model pou afisaz pou bann korespondans</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,6 +6568,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T132508Z">
         <seg>Linformasion modifikasion/Montre segman an kour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150318Z" creationid="Hugo" creationdate="20210210T150245Z">
+        <seg>Model pou informasion modifikasion </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150409Z" creationid="Hugo" creationdate="20210210T150409Z">
+        <seg>MOdel pou informasion modifikasion pou bann segman ki pena dat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10186,8 +10210,8 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T144920Z" creationid="Hugo" creationdate="20210210T144920Z">
-        <seg>Varyab model:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150331Z" creationid="Hugo" creationdate="20210210T144920Z">
+        <seg>Varyab pou model:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,6 +12212,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112141Z" creationid="Hugo" creationdate="20200729T130601Z">
         <seg>Servi kouma tradiksion par defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150452Z" creationid="Hugo" creationdate="20210210T150452Z">
+        <seg>Servi bann model personalize pou bann informasion modifikasion</seg>
       </tuv>
     </tu>
     <tu>
