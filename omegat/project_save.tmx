@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134139Z" creationid="Hugo" creationdate="20210210T134139Z">
+        <seg>&amp;Otoriz bann tradiksion idantik avek sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T155751Z" creationid="Hugo" creationdate="20210208T155751Z">
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134702Z" creationid="Hugo" creationdate="20210210T134447Z">
+        <seg>&amp;Al Prosin Segman Non Tradi stope kan ena omwin enn tradiksion alternatif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080314Z" creationid="Hugo" creationdate="20201016T080314Z">
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133514Z" creationid="Hugo" creationdate="20210210T133514Z">
+        <seg>&amp;Les segman-la vid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T152356Z" creationid="Hugo" creationdate="20210204T152356Z">
@@ -458,6 +482,30 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073630Z" creationid="Hugo" creationdate="20201016T073630Z">
         <seg>Statistik pou bann &amp;Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133715Z" creationid="Hugo" creationdate="20210210T133715Z">
+        <seg>Nivo &amp;minimum korespondans:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111212Z" creationid="Hugo" creationdate="20210210T111124Z">
+        <seg>Deplas An&amp;ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111910Z" creationid="Hugo" creationdate="20210210T111910Z">
+        <seg>&amp;Nom/ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +874,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080318Z" creationid="Hugo" creationdate="20201016T080318Z">
         <seg>&amp;Gid itilizater...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T135159Z" creationid="Hugo" creationdate="20210210T135159Z">
+        <seg>&amp;Valid bann tag kan kit enn segman</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1698,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T135031Z" creationid="Hugo" creationdate="20210210T135028Z">
+        <seg>&amp;Otoriz modifikasion bann tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T131016Z" creationid="Hugo" creationdate="20201201T131016Z">
@@ -1838,6 +1902,14 @@ File TMX pa pou loade.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111614Z" creationid="Hugo" creationdate="20210210T111545Z">
+        <seg>Ou sir ki ou oule siprim set reg segmantasion {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T113835Z" creationid="Hugo" creationdate="20201020T113835Z">
@@ -1882,6 +1954,14 @@ File TMX pa pou loade.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T130552Z" creationid="Hugo" creationdate="20201001T134103Z">
         <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki ninport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134958Z" creationid="Hugo" creationdate="20210210T134958Z">
+        <seg>Sey konverti bann &amp;nimero letan insert enn fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3470,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134227Z" creationid="Hugo" creationdate="20210210T134227Z">
+        <seg>E&amp;xport segman-la ver bann file text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201021T144716Z" creationid="Hugo" creationdate="20201021T144716Z">
@@ -3458,6 +3546,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141708Z" creationid="Hugo" creationdate="20200729T141708Z">
         <seg>Opsion ledision...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111923Z" creationid="Hugo" creationdate="20210210T111923Z">
+        <seg>Editer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111917Z" creationid="Hugo" creationdate="20210210T111917Z">
+        <seg>Opsion Editer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,8 +3700,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T092136Z" creationid="Hugo" creationdate="20201016T092136Z">
-        <seg>Sezi nimero segman:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111756Z" creationid="Hugo" creationdate="20201016T092136Z">
+        <seg>Inskrir nimero segman:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5420,6 +5524,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T141315Z" creationid="Hugo" creationdate="20210210T141315Z">
+        <seg>Load inisialman sa kantite segman-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T120048Z" creationid="Hugo" creationdate="20200729T120048Z">
@@ -5472,6 +5584,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T151108Z" creationid="Hugo" creationdate="20201015T151108Z">
         <seg>Insert Karakter Kontrol Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133649Z" creationid="Hugo" creationdate="20210210T133649Z">
+        <seg>Insert meyer &amp;korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133438Z" creationid="Hugo" creationdate="20210210T133438Z">
+        <seg>Insert text &amp;sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,6 +5784,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T064624Z" creationid="Hugo" creationdate="20201010T064624Z">
         <seg>Li version ki nou rekomann bann nouvo itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111905Z" creationid="Hugo" creationdate="20210210T111905Z">
+        <seg>Li pou servi pou mark ou bann tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6158,8 +6294,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T074125Z" creationid="Hugo" creationdate="20201016T074125Z">
-        <seg>Mark bann Segman &amp;non Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134545Z" creationid="Hugo" creationdate="20201016T074125Z">
+        <seg>Mark bann Segman &amp;Non Tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,8 +6350,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T131833Z" creationid="Hugo" creationdate="20200729T131833Z">
-        <seg>Mark bann segman pa tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134602Z" creationid="Hugo" creationdate="20200729T131833Z">
+        <seg>Mark bann segman non tradi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,8 +6578,24 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T100857Z" creationid="Hugo" creationdate="20201016T100857Z">
-        <seg>Plas &amp;Laho</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111201Z" creationid="Hugo" creationdate="20201016T100857Z">
+        <seg>Deplas La&amp;ho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111156Z" creationid="Hugo" creationdate="20210210T111044Z">
+        <seg>Deplas &amp;Anba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111150Z" creationid="Hugo" creationdate="20210210T111005Z">
+        <seg>Deplas &amp;Laho</seg>
       </tuv>
     </tu>
     <tu>
@@ -6512,6 +6664,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111645Z" creationid="Hugo" creationdate="20210210T111645Z">
+        <seg>Nouvo Lang ek Pei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200527T174837Z">
@@ -6546,8 +6706,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T152559Z" creationid="Hugo" creationdate="20201015T152559Z">
-        <seg>Segman pa ankor &amp;Tradi Swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134534Z" creationid="Hugo" creationdate="20201015T152559Z">
+        <seg>Segman Non &amp;Tradi Swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -6602,8 +6762,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045145Z" creationid="Hugo" creationdate="20200729T131434Z">
-        <seg>Segman pa ankor tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134554Z" creationid="Hugo" creationdate="20200729T131434Z">
+        <seg>Segman non tradi swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -7727,6 +7887,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111839Z" creationid="Hugo" creationdate="20210210T111736Z">
+        <seg>Inskrir ou nom/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T084921Z" creationid="Hugo" creationdate="20201022T084921Z">
@@ -7739,6 +7907,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125640Z" creationid="Hugo" creationdate="20201020T125506Z">
         <seg>Swazir lang ou bann file sours ek lang sib ou oule tradir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133410Z" creationid="Hugo" creationdate="20210210T133410Z">
+        <seg>Seleksionn text ki ou le met dan segman ki pa enkor tradi kan ou pou al lor li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,6 +8988,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T135254Z" creationid="Hugo" creationdate="20210210T135254Z">
+        <seg>Anrezistre status bann tradiksion otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200729T113122Z">
@@ -9054,6 +9238,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111318Z" creationid="Hugo" creationdate="20210210T111318Z">
+        <seg>OmegaT aplik bann reg segmantasion dan lord swivan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141453Z" creationid="Hugo" creationdate="20200729T141453Z">
@@ -9274,6 +9466,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
         <seg>Definir an tan ki tradiksion vid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111557Z" creationid="Hugo" creationdate="20210210T111256Z">
+        <seg>Bann set reg segmantasion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9828,6 +10028,22 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091755Z" creationid="Hugo" creationdate="20201016T091755Z">
         <seg>Bann file sib finn anrezistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111708Z" creationid="Hugo" creationdate="20210210T111708Z">
+        <seg>Lekip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111705Z" creationid="Hugo" creationdate="20210210T111650Z">
+        <seg>Opsion Lekip</seg>
       </tuv>
     </tu>
     <tu>
@@ -10715,6 +10931,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T110719Z" creationid="Hugo" creationdate="20210210T094424Z">
+        <seg>Enswit, kan ou tradir depi Angle Ameriken, ou proze pou servi tou bann reg ki finn defini pou lasenn lang dan bon lord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are essentially two ways in which you can do this.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200918T120819Z" creationid="Hugo" creationdate="20200918T120819Z">
@@ -11025,8 +11249,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210209T161307Z" creationid="Hugo" creationdate="20210209T161307Z">
-        <seg>Donk, par exanp, bann reg pou Angle Britanik (EN-GB) bizin plis ot ki bann reg pou Angle (EN.*), ek plis ot ki bann reg par defo (.*).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T110624Z" creationid="Hugo" creationdate="20210209T161307Z">
+        <seg>Donk, par exanp, bann reg pou Angle Ameriken (EN-US) bizin avan bann reg pou Angle (EN.*), ek avan bann reg par defo (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12136,6 +12360,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142253Z" creationid="Hugo" creationdate="20210210T142253Z">
+        <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou load kan ou navig an-ba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090457Z" creationid="Hugo" creationdate="20200924T122543Z">
@@ -12530,8 +12762,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T092603Z" creationid="Hugo" creationdate="20201016T092603Z">
-        <seg>Ou bizin sezi enn nimero ant 1 ek {0}.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T111829Z" creationid="Hugo" creationdate="20201016T092603Z">
+        <seg>Ou bizin inskrir enn nimero ant 1 ek {0}.</seg>
       </tuv>
     </tu>
     <tu>
