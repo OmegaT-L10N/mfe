@@ -4002,6 +4002,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142518Z" creationid="Hugo" creationdate="20210210T142518Z">
+        <seg>Opsion TMX extern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External TMXs...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141733Z" creationid="Hugo" creationdate="20200729T141733Z">
@@ -7723,6 +7731,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142506Z" creationid="Hugo" creationdate="20210210T142506Z">
+        <seg>Forma delimitasion bann paragraf:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201026T135645Z" creationid="Hugo" creationdate="20201026T135645Z">
@@ -7899,6 +7915,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T084921Z" creationid="Hugo" creationdate="20201022T084921Z">
         <seg>Swazir enn lot dosie silvouple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142615Z" creationid="Hugo" creationdate="20210210T142615Z">
+        <seg>Swazir ki manier bizin afis bann tag bann TMX ki pa OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,8 +12386,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142253Z" creationid="Hugo" creationdate="20210210T142253Z">
-        <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou load kan ou navig an-ba.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142450Z" creationid="Hugo" creationdate="20210210T142253Z">
+        <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou load kan ou defil an-ba.</seg>
       </tuv>
     </tu>
     <tu>
