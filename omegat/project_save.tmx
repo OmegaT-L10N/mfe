@@ -2618,6 +2618,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150545Z" creationid="Hugo" creationdate="20210210T150545Z">
+        <seg>Komanter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T134651Z" creationid="Hugo" creationdate="20201015T134651Z">
@@ -3766,6 +3774,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151558Z" creationid="Hugo" creationdate="20210210T151558Z">
+        <seg>Erer dan dekodaz nom itilizater ek password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053022Z" creationid="Hugo" creationdate="20201024T053008Z">
@@ -4682,6 +4698,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150552Z" creationid="Hugo" creationdate="20210210T150552Z">
+        <seg>File gloser: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200527T191151Z">
@@ -5334,6 +5358,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T060106Z" creationid="Hugo" creationdate="20201010T055923Z">
         <seg>Si ou pa sir ki enn version JRE apropriye deza instale, ou kapav telesarz ek instal version OmegaT avek JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150759Z" creationid="Hugo" creationdate="20210210T150759Z">
+        <seg>Si ou pe servi enn proxy ki bizin otantifkasion, inskrir ou nom itilizater ek ou password isi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8399,10 +8431,26 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150636Z" creationid="Hugo" creationdate="20210210T150636Z">
+        <seg>Koneksion par proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141935Z" creationid="Hugo" creationdate="20200729T141935Z">
         <seg>Koneksion par proxy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy User and Password</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150618Z" creationid="Hugo" creationdate="20210210T150618Z">
+        <seg>Itilizater ek Password pou Proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9886,6 +9934,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150533Z" creationid="Hugo" creationdate="20210210T150533Z">
+        <seg>Term sours:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T094438Z" creationid="Hugo" creationdate="20201016T094438Z">
@@ -10188,6 +10244,14 @@ Par defo, porte resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091755Z" creationid="Hugo" creationdate="20201016T091755Z">
         <seg>Bann file sib finn anrezistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150538Z" creationid="Hugo" creationdate="20210210T150538Z">
+        <seg>Term sib:</seg>
       </tuv>
     </tu>
     <tu>
