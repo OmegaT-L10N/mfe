@@ -7657,10 +7657,10 @@ Erer 404</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141008Z" creationid="Hugo" creationdate="20210212T141008Z">
-        <seg>OmegaT pa kapav aksed propriyete sistem ki ena
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141146Z" creationid="Hugo" creationdate="20210212T141008Z">
+        <seg>OmegaT pa kapav aksed propriyete sistem kot ena
 nom ou sistem explwatasion ek/ou propriyete
-your home folder.</seg>
+sistem kot ena ou dosie debaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11579,6 +11579,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20200519T153451Z">
         <seg>Pou ena trwa file avek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141333Z" creationid="Hugo" creationdate="20210212T141333Z">
+        <seg>Donk, pa kapav determinn lanplasman
+fil konfigirasion OmegaT avek sertitid.</seg>
       </tuv>
     </tu>
     <tu>
