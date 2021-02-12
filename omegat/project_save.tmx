@@ -3310,6 +3310,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123701Z" creationid="Hugo" creationdate="20210212T123701Z">
+        <seg>Napa permet kreasion bann dokiman tradi ki ena bann problem tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161018Z" creationid="Hugo" creationdate="20210208T161018Z">
@@ -12674,8 +12682,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123557Z" creationid="Hugo" creationdate="20210212T123557Z">
-        <seg>Pran kont: ou kapav andomaz dokiman tradi kan ou sanz lord bann tag</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123603Z" creationid="Hugo" creationdate="20210212T123557Z">
+        <seg>Pran kont: ou kapav andomaz dokiman tradi kan ou sanz lord bann tag!</seg>
       </tuv>
     </tu>
     <tu>
