@@ -13118,6 +13118,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131355Z" creationid="Hugo" creationdate="20210212T131355Z">
+        <seg>Ou pa kapav kree bann antre gloser gras-a Kree Antre Gloser dan meni Edision</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200918T121745Z">
