@@ -2992,8 +2992,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200729T122848Z">
-        <seg>Kree enn antre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131446Z" creationid="Hugo" creationdate="20200729T122848Z">
+        <seg>Kree enn Antre Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,8 +3616,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Edit Menu</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115742Z" creationid="Hugo" creationdate="20200729T115742Z">
-        <seg>Meni Edit</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131407Z" creationid="Hugo" creationdate="20200729T115742Z">
+        <seg>Meni Edision</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3814,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111756Z" creationid="Hugo" creationdate="20201016T092136Z">
         <seg>Inskrir nimero segman:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131613Z" creationid="Hugo" creationdate="20210212T131613Z">
+        <seg>Bann antre gloser </seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,8 +13128,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131355Z" creationid="Hugo" creationdate="20210212T131355Z">
-        <seg>Ou pa kapav kree bann antre gloser gras-a Kree Antre Gloser dan meni Edision</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131526Z" creationid="Hugo" creationdate="20210212T131355Z">
+        <seg>Ou pa kapav kree bann antre gloser gras-a Kree enn Antre Gloser dan meni Edision.</seg>
       </tuv>
     </tu>
     <tu>
