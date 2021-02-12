@@ -1714,6 +1714,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T122742Z" creationid="Hugo" creationdate="20210212T122742Z">
+        <seg>Otoriz bann enn lord &amp;diferan pour bann tag ki finn tradi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T131016Z" creationid="Hugo" creationdate="20201201T131016Z">
