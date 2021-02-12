@@ -2373,8 +2373,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T120136Z" creationid="Hugo" creationdate="20201016T120106Z">
-        <seg>Pa kapav aksed dosier gloser!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124446Z" creationid="Hugo" creationdate="20201016T120106Z">
+        <seg>Pa kapav aksed dosie gloser!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3320,8 +3320,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123924Z" creationid="Hugo" creationdate="20210212T123924Z">
-        <seg>Afis bann segman dan bann memwar tradiksion ki koresponn bann segman sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124354Z" creationid="Hugo" creationdate="20210212T123924Z">
+        <seg>Afis bann segman memwar tradiksion ki koresponn avek bann segman sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,8 +6342,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T130733Z" creationid="Hugo" creationdate="20201020T130733Z">
-        <seg>File/Dosier Lokal</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124453Z" creationid="Hugo" creationdate="20201020T130733Z">
+        <seg>File/Dosie Lokal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,8 +6582,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124256Z" creationid="Hugo" creationdate="20210212T124256Z">
-        <seg>Kapav trouv bann korespondans dan tradiksion aktiel </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124510Z" creationid="Hugo" creationdate="20210212T124256Z">
+        <seg>Kapav trouv bann korespondans dan tradiksion aktiel ou dan bann file TMX ki ou finn mete dan dosie /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,6 +7169,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
         <seg>Nanyen, me li sit karakter swivan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124609Z" creationid="Hugo" creationdate="20210212T124609Z">
+        <seg>Alert Mwa Kan Enn Segman Ena Bann Korespondans</seg>
       </tuv>
     </tu>
     <tu>
