@@ -1738,6 +1738,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T134303Z" creationid="Hugo" creationdate="20210212T134303Z">
+        <seg>Permet afis, azout, siprim ou modifie enn not dan enn segman aktif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200921T151217Z">
@@ -6476,6 +6484,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T134157Z" creationid="Hugo" creationdate="20210212T134157Z">
+        <seg>Opsion Tradiksion Otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T154349Z" creationid="Hugo" creationdate="20201014T154349Z">
@@ -7185,6 +7201,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T124851Z" creationid="Hugo" creationdate="20200528T202300Z">
         <seg>Pran kont: output &lt;f0&gt;.tbx&lt;/f0&gt; MultiTerm koumadir pa fiab (Novam 2013). Vo mie itiliz output &lt;f1&gt;.tab&lt;/f1&gt; MultiTerm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T134203Z" creationid="Hugo" creationdate="20210212T134159Z">
+        <seg>Bann not</seg>
       </tuv>
     </tu>
     <tu>
