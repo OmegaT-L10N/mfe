@@ -3350,6 +3350,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T134135Z" creationid="Hugo" creationdate="20210212T134135Z">
+        <seg>Afis tradiksion segman sours par bann servis tradiksion otomatik ki ou finn swazir dan Preferans &gt; Tradiksion otomatik, si sa bann servis-la disponib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T123701Z" creationid="Hugo" creationdate="20210212T123701Z">
@@ -7209,6 +7217,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
         <seg>Nanyen, me li sit karakter swivan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133127Z" creationid="Hugo" creationdate="20210212T133127Z">
+        <seg>Alert Mwa Kan enn Segman Ena Bann Antre dan Diksioner</seg>
       </tuv>
     </tu>
     <tu>
