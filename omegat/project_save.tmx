@@ -2690,6 +2690,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135258Z" creationid="Hugo" creationdate="20210212T135258Z">
+        <seg>&amp;Bann komanter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T134651Z" creationid="Hugo" creationdate="20201015T134651Z">
@@ -3338,6 +3346,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102915Z" creationid="Hugo" creationdate="20201022T102901Z">
         <seg>Afis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135508Z" creationid="Hugo" creationdate="20210212T135415Z">
+        <seg>Afis bann komanter dan segman aktif si zot existe, e si filt file aksept zot (par exanp, PO-filter).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7273,6 +7289,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T131801Z" creationid="Hugo" creationdate="20210212T131801Z">
         <seg>Alert Mwa Kan Enn Segman Ena Bann Antre dan Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135254Z" creationid="Hugo" creationdate="20210212T135254Z">
+        <seg>Alert Mwa Kan Enn Segman Ena Bann Not</seg>
       </tuv>
     </tu>
     <tu>
