@@ -10734,6 +10734,16 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141356Z" creationid="Hugo" creationdate="20210212T141356Z">
+        <seg>Pou servi
+dosie aktiel an plas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T064552Z" creationid="Hugo" creationdate="20201010T063955Z">
