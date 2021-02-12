@@ -1658,6 +1658,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131813Z" creationid="Hugo" creationdate="20210212T131705Z">
+        <seg>Azout enn Antre dan Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T145114Z" creationid="Hugo" creationdate="20210208T145114Z">
@@ -2952,8 +2960,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105959Z" creationid="Hugo" creationdate="20200921T121101Z">
-        <seg>Kree enn Antre &amp;Gloser...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131839Z" creationid="Hugo" creationdate="20200921T121101Z">
+        <seg>Kree enn Antre dan &amp;Gloser...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3820,8 +3828,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131613Z" creationid="Hugo" creationdate="20210212T131613Z">
-        <seg>Bann antre gloser </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131645Z" creationid="Hugo" creationdate="20210212T131613Z">
+        <seg>Bann antre gloser ekrivab zot an gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5764,6 +5772,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131721Z" creationid="Hugo" creationdate="20210212T131721Z">
+        <seg>Insert Seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T122703Z" creationid="Hugo" creationdate="20200729T122640Z">
@@ -7193,6 +7209,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T124609Z" creationid="Hugo" creationdate="20210212T124609Z">
         <seg>Alert Mwa Kan Enn Segman Ena Bann Korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131801Z" creationid="Hugo" creationdate="20210212T131801Z">
+        <seg>Alert Mwa Kan Enn Segman Ena Bann Antre dan Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -13128,8 +13152,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131526Z" creationid="Hugo" creationdate="20210212T131355Z">
-        <seg>Ou pa kapav kree bann antre gloser gras-a Kree enn Antre Gloser dan meni Edision.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131832Z" creationid="Hugo" creationdate="20210212T131355Z">
+        <seg>Ou pa kapav kree bann antre gloser gras-a Kree enn Antre dan Gloser dan meni Edision.</seg>
       </tuv>
     </tu>
     <tu>
