@@ -7653,6 +7653,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141008Z" creationid="Hugo" creationdate="20210212T141008Z">
+        <seg>OmegaT pa kapav aksed propriyete sistem ki ena
+nom ou sistem explwatasion ek/ou propriyete
+your home folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T033345Z" creationid="Hugo" creationdate="20201010T033345Z">
