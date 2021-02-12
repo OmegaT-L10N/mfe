@@ -8740,6 +8740,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T122509Z" creationid="Hugo" creationdate="20210212T122509Z">
+        <seg>Expresion regilie pou bann fragman ki bizin siprime depi tradiksion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131645Z" creationid="Hugo" creationdate="20201022T131645Z">
