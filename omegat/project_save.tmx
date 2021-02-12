@@ -1700,8 +1700,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T110015Z" creationid="Hugo" creationdate="20201201T105645Z">
-        <seg>Finn azout {0} antre gloser depi {1}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133017Z" creationid="Hugo" creationdate="20201201T105645Z">
+        <seg>Finn azout {0} antre dan gloser depi {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,10 +3326,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133004Z" creationid="Hugo" creationdate="20210212T133004Z">
+        <seg>Afis bann antre dan diksioner ki dan bann file diksioner sitie dan dosie /dictionary/ si bann antre-la prezan dan segman sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T125320Z" creationid="Hugo" creationdate="20210212T125320Z">
-        <seg>Afis bann antre gloser ki dan bann file gloser sitie dan dosie /glossary/ si bann antre-la prezan dan segman sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133022Z" creationid="Hugo" creationdate="20210212T125320Z">
+        <seg>Afis bann antre dan gloser ki dan bann file gloser sitie dan dosie /glossary/ si bann antre-la prezan dan segman sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4845,8 +4853,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200729T135405Z">
-        <seg>Gloser/Itiliz lematizasion pou bann antre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133032Z" creationid="Hugo" creationdate="20200729T135405Z">
+        <seg>Gloser/Itiliz lematizasion pou bann antre dan gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,8 +9062,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T123746Z">
-        <seg>Inklir bann antre gloser kan text sours insere</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133039Z" creationid="Hugo" creationdate="20200924T123746Z">
+        <seg>Inklir bann antre dan gloser kan text sours insere</seg>
       </tuv>
     </tu>
     <tu>
@@ -12433,8 +12441,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075208Z">
-        <seg>Servi &amp;lematizasion pou bann antre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133010Z" creationid="Hugo" creationdate="20201016T075208Z">
+        <seg>Servi &amp;lematizasion pou bann antre dan gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -12490,8 +12498,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T123120Z">
-        <seg>Servi lematizasion pou bann antre gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133035Z" creationid="Hugo" creationdate="20200924T123120Z">
+        <seg>Servi lematizasion pou bann antre dan gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -13160,8 +13168,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131832Z" creationid="Hugo" creationdate="20210212T131355Z">
-        <seg>Ou pa kapav kree bann antre gloser gras-a Kree enn Antre dan Gloser dan meni Edision.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T133028Z" creationid="Hugo" creationdate="20210212T131355Z">
+        <seg>Ou pa kapav kree bann antre dan gloser gras-a Kree enn Antre dan Gloser dan meni Edision.</seg>
       </tuv>
     </tu>
     <tu>
