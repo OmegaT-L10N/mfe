@@ -8732,6 +8732,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T122112Z" creationid="Hugo" creationdate="20210212T122112Z">
+        <seg>Expresion regilie pour bann tag personalize:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131645Z" creationid="Hugo" creationdate="20201022T131645Z">
