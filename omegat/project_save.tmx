@@ -3000,8 +3000,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131446Z" creationid="Hugo" creationdate="20200729T122848Z">
-        <seg>Kree enn Antre Gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131853Z" creationid="Hugo" creationdate="20200729T122848Z">
+        <seg>Kree enn Antre dan Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,8 +3828,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131645Z" creationid="Hugo" creationdate="20210212T131613Z">
-        <seg>Bann antre gloser ekrivab zot an gra.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T132027Z" creationid="Hugo" creationdate="20210212T131613Z">
+        <seg>Bann antre dan gloser ekrivab zot an gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5282,8 +5282,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T124338Z">
-        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn antre gloser pou tradir otomatikman letan text sours integre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T132001Z" creationid="Hugo" creationdate="20200924T124338Z">
+        <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn antre dan gloser pou tradir otomatikman letan text sours integre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7811,6 +7811,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T101439Z" creationid="Hugo" creationdate="20201016T101439Z">
         <seg>Ouver Lanplasman File Sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T132851Z" creationid="Hugo" creationdate="20210212T132851Z">
+        <seg>Ouvrir enn File Gloser Ekrivab</seg>
       </tuv>
     </tu>
     <tu>
@@ -10942,8 +10950,8 @@ Sey koriz erer-la, ek reload proze.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T112041Z" creationid="Hugo" creationdate="20200729T112041Z">
-        <seg>Premie-la shortcut pou &lt;g0&gt;Open Project&lt;/g0&gt;, deziem-la pou &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131946Z" creationid="Hugo" creationdate="20200729T112041Z">
+        <seg>Premie-la shortcut pou &lt;g0&gt;Open Project&lt;/g0&gt;, deziem-la pou &lt;g1&gt;Kree enn Antre dan Gloser&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,8 +11038,8 @@ Sey koriz erer-la, ek reload proze.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200527T170641Z">
-        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann antre gloser (ex. li pa rekonet bann form konzige).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131906Z" creationid="Hugo" creationdate="20200527T170641Z">
+        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann antre dan gloser (ex. li pa rekonet bann form konzige).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11381,8 +11389,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T192724Z">
-        <seg>Pa ena enn EXACT match ant antre gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131914Z" creationid="Hugo" creationdate="20200606T192724Z">
+        <seg>Pa ena enn EXACT match ant antre dan gloser ek text sours dan ou dokiman (par exanp, diferans singilie/pliryel).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12165,8 +12173,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T120547Z">
-        <seg>Si deskripsion kontextiel ki montre pou sak antre gloser pas neseser ouswa tro long, pa seleksionn sa lopsion-la </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131954Z" creationid="Hugo" creationdate="20200924T120547Z">
+        <seg>Si deskripsion kontextiel ki montre pou sak antre dan gloser pas neseser ouswa tro long, pa seleksionn sa lopsion-la </seg>
       </tuv>
     </tu>
     <tu>
