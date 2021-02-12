@@ -2942,6 +2942,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123815Z" creationid="Hugo" creationdate="20210212T123815Z">
+        <seg>Kont text ki &amp;proteze ek bann tag personalize dan bann statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105959Z" creationid="Hugo" creationdate="20200921T121101Z">
@@ -3306,6 +3314,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102915Z" creationid="Hugo" creationdate="20201022T102901Z">
         <seg>Afis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123924Z" creationid="Hugo" creationdate="20210212T123924Z">
+        <seg>Afis bann segman dan bann memwar tradiksion ki koresponn bann segman sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +4678,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T100422Z" creationid="Hugo" creationdate="20201022T100422Z">
         <seg>Pa fer diferans ant &amp;larzer karakter fullwidth ek halfwidth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123819Z" creationid="Hugo" creationdate="20210212T123819Z">
+        <seg>Korespondans</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,6 +6576,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035435Z" creationid="Hugo" creationdate="20201003T035435Z">
         <seg>Propagasion bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T124256Z" creationid="Hugo" creationdate="20210212T124256Z">
+        <seg>Kapav trouv bann korespondans dan tradiksion aktiel </seg>
       </tuv>
     </tu>
     <tu>
