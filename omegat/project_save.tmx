@@ -3318,6 +3318,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T125320Z" creationid="Hugo" creationdate="20210212T125320Z">
+        <seg>Afis bann antre gloser ki dan bann file gloser sitie dan dosie /glossary/ si bann antre-la prezan dan segman sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T124354Z" creationid="Hugo" creationdate="20210212T123924Z">
