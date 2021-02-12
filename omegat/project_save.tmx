@@ -1450,6 +1450,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135235Z" creationid="Hugo" creationdate="20210212T135235Z">
+        <seg>Enn not li zis enn komanter lor sa lansanb text sours ek tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T085926Z" creationid="Hugo" creationdate="20200607T164230Z">
