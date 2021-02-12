@@ -1658,6 +1658,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135753Z" creationid="Hugo" creationdate="20210212T135753Z">
+        <seg>Aksion &amp; Paramet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T130005Z" creationid="Hugo" creationdate="20201020T130005Z">
@@ -3438,6 +3446,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135650Z" creationid="Hugo" creationdate="20210212T135650Z">
+        <seg>Ankre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T153719Z" creationid="Hugo" creationdate="20201014T153719Z">
@@ -3714,6 +3730,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111923Z" creationid="Hugo" creationdate="20210210T111923Z">
         <seg>Editer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135605Z" creationid="Hugo" creationdate="20210212T135605Z">
+        <seg>Editer - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5884,6 +5908,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135807Z" creationid="Hugo" creationdate="20210212T135807Z">
+        <seg>Demaraz Instantane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T115852Z" creationid="Hugo" creationdate="20201016T115852Z">
@@ -6184,6 +6216,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095421Z" creationid="Hugo" creationdate="20201016T095421Z">
         <seg>Pe al dernie segman modifie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135513Z" creationid="Hugo" creationdate="20210212T135513Z">
+        <seg>Lakle:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,6 +6716,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135727Z" creationid="Hugo" creationdate="20210212T135727Z">
+        <seg>Agrandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133542Z" creationid="Hugo" creationdate="20201201T133542Z">
@@ -6744,6 +6792,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145543Z" creationid="Hugo" creationdate="20210210T145230Z">
         <seg>Nivo minimum pou afis enn korespondans parsiel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135713Z" creationid="Hugo" creationdate="20210212T135653Z">
+        <seg>Redwir</seg>
       </tuv>
     </tu>
     <tu>
@@ -7265,6 +7321,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
         <seg>Nanyen, me li sit karakter swivan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135547Z" creationid="Hugo" creationdate="20210212T135547Z">
+        <seg>Alert Mwa Kan Enn Segman Ena Bann Komanter</seg>
       </tuv>
     </tu>
     <tu>
@@ -8111,6 +8175,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T132349Z" creationid="Hugo" creationdate="20201201T132349Z">
         <seg>Bann file PDF ki ena password pa aksepte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135522Z" creationid="Hugo" creationdate="20210212T135522Z">
+        <seg>Sime:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9216,6 +9288,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T153758Z" creationid="Hugo" creationdate="20201014T153758Z">
         <seg>Resours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135734Z" creationid="Hugo" creationdate="20210212T135734Z">
+        <seg>Retablir</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,6 +12217,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135538Z" creationid="Hugo" creationdate="20210212T135538Z">
+        <seg>Dradiksion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T130551Z" creationid="Hugo" creationdate="20201020T130551Z">
@@ -12271,6 +12359,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115850Z" creationid="Hugo" creationdate="20200729T115850Z">
         <seg>Anil dernie laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210212T135744Z" creationid="Hugo" creationdate="20210212T135744Z">
+        <seg>Dekrose</seg>
       </tuv>
     </tu>
     <tu>
