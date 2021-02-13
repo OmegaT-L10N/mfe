@@ -1966,6 +1966,18 @@ File TMX pa pou loade.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210213T100706Z" creationid="Hugo" creationdate="20210213T100706Z">
+        <seg>An konsekans, tou bann paramet
+pou ena zot valer par defo, seki kapav antrenn
+bann konportman inabitiel, me korek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T152604Z" creationid="Hugo" creationdate="20201001T091937Z">
@@ -10737,9 +10749,9 @@ Porte bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141356Z" creationid="Hugo" creationdate="20210212T141356Z">
-        <seg>Pou servi
-dosie aktiel an plas.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210213T100128Z" creationid="Hugo" creationdate="20210212T141356Z">
+        <seg>An plas, OmegaT
+pou servi dosie aktiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11596,9 +11608,9 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T141333Z" creationid="Hugo" creationdate="20210212T141333Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210213T100100Z" creationid="Hugo" creationdate="20210212T141333Z">
         <seg>Donk, pa kapav determinn lanplasman
-fil konfigirasion OmegaT avek sertitid.</seg>
+file konfigirasion OmegaT avek sertitid.</seg>
       </tuv>
     </tu>
     <tu>
