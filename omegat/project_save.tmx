@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092324Z" creationid="Hugo" creationdate="20210219T092324Z">
+        <seg>&amp;Informasion modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111212Z" creationid="Hugo" creationdate="20210210T111124Z">
@@ -1838,6 +1846,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032515Z" creationid="Hugo" creationdate="20201010T032515Z">
         <seg>Administrasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092640Z" creationid="Hugo" creationdate="20210219T092640Z">
+        <seg>Itilizasion agresif bann font de sekour</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,10 +3574,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092510Z" creationid="Hugo" creationdate="20210219T092348Z">
+        <seg>Afis &amp;nanye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092023Z" creationid="Hugo" creationdate="20210219T092023Z">
-        <seg>Montre bann Segman &amp;Sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092528Z" creationid="Hugo" creationdate="20210219T092023Z">
+        <seg>Montre bann segman &amp;sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3642,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T121720Z" creationid="Hugo" creationdate="20200924T114912Z">
         <seg>Montre deskripsion kontextiel pou bann gloser TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092432Z" creationid="Hugo" creationdate="20210219T092432Z">
+        <seg>Afis pou &amp;tou bann segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092422Z" creationid="Hugo" creationdate="20210219T092422Z">
+        <seg>Afis pou segman &amp;aktiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7097,6 +7137,38 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092448Z" creationid="Hugo" creationdate="20210219T092448Z">
+        <seg>Mar&amp;k bann karakter lespasman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092534Z" creationid="Hugo" creationdate="20210219T092534Z">
+        <seg>Mark bann segman ki finn tradi depi dosie oto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092456Z" creationid="Hugo" creationdate="20210219T092456Z">
+        <seg>Mark bann karakter kontrol bidireksionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092436Z" creationid="Hugo" creationdate="20210219T092436Z">
+        <seg>Mark bann lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Paragraph Delimitations</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074201Z" creationid="Hugo" creationdate="20201016T074201Z">
@@ -7137,6 +7209,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092521Z" creationid="Hugo" creationdate="20210219T092307Z">
+        <seg>Mark bann segman ki pa &amp;inik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092240Z" creationid="Hugo" creationdate="20200729T131936Z">
@@ -7149,6 +7229,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132103Z" creationid="Hugo" creationdate="20200729T132103Z">
         <seg>Mark bann lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092311Z" creationid="Hugo" creationdate="20210219T092311Z">
+        <seg>Mark bann segman avek &amp;not</seg>
       </tuv>
     </tu>
     <tu>
