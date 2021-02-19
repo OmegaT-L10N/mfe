@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105912Z" creationid="Hugo" creationdate="20210219T105912Z">
+        <seg>&amp;Ouver Skript...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T131012Z" creationid="Hugo" creationdate="20201015T131012Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T135648Z" creationid="Hugo" creationdate="20201015T135648Z">
         <seg>&amp;Rasinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105936Z" creationid="Hugo" creationdate="20210219T105936Z">
+        <seg>&amp;Exekite</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1382,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T162054Z" creationid="Hugo" creationdate="20210208T162054Z">
         <seg>&lt;&amp;br&gt; (kas lalinn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105849Z" creationid="Hugo" creationdate="20210219T105849Z">
+        <seg>&lt;VID&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8330,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105844Z" creationid="Hugo" creationdate="20210219T105844Z">
+        <seg>Alert mwa kan enn segman ena plizier tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135254Z" creationid="Hugo" creationdate="20210212T135254Z">
@@ -10277,6 +10309,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105818Z" creationid="Hugo" creationdate="20210219T105818Z">
+        <seg>Ranplas tradiksion par text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace With Match or Selection</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T120005Z" creationid="Hugo" creationdate="20200729T120005Z">
@@ -10655,6 +10695,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script &amp;Language</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105929Z" creationid="Hugo" creationdate="20210219T105929Z">
+        <seg>Langaz skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T134111Z">
@@ -10675,6 +10723,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073953Z" creationid="Hugo" creationdate="20201016T073811Z">
         <seg>Bann &amp;Skript...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105900Z" creationid="Hugo" creationdate="20210219T105900Z">
+        <seg>Bann skript</seg>
       </tuv>
     </tu>
     <tu>
