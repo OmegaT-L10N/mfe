@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094914Z" creationid="Hugo" creationdate="20210219T094914Z">
+        <seg>Al &amp;rod bann tradiksion otomatikman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T061301Z" creationid="Hugo" creationdate="20210219T061301Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T140014Z" creationid="Hugo" creationdate="20201015T140014Z">
         <seg>&amp;Anil Dernie Laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T095038Z" creationid="Hugo" creationdate="20210219T095038Z">
+        <seg>Selman bann segman ki pa finn tradir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3190,6 +3206,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094857Z" creationid="Hugo" creationdate="20210219T094857Z">
+        <seg>Kopie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T131527Z" creationid="Hugo" creationdate="20200729T115123Z">
@@ -3386,6 +3410,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141414Z" creationid="Hugo" creationdate="20200729T141414Z">
         <seg>Kistomizasion kouler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094854Z" creationid="Hugo" creationdate="20210219T094854Z">
+        <seg>Koupe</seg>
       </tuv>
     </tu>
     <tu>
@@ -8880,6 +8912,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T132349Z" creationid="Hugo" creationdate="20201201T132349Z">
         <seg>Bann file PDF ki ena password pa aksepte: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094903Z" creationid="Hugo" creationdate="20210219T094903Z">
+        <seg>Kole</seg>
       </tuv>
     </tu>
     <tu>
