@@ -240,8 +240,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113644Z" creationid="Hugo" creationdate="20201015T135759Z">
-        <seg>&amp;Dokiman Sours Aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113944Z" creationid="Hugo" creationdate="20201015T135759Z">
+        <seg>Aktiel Dokiman &amp;Sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -2701,8 +2701,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113648Z" creationid="Hugo" creationdate="20201015T135814Z">
-        <seg>&amp;Dokiman Sib Aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113951Z" creationid="Hugo" creationdate="20201015T135814Z">
+        <seg>Aktiel Dokiman &amp;Sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,8 +2845,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113653Z" creationid="Hugo" creationdate="20201016T073603Z">
-        <seg>Chek bann Erer pou Dokiman &amp;Aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114111Z" creationid="Hugo" creationdate="20201016T073603Z">
+        <seg>Chek bann Erer pou sa &amp;Dokiman-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,8 +3400,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101619Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Kree dokiman tradiksion aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114203Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree bann Dokiman Tradiksion (Final)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,8 +3808,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092422Z" creationid="Hugo" creationdate="20210219T092422Z">
-        <seg>Afis pou segman &amp;aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114119Z" creationid="Hugo" creationdate="20210219T092422Z">
+        <seg>Afis pou segman &amp;aktif</seg>
       </tuv>
     </tu>
     <tu>
