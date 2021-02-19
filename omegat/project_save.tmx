@@ -9452,6 +9452,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123301Z" creationid="Hugo" creationdate="20210219T123301Z">
+        <seg>Kapav li deza ouver par enn lot instans OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
@@ -10044,6 +10052,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T054551Z" creationid="Hugo" creationdate="20210219T054536Z">
         <seg>Demaraz sarzman proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123237Z" creationid="Hugo" creationdate="20210219T123226Z">
+        <seg>Proze finn verouye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10913,6 +10929,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T134753Z" creationid="Hugo" creationdate="20201201T134753Z">
         <seg>Zimaz SVG ek Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123322Z" creationid="Hugo" creationdate="20210219T123322Z">
+        <seg>Demaraz exekision SVN '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -13294,6 +13318,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T183613Z" creationid="Hugo" creationdate="20200527T165641Z">
         <seg>Bann mo avan sign =, zot bann term sours. Bann mo apre sign =, zot bann tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123206Z" creationid="Hugo" creationdate="20210219T123206Z">
+        <seg>File gloser ekrivab pa dan dosie gloser.</seg>
       </tuv>
     </tu>
     <tu>
