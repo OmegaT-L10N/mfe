@@ -2034,6 +2034,22 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114931Z" creationid="Hugo" creationdate="20210219T114931Z">
+        <seg>Enn erer finn arive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114957Z" creationid="Hugo" creationdate="20210219T114957Z">
+        <seg>Enn erer finn arive letan be sarz skript: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T075815Z" creationid="Hugo" creationdate="20210219T075008Z">
@@ -2394,6 +2410,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091710Z" creationid="Hugo" creationdate="20210219T091710Z">
         <seg>Diksioner disponib:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115020Z" creationid="Hugo" creationdate="20210219T115020Z">
+        <seg>Bann moter skript ki disponib:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4154,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T134227Z" creationid="Hugo" creationdate="20210210T134227Z">
         <seg>E&amp;xport segman-la ver bann file text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ERROR: (declaring bean)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115040Z" creationid="Hugo" creationdate="20210219T115040Z">
+        <seg>ERER: (deklarasion bean)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15091,10 +15123,26 @@ kre so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114920Z" creationid="Hugo" creationdate="20210219T114920Z">
+        <seg>anile (dire tretman: {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170629Z" creationid="Hugo" creationdate="20200607T170629Z">
         <seg>virigl ouswa pwin, swivi par lespas ek enn lot virgil ouswa pwin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114909Z" creationid="Hugo" creationdate="20210219T114909Z">
+        <seg>fini (dire tretman: {0} ms)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15337,6 +15385,14 @@ kre so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092911Z" creationid="Hugo" creationdate="20201024T053826Z">
         <seg>{0} +{1} an plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} loaded.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115057Z" creationid="Hugo" creationdate="20210219T115047Z">
+        <seg>{0} sarze.</seg>
       </tuv>
     </tu>
     <tu>
