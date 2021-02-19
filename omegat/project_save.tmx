@@ -2715,6 +2715,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105939Z" creationid="Hugo" creationdate="20210219T105939Z">
+        <seg>Anile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T110436Z" creationid="Hugo" creationdate="20210219T110436Z">
+        <seg>Anilasion fonksionn zis lor bann skript ki chek explisitman anilasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T124446Z" creationid="Hugo" creationdate="20201016T120106Z">
