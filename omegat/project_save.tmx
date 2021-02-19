@@ -1091,9 +1091,9 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T085622Z" creationid="Hugo" creationdate="20201015T071749Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090658Z" creationid="Hugo" creationdate="20201015T071749Z">
         <seg>--config-file=&lt;path&gt;
-		Enn file .properties Java kot ou kapav load bann paramet par defo.</seg>
+		Enn file .properties Java kot ou kapav sarz bann paramet par defo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4588,8 +4588,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T085632Z" creationid="Hugo" creationdate="20201016T085429Z">
-        <seg>Memwar tradiksion {0} pa finn resi load dan proze!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090709Z" creationid="Hugo" creationdate="20201016T085429Z">
+        <seg>Memwar tradiksion {0} pa finn resi sarze dan proze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6851,16 +6851,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T114519Z" creationid="Hugo" creationdate="20201016T114519Z">
-        <seg>Loading bann file TMX...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090726Z" creationid="Hugo" creationdate="20201016T114519Z">
+        <seg>Sarzman bann file TMX...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T113223Z" creationid="Hugo" creationdate="20201016T113223Z">
-        <seg>Pe load bann gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090714Z" creationid="Hugo" creationdate="20201016T113223Z">
+        <seg>Pe sarz bann gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -8242,8 +8242,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T090511Z" creationid="Hugo" creationdate="20200928T133950Z">
-        <seg>OmegaT pa pou pran kont bann file korespondan kan li load proze-la ek pou kopie zot direk dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090628Z" creationid="Hugo" creationdate="20200928T133950Z">
+        <seg>OmegaT pa pou pran kont bann file korespondan kan li ouver proze-la e pou kopie zot dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,8 +10817,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T114509Z" creationid="Hugo" creationdate="20201016T114509Z">
-        <seg>Loading bann file sours termine</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090720Z" creationid="Hugo" creationdate="20201016T114509Z">
+        <seg>Sarzman bann file sours termine</seg>
       </tuv>
     </tu>
     <tu>
@@ -11651,8 +11651,8 @@ pou servi dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T085650Z" creationid="Hugo" creationdate="20200606T171410Z">
-        <seg>Konteni file gloser li garde dan memwar ek li load kan ouver ou reload proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090532Z" creationid="Hugo" creationdate="20200606T171410Z">
+        <seg>Konteni file gloser li garde dan memwar e li sarze kan ouver ou reload proze.</seg>
       </tuv>
     </tu>
     <tu>
