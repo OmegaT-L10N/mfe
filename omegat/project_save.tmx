@@ -1930,6 +1930,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101736Z" creationid="Hugo" creationdate="20210219T101736Z">
+        <seg>Lang alternatif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T045949Z" creationid="Hugo" creationdate="20201003T071403Z">
@@ -4318,6 +4326,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102136Z" creationid="Hugo" creationdate="20210219T102136Z">
+        <seg>Erer dan extraksion bann rezilta MT depi MyMemory, repons:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T140304Z" creationid="Hugo" creationdate="20201201T140304Z">
@@ -4410,6 +4426,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T090311Z" creationid="Hugo" creationdate="20201201T123733Z">
         <seg>Erer letan ferm plugin depi klas '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101908Z" creationid="Hugo" creationdate="20210219T101908Z">
+        <seg>Finn rankont enn erer dan lektir bann rezilta tradiksion otomatik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,6 +7713,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T132837Z" creationid="Hugo" creationdate="20201201T132837Z">
         <seg>Lang Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101809Z" creationid="Hugo" creationdate="20210219T101809Z">
+        <seg>MyMemory (imin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101817Z" creationid="Hugo" creationdate="20210219T101817Z">
+        <seg>MyMemory (otomatik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11621,8 +11661,8 @@ Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20201003T115834Z">
-        <seg>Gras-a travay boukou tradikter, linterfas itilizater ek text lasistans OmegaT finn deza tradi dan plizier lang.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101726Z" creationid="Hugo" creationdate="20201003T115834Z">
+        <seg>Gras-a travay boukou tradikter, linterfas itilizater ek text lasistans OmegaT finn deza tradir dan plizier lang.</seg>
       </tuv>
     </tu>
     <tu>
