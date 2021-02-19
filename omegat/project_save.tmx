@@ -6257,8 +6257,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200924T111618Z">
-        <seg>Si ou deseleksionn sa lopsion-la, program-la pou al rod bann tradiksion otomatik selman si ou apiy lor &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; lor OS X) dan segman an kour.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113249Z" creationid="Hugo" creationdate="20200924T111618Z">
+        <seg>Si ou deseleksionn sa lopsion-la, program-la pou al rod bann tradiksion otomatik selman si ou apiy lor &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; lor OS X) dan segman aktif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7731,8 +7731,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T132508Z">
-        <seg>Linformasion modifikasion/Montre segman an kour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113233Z" creationid="Hugo" creationdate="20200729T132508Z">
+        <seg>Linformasion modifikasion/Montre segman aktif</seg>
       </tuv>
     </tu>
     <tu>
@@ -14347,8 +14347,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T091314Z" creationid="Hugo" creationdate="20200729T132556Z">
-        <seg>Valid bann tag pou dokiman an kour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113241Z" creationid="Hugo" creationdate="20200729T132556Z">
+        <seg>Valid bann tag pou dokiman aktif</seg>
       </tuv>
     </tu>
     <tu>
