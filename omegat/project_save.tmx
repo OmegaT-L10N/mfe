@@ -1090,6 +1090,14 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102853Z" creationid="Hugo" creationdate="20210219T102853Z">
+        <seg>(Les password-la vid si ou pe servi enn lakle API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T074224Z" creationid="Hugo" creationdate="20201003T032542Z">
@@ -3478,6 +3486,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102738Z" creationid="Hugo" creationdate="20210219T102709Z">
+        <seg>Lakle API DeepL pa disponib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163838Z" creationid="Hugo" creationdate="20210208T163838Z">
@@ -5469,8 +5485,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102625Z" creationid="Hugo" creationdate="20210219T102625Z">
-        <seg>Lakle Api Google pa disponib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102734Z" creationid="Hugo" creationdate="20210219T102625Z">
+        <seg>Lakle API Google pa disponib</seg>
       </tuv>
     </tu>
     <tu>
@@ -5836,6 +5852,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T112704Z" creationid="Hugo" creationdate="20201003T080626Z">
         <seg>Mo finn itiliz OmegaT kouma tradikter profesionel depi plis ki 10 banane. Depi premie zour, mo finn bien profit fasilite so litilizasion ek so forom ki bien-bien itil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102824Z" creationid="Hugo" creationdate="20210219T102824Z">
+        <seg>IBM Watson pa disponib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7589,6 +7613,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T144652Z" creationid="Hugo" creationdate="20201013T144652Z">
         <seg>Resours diver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102813Z" creationid="Hugo" creationdate="20210219T102813Z">
+        <seg>ID Model:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10655,6 +10687,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102653Z" creationid="Hugo" creationdate="20210219T102653Z">
+        <seg>Get gid OmegaT pou bann instriksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T074237Z" creationid="Hugo" creationdate="20201015T074121Z">
@@ -11428,6 +11468,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135602Z" creationid="Hugo" creationdate="20201201T135602Z">
         <seg>Sou-tit SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102902Z" creationid="Hugo" creationdate="20210219T102902Z">
+        <seg>Lakle labonnman:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13953,6 +14001,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102800Z" creationid="Hugo" creationdate="20210219T102725Z">
+        <seg>Nom itilizater ou lakle API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20201001T071944Z">
@@ -14403,6 +14459,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T131151Z" creationid="Hugo" creationdate="20201013T131151Z">
         <seg>Finn ekrir an Python/Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong response from engine</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102938Z" creationid="Hugo" creationdate="20210219T102938Z">
+        <seg>Moter-la finn rann enn repons inkorek</seg>
       </tuv>
     </tu>
     <tu>
