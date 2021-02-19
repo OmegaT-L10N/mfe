@@ -1890,6 +1890,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115933Z" creationid="Hugo" creationdate="20210219T115933Z">
+        <seg>Azout skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T060121Z" creationid="Hugo" creationdate="20210219T060121Z">
@@ -4610,6 +4618,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T092644Z" creationid="Hugo" creationdate="20201016T092644Z">
         <seg>Erer letan pe sey modifie proze-la!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115733Z" creationid="Hugo" creationdate="20210219T115733Z">
+        <seg>Erer letan pe sey anrezistre skript-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8119,8 +8135,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105118Z" creationid="Hugo" creationdate="20210219T105118Z">
-        <seg>Oken OAuth token finn spesifie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115910Z" creationid="Hugo" creationdate="20210219T105118Z">
+        <seg>Okenn OAuth token finn spesifie</seg>
       </tuv>
     </tu>
     <tu>
@@ -8181,10 +8197,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115927Z" creationid="Hugo" creationdate="20210219T115851Z">
+        <seg>Okenn skript finn defini dan lanplasman #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115142Z" creationid="Hugo" creationdate="20210219T115142Z">
         <seg>Okenn skript finn seleksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115835Z" creationid="Hugo" creationdate="20210219T115835Z">
+        <seg>Okenn skript finn defini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10285,6 +10317,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115939Z" creationid="Hugo" creationdate="20210219T115939Z">
+        <seg>Siprim skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115708Z" creationid="Hugo" creationdate="20201020T115708Z">
@@ -10645,6 +10685,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115818Z" creationid="Hugo" creationdate="20210219T115818Z">
+        <seg>Exekit skript lor lanplasman #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T091056Z" creationid="Hugo" creationdate="20201015T091056Z">
@@ -10735,8 +10783,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115705Z" creationid="Hugo" creationdate="20210219T115705Z">
-        <seg>Anrezistre skript</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115710Z" creationid="Hugo" creationdate="20210219T115705Z">
+        <seg>Anrezistre skript-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -10779,6 +10827,22 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T080503Z" creationid="Hugo" creationdate="20201022T130441Z">
         <seg>Scope:
 Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki file dan enn striktir dosie defini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120015Z" creationid="Hugo" creationdate="20210219T120015Z">
+        <seg>Skript "{0}" finn defini dan lanplasman #{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115744Z" creationid="Hugo" creationdate="20210219T115744Z">
+        <seg>Skript "{0}" finn anrezistre.</seg>
       </tuv>
     </tu>
     <tu>
