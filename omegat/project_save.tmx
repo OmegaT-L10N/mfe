@@ -1674,6 +1674,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102241Z" creationid="Hugo" creationdate="20210219T102241Z">
+        <seg>Lakle API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153138Z" creationid="Hugo" creationdate="20210204T153138Z">
@@ -3082,6 +3090,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102411Z" creationid="Hugo" creationdate="20210219T102411Z">
+        <seg>Konekte enn server personalize anplas apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T153254Z" creationid="Hugo" creationdate="20201013T153254Z">
@@ -4442,6 +4458,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T092644Z" creationid="Hugo" creationdate="20201016T092644Z">
         <seg>Erer letan pe sey modifie proze-la!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102309Z" creationid="Hugo" creationdate="20210219T102243Z">
+        <seg>Erer {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
