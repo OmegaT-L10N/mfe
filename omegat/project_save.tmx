@@ -1740,8 +1740,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210204T151855Z" creationid="Hugo" creationdate="20210204T151855Z">
-        <seg>A&amp;ggregate Bann Tags</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121238Z" creationid="Hugo" creationdate="20210204T151855Z">
+        <seg>A&amp;ggregate Bann Baliz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1782,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20201015T080056Z">
         <seg>abort: Kite avek enn erer si bann baliz pa valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121430Z" creationid="Hugo" creationdate="20210219T121430Z">
+        <seg>Abandone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2386,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145416Z" creationid="Hugo" creationdate="20210210T134958Z">
         <seg>Sey konverti bann &amp;nimero letan insert enn korespondans parsiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121244Z" creationid="Hugo" creationdate="20210219T121244Z">
+        <seg>Atribi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3546,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201014T112238Z">
         <seg>Kree enn file TMX ki kontenir tou bann segman, avek sours ek sib idantik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121444Z" creationid="Hugo" creationdate="20210219T121444Z">
+        <seg>Kre </seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5242,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121356Z" creationid="Hugo" creationdate="20210219T121356Z">
+        <seg>&amp;Termine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163743Z" creationid="Hugo" creationdate="20210208T163743Z">
@@ -6567,6 +6599,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121251Z" creationid="Hugo" creationdate="20210219T121251Z">
+        <seg>Initializasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially load this many segments:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T090417Z" creationid="Hugo" creationdate="20210210T141315Z">
@@ -6593,16 +6633,16 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T150017Z" creationid="Hugo" creationdate="20201015T150017Z">
-        <seg>Insert bann Tag Sours ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20201015T150017Z">
+        <seg>Insert bann Baliz Sours ki Manke</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T150209Z" creationid="Hugo" creationdate="20200729T122732Z">
-        <seg>Insert bann Tag Sours ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20200729T122732Z">
+        <seg>Insert bann Baliz Sours ki Manke</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,8 +6657,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T150150Z" creationid="Hugo" creationdate="20200729T122742Z">
-        <seg>Insert Prosin Tag ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20200729T122742Z">
+        <seg>Insert Prosin Baliz ki Manke</seg>
       </tuv>
     </tu>
     <tu>
@@ -10415,8 +10455,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T115708Z" creationid="Hugo" creationdate="20201020T115708Z">
-        <seg>Siprim bann &amp;Tag</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20201020T115708Z">
+        <seg>Siprim bann &amp;Baliz</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,16 +12171,16 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Tag Processing</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151624Z" creationid="Hugo" creationdate="20210210T151624Z">
-        <seg>Tretman bann Tag</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20210210T151624Z">
+        <seg>Tretman bann Baliz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag Processing Options</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T151618Z" creationid="Hugo" creationdate="20210210T151618Z">
-        <seg>Opsion pou Tretman bann Tag</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20210210T151618Z">
+        <seg>Opsion pou Tretman bann Baliz</seg>
       </tuv>
     </tu>
     <tu>
@@ -12157,6 +12197,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20201024T065122Z">
         <seg>Nom baliz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121339Z" creationid="Hugo" creationdate="20210219T121327Z">
+        <seg>Pa finn resi valid bann baliz</seg>
       </tuv>
     </tu>
     <tu>
@@ -13906,6 +13954,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121354Z" creationid="Hugo" creationdate="20210219T121354Z">
+        <seg>Tradiksion Proze-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T124121Z" creationid="Hugo" creationdate="20201020T123940Z">
@@ -14643,7 +14699,7 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T132501Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121233Z" creationid="Hugo" creationdate="20201013T132501Z">
         <seg>Itiliter pou konverti bann file Trados TagEditor (TTX) dan enn format intermedier kot kapav tradir zot dan OmegaT.</seg>
       </tuv>
     </tu>
@@ -14669,6 +14725,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20200729T132556Z">
         <seg>Valid bann baliz pou sa dokiman-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121406Z" creationid="Hugo" creationdate="20210219T121406Z">
+        <seg>Validasion bann baliz</seg>
       </tuv>
     </tu>
     <tu>
