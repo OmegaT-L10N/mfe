@@ -14544,6 +14544,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upload disabled because repository in read-only mode</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123858Z" creationid="Hugo" creationdate="20210219T123858Z">
+        <seg>Finn dezaktiv upload etan done ki repository li an mod read-only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T155139Z" creationid="Hugo" creationdate="20200525T155139Z">
