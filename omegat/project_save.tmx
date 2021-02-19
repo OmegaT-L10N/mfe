@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134702Z" creationid="Hugo" creationdate="20210210T134447Z">
-        <seg>&amp;Al Prosin Segman Non Tradi stope kan ena omwin enn tradiksion alternatif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101515Z" creationid="Hugo" creationdate="20210210T134447Z">
+        <seg>&amp;Al Prosin Segman Pa Ankor Tradir stope kan ena omwin enn tradiksion alternatif</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,8 +2806,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120809Z" creationid="Hugo" creationdate="20200924T111850Z">
-        <seg>Swazir sa kaz-la pou envway selman bann segman ki pa finn tradi ou servis tradiksion otomatik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101704Z" creationid="Hugo" creationdate="20200924T111850Z">
+        <seg>Swazir sa kaz-la pou envway selman bann segman ki pa finn tradir ou servis tradiksion otomatik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,8 +3304,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T135312Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Kree dokiman tradi aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101619Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree dokiman tradiksion aktiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,8 +3752,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123701Z" creationid="Hugo" creationdate="20210212T123701Z">
-        <seg>Napa permet kreasion bann dokiman tradi ki ena bann problem tag</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101548Z" creationid="Hugo" creationdate="20210212T123701Z">
+        <seg>Napa permet kreasion bann dokiman tradiksion ki ena bann problem tag</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,8 +7227,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092534Z" creationid="Hugo" creationdate="20210219T092534Z">
-        <seg>Mark bann segman ki finn tradi depi dosie oto</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101603Z" creationid="Hugo" creationdate="20210219T092534Z">
+        <seg>Mark bann segman ki finn tradir depi dosie otomatik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7275,8 +7275,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045902Z" creationid="Hugo" creationdate="20200729T132358Z">
-        <seg>Mark bann segman ki finn tradi depi dosie oto</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101651Z" creationid="Hugo" creationdate="20200729T132358Z">
+        <seg>Mark bann segman ki finn tradir depi dosie oto</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,8 +7799,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T045701Z" creationid="Hugo" creationdate="20200729T131444Z">
-        <seg>Segman fini tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101646Z" creationid="Hugo" creationdate="20200729T131444Z">
+        <seg>Segman fini tradir swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,8 +7823,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134554Z" creationid="Hugo" creationdate="20200729T131434Z">
-        <seg>Segman non tradi swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101641Z" creationid="Hugo" creationdate="20200729T131434Z">
+        <seg>Segman pa ankor tradir swivan</seg>
       </tuv>
     </tu>
     <tu>
@@ -9130,8 +9130,8 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133410Z" creationid="Hugo" creationdate="20210210T133410Z">
-        <seg>Seleksionn text ki ou le met dan segman ki pa enkor tradi kan ou pou al lor li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101422Z" creationid="Hugo" creationdate="20210210T133410Z">
+        <seg>Seleksionn text ki ou le met dan segman ki pa enkor tradir kan ou pou al lor li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14003,8 +14003,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T123603Z" creationid="Hugo" creationdate="20210212T123557Z">
-        <seg>Pran kont: ou kapav andomaz dokiman tradi kan ou sanz lord bann tag!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101536Z" creationid="Hugo" creationdate="20210212T123557Z">
+        <seg>Pran kont: ou kapav andomaz dokiman tradiksion kan ou sanz lord bann tag!</seg>
       </tuv>
     </tu>
     <tu>
