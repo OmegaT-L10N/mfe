@@ -1954,10 +1954,10 @@ Konfigirasion aktiel li: {0}MB</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T094224Z" creationid="Hugo" creationdate="20201201T094124Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090204Z" creationid="Hugo" creationdate="20201201T094124Z">
         <seg>Erer dans analiz file TMX
 {0}
-File TMX pa pou loade.</seg>
+File TMX pa pou ouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4192,8 +4192,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124546Z" creationid="Hugo" creationdate="20201201T123729Z">
-        <seg>Erer letan load plugin depi klas '{0}': {1}: {2}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090301Z" creationid="Hugo" creationdate="20201201T123729Z">
+        <seg>Erer letan ouver plugin depi klas '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4248,8 +4248,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124541Z" creationid="Hugo" creationdate="20201201T123733Z">
-        <seg>Erer letan unload plugin depi klas '{0}': {1}: {2}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090311Z" creationid="Hugo" creationdate="20201201T123733Z">
+        <seg>Erer letan ferm plugin depi klas '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,8 +4772,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T125036Z" creationid="Hugo" creationdate="20201201T125036Z">
-        <seg>Inposib load filt '{0}' depi '{1}'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090406Z" creationid="Hugo" creationdate="20201201T125036Z">
+        <seg>Inposib ouver filt '{0}' depi '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -6089,8 +6089,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T141315Z" creationid="Hugo" creationdate="20210210T141315Z">
-        <seg>Load inisialman sa kantite segman-la:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090417Z" creationid="Hugo" creationdate="20210210T141315Z">
+        <seg>Sarz inisialman sa kantite segman-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6867,8 +6867,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105423Z" creationid="Hugo" creationdate="20201201T105336Z">
-        <seg>Pe load gloser {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090257Z" creationid="Hugo" creationdate="20201201T105336Z">
+        <seg>Pe ouver gloser {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8890,8 +8890,8 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124610Z" creationid="Hugo" creationdate="20201201T124509Z">
-        <seg>Plugin resi loade depi klas '{0}'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090316Z" creationid="Hugo" creationdate="20201201T124509Z">
+        <seg>Plugin resi ouver depi klas '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -9010,8 +9010,8 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       <tuv lang="en">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T120051Z" creationid="Hugo" creationdate="20201016T120051Z">
-        <seg>Problem letan pe load file proze-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090136Z" creationid="Hugo" creationdate="20201016T120051Z">
+        <seg>Problem letan pe ouver file proze-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10697,8 +10697,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T124711Z" creationid="Hugo" creationdate="20201201T124711Z">
-        <seg>Plugin ki finn deza load depi klas '{0}' finn iniore</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090359Z" creationid="Hugo" creationdate="20201201T124711Z">
+        <seg>Pa finn pran kont plugin ki finn deza ouver depi klas '{0}'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11519,8 +11519,8 @@ pou servi dosie aktiel.</seg>
       <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T104604Z" creationid="Hugo" creationdate="20201201T104604Z">
-        <seg>File TMX pou kontign loade.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090252Z" creationid="Hugo" creationdate="20201201T104604Z">
+        <seg>File TMX pou kontign ouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11528,8 +11528,8 @@ pou servi dosie aktiel.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T095211Z" creationid="Hugo" creationdate="20201201T095211Z">
-        <seg>File TMX pa pou loade
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090211Z" creationid="Hugo" creationdate="20201201T095211Z">
+        <seg>File TMX pa pou ouver
 Sey koriz erer-la, ek reload proze.</seg>
       </tuv>
     </tu>
@@ -13755,8 +13755,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T142450Z" creationid="Hugo" creationdate="20210210T142253Z">
-        <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou load kan ou defil an-ba.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090426Z" creationid="Hugo" creationdate="20210210T142253Z">
+        <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou sarze kan ou defil an-ba.</seg>
       </tuv>
     </tu>
     <tu>
