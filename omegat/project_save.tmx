@@ -2787,6 +2787,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115549Z" creationid="Hugo" creationdate="20210219T115549Z">
+        <seg>Pa kapav lir file skript seleksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210205T140033Z" creationid="Hugo" creationdate="20210205T140033Z">
@@ -8173,6 +8181,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115142Z" creationid="Hugo" creationdate="20210219T115142Z">
+        <seg>Okenn skript finn seleksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No tags and no numbers</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145141Z" creationid="Hugo" creationdate="20210210T145141Z">
@@ -10791,6 +10807,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115108Z" creationid="Hugo" creationdate="20210219T115108Z">
+        <seg>Dosie bann skript:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T111713Z" creationid="Hugo" creationdate="20201014T110520Z">
@@ -11143,10 +11167,26 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115121Z" creationid="Hugo" creationdate="20210219T115121Z">
+        <seg>Swazir dosie skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T135521Z" creationid="Hugo" creationdate="20200924T135521Z">
         <seg>Swazir domenn resers termilozik TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115129Z" creationid="Hugo" creationdate="20210219T115129Z">
+        <seg>Swazir enn file skript</seg>
       </tuv>
     </tu>
     <tu>
