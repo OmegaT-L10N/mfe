@@ -4884,8 +4884,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T100653Z" creationid="Hugo" creationdate="20201016T094857Z">
-        <seg>File: inik tradir % (inik ki reste) / proze: inik tradi % (inik ki reste), nonb total segman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101036Z" creationid="Hugo" creationdate="20201016T094857Z">
+        <seg>File: bann segman inik fi finn tradir % (bann segman inik ki reste) / proze: bann segman inik ki finn tradir % (bann segman inik ki reste), nonb total bann segman</seg>
       </tuv>
     </tu>
     <tu>
@@ -13162,8 +13162,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Translated documents created</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T115019Z" creationid="Hugo" creationdate="20201016T114958Z">
-        <seg>Bann dokiman tradi finn kree</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101200Z" creationid="Hugo" creationdate="20201016T114958Z">
+        <seg>Bann dokiman tradiksion finn kree</seg>
       </tuv>
     </tu>
     <tu>
