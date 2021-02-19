@@ -4326,6 +4326,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094257Z" creationid="Hugo" creationdate="20210219T094257Z">
+        <seg>Finn rankont enn erer dan demaraz program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20201201T105323Z">
@@ -4716,8 +4724,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T090512Z" creationid="Hugo" creationdate="20201016T092029Z">
-        <seg>Pa finn resi update bann propriyete proze-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094354Z" creationid="Hugo" creationdate="20201016T092029Z">
+        <seg>Pa finn resi aktializ bann propriyete proze-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -14445,6 +14453,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113818Z" creationid="Hugo" creationdate="20200924T111729Z">
         <seg>Apre ou pou bizin servi &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; pou inser sigzestion-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094323Z" creationid="Hugo" creationdate="20210219T094323Z">
+        <seg>Ou bizin aktializ You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
     </tu>
     <tu>
