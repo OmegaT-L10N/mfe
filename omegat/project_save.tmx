@@ -10044,6 +10044,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115647Z" creationid="Hugo" creationdate="20210219T115647Z">
+        <seg>Aktializasion dosie skript "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163043Z" creationid="Hugo" creationdate="20200607T135724Z">
@@ -10725,6 +10733,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115705Z" creationid="Hugo" creationdate="20210219T115705Z">
+        <seg>Anrezistre skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T135254Z" creationid="Hugo" creationdate="20210210T135254Z">
@@ -10771,6 +10787,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T105929Z" creationid="Hugo" creationdate="20210219T105929Z">
         <seg>Langaz skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115623Z" creationid="Hugo" creationdate="20210219T115623Z">
+        <seg>Rezilta skript:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,6 +11251,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T054428Z" creationid="Hugo" creationdate="20201010T054338Z">
         <seg>Ou kapav telesarz OmegaT avek ou san Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115614Z" creationid="Hugo" creationdate="20210219T115614Z">
+        <seg>Moter ki finn seleksione: {0}</seg>
       </tuv>
     </tu>
     <tu>
