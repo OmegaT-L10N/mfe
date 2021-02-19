@@ -4946,6 +4946,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120706Z" creationid="Hugo" creationdate="20210219T120706Z">
+        <seg>Bann komanter ki finn extre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook group</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032456Z" creationid="Hugo" creationdate="20201010T032456Z">
@@ -8618,6 +8626,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120634Z" creationid="Hugo" creationdate="20210219T120634Z">
+        <seg>Javadoc OmegaT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125834Z" creationid="Hugo" creationdate="20201020T125834Z">
@@ -9552,6 +9568,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120838Z" creationid="Hugo" creationdate="20210219T120838Z">
+        <seg>Tradir sa pliryel-la antan ki form pliryel #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T075926Z" creationid="Hugo" creationdate="20210219T075926Z">
@@ -10128,6 +10152,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115901Z" creationid="Hugo" creationdate="20200729T115901Z">
         <seg>Refer dernie laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120710Z" creationid="Hugo" creationdate="20210219T120710Z">
+        <seg>Referans:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12129,6 +12161,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120951Z" creationid="Hugo" creationdate="20210219T120951Z">
+        <seg>Etiket:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091755Z" creationid="Hugo" creationdate="20201016T091755Z">
@@ -13918,6 +13958,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135538Z" creationid="Hugo" creationdate="20210212T135538Z">
         <seg>Dradiksion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120651Z" creationid="Hugo" creationdate="20210219T120651Z">
+        <seg>Bann komanter tradikter:</seg>
       </tuv>
     </tu>
     <tu>
