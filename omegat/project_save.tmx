@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092000Z" creationid="Hugo" creationdate="20210219T092000Z">
+        <seg>&amp;Konsilte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Defaults</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210205T140325Z" creationid="Hugo" creationdate="20210205T140325Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T135159Z" creationid="Hugo" creationdate="20210210T135159Z">
         <seg>&amp;Valid bann tag kan kit enn segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092004Z" creationid="Hugo" creationdate="20210219T092004Z">
+        <seg>&amp;Afisaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3558,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092023Z" creationid="Hugo" creationdate="20210219T092023Z">
+        <seg>Montre bann Segman &amp;Sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145812Z" creationid="Hugo" creationdate="20210210T145721Z">
@@ -6105,8 +6129,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145855Z" creationid="Hugo" creationdate="20210210T145855Z">
-        <seg>Inklir premie segman non-inik letan pe mark bann segman non-inik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092203Z" creationid="Hugo" creationdate="20210210T145855Z">
+        <seg>Inklir premie segman ki pa inik letan pe mark bann segman ki pa inik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7115,7 +7139,7 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120150Z" creationid="Hugo" creationdate="20200729T131936Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092240Z" creationid="Hugo" creationdate="20200729T131936Z">
         <seg>Montre bann segman ki pa inik</seg>
       </tuv>
     </tu>
