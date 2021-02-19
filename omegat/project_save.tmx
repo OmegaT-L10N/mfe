@@ -240,8 +240,8 @@
       <tuv lang="en">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113944Z" creationid="Hugo" creationdate="20201015T135759Z">
-        <seg>Aktiel Dokiman &amp;Sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114715Z" creationid="Hugo" creationdate="20201015T135759Z">
+        <seg>Dokiman &amp;Sours An-Kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,16 +1796,16 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113224Z" creationid="Hugo" creationdate="20200729T115637Z">
-        <seg>Akse konteni proze/dokiman sours aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114528Z" creationid="Hugo" creationdate="20200729T115637Z">
+        <seg>Akse konteni proze/dokiman sours ki an-kour</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Access Project Contents/Current Target Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T115645Z" creationid="Hugo" creationdate="20200729T115645Z">
-        <seg>Akse konteni proze/Dokiman sib aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114747Z" creationid="Hugo" creationdate="20200729T115645Z">
+        <seg>Akse konteni proze/Dokiman sib an-kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -2701,8 +2701,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113951Z" creationid="Hugo" creationdate="20201015T135814Z">
-        <seg>Aktiel Dokiman &amp;Sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114720Z" creationid="Hugo" creationdate="20201015T135814Z">
+        <seg>Dokiman &amp;Sib An-Kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,8 +3400,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114258Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Kree Dokiman Tradiksion Aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114732Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree Dokiman Tradiksion-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -12413,8 +12413,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The filters used by the current project are displayed in bold.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113400Z" creationid="Hugo" creationdate="20200925T065906Z">
-        <seg>Bann filt ki pe itilize par proze aktif la zot montre an karakter gra.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114651Z" creationid="Hugo" creationdate="20200925T065906Z">
+        <seg>Bann filt ki pe itilize par proze an-kour zot montre an karakter gra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14347,8 +14347,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113241Z" creationid="Hugo" creationdate="20200729T132556Z">
-        <seg>Valid bann tag pou dokiman aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114624Z" creationid="Hugo" creationdate="20200729T132556Z">
+        <seg>Valid bann tag pou sa dokiman-la</seg>
       </tuv>
     </tu>
     <tu>
