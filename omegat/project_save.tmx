@@ -1674,6 +1674,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102439Z" creationid="Hugo" creationdate="20210219T102439Z">
+        <seg>Lakle API (opsionel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102241Z" creationid="Hugo" creationdate="20210219T102241Z">
@@ -3438,6 +3446,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102419Z" creationid="Hugo" creationdate="20210219T102419Z">
+        <seg>URL server personalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T094854Z" creationid="Hugo" creationdate="20210219T094854Z">
@@ -4262,6 +4278,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T171539Z" creationid="Hugo" creationdate="20200607T171539Z">
         <seg>Angle: bann mo ki koumans par vwayel mars normalman ek "an", pa "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102606Z" creationid="Hugo" creationdate="20210219T102555Z">
+        <seg>Chek sipa URL-la korek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102601Z" creationid="Hugo" creationdate="20210219T102525Z">
+        <seg>Chek sipa URL server la korek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,6 +5463,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131159Z" creationid="Hugo" creationdate="20200729T131159Z">
         <seg>Meni GoTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102625Z" creationid="Hugo" creationdate="20210219T102625Z">
+        <seg>Lakle Api Google pa disponib</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,6 +9328,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102613Z" creationid="Hugo" creationdate="20210219T102613Z">
+        <seg>Edision Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T144512Z" creationid="Hugo" creationdate="20210208T144512Z">
@@ -12425,6 +12473,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102539Z" creationid="Hugo" creationdate="20210219T102539Z">
+        <seg>Server-la pa enn server Apertium valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200706T190342Z">
@@ -13384,6 +13440,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T115039Z" creationid="Hugo" creationdate="20201016T115039Z">
         <seg>Inposib kree enn nouvo file TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T102511Z" creationid="Hugo" creationdate="20210219T102511Z">
+        <seg>Koneksion server inposib.</seg>
       </tuv>
     </tu>
     <tu>
