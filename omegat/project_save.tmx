@@ -3480,8 +3480,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144658Z" creationid="Hugo" creationdate="20201021T144658Z">
-        <seg>Dosie mansione pou bann file diksioner pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091140Z" creationid="Hugo" creationdate="20201021T144658Z">
+        <seg>Dosie ki finn spesifie pou bann file diksioner pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5164,8 +5164,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134330Z" creationid="Hugo" creationdate="20201021T134330Z">
-        <seg>Dosie mansione pou bann file gloser pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091126Z" creationid="Hugo" creationdate="20201021T134330Z">
+        <seg>Dosie ki finn spesifie pou bann file gloser pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,8 +5337,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125746Z" creationid="Hugo" creationdate="20201020T125746Z">
-        <seg>Isi ou kapav ousi mansionn bann lezot dosie pou ou proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091055Z" creationid="Hugo" creationdate="20201020T125746Z">
+        <seg>Isi ou kapav ousi spesifie bann lezot dosie pou ou proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5945,8 +5945,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T130814Z" creationid="Hugo" creationdate="20201013T130526Z">
-        <seg>Inportan: bann plug-in ki finn mansione la fonksionn apartir version 4 OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091433Z" creationid="Hugo" creationdate="20201013T130526Z">
+        <seg>Inportan: bann plug-in ki finn spesifie la fonksionn apartir version 4 OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,8 +8306,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T080214Z" creationid="Hugo" creationdate="20200606T193001Z">
-        <seg>Enn ouswa plizier problem mansione laho finn resoud, me proze-la pa finn reload.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091201Z" creationid="Hugo" creationdate="20200606T193001Z">
+        <seg>Enn ou plizier problem mansione laho finn resoud, me proze-la pa finn reload.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10833,8 +10833,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134302Z" creationid="Hugo" creationdate="20201021T134302Z">
-        <seg>Dosie mansione pou bann file sours pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091105Z" creationid="Hugo" creationdate="20201021T134302Z">
+        <seg>Dosie ki finn spesifie pou bann file sours pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12868,8 +12868,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134309Z" creationid="Hugo" creationdate="20201021T134309Z">
-        <seg>Dosie mansione pou bann file sib pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091124Z" creationid="Hugo" creationdate="20201021T134309Z">
+        <seg>Dosie ki finn spesifie pou bann file sib pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12908,8 +12908,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T144649Z" creationid="Hugo" creationdate="20201021T144649Z">
-        <seg>Dosie mansione pou bann file memwar tradiksion pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091138Z" creationid="Hugo" creationdate="20201021T144649Z">
+        <seg>Dosie ki finn spesifie pou bann file memwar tradiksion pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13523,7 +13523,7 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142749Z" creationid="Hugo" creationdate="20200924T142749Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091232Z" creationid="Hugo" creationdate="20200924T142749Z">
         <seg>Si ou servi enn vie computer ek sanzman dimansion lafnet pran boukou letan, ou kapav sey sanz font.</seg>
       </tuv>
     </tu>
@@ -13945,8 +13945,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T134350Z" creationid="Hugo" creationdate="20201021T134350Z">
-        <seg>Dosie mansione pou file gloser ekrivab pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091133Z" creationid="Hugo" creationdate="20201021T134350Z">
+        <seg>Dosie ki finn spesifie pou file gloser ekrivab pa existe!</seg>
       </tuv>
     </tu>
     <tu>
