@@ -3470,6 +3470,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091547Z" creationid="Hugo" creationdate="20210219T091547Z">
+        <seg>Instalasion bann Diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary file folder:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T061344Z" creationid="Hugo" creationdate="20210219T061336Z">
@@ -6843,8 +6851,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T085752Z" creationid="Hugo" creationdate="20210219T085752Z">
-        <seg>Ouver enn proze pou konfigir bann reg pou bann lang sa proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091531Z" creationid="Hugo" creationdate="20210219T085752Z">
+        <seg>Ouver enn proze pou kapav konfigir bann reg pou bann lang sa proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7617,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T055103Z" creationid="Hugo" creationdate="20210219T055103Z">
         <seg>Anrezistrema proze pa neseser, pa fin ena okenn sanzman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091700Z" creationid="Hugo" creationdate="20210219T091700Z">
+        <seg>Okenn nouvo diksioner disponib lor server distan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8836,6 +8852,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T142615Z" creationid="Hugo" creationdate="20210210T142615Z">
         <seg>Swazir ki manier bizin afis bann tag bann TMX ki pa OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091631Z" creationid="Hugo" creationdate="20210219T091631Z">
+        <seg>Swazir bann diksioner ki ou oule instale ek apiy lor bouton Instale.</seg>
       </tuv>
     </tu>
     <tu>
