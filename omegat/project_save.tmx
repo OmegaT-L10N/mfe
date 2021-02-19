@@ -1476,8 +1476,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200606T185304Z">
-        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kre enn sinp file avek antre delimite par tabilasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20200606T185304Z">
+        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kree enn sinp file avek antre delimite par tabilasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2002,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121746Z" creationid="Hugo" creationdate="20210219T121746Z">
+        <seg>Align proze-la par rapor {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210210T135028Z">
@@ -2178,6 +2186,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T085641Z" creationid="Hugo" creationdate="20201022T085641Z">
         <seg>Finn rankont enn erer letan sey kree enn nouvo dosie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122849Z" creationid="Hugo" creationdate="20210219T122849Z">
+        <seg>Finn rankont enn erer letan pe sey exekit proses: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,8 +3568,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121444Z" creationid="Hugo" creationdate="20210219T121444Z">
-        <seg>Kre </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121646Z" creationid="Hugo" creationdate="20210219T121444Z">
+        <seg>Kree enn TMX psedo-tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -4016,8 +4032,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T074331Z" creationid="Hugo" creationdate="20210219T074331Z">
-        <seg>Eski ou oule kre li?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20210219T074331Z">
+        <seg>Eski ou oule kree li?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6545,8 +6561,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200731T092427Z">
-        <seg>Dan ou file manager, kre enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20200731T092427Z">
+        <seg>Dan ou file manager, kree enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,8 +6946,8 @@ valer par defo apre sanzman lanplasman.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T052053Z" creationid="Hugo" creationdate="20210219T052053Z">
-        <seg>Pa finn resi kre dosie skript
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20210219T052053Z">
+        <seg>Pa finn resi kree dosie skript
 dan dosie konfigirasion.</seg>
       </tuv>
     </tu>
@@ -7389,6 +7405,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091531Z" creationid="Hugo" creationdate="20210219T085752Z">
         <seg>Ouver enn proze pou kapav konfigir bann reg pou bann lang sa proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121750Z" creationid="Hugo" creationdate="20210219T121750Z">
+        <seg>Pe ouver proze-la</seg>
       </tuv>
     </tu>
     <tu>
@@ -13025,6 +13049,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121809Z" creationid="Hugo" creationdate="20210219T121809Z">
+        <seg>Inposib verifie proze-ka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200528T203338Z">
@@ -13059,7 +13091,7 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201001T144502Z" creationid="Hugo" creationdate="20201001T071715Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121622Z" creationid="Hugo" creationdate="20201001T071715Z">
         <seg>Proze OmegaT li ankre dan mem lespri.</seg>
       </tuv>
     </tu>
@@ -13942,6 +13974,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091124Z" creationid="Hugo" creationdate="20201021T134309Z">
         <seg>Dosie ki finn spesifie pou bann file sib pa existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121722Z" creationid="Hugo" creationdate="20210219T121722Z">
+        <seg>Anplasman bann file ki finn tradir pa finn defini</seg>
       </tuv>
     </tu>
     <tu>
@@ -15404,9 +15444,9 @@ Erer 404</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T051253Z" creationid="Hugo" creationdate="20210219T051253Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20210219T051253Z">
         <seg>Ou sistem finn refiz les OmegaT
-kre so dosie konfigirasion.</seg>
+kree so dosie konfigirasion.</seg>
       </tuv>
     </tu>
     <tu>
