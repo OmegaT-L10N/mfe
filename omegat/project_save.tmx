@@ -10469,6 +10469,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Result:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T110441Z" creationid="Hugo" creationdate="20210219T110441Z">
+        <seg>Rezilta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review of OmegaT 1.6 RC5.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T150525Z" creationid="Hugo" creationdate="20201014T150441Z">
@@ -12693,6 +12701,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T144502Z" creationid="Hugo" creationdate="20201001T071715Z">
         <seg>Proze OmegaT li ankre dan mem lespri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T110634Z" creationid="Hugo" creationdate="20210219T110634Z">
+        <seg>Skript "{0}" pe tourne...</seg>
       </tuv>
     </tu>
     <tu>
