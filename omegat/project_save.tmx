@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120331Z" creationid="Hugo" creationdate="20210219T120331Z">
-        <seg>&amp;Ser...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120342Z" creationid="Hugo" creationdate="20210219T120331Z">
+        <seg>&amp;Fer enn resers...</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +778,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084327Z" creationid="Hugo" creationdate="20201015T084327Z">
         <seg>&amp;Ranplas Swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120348Z" creationid="Hugo" creationdate="20210219T120348Z">
+        <seg>&amp;Ranplase...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5651,6 +5659,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120402Z" creationid="Hugo" creationdate="20210219T120402Z">
+        <seg>Al &amp;Lalign...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153709Z" creationid="Hugo" creationdate="20210204T153709Z">
@@ -9472,6 +9488,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120624Z" creationid="Hugo" creationdate="20210219T120624Z">
+        <seg>Donn enn nom sa konfigirasion-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111839Z" creationid="Hugo" creationdate="20210210T111736Z">
@@ -10813,6 +10837,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120538Z" creationid="Hugo" creationdate="20210219T120538Z">
+        <seg>Anrezistre konfigirasion aktif...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115710Z" creationid="Hugo" creationdate="20210219T115705Z">
@@ -11423,6 +11455,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120522Z" creationid="Hugo" creationdate="20210219T120522Z">
+        <seg>Konfigirasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111557Z" creationid="Hugo" creationdate="20210210T111256Z">
@@ -11467,6 +11507,22 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T031023Z" creationid="Hugo" creationdate="20201003T031023Z">
         <seg>Met version morisien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120457Z" creationid="Hugo" creationdate="20210219T120457Z">
+        <seg>Montre bar resers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120511Z" creationid="Hugo" creationdate="20210219T120511Z">
+        <seg>Montre bar ranplasman</seg>
       </tuv>
     </tu>
     <tu>
