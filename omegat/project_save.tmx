@@ -7759,16 +7759,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T152622Z" creationid="Hugo" creationdate="20201015T152622Z">
-        <seg>Segman fini &amp;Tradi Swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T100504Z" creationid="Hugo" creationdate="20201015T152622Z">
+        <seg>Segman Fini &amp;Tradir Swivan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134534Z" creationid="Hugo" creationdate="20201015T152559Z">
-        <seg>Segman Non &amp;Tradi Swivan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T100458Z" creationid="Hugo" creationdate="20201015T152559Z">
+        <seg>Segman Pa Ankor &amp;Tradir Swivan</seg>
       </tuv>
     </tu>
     <tu>
