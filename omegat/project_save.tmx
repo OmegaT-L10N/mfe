@@ -1152,10 +1152,10 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090033Z" creationid="Hugo" creationdate="20201015T071524Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091030Z" creationid="Hugo" creationdate="20201015T071524Z">
         <seg>--remote-project
-		Telesarz enn file omegat.project depi URL mansione dan &lt;project
-		path&gt; ek ouver proze-la.</seg>
+		Telesarz enn file omegat.project depi URL ki finn spesifie dan &lt;sime
+		proze&gt; ek ouver proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14187,8 +14187,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125324Z" creationid="Hugo" creationdate="20201020T125152Z">
-        <seg>Ou bizin mansionn zot nouvo lanplasman ouswa refer zot.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091049Z" creationid="Hugo" creationdate="20201020T125152Z">
+        <seg>Ou bizin spesifie zot nouvo lanplasman ouswa refer zot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,9 +14350,9 @@ kre so dosie konfigirasion.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T082601Z" creationid="Hugo" creationdate="20201015T081858Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090908Z" creationid="Hugo" creationdate="20201015T081858Z">
         <seg>init &lt;lang sours&gt; &lt;lang sib&gt;
-		Kree enn proze minimal lekip avek bann lang mansione.</seg>
+		Kree enn proze lekip minimal avek bann lang spesifie.</seg>
       </tuv>
     </tu>
     <tu>
