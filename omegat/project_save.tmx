@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091856Z" creationid="Hugo" creationdate="20210219T091746Z">
+        <seg>&amp;miniskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T141707Z" creationid="Hugo" creationdate="20210208T141707Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091949Z" creationid="Hugo" creationdate="20210219T091949Z">
+        <seg>&amp;Premie let bann fraz an maziskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T151210Z" creationid="Hugo" creationdate="20201201T140255Z">
@@ -894,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091914Z" creationid="Hugo" creationdate="20210219T091836Z">
+        <seg>&amp;Premie Let Bann Mo An Maziskil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152816Z" creationid="Hugo" creationdate="20201015T152816Z">
@@ -922,6 +946,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T140014Z" creationid="Hugo" creationdate="20201015T140014Z">
         <seg>&amp;Anil Dernie Laksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091902Z" creationid="Hugo" creationdate="20210219T091816Z">
+        <seg>&amp;MAZISKIL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2226,6 +2258,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200924T140003Z">
         <seg>Rod otomatikman text segman an kour dan diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091710Z" creationid="Hugo" creationdate="20210219T091710Z">
+        <seg>Diksioner disponib:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6183,6 +6223,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091701Z" creationid="Hugo" creationdate="20210219T091701Z">
+        <seg>Instal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T050644Z" creationid="Hugo" creationdate="20201010T050644Z">
@@ -10057,6 +10105,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T100512Z" creationid="Hugo" creationdate="20201022T100512Z">
         <seg>Lespas konpran nbsp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091736Z" creationid="Hugo" creationdate="20210219T091736Z">
+        <seg>&amp;Sanz an</seg>
       </tuv>
     </tu>
     <tu>
