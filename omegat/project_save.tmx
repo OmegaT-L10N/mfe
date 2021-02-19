@@ -1032,6 +1032,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092858Z" creationid="Hugo" creationdate="20210219T092858Z">
+        <seg>+{0} an plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044500Z" creationid="Hugo" creationdate="20201010T044500Z">
@@ -5114,6 +5122,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092818Z" creationid="Hugo" creationdate="20210219T092818Z">
+        <seg>Finn trouve dan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T155909Z" creationid="Hugo" creationdate="20201013T155909Z">
@@ -5311,6 +5327,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T092224Z" creationid="Hugo" creationdate="20201016T092224Z">
         <seg>Al Segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092702Z" creationid="Hugo" creationdate="20210219T092702Z">
+        <seg>Al segman sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -6211,6 +6235,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T120048Z" creationid="Hugo" creationdate="20200729T120048Z">
         <seg>Insert match ouswa seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092748Z" creationid="Hugo" creationdate="20210219T092748Z">
+        <seg>Insert korespondans ou seleksion dan tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,6 +7237,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T132314Z" creationid="Hugo" creationdate="20200729T132143Z">
         <seg>Mark bann karakter kontrol bidireksionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092656Z" creationid="Hugo" creationdate="20210219T092656Z">
+        <seg>Mark bann korespondans dan &amp;gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -9937,6 +9977,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075238Z">
         <seg>Ranplas bann antre &amp;gloser letan insert text sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092801Z" creationid="Hugo" creationdate="20210219T092801Z">
+        <seg>Ranplas tradiksion par korespondans ou seleksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -12704,6 +12752,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092831Z" creationid="Hugo" creationdate="20210219T092831Z">
+        <seg>Sa proze-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This site is also available in English!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055529Z" creationid="Hugo" creationdate="20201003T031106Z">
@@ -14431,6 +14487,14 @@ kre so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125825Z" creationid="Hugo" creationdate="20201020T125825Z">
         <seg>File ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092805Z" creationid="Hugo" creationdate="20210219T092805Z">
+        <seg>[Korespondans]</seg>
       </tuv>
     </tu>
     <tu>
