@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120331Z" creationid="Hugo" creationdate="20210219T120331Z">
+        <seg>&amp;Ser...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084331Z" creationid="Hugo" creationdate="20201015T084331Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133303Z" creationid="Hugo" creationdate="20201201T133303Z">
         <seg>&amp;Zame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120051Z" creationid="Hugo" creationdate="20210219T120051Z">
+        <seg>&amp;Nouvo Skript</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1490,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120034Z" creationid="Hugo" creationdate="20210219T120034Z">
+        <seg>&lt;okenn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T071729Z" creationid="Hugo" creationdate="20201003T071729Z">
@@ -1854,6 +1878,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115207Z" creationid="Hugo" creationdate="20200729T115714Z">
         <seg>Akse Konteni Proze/Gloser Ekrivab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120125Z" creationid="Hugo" creationdate="20210219T120125Z">
+        <seg>Akse Dosie Skript</seg>
       </tuv>
     </tu>
     <tu>
@@ -10847,6 +10879,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120031Z" creationid="Hugo" creationdate="20210219T120031Z">
+        <seg>Skript "{0}" finn retire depi lanplasman #{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script &amp;Language</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T105929Z" creationid="Hugo" creationdate="20210219T105929Z">
@@ -11363,6 +11403,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T082436Z" creationid="Hugo" creationdate="20210219T082436Z">
         <seg>Tip servis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120104Z" creationid="Hugo" creationdate="20210219T120104Z">
+        <seg>Definir Dosie Skript...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15295,6 +15343,14 @@ kre so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T182343Z" creationid="Hugo" creationdate="20200527T182343Z">
         <seg>etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T120042Z" creationid="Hugo" creationdate="20210219T120042Z">
+        <seg>bann extansion:</seg>
       </tuv>
     </tu>
     <tu>
