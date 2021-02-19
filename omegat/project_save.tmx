@@ -3400,8 +3400,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114203Z" creationid="Hugo" creationdate="20200729T115350Z">
-        <seg>Kree bann Dokiman Tradiksion (Final)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114258Z" creationid="Hugo" creationdate="20200729T115350Z">
+        <seg>Kree Dokiman Tradiksion Aktiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3432,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T135253Z" creationid="Hugo" creationdate="20200729T115309Z">
-        <seg>Kree bann Dokiman Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114218Z" creationid="Hugo" creationdate="20200729T115309Z">
+        <seg>Kree bann Dokiman Tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,8 +7595,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113704Z" creationid="Hugo" creationdate="20210212T124256Z">
-        <seg>Kapav trouv bann korespondans dan tradiksion aktif ou dan bann file TMX ki ou finn mete dan dosie /tm/.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114355Z" creationid="Hugo" creationdate="20210212T124256Z">
+        <seg>Kapav trouv bann korespondans dan tradiksion an-kour ou dan bann file TMX ki ou finn mete dan dosie /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11998,9 +11998,9 @@ Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113719Z" creationid="Hugo" creationdate="20210212T141356Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114440Z" creationid="Hugo" creationdate="20210212T141356Z">
         <seg>An plas, OmegaT
-pou servi dosie aktif.</seg>
+pou servi dosie an-kour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,9 +12332,9 @@ pou servi dosie konfigirasion.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113724Z" creationid="Hugo" creationdate="20210219T051301Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T114447Z" creationid="Hugo" creationdate="20210219T051301Z">
         <seg>An plas, OmegaT
-pou servi dosie aktif.</seg>
+pou servi dosie an-kour.</seg>
       </tuv>
     </tu>
     <tu>
