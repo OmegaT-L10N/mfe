@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105515Z" creationid="Hugo" creationdate="20210219T105515Z">
+        <seg>Verifikater &amp;lingwistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153912Z" creationid="Hugo" creationdate="20201016T080353Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073614Z" creationid="Hugo" creationdate="20201016T073614Z">
         <seg>&amp;Statistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105427Z" creationid="Hugo" creationdate="20210219T105427Z">
+        <seg>Anrezistre pou sa sesion-la selman</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3778,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T102915Z" creationid="Hugo" creationdate="20201022T102901Z">
         <seg>Afis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105755Z" creationid="Hugo" creationdate="20210219T105755Z">
+        <seg>Afis bann tradiksion alternatif ki ou finn kree pou bann segman ki repete dan proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7845,6 +7869,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105535Z" creationid="Hugo" creationdate="20210219T105535Z">
+        <seg>Plizier Tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyMemory (human)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T101809Z" creationid="Hugo" creationdate="20210219T101809Z">
@@ -11071,6 +11103,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105423Z" creationid="Hugo" creationdate="20210219T105423Z">
+        <seg>Server pa konpran metod "tradiksion"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T082436Z" creationid="Hugo" creationdate="20210219T082436Z">
@@ -11789,6 +11829,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T083427Z" creationid="Hugo" creationdate="20201008T083427Z">
         <seg>Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T105337Z" creationid="Hugo" creationdate="20210219T105337Z">
+        <seg>Test...</seg>
       </tuv>
     </tu>
     <tu>
