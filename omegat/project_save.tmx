@@ -2192,8 +2192,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122849Z" creationid="Hugo" creationdate="20210219T122849Z">
-        <seg>Finn rankont enn erer letan pe sey exekit proses: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122923Z" creationid="Hugo" creationdate="20210219T122849Z">
+        <seg>Finn rankont enn erer letan pe sey exekit console process: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,6 +4874,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122945Z" creationid="Hugo" creationdate="20210219T122945Z">
+        <seg>Exekision skript {0} (evennman {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T132435Z" creationid="Hugo" creationdate="20201016T132421Z">
@@ -5654,6 +5662,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091126Z" creationid="Hugo" creationdate="20201021T134330Z">
         <seg>Dosie ki finn spesifie pou bann file gloser pa existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123016Z" creationid="Hugo" creationdate="20210219T123016Z">
+        <seg>Dosie gloser {0} pa existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11831,6 +11847,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122958Z" creationid="Hugo" creationdate="20210219T122958Z">
+        <seg>Dosie sours {0} pa existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T141457Z" creationid="Hugo" creationdate="20201128T141457Z">
@@ -12245,6 +12269,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T091755Z" creationid="Hugo" creationdate="20201016T091755Z">
         <seg>Bann file sib finn anrezistre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123007Z" creationid="Hugo" creationdate="20210219T123007Z">
+        <seg>Dosie sib {0} pa existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +14062,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091138Z" creationid="Hugo" creationdate="20201021T144649Z">
         <seg>Dosie ki finn spesifie pou bann file memwar tradiksion pa existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123030Z" creationid="Hugo" creationdate="20210219T123030Z">
+        <seg>Dosir memwar tradiksion {0} pa existe.</seg>
       </tuv>
     </tu>
     <tu>
