@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T075742Z" creationid="Hugo" creationdate="20201016T075742Z">
-        <seg>Rod &amp;otomatikman text segman an kour dan diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T110702Z" creationid="Hugo" creationdate="20201016T075742Z">
+        <seg>Rod &amp;otomatikman text segman aktiel dan diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -5986,8 +5986,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200525T144423Z">
-        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman an kour zot pou montre otomatikman dan vole Gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T112744Z" creationid="Hugo" creationdate="20200525T144423Z">
+        <seg>Si enn proze &lt;a0&gt;OmegaT&lt;/a0&gt; ena enn (ouswa plizier) gloser, tou bann term gloser-la ki dan segman aktif zot pou montre otomatikman dan vole Gloser.</seg>
       </tuv>
     </tu>
     <tu>
