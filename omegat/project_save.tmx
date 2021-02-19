@@ -6465,8 +6465,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142154Z" creationid="Hugo" creationdate="20200924T142117Z">
-        <seg>Ou kapav servi li ousi si apre enn update OmegaT si bann vole pa aparet kouma zot bizin.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094517Z" creationid="Hugo" creationdate="20200924T142117Z">
+        <seg>Ou kapav ousi servi li si bann vole pa aparet kouma zot bizin apre enn update OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14459,8 +14459,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094323Z" creationid="Hugo" creationdate="20210219T094323Z">
-        <seg>Ou bizin aktializ You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094850Z" creationid="Hugo" creationdate="20210219T094323Z">
+        <seg>Ou bizin update ou JDK 1.6 ver dernie version, ouswa siprim bann file jaxb-*.jar dan dosie OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
