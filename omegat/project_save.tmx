@@ -1152,10 +1152,10 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T085607Z" creationid="Hugo" creationdate="20201015T071524Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090033Z" creationid="Hugo" creationdate="20201015T071524Z">
         <seg>--remote-project
 		Telesarz enn file omegat.project depi URL mansione dan &lt;project
-		path&gt; ek load proze-la.</seg>
+		path&gt; ek ouver proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4580,8 +4580,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T090619Z" creationid="Hugo" creationdate="20201016T090619Z">
-        <seg>Pa finn resi load proze-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090058Z" creationid="Hugo" creationdate="20201016T090619Z">
+        <seg>Pa finn resi ouver proze-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,8 +6875,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T113214Z" creationid="Hugo" creationdate="20201016T113214Z">
-        <seg>Pe load proze...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090108Z" creationid="Hugo" creationdate="20201016T113214Z">
+        <seg>Pe ouver proze-la...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,10 +8518,10 @@ sistem kot ena ou dosie debaz.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T085558Z" creationid="Hugo" creationdate="20201015T070954Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090012Z" creationid="Hugo" creationdate="20201015T070954Z">
         <seg>Opsion:
 	None: Lans interfas itilizater
-	Project path only: Lans interfas itilizater ek load proze mansione-la
+	Project path only: Lans interfas itilizater ek ouver proze spesifie-la
 	team
 		Zouti pou bann proze lekip.</seg>
       </tuv>
@@ -9226,8 +9226,8 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       <tuv lang="en">
         <seg>Project load cancelled by user</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T113402Z" creationid="Hugo" creationdate="20201016T113402Z">
-        <seg>Ou finn anil loading proze-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090125Z" creationid="Hugo" creationdate="20201016T113402Z">
+        <seg>Ou finn anil ouvertir proze-la</seg>
       </tuv>
     </tu>
     <tu>
