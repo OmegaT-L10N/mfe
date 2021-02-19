@@ -1116,8 +1116,8 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
       <tuv lang="en">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201024T053801Z" creationid="Hugo" creationdate="20201024T053801Z">
-        <seg>+{0} plis</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092907Z" creationid="Hugo" creationdate="20201024T053801Z">
+        <seg>+{0} an plis</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,6 +5484,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T140345Z" creationid="Hugo" creationdate="20210208T132728Z">
         <seg>Servi sa bann paramet-la pou kree bann pattern pou nom file pou bann file ki pou trete par filt, personaliz bann nom bann file tradi, ek swazir landkodaz pou lir bann file sours ek ekrir bann file sib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T094218Z" creationid="Hugo" creationdate="20210219T094218Z">
+        <seg>Kasiet '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,6 +11409,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092931Z" creationid="Hugo" creationdate="20210219T092931Z">
+        <seg>Opsion pou bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T104843Z" creationid="Hugo" creationdate="20201201T104843Z">
@@ -14783,8 +14799,8 @@ kre so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>{0} +{1} more</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201024T053826Z" creationid="Hugo" creationdate="20201024T053826Z">
-        <seg>{0} +{1} plis</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092911Z" creationid="Hugo" creationdate="20201024T053826Z">
+        <seg>{0} +{1} an plis</seg>
       </tuv>
     </tu>
     <tu>
