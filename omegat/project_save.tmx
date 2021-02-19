@@ -12617,6 +12617,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T103832Z" creationid="Hugo" creationdate="20210219T103832Z">
+        <seg>Kantite text depas maximum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T191342Z" creationid="Hugo" creationdate="20200527T191342Z">
@@ -14701,6 +14709,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T103546Z" creationid="Hugo" creationdate="20210219T103546Z">
         <seg>Ou finn ariv ou limit pou nonb reket par zour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T103641Z" creationid="Hugo" creationdate="20210219T103641Z">
+        <seg>Ou finn ariv ou limit pou volim text ki finn tradir</seg>
       </tuv>
     </tu>
     <tu>
