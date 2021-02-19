@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T110702Z" creationid="Hugo" creationdate="20201016T075742Z">
-        <seg>Rod &amp;otomatikman text segman aktiel dan diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T112756Z" creationid="Hugo" creationdate="20201016T075742Z">
+        <seg>Rod &amp;otomatikman text segman aktif dan diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,8 +1796,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200729T115637Z">
-        <seg>Akse konteni proze/Dokiman sours an kour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T113224Z" creationid="Hugo" creationdate="20200729T115637Z">
+        <seg>Akse konteni proze/dokiman sours aktif</seg>
       </tuv>
     </tu>
     <tu>
@@ -11899,8 +11899,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Bann term depi segman an kour ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou montre dan vole Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T112834Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term segman aktif ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan file gloser-la pou afise dan vole Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12900,8 +12900,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200925T065917Z" creationid="Hugo" creationdate="20200606T192845Z">
-        <seg>Okenn term dan segman an kour match enn term dan gloser.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T112848Z" creationid="Hugo" creationdate="20200606T192845Z">
+        <seg>Okenn term dan segman aktif match enn term dan gloser.</seg>
       </tuv>
     </tu>
     <tu>
