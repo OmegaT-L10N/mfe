@@ -728,8 +728,8 @@
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T132659Z" creationid="Hugo" creationdate="20201201T132514Z">
-        <seg>&amp;Siprim bann lasenn ki pa finn tradi dan file sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101408Z" creationid="Hugo" creationdate="20201201T132514Z">
+        <seg>&amp;Siprim bann lasenn ki pa finn tradir dan file sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -13082,8 +13082,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T133901Z" creationid="Hugo" creationdate="20201022T102836Z">
-        <seg>Tradi ouswa &amp;pa tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101400Z" creationid="Hugo" creationdate="20201022T102836Z">
+        <seg>Ki finn tradir ou &amp;pa</seg>
       </tuv>
     </tu>
     <tu>
@@ -13154,8 +13154,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Translated document created</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T115001Z" creationid="Hugo" creationdate="20201016T115001Z">
-        <seg>Dokiman tradi kree</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101246Z" creationid="Hugo" creationdate="20201016T115001Z">
+        <seg>Dokiman tradiksion finn kree</seg>
       </tuv>
     </tu>
     <tu>
