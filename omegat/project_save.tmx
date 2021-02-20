@@ -13600,6 +13600,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103109Z" creationid="Hugo" creationdate="20210220T102303Z">
+        <seg>Sa
+pou siprim ou data lor ou computer e pou download konteni proze-la
+depi server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This API key has been blocked</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T103114Z" creationid="Hugo" creationdate="20210219T103114Z">
