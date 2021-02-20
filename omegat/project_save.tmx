@@ -9848,6 +9848,16 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103456Z" creationid="Hugo" creationdate="20210220T103136Z">
+        <seg>Apiy lor 'Anile' pou les sa proze-la koumsa mem ek sarz li kouma enn
+proze lokal san okenn fonksionalite lekip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T102154Z" creationid="Hugo" creationdate="20210220T102154Z">
