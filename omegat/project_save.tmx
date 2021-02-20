@@ -5610,6 +5610,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100336Z" creationid="Hugo" creationdate="20210220T100155Z">
+        <seg>Git '{0}' finn fer nanye parski pa ti ena modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100127Z" creationid="Hugo" creationdate="20210220T100127Z">
+        <seg>Exekision Git '{0}' finn bien termine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100103Z" creationid="Hugo" creationdate="20210220T100103Z">
+        <seg>Demaraz exekision Git '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
@@ -8516,24 +8540,24 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Nothing, but ends quoting started by \Q</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T131457Z" creationid="Hugo" creationdate="20200607T131457Z">
-        <seg>Nanyen, me li fini sitasion koumanse par \Q</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100224Z" creationid="Hugo" creationdate="20200607T131457Z">
+        <seg>Nanye, me li fini sitasion koumanse par \Q</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130709Z" creationid="Hugo" creationdate="20200607T130709Z">
-        <seg>Nanyen, me li sit tou bann karakter ziska \E</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100220Z" creationid="Hugo" creationdate="20200607T130709Z">
+        <seg>Nanye, me li sit tou bann karakter ziska \E</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T130311Z" creationid="Hugo" creationdate="20200607T130128Z">
-        <seg>Nanyen, me li sit karakter swivan.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100217Z" creationid="Hugo" creationdate="20200607T130128Z">
+        <seg>Nanye, me li sit karakter swivan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15281,8 +15305,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200607T162654Z" creationid="Hugo" creationdate="20200607T140301Z">
-        <seg>X, enn sel fwa ouswa nanyen</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100227Z" creationid="Hugo" creationdate="20200607T140301Z">
+        <seg>X, enn sel fwa ouswa nanye</seg>
       </tuv>
     </tu>
     <tu>
