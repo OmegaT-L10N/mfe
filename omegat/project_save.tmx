@@ -1438,8 +1438,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050404Z" creationid="Hugo" creationdate="20201003T031400Z">
-        <seg>&lt;a0&gt;Telesarze&lt;/a0&gt; &lt;a1&gt;A nou ale&lt;/a1&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110256Z" creationid="Hugo" creationdate="20201003T031400Z">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;A nou ale&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,8 +2086,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045949Z" creationid="Hugo" creationdate="20201003T071403Z">
-        <seg>Si ou deza kone ki version ou oule telesarze, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110312Z" creationid="Hugo" creationdate="20201003T071403Z">
+        <seg>Si ou deza kone ki version ou oule download, ou kapav al direkteman paz prezantasion bann diferan version OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4152,14 +4152,6 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Download</seg>
-      </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050239Z" creationid="Hugo" creationdate="20201010T050239Z">
-        <seg>Telesarzman</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T104146Z" creationid="Hugo" creationdate="20201015T131007Z">
@@ -4194,16 +4186,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Download Overview</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050305Z" creationid="Hugo" creationdate="20201003T071512Z">
-        <seg>Telesarzman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110321Z" creationid="Hugo" creationdate="20201003T071512Z">
+        <seg>Download</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download Selector</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050253Z" creationid="Hugo" creationdate="20201010T050253Z">
-        <seg>Selekter Telesarzman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110318Z" creationid="Hugo" creationdate="20201010T050253Z">
+        <seg>Selekter Download</seg>
       </tuv>
     </tu>
     <tu>
@@ -6393,8 +6385,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T070402Z" creationid="Hugo" creationdate="20201010T070402Z">
-        <seg>Si sa version-la pa disponib, ou kapav sey &lt;a0&gt;telesarz version non-signe&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110229Z" creationid="Hugo" creationdate="20201010T070402Z">
+        <seg>Si sa version-la pa disponib, ou kapav sey &lt;a0&gt;download version non-signe&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6409,8 +6401,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050614Z" creationid="Hugo" creationdate="20201010T050614Z">
-        <seg>Si ou pa kone ki version ou bizin telesarze, servi &lt;a0&gt;Selekter Telesarzman&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110150Z" creationid="Hugo" creationdate="20201010T050614Z">
+        <seg>Si ou pa kone ki version ou bizin download, servi &lt;a0&gt;Selekter Download&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6433,8 +6425,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T060106Z" creationid="Hugo" creationdate="20201010T055923Z">
-        <seg>Si ou pa sir ki enn version JRE apropriye deza instale, ou kapav telesarz ek instal version OmegaT avek JRE.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110210Z" creationid="Hugo" creationdate="20201010T055923Z">
+        <seg>Si ou pa sir ki enn version JRE apropriye deza instale, ou kapav download ek instal version OmegaT avek JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,8 +8781,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T050628Z" creationid="Hugo" creationdate="20201010T050628Z">
-        <seg>Selekter Telesarzman OmegaT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110157Z" creationid="Hugo" creationdate="20201010T050628Z">
+        <seg>Selekter Download OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,8 +11652,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054428Z" creationid="Hugo" creationdate="20201010T054338Z">
-        <seg>Ou kapav telesarz OmegaT avek ou san Java Runtime Environment (JRE).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110204Z" creationid="Hugo" creationdate="20201010T054338Z">
+        <seg>Ou kapav download OmegaT avek ou san Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12560,8 +12552,8 @@ Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</
       <tuv lang="en">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20201003T100424Z">
-        <seg>Savedir ki bann itilizater kouma oumem kapav telesarz li ek servi li san okenn restriksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110328Z" creationid="Hugo" creationdate="20201003T100424Z">
+        <seg>Savedir ki bann itilizater kouma oumem kapav download li ek servi li san okenn restriksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13873,8 +13865,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T062820Z" creationid="Hugo" creationdate="20201010T062326Z">
-        <seg>Sa version-la pou pran plis letan pou telesarze ek pou bizin pli boukou plas lor ou hard drive, me ou kapav sir ki li pou marse.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110214Z" creationid="Hugo" creationdate="20201010T062326Z">
+        <seg>Sa version-la pou pran plis letan pou download ek pou bizin pli boukou plas lor ou hard drive, me ou kapav sir ki li pou marse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13953,8 +13945,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T075737Z" creationid="Hugo" creationdate="20201003T070259Z">
-        <seg>Pou trouv version ki pli adapte pou ou, chek Selekter Telesarzman atraver lien enba la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110303Z" creationid="Hugo" creationdate="20201003T070259Z">
+        <seg>Pou trouv version ki pli adapte pou ou, chek Selekter Download atraver lien enba la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14954,8 +14946,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20201001T071944Z">
-        <seg>Bann itilizater kapav telesarz ek itiliz program-la gratwitman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110331Z" creationid="Hugo" creationdate="20201001T071944Z">
+        <seg>Bann itilizater kapav download ek itiliz program-la gratwitman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16024,22 +16016,6 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161908Z" creationid="Hugo" creationdate="20210208T161908Z">
         <seg>value (input button, &amp;submit ek reset)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
-      </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093500Z" creationid="Hugo" creationdate="20201010T093500Z">
-        <seg>{% else %} &lt;a0&gt;Telesarze&lt;/a0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
-      </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T093358Z" creationid="Hugo" creationdate="20201010T093358Z">
-        <seg>{% if platform.link != null %} &lt;a0&gt;Telesarze&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
