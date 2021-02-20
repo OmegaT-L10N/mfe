@@ -4540,6 +4540,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113612Z" creationid="Hugo" creationdate="20210220T113612Z">
+        <seg>Lafin "rebase"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163701Z" creationid="Hugo" creationdate="20210208T163701Z">
@@ -9915,6 +9923,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115319Z" creationid="Hugo" creationdate="20210220T115319Z">
+        <seg>Pa finn transmet bann informasion idantifikasion predefini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201026T134713Z" creationid="Hugo" creationdate="20201026T134713Z">
@@ -12240,6 +12256,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T162029Z" creationid="Hugo" creationdate="20210208T162029Z">
         <seg>Koumans enn nouvo paragraf lor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113604Z" creationid="Hugo" creationdate="20210220T113604Z">
+        <seg>Demaraz "rebase"</seg>
       </tuv>
     </tu>
     <tu>
