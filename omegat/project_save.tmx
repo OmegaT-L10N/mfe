@@ -9755,6 +9755,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113536Z" creationid="Hugo" creationdate="20210220T113536Z">
+        <seg>Chek-li bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120624Z" creationid="Hugo" creationdate="20210219T120624Z">
@@ -13737,6 +13745,14 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113333Z" creationid="Hugo" creationdate="20210220T113333Z">
+        <seg>Sa URL paret pa valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T110018Z" creationid="Hugo" creationdate="20200924T135228Z">
@@ -13829,6 +13845,22 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T113042Z" creationid="Hugo" creationdate="20210220T113042Z">
         <seg>Sa enn repository Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113157Z" creationid="Hugo" creationdate="20210220T113157Z">
+        <seg>Sa enn repository Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113314Z" creationid="Hugo" creationdate="20210220T113314Z">
+        <seg>Sa enn file proze valid.</seg>
       </tuv>
     </tu>
     <tu>
