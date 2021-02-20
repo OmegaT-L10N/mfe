@@ -4792,6 +4792,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115635Z" creationid="Hugo" creationdate="20210220T115635Z">
+        <seg>Erer aktializasion repository-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T101908Z" creationid="Hugo" creationdate="20210219T101908Z">
@@ -4820,6 +4828,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102309Z" creationid="Hugo" creationdate="20210219T102243Z">
         <seg>Erer {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115656Z" creationid="Hugo" creationdate="20210220T115656Z">
+        <seg>Erer: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9835,6 +9851,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T130515Z" creationid="Hugo" creationdate="20210220T130515Z">
+        <seg>Swazir linterval ki </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T125640Z" creationid="Hugo" creationdate="20201020T125506Z">
@@ -11274,6 +11298,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115724Z" creationid="Hugo" creationdate="20210220T115724Z">
+        <seg>Anrezistreman ek Output</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115716Z" creationid="Hugo" creationdate="20210220T115716Z">
+        <seg>Opsion anrezistreman ek exekision</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving and Output...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141901Z" creationid="Hugo" creationdate="20200729T141901Z">
@@ -12000,6 +12040,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T104351Z" creationid="Hugo" creationdate="20201201T124711Z">
         <seg>Pa finn pran kont plugin ki finn deza sarze depi klas '{0}'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115654Z" creationid="Hugo" creationdate="20210220T115654Z">
+        <seg>Pa &amp;pou pran kont.</seg>
       </tuv>
     </tu>
     <tu>
