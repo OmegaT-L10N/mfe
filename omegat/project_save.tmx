@@ -2140,6 +2140,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113013Z" creationid="Hugo" creationdate="20210220T113013Z">
+        <seg>Finn rankont enn erer letan pe sey detekte file proze la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T075815Z" creationid="Hugo" creationdate="20210219T075008Z">
@@ -3536,6 +3544,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112715Z" creationid="Hugo" creationdate="20210220T112715Z">
+        <seg>Pa finn resi anrezistre bann informasion idantifikasion dan enn file text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210212T123815Z">
@@ -3788,6 +3804,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T080355Z" creationid="Hugo" creationdate="20201001T113821Z">
         <seg>Apre, bann diskision teknik detaye lor bann modifikasion bizin fer direkteman avek bann devloper OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112750Z" creationid="Hugo" creationdate="20210220T112750Z">
+        <seg>Deteksion...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14948,8 +14972,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112537Z" creationid="Hugo" creationdate="20210220T112537Z">
-        <seg>Idantifikasion itilizater refize</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112740Z" creationid="Hugo" creationdate="20210220T112537Z">
+        <seg>Bann informasion idantifikasion itilizater refize</seg>
       </tuv>
     </tu>
     <tu>
