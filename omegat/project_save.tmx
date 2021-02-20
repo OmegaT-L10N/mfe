@@ -2440,6 +2440,14 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110638Z" creationid="Hugo" creationdate="20210220T110638Z">
+        <seg>Otantifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T131058Z" creationid="Hugo" creationdate="20201201T131058Z">
@@ -5654,8 +5662,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100127Z" creationid="Hugo" creationdate="20210220T100127Z">
-        <seg>Exekision Git '{0}' finn bien termine</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110442Z" creationid="Hugo" creationdate="20210220T100127Z">
+        <seg>Exekision Git '{0}' finn termine avek sikse</seg>
       </tuv>
     </tu>
     <tu>
@@ -8885,8 +8893,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T071543Z" creationid="Hugo" creationdate="20201010T071543Z">
-        <seg>OmegaT finn instale san problem lor Windows (tou bann version depi 98), Macintosh OS X ek Linux.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110517Z" creationid="Hugo" creationdate="20201010T071543Z">
+        <seg>OmegaT finn instale avek sikse lor Windows (tou bann version depi 98), Macintosh OS X ek Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9665,6 +9673,16 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110631Z" creationid="Hugo" creationdate="20210220T110631Z">
+        <seg>Pran kontak avek ou administrater proze pou chek sipa
+bizin bann etap adidionel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20201016T091250Z">
@@ -9685,6 +9703,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120624Z" creationid="Hugo" creationdate="20210219T120624Z">
         <seg>Donn enn nom sa konfigirasion-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110704Z" creationid="Hugo" creationdate="20210220T110704Z">
+        <seg>Inskrir nom itilizater/password pou {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,8 +11084,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T123353Z" creationid="Hugo" creationdate="20210219T123353Z">
-        <seg>Exekision SVN '{0}' finn bien termine</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110437Z" creationid="Hugo" creationdate="20210219T123353Z">
+        <seg>Exekision SVN '{0}' finn termine avek sikse</seg>
       </tuv>
     </tu>
     <tu>
@@ -13254,8 +13280,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The project was converted successfully.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103721Z" creationid="Hugo" creationdate="20210220T103721Z">
-        <seg>Proze-la finn bien konverti.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T110452Z" creationid="Hugo" creationdate="20210220T103721Z">
+        <seg>Proze-la finn konverti avek sikse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15418,6 +15444,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102938Z" creationid="Hugo" creationdate="20210219T102938Z">
         <seg>Moter-la finn rann enn repons inkorek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T111855Z" creationid="Hugo" creationdate="20210220T111855Z">
+        <seg>Nom itilizater/password pa bon pou {0}</seg>
       </tuv>
     </tu>
     <tu>
