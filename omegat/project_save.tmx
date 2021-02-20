@@ -13825,6 +13825,14 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113042Z" creationid="Hugo" creationdate="20210220T113042Z">
+        <seg>Sa enn repository Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T075539Z" creationid="Hugo" creationdate="20200929T160641Z">
