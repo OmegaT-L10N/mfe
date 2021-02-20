@@ -1170,6 +1170,16 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103639Z" creationid="Hugo" creationdate="20210220T103639Z">
+        <seg>(Ou kapav kontign servi OmegaT
+3.6 pou travay lor sa proze-la kouma enn proze lekip.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20201024T071033Z">
