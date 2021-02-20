@@ -6011,8 +6011,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>How to download and install dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T045742Z" creationid="Hugo" creationdate="20200519T124358Z">
-        <seg>Kouma telesarz ek instal diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T105835Z" creationid="Hugo" creationdate="20200519T124358Z">
+        <seg>Kouma download ek instal diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -7500,16 +7500,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091531Z" creationid="Hugo" creationdate="20210219T085752Z">
-        <seg>Ouver enn proze pou kapav konfigir bann reg pou bann lang sa proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T105623Z" creationid="Hugo" creationdate="20210219T085752Z">
+        <seg>Sarz enn proze pou kapav konfigir bann reg pou bann lang sa proze-la.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121750Z" creationid="Hugo" creationdate="20210219T121750Z">
-        <seg>Pe ouver proze-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T105630Z" creationid="Hugo" creationdate="20210219T121750Z">
+        <seg>Pe sarz proze-la</seg>
       </tuv>
     </tu>
     <tu>
