@@ -2869,6 +2869,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112443Z" creationid="Hugo" creationdate="20210220T112443Z">
+        <seg>Anilasion kreasion enn nouvo proze lekip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T124446Z" creationid="Hugo" creationdate="20201016T120106Z">
@@ -12510,6 +12518,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112421Z" creationid="Hugo" creationdate="20210220T112421Z">
+        <seg>Sinkronizasion lekip...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150331Z" creationid="Hugo" creationdate="20210210T144920Z">
@@ -14926,6 +14942,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T142105Z" creationid="Hugo" creationdate="20200729T142105Z">
         <seg>Gid itilizater...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112537Z" creationid="Hugo" creationdate="20210220T112537Z">
+        <seg>Idantifikasion itilizater refize</seg>
       </tuv>
     </tu>
     <tu>
