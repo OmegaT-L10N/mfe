@@ -2018,6 +2018,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100656Z" creationid="Hugo" creationdate="20210220T100656Z">
+        <seg>Otoriz anrezistreman password kouma plain text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210212T122742Z">
@@ -3006,8 +3014,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T101704Z" creationid="Hugo" creationdate="20200924T111850Z">
-        <seg>Swazir sa kaz-la pou envway selman bann segman ki pa finn tradir ou servis tradiksion otomatik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100509Z" creationid="Hugo" creationdate="20200924T111850Z">
+        <seg>Swazir sa kaz-la pou anvway selman bann segman ki pa finn tradir ou servis tradiksion otomatik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5356,8 +5364,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T113928Z" creationid="Hugo" creationdate="20200924T111036Z">
-        <seg>Kikfwa, pou bann rezon konfidansialite, ou pa oule envway tou bann segman ou servis tradiksion otomatik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100505Z" creationid="Hugo" creationdate="20200924T111036Z">
+        <seg>Kikfwa, pou bann rezon konfidansialite, ou pa oule anvway tou bann segman ou servis tradiksion otomatik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5614,6 +5622,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T100336Z" creationid="Hugo" creationdate="20210220T100155Z">
         <seg>Git '{0}' finn fer nanye parski pa ti ena modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100344Z" creationid="Hugo" creationdate="20210220T100344Z">
+        <seg>Erer Git '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10180,6 +10196,14 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T084048Z" creationid="Hugo" creationdate="20201008T084048Z">
         <seg>Reklam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100547Z" creationid="Hugo" creationdate="20210220T100409Z">
+        <seg>Pa finn resi push.</seg>
       </tuv>
     </tu>
     <tu>
