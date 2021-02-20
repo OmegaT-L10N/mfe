@@ -2200,8 +2200,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T122923Z" creationid="Hugo" creationdate="20210219T122849Z">
-        <seg>Finn rankont enn erer letan pe sey exekit console process: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101452Z" creationid="Hugo" creationdate="20210219T122849Z">
+        <seg>Finn rankont enn erer letan pe sey exekit enn proses konsol: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,8 +7017,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101313Z" creationid="Hugo" creationdate="20210220T101313Z">
-        <seg>Li bizin </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101657Z" creationid="Hugo" creationdate="20210220T101313Z">
+        <seg>Bizin konverti li dan enn nouvo proze lekip, me pa kapav fer sa dan mod konsol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13323,8 +13323,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101015Z" creationid="Hugo" creationdate="20210220T101015Z">
-        <seg>Proze spesifie la li enn proze lekip stil OmegaT 3.6.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101318Z" creationid="Hugo" creationdate="20210220T101015Z">
+        <seg>Proze spesifie la li enn proze lekip OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
