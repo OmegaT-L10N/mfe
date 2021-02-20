@@ -4658,8 +4658,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090301Z" creationid="Hugo" creationdate="20201201T123729Z">
-        <seg>Erer letan ouver plugin depi klas '{0}': {1}: {2}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104336Z" creationid="Hugo" creationdate="20201201T123729Z">
+        <seg>Erer letan sarz plugin depi klas '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5286,8 +5286,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090406Z" creationid="Hugo" creationdate="20201201T125036Z">
-        <seg>Inposib ouver filt '{0}' depi '{1}'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104355Z" creationid="Hugo" creationdate="20201201T125036Z">
+        <seg>Inposib sarz filt '{0}' depi '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -5948,8 +5948,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T140345Z" creationid="Hugo" creationdate="20210208T132728Z">
-        <seg>Servi sa bann paramet-la pou kree bann pattern pou nom file pou bann file ki pou trete par filt, personaliz bann nom bann file tradi, ek swazir landkodaz pou lir bann file sours ek ekrir bann file sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T105421Z" creationid="Hugo" creationdate="20210208T132728Z">
+        <seg>Servi sa bann paramet-la pou kree bann pattern nom file pou bann file ki pou trete par filt, personaliz bann nom bann file tradiksion, e swazir landkodaz pou sarz bann file sours ek anrezistre bann file sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7533,16 +7533,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090257Z" creationid="Hugo" creationdate="20201201T105336Z">
-        <seg>Pe ouver gloser {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104326Z" creationid="Hugo" creationdate="20201201T105336Z">
+        <seg>Pe sarz gloser {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090108Z" creationid="Hugo" creationdate="20201016T113214Z">
-        <seg>Pe ouver proze-la...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104243Z" creationid="Hugo" creationdate="20201016T113214Z">
+        <seg>Pe sarz proze-la...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11869,8 +11869,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090359Z" creationid="Hugo" creationdate="20201201T124711Z">
-        <seg>Pa finn pran kont plugin ki finn deza ouver depi klas '{0}'.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104351Z" creationid="Hugo" creationdate="20201201T124711Z">
+        <seg>Pa finn pran kont plugin ki finn deza sarze depi klas '{0}'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12755,8 +12755,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090252Z" creationid="Hugo" creationdate="20201201T104604Z">
-        <seg>File TMX pou kontign ouver.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104323Z" creationid="Hugo" creationdate="20201201T104604Z">
+        <seg>File TMX pou kontign sarze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14414,8 +14414,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T125950Z" creationid="Hugo" creationdate="20201020T125950Z">
-        <seg>Inposib telesarz proze lekip-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104256Z" creationid="Hugo" creationdate="20201020T125950Z">
+        <seg>Inposib download proze lekip-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15903,8 +15903,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201024T071039Z" creationid="Hugo" creationdate="20201024T071039Z">
-        <seg>sarze</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104313Z" creationid="Hugo" creationdate="20201024T071039Z">
+        <seg>finn sarze</seg>
       </tuv>
     </tu>
     <tu>
