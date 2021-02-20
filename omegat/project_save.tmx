@@ -5944,7 +5944,6 @@ Erer 404</seg>
       </tuv>
     </tu>
     <tu>
-      <note>REVIEW!!!	</note>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
