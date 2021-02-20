@@ -9788,8 +9788,8 @@ pou determinn sours erer-la ek fer enn nouvo tantativ.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090316Z" creationid="Hugo" creationdate="20201201T124509Z">
-        <seg>Plugin resi ouver depi klas '{0}'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103910Z" creationid="Hugo" creationdate="20201201T124509Z">
+        <seg>Finn resi sarz plugin-la depi klas '{0}' avek sikse</seg>
       </tuv>
     </tu>
     <tu>
@@ -13257,6 +13257,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200528T203338Z">
         <seg>Ou kapav done enn nom file gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T103721Z" creationid="Hugo" creationdate="20210220T103721Z">
+        <seg>Proze-la finn bien konverti.</seg>
       </tuv>
     </tu>
     <tu>
