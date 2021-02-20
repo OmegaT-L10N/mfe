@@ -7015,6 +7015,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101313Z" creationid="Hugo" creationdate="20210220T101313Z">
+        <seg>Li bizin </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -13309,6 +13317,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T074313Z" creationid="Hugo" creationdate="20210219T074313Z">
         <seg>Dosie diksioner ki finn spesifie la na pa existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T101015Z" creationid="Hugo" creationdate="20210220T101015Z">
+        <seg>Proze spesifie la li enn proze lekip stil OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
