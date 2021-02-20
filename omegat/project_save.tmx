@@ -1306,10 +1306,10 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T091030Z" creationid="Hugo" creationdate="20201015T071524Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104035Z" creationid="Hugo" creationdate="20201015T071524Z">
         <seg>--remote-project
 		Telesarz enn file omegat.project depi URL ki finn spesifie dan &lt;sime
-		proze&gt; ek ouver proze-la.</seg>
+		proze&gt; ek sarz proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,24 +4162,24 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T131007Z" creationid="Hugo" creationdate="20201015T131007Z">
-        <seg>Telesarz enn proze &amp;lekip...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104146Z" creationid="Hugo" creationdate="20201015T131007Z">
+        <seg>Download enn proze &amp;lekip...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T131650Z" creationid="Hugo" creationdate="20201015T131608Z">
-        <seg>Telesarz Paz Media&amp;Wiki...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104149Z" creationid="Hugo" creationdate="20201015T131608Z">
+        <seg>Download Paz Media&amp;Wiki...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T131646Z" creationid="Hugo" creationdate="20201015T131613Z">
-        <seg>Telesarz Paz MediaWiki...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104152Z" creationid="Hugo" creationdate="20201015T131613Z">
+        <seg>Download Paz MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,8 +4226,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T113155Z" creationid="Hugo" creationdate="20201016T113155Z">
-        <seg>Telesarzman proze...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104233Z" creationid="Hugo" creationdate="20201016T113155Z">
+        <seg>Pe download proze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,8 +5094,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090058Z" creationid="Hugo" creationdate="20201016T090619Z">
-        <seg>Pa finn resi ouver proze-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104221Z" creationid="Hugo" creationdate="20201016T090619Z">
+        <seg>Pa finn resi sarz proze-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6619,8 +6619,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T084146Z" creationid="Hugo" creationdate="20201016T084116Z">
-        <seg>Pou aplik bann modifikasion, ou bizin ferm ek reload proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104159Z" creationid="Hugo" creationdate="20201016T084116Z">
+        <seg>Pou aplik bann modifikasion, ou bizin ferm ek re-sarz proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9376,10 +9376,10 @@ sistem kot ena ou dosie debaz.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T090012Z" creationid="Hugo" creationdate="20201015T070954Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104029Z" creationid="Hugo" creationdate="20201015T070954Z">
         <seg>Opsion:
 	None: Lans interfas itilizater
-	Project path only: Lans interfas itilizater ek ouver proze spesifie-la
+	Project path only: Lans interfas itilizater ek sarz proze spesifie-la
 	team
 		Zouti pou bann proze lekip.</seg>
       </tuv>
@@ -15643,8 +15643,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T130729Z" creationid="Hugo" creationdate="20201015T125854Z">
-        <seg>Ou ousi kapav kopie bann file direkteman dan dosie "source" ou proze atraver enn file manager, ek reload ou proze depi 'Proze' &gt; 'Reload'. </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T104127Z" creationid="Hugo" creationdate="20201015T125854Z">
+        <seg>Ou ousi kapav kopie bann file direkteman dan dosie "sours" ou proze atraver enn file manager, ek re-sarz ou proze depi 'Proze' &gt; 'Re-sarze'. </seg>
       </tuv>
     </tu>
     <tu>
