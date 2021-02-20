@@ -2020,8 +2020,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100656Z" creationid="Hugo" creationdate="20210220T100656Z">
-        <seg>Otoriz anrezistreman password kouma plain text</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100739Z" creationid="Hugo" creationdate="20210220T100656Z">
+        <seg>Otoriz anrezistreman password an-plain-text</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3294,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102411Z" creationid="Hugo" creationdate="20210219T102411Z">
         <seg>Konekte enn server personalize anplas apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100923Z" creationid="Hugo" creationdate="20210220T100923Z">
+        <seg>Koneksion disponib, proze-la li dan mod lekip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,6 +8337,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T060041Z" creationid="Hugo" creationdate="20210219T060041Z">
         <seg>Okenn sigzestion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210220T100845Z" creationid="Hugo" creationdate="20210220T100845Z">
+        <seg>Okenn koneksion disponib, proze-la offline.</seg>
       </tuv>
     </tu>
     <tu>
