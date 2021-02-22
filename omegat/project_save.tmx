@@ -1604,6 +1604,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133352Z" creationid="Hugo" creationdate="20210222T133352Z">
+        <seg>&lt;html&gt;Servi bann joker pou azout bann pattern (stil Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Par exanp: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T122649Z" creationid="Hugo" creationdate="20201020T122303Z">
@@ -3976,6 +3984,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133503Z" creationid="Hugo" creationdate="20210222T133503Z">
+        <seg>Kistomizasion kouler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133408Z" creationid="Hugo" creationdate="20210222T133408Z">
+        <seg>Seleksion bann kouler personalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom Colours...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T141414Z" creationid="Hugo" creationdate="20200729T141414Z">
@@ -5392,6 +5416,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T052130Z" creationid="Hugo" creationdate="20201024T052130Z">
         <seg>Exklir bann segman orfelin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133156Z" creationid="Hugo" creationdate="20210222T133156Z">
+        <seg>Bann Pattern Exklizion</seg>
       </tuv>
     </tu>
     <tu>
