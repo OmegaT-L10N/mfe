@@ -4776,6 +4776,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T141224Z" creationid="Hugo" creationdate="20210222T141224Z">
+        <seg>Depoz bann file isi pou azout zot dan proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T105056Z" creationid="Hugo" creationdate="20210222T105056Z">
