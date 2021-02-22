@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121428Z" creationid="Hugo" creationdate="20210222T121421Z">
+        <seg>&amp;Aktiv antre text otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T120706Z" creationid="Hugo" creationdate="20210222T120706Z">
@@ -12360,6 +12368,30 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091310Z" creationid="Hugo" creationdate="20201008T091310Z">
         <seg>Sori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121527Z" creationid="Hugo" creationdate="20210222T121457Z">
+        <seg>Triy par lord &amp;alfabetik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121541Z" creationid="Hugo" creationdate="20210222T121508Z">
+        <seg>Triy par &amp;full text, pa par </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121441Z" creationid="Hugo" creationdate="20210222T121441Z">
+        <seg>Triy par &amp;longer</seg>
       </tuv>
     </tu>
     <tu>
