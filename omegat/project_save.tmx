@@ -5036,6 +5036,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T103905Z" creationid="Hugo" creationdate="20210222T103905Z">
+        <seg>Komann pos-tretman extern:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115855Z" creationid="Hugo" creationdate="20201020T115855Z">
@@ -8050,6 +8058,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T103848Z" creationid="Hugo" creationdate="20210222T103848Z">
+        <seg>Minit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Miscellaneous resources</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T144652Z" creationid="Hugo" creationdate="20201013T144652Z">
@@ -9853,8 +9869,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T130515Z" creationid="Hugo" creationdate="20210220T130515Z">
-        <seg>Swazir linterval ki </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T103844Z" creationid="Hugo" creationdate="20210220T130515Z">
+        <seg>Swazir interval pou lanrezistreman otomatik ou proze (minit ek segonn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11480,6 +11496,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053450Z" creationid="Hugo" creationdate="20201024T053450Z">
         <seg>Resers finn avorte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T103854Z" creationid="Hugo" creationdate="20210222T103854Z">
+        <seg>Segonn:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13901,6 +13925,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133111Z" creationid="Hugo" creationdate="20201013T132802Z">
         <seg>Sa koleksion skript la pou itil bann devloper ki deza ena enn konesans dan tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T103949Z" creationid="Hugo" creationdate="20210222T103949Z">
+        <seg>Sa komann-la pou exekite apre Kreasion bann Dokiman Tradiksion</seg>
       </tuv>
     </tu>
     <tu>
