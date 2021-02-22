@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131837Z" creationid="Hugo" creationdate="20210222T131837Z">
+        <seg>&amp;Konsilt bann koleksion TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T061532Z" creationid="Hugo" creationdate="20210219T061532Z">
@@ -1026,6 +1034,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T105427Z" creationid="Hugo" creationdate="20210219T105427Z">
         <seg>Anrezistre pou sa sesion-la selman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131908Z" creationid="Hugo" creationdate="20210222T131908Z">
+        <seg>Resers &amp;TaaS Terminology Lookup</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,6 +2108,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131822Z" creationid="Hugo" creationdate="20210222T131822Z">
+        <seg>Azoute: {1}, Siprime: {2}, Modifie: {3} (Konfli: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032515Z" creationid="Hugo" creationdate="20201010T032515Z">
@@ -3085,6 +3109,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131631Z" creationid="Hugo" creationdate="20210222T131631Z">
+        <seg>Date modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T091130Z" creationid="Hugo" creationdate="20201022T091130Z">
@@ -3097,6 +3129,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T091110Z" creationid="Hugo" creationdate="20201022T091110Z">
         <seg>Sanze apre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131656Z" creationid="Hugo" creationdate="20210222T131656Z">
+        <seg>Editer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,6 +3892,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104322Z" creationid="Hugo" creationdate="20201016T114946Z">
         <seg>&amp;Kreasion bann dokiman tradiksion: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131701Z" creationid="Hugo" creationdate="20210222T131701Z">
+        <seg>Date kreasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131705Z" creationid="Hugo" creationdate="20210222T131705Z">
+        <seg>Kreater</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,6 +7440,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131720Z" creationid="Hugo" creationdate="20210222T131720Z">
+        <seg>Tradiksion par defo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T031925Z" creationid="Hugo" creationdate="20201010T031925Z">
@@ -8790,6 +8854,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131744Z" creationid="Hugo" creationdate="20210222T131744Z">
+        <seg>Swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T100504Z" creationid="Hugo" creationdate="20201015T152622Z">
@@ -8858,6 +8930,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T101641Z" creationid="Hugo" creationdate="20200729T131434Z">
         <seg>Segman pa ankor tradir swivan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131623Z" creationid="Hugo" creationdate="20210222T131623Z">
+        <seg>Swivan →</seg>
       </tuv>
     </tu>
     <tu>
@@ -9014,6 +9094,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131458Z" creationid="Hugo" creationdate="20210222T131458Z">
         <seg>Pa prezan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131725Z" creationid="Hugo" creationdate="20210222T131725Z">
+        <seg>Not</seg>
       </tuv>
     </tu>
     <tu>
@@ -10501,6 +10589,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131748Z" creationid="Hugo" creationdate="20210222T131748Z">
+        <seg>Presedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152640Z" creationid="Hugo" creationdate="20201015T152640Z">
@@ -11450,6 +11546,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131829Z" creationid="Hugo" creationdate="20210222T131829Z">
+        <seg>Reket TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T070417Z" creationid="Hugo" creationdate="20201010T070417Z">
@@ -12284,6 +12388,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131845Z" creationid="Hugo" creationdate="20210222T131845Z">
+        <seg>&amp;Swazir domenn resers termilozik TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T135521Z" creationid="Hugo" creationdate="20200924T135521Z">
@@ -12696,6 +12808,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T120421Z" creationid="Hugo" creationdate="20210222T120348Z">
         <seg>Triy bann term sib dan &amp;lord alfabetik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131727Z" creationid="Hugo" creationdate="20210222T131727Z">
+        <seg>Sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -15115,6 +15235,14 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131741Z" creationid="Hugo" creationdate="20210222T131741Z">
+        <seg>Tradiksion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T124121Z" creationid="Hugo" creationdate="20201020T123940Z">
@@ -17024,8 +17152,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>← Back</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131612Z" creationid="Hugo" creationdate="20210222T131612Z">
-        <seg>← </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131617Z" creationid="Hugo" creationdate="20210222T131612Z">
+        <seg>← Presedan</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
