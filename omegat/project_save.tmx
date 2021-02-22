@@ -10117,6 +10117,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T114854Z" creationid="Hugo" creationdate="20210222T114854Z">
+        <seg>Apiy lor &lt;u&gt;{0}&lt;/u&gt; pou retourn lor bann sigzestion &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152640Z" creationid="Hugo" creationdate="20201015T152640Z">
