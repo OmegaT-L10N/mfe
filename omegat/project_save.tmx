@@ -2052,6 +2052,38 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133632Z" creationid="Hugo" creationdate="20210222T133542Z">
+        <seg>Segman sours aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133655Z" creationid="Hugo" creationdate="20210222T133650Z">
+        <seg>Text segman sours aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133703Z" creationid="Hugo" creationdate="20210222T133703Z">
+        <seg>Segman sib aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133717Z" creationid="Hugo" creationdate="20210222T133717Z">
+        <seg>Tet segman sib aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T130005Z" creationid="Hugo" creationdate="20201020T130005Z">
@@ -3986,8 +4018,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Custom Colours</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133503Z" creationid="Hugo" creationdate="20210222T133503Z">
-        <seg>Kistomizasion kouler...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133528Z" creationid="Hugo" creationdate="20210222T133503Z">
+        <seg>Kouler personalize...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,8 +4034,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Custom Colours...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T141414Z" creationid="Hugo" creationdate="20200729T141414Z">
-        <seg>Kistomizasion kouler...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133517Z" creationid="Hugo" creationdate="20200729T141414Z">
+        <seg>Kouler personalize...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12296,6 +12328,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T103416Z" creationid="Hugo" creationdate="20201201T103416Z">
         <seg>Finn trouv enn segman andeor enn varyant unit tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133731Z" creationid="Hugo" creationdate="20210222T133731Z">
+        <seg>Text marker segman</seg>
       </tuv>
     </tu>
     <tu>
