@@ -2196,6 +2196,38 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135701Z" creationid="Hugo" creationdate="20210222T135701Z">
+        <seg>Group alignman "Aksepte"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135727Z" creationid="Hugo" creationdate="20210222T135716Z">
+        <seg>Group alignman "Bizin Verifie"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135805Z" creationid="Hugo" creationdate="20210222T135805Z">
+        <seg>Haylayt alignman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135836Z" creationid="Hugo" creationdate="20210222T135836Z">
+        <seg>Haylayt alignman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T132041Z" creationid="Hugo" creationdate="20210222T132041Z">
@@ -6659,8 +6691,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142258Z" creationid="Hugo" creationdate="20200527T181609Z">
-        <seg>Highlight sa mo-la dan vole Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135813Z" creationid="Hugo" creationdate="20200527T181609Z">
+        <seg>Haylayt sa mo-la dan vole Gloser ek fer enn click drwa lor li apre ki ou finn met cursor dan bon pozission dan segman sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9555,6 +9587,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135625Z" creationid="Hugo" creationdate="20210222T135625Z">
+        <seg>Notifikasion (flash)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135607Z" creationid="Hugo" creationdate="20210222T135607Z">
+        <seg>Notifikasion (fix)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135547Z" creationid="Hugo" creationdate="20210212T135547Z">
@@ -12422,8 +12470,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Search Replaced Mark</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134958Z" creationid="Hugo" creationdate="20210222T134958Z">
-        <seg>Text ranplase</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135553Z" creationid="Hugo" creationdate="20210222T134958Z">
+        <seg>Mark text ranplase</seg>
       </tuv>
     </tu>
     <tu>
