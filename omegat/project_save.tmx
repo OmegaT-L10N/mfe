@@ -1446,6 +1446,22 @@ Pou azout bann file dan enn proze, klik lor bouton "Kopie bann File dan Dosie So
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131221Z" creationid="Hugo" creationdate="20210222T131221Z">
+        <seg>1 konfli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131209Z" creationid="Hugo" creationdate="20210222T131209Z">
+        <seg>1 segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T090201Z" creationid="Hugo" creationdate="20201015T085602Z">
@@ -3972,6 +3988,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T080355Z" creationid="Hugo" creationdate="20201001T113821Z">
         <seg>Apre, bann diskision teknik detaye lor bann modifikasion bizin fer direkteman avek bann devloper OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131234Z" creationid="Hugo" creationdate="20210222T131234Z">
+        <seg>Bann detay pa disponib</seg>
       </tuv>
     </tu>
     <tu>
@@ -15602,6 +15626,30 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131245Z" creationid="Hugo" creationdate="20210222T131245Z">
+        <seg>Servi tou mo bann tradiksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131258Z" creationid="Hugo" creationdate="20210222T131258Z">
+        <seg>Servi tou bann orizinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131318Z" creationid="Hugo" creationdate="20210222T131318Z">
+        <seg>Servi tou bann aktialize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112141Z" creationid="Hugo" creationdate="20200729T130601Z">
@@ -16874,6 +16922,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092911Z" creationid="Hugo" creationdate="20201024T053826Z">
         <seg>{0} +{1} an plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131216Z" creationid="Hugo" creationdate="20210222T131216Z">
+        <seg>{0} konfli</seg>
       </tuv>
     </tu>
     <tu>
