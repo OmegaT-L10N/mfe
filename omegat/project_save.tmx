@@ -312,8 +312,8 @@
       <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121428Z" creationid="Hugo" creationdate="20210222T121421Z">
-        <seg>&amp;Aktiv antre text otomatik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122102Z" creationid="Hugo" creationdate="20210222T121421Z">
+        <seg>&amp;Aktiv text otomatik</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210204T144610Z">
-        <seg>&amp;Fors shortcut "f" pou bann baliz &lt;it pos="end"&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20210204T144610Z">
+        <seg>&amp;Fors sortket "f" pou bann baliz &lt;it pos="end"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210204T145222Z">
-        <seg>&amp;Pa pran kont bann atribi type ek ctype letan konstrir bann baliz shortcut &lt;ph&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20210204T145222Z">
+        <seg>&amp;Pa pran kont bann atribi type ek ctype letan konstrir bann baliz sortket &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +562,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133134Z" creationid="Hugo" creationdate="20201201T133134Z">
         <seg>&amp;Lafin lalinn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122031Z" creationid="Hugo" creationdate="20210222T122022Z">
+        <seg>&amp;Sarze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T084358Z" creationid="Hugo" creationdate="20201015T084358Z">
         <seg>&amp;Anrezistre Kouma...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122034Z" creationid="Hugo" creationdate="20210222T122034Z">
+        <seg>&amp;Anrezistre...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,8 +1622,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200723T184745Z">
-        <seg>&lt;shortcut&gt; bizin ekrir sa fason la: 0 ou plis &lt;c0&gt;&lt;modifikater&gt;&lt;/c0&gt; swivi par 0 ouswa 1 &lt;c1&gt;&lt;levennman&gt;&lt;/c1&gt; swivi par 1 &lt;c2&gt;&lt;tous&gt;&lt;/c2&gt;, kot:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200723T184745Z">
+        <seg>&lt;sortket&gt; bizin ekrir sa fason la: 0 ou plis &lt;c0&gt;&lt;modifikater&gt;&lt;/c0&gt; swivi par 0 ouswa 1 &lt;c1&gt;&lt;levennman&gt;&lt;/c1&gt; swivi par 1 &lt;c2&gt;&lt;tous&gt;&lt;/c2&gt;, kot:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2556,22 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201023T154626Z" creationid="Hugo" creationdate="20201023T154626Z">
         <seg>Sinkronizasion otomatik avek Editer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122055Z" creationid="Hugo" creationdate="20210222T122008Z">
+        <seg>Konfigirasion text otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122052Z" creationid="Hugo" creationdate="20210222T122052Z">
+        <seg>File text otomatik (*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,6 +4032,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122012Z" creationid="Hugo" creationdate="20210222T122012Z">
+        <seg>Afisaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092510Z" creationid="Hugo" creationdate="20210219T092348Z">
@@ -4704,6 +4744,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111756Z" creationid="Hugo" creationdate="20201016T092136Z">
         <seg>Inskrir nimero segman:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122018Z" creationid="Hugo" creationdate="20210222T122018Z">
+        <seg>Bann antre</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,8 +5678,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200723T185325Z">
-        <seg>Par exanp, pou shortcut OmegaT par defo</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200723T185325Z">
+        <seg>Par exanp, pou sortket OmegaT par defo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,8 +6665,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114813Z" creationid="Hugo" creationdate="20200729T114813Z">
-        <seg>Si zot pa inkonpatib avek bann shortcut sistem, zot pou itilizab depi OmegaT mem.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200729T114813Z">
+        <seg>Si zot pa inkonpatib avek bann sortket sistem, zot pou itilizab depi OmegaT mem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6665,8 +6713,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200729T113014Z">
-        <seg>Si ou lor Mac ek ou oule azout enn shortcut &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Zouti&lt;/g5&gt; &lt;g6&gt;Statistik&lt;/g6&gt; &lt;/m4&gt;, azout lalinn swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200729T113014Z">
+        <seg>Si ou lor Mac ek ou oule azout enn sortket &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Zouti&lt;/g5&gt; &lt;g6&gt;Statistik&lt;/g6&gt; &lt;/m4&gt;, azout lalinn swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6802,8 +6850,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210204T145315Z">
-        <seg>Pa pran kont bann atribi type ek ctype letan konstrir bann baliz shortcut &lt;&amp;bpt&gt; ek &lt;ept&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20210204T145315Z">
+        <seg>Pa pran kont bann atribi type ek ctype letan konstrir bann baliz sortket &lt;&amp;bpt&gt; ek &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8340,8 +8388,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T184312Z">
-        <seg>Laplipar bann item dan meni prinsipal kapav ena zot shortcut.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T184312Z">
+        <seg>Laplipar bann item dan meni prinsipal kapav ena zot sortket.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,8 +8736,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T055103Z" creationid="Hugo" creationdate="20210219T055103Z">
-        <seg>Anrezistrema proze pa neseser, pa fin ena okenn sanzman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122134Z" creationid="Hugo" creationdate="20210219T055103Z">
+        <seg>Anrezistreman proze pa neseser, pa fin ena okenn sanzman</seg>
       </tuv>
     </tu>
     <tu>
@@ -9435,8 +9483,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200706T192019Z">
-        <seg>Enn fwa ki file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo shortcut.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T192019Z">
+        <seg>Enn fwa ki file &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo sortket.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,8 +12222,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200728T121848Z" creationid="Hugo" creationdate="20200706T183947Z">
-        <seg>Personalizasion bann shortcut</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T183947Z">
+        <seg>Personalizasion bann sortket</seg>
       </tuv>
     </tu>
     <tu>
@@ -12382,8 +12430,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121549Z" creationid="Hugo" creationdate="20210222T121508Z">
-        <seg>Triy par &amp;full text, pa par shortcut</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20210222T121508Z">
+        <seg>Triy par &amp;full text, pa par sortket</seg>
       </tuv>
     </tu>
     <tu>
@@ -13538,8 +13586,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131946Z" creationid="Hugo" creationdate="20200729T112041Z">
-        <seg>Premie-la shortcut pou &lt;g0&gt;Open Project&lt;/g0&gt;, deziem-la pou &lt;g1&gt;Kree enn Antre dan Gloser&lt;/g1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200729T112041Z">
+        <seg>Premie-la sortket pou &lt;g0&gt;Open Project&lt;/g0&gt;, deziem-la pou &lt;g1&gt;Kree enn Antre dan Gloser&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13594,8 +13642,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T160106Z" creationid="Hugo" creationdate="20200706T193138Z">
-        <seg>Sintax konplet pou bann tous (shortcut) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121917Z" creationid="Hugo" creationdate="20200706T193138Z">
+        <seg>Sintax konplet pou bann tous (sortket) presise dan dokimantasion Java 1.6 edite par Oracle (anba paz): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13872,16 +13920,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200706T190342Z">
-        <seg>Fisie definision shortcut bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision shortcut par lalinn.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T190342Z">
+        <seg>Fisie definision sortket bizin apel &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, ek bizin ena maximum enn definision sortket par lalinn.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122532Z" creationid="Hugo" creationdate="20200706T192047Z">
-        <seg>Sintax pou ekrir enn definision shortcut li: &lt;c0&gt;&lt;kod litem meni&gt;=&lt;shortcut&gt;&lt;/c0&gt;, kot &lt;e1&gt;&lt;kod litem meni&gt;&lt;/e1&gt; li enn kod ki trouv dan bann tablo anba-la ek &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; li enn konbinezon ki ou finn spesifie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T192047Z">
+        <seg>Sintax pou ekrir enn definision sortket li: &lt;c0&gt;&lt;kod litem meni&gt;=&lt;sortket&gt;&lt;/c0&gt;, kot &lt;e1&gt;&lt;kod litem meni&gt;&lt;/e1&gt; li enn kod ki trouv dan bann tablo anba-la ek &lt;e2&gt;&lt;sortket&gt;&lt;/e2&gt; li enn konbinezon ki ou finn spesifie</seg>
       </tuv>
     </tu>
     <tu>
@@ -15061,6 +15109,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T122150Z" creationid="Hugo" creationdate="20210222T122125Z">
+        <seg>Anrezistreman bann data inposib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T125004Z" creationid="Hugo" creationdate="20201201T124924Z">
@@ -16178,8 +16234,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20200706T185459Z">
-        <seg>Ou kapav sanz bann shortcut existan ouswa kree bann nouvo shortcut si ou met enn file definision shortcut dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200706T185459Z">
+        <seg>Ou kapav sanz bann sortket existan ouswa kree bann nouvo sortket si ou met enn file definision sortket dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16332,8 +16388,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T114702Z" creationid="Hugo" creationdate="20200729T114323Z">
-        <seg>Ou nouvo shortcut pou aparet akote bann litem meni ki ou finn modifie.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200729T114323Z">
+        <seg>Ou nouvo sortket pou aparet akote bann litem meni ki ou finn modifie.</seg>
       </tuv>
     </tu>
     <tu>
