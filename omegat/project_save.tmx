@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133145Z" creationid="Hugo" creationdate="20210222T133145Z">
+        <seg>&amp;Aktiv resers terminolozik &amp;TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T122102Z" creationid="Hugo" creationdate="20210222T121421Z">
@@ -3896,6 +3904,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133052Z" creationid="Hugo" creationdate="20210222T133052Z">
+        <seg>Kree ou prop lakle ek inskrir li anba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T141441Z" creationid="Hugo" creationdate="20201128T141441Z">
@@ -5172,6 +5188,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T090311Z" creationid="Hugo" creationdate="20201201T123733Z">
         <seg>Erer letan ferm plugin depi klas '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133014Z" creationid="Hugo" creationdate="20210222T133014Z">
+        <seg>Finn rankont enn ere letan aktializ file gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -13370,6 +13394,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T072440Z" creationid="Hugo" creationdate="20201013T154817Z">
         <seg>Bann file TMX pou lokalizasion dokimantasion ek site web OmegaT. Zot destine bann lokalizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133029Z" creationid="Hugo" creationdate="20210222T133029Z">
+        <seg>Lakle API TaaS pa defini.</seg>
       </tuv>
     </tu>
     <tu>
