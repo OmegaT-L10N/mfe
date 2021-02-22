@@ -16886,6 +16886,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131200Z" creationid="Hugo" creationdate="20210222T131200Z">
+        <seg>{0} segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T052213Z" creationid="Hugo" creationdate="20210219T052213Z">
