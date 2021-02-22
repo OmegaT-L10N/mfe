@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135907Z" creationid="Hugo" creationdate="20210222T135907Z">
+        <seg>&amp;Reinitializ sa Kouler-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080223Z" creationid="Hugo" creationdate="20201016T080223Z">
@@ -1604,6 +1612,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T140253Z" creationid="Hugo" creationdate="20210222T140253Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferans&lt;/i&gt; &amp;gt; &lt;i&gt;Zeneral&lt;/i&gt; &amp;gt; &lt;i&gt;Servi TAB pou to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T133352Z" creationid="Hugo" creationdate="20210222T133352Z">
@@ -2222,8 +2238,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135836Z" creationid="Hugo" creationdate="20210222T135836Z">
-        <seg>Haylayt alignman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135848Z" creationid="Hugo" creationdate="20210222T135836Z">
+        <seg>Haylayt lalign tablo alignman</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,8 +3474,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T142945Z" creationid="Hugo" creationdate="20200924T142945Z">
-        <seg>Kouler</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135911Z" creationid="Hugo" creationdate="20200924T142945Z">
+        <seg>Bann kouler</seg>
       </tuv>
     </tu>
     <tu>
