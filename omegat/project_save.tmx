@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104907Z" creationid="Hugo" creationdate="20210222T104907Z">
+        <seg>Otoriz &amp;ousi bann komann extern par proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T155751Z" creationid="Hugo" creationdate="20210208T155751Z">
@@ -2576,6 +2584,14 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105128Z" creationid="Hugo" creationdate="20210222T105128Z">
+        <seg>Nesting pa bon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T155918Z" creationid="Hugo" creationdate="20210208T155918Z">
@@ -4276,6 +4292,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T151737Z" creationid="Hugo" creationdate="20210204T151737Z">
         <seg>Bann de&amp;sin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105056Z" creationid="Hugo" creationdate="20210222T105056Z">
+        <seg>Doub</seg>
       </tuv>
     </tu>
     <tu>
@@ -8570,6 +8594,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104921Z" creationid="Hugo" creationdate="20210222T104921Z">
+        <seg>Lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T145438Z" creationid="Hugo" creationdate="20210204T145438Z">
@@ -12598,6 +12630,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104925Z" creationid="Hugo" creationdate="20210222T104925Z">
+        <seg>Baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20210210T151624Z">
@@ -12764,6 +12804,14 @@ Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradir.<
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210209T160042Z" creationid="Hugo" creationdate="20210209T160042Z">
         <seg>Segmantasion pou bann file text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104940Z" creationid="Hugo" creationdate="20210222T104940Z">
+        <seg>Text ki pou siprime</seg>
       </tuv>
     </tu>
     <tu>
