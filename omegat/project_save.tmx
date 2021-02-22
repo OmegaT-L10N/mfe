@@ -5716,6 +5716,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130225Z" creationid="Hugo" creationdate="20210222T130225Z">
+        <seg>Pou enn meyer rezilta, instal bann diksioner apropriye dan "Preferans &gt; Verifikater lortograf".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T100505Z" creationid="Hugo" creationdate="20200924T111036Z">
@@ -8306,6 +8314,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130337Z" creationid="Hugo" creationdate="20210222T130337Z">
+        <seg>Fizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T130455Z" creationid="Hugo" creationdate="20200519T155258Z">
@@ -8326,6 +8342,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T054231Z" creationid="Hugo" creationdate="20201003T054231Z">
         <seg>Microsoft Word, Excel, PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130247Z" creationid="Hugo" creationdate="20210222T130247Z">
+        <seg>Mo bann tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -10183,6 +10207,14 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T113906Z" creationid="Hugo" creationdate="20210222T113849Z">
         <seg>Fer enn nouvo chek validasion bann baliz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130751Z" creationid="Hugo" creationdate="20210222T130751Z">
+        <seg>Swazir enn tradiksion pou tou bann segman anba la pou rezoud bann konfli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12248,6 +12280,22 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153605Z" creationid="Hugo" creationdate="20210204T153605Z">
         <seg>Sequence Library (lisans Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130240Z" creationid="Hugo" creationdate="20210222T130240Z">
+        <seg>Server (orizinal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130312Z" creationid="Hugo" creationdate="20210222T130259Z">
+        <seg>Server (aktialize)</seg>
       </tuv>
     </tu>
     <tu>
