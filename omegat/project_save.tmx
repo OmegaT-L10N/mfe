@@ -4712,6 +4712,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T113807Z" creationid="Hugo" creationdate="20210222T113807Z">
+        <seg>Finn rankont enn erer letan pe fix bann baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T140304Z" creationid="Hugo" creationdate="20201201T140304Z">
@@ -5152,6 +5160,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120706Z" creationid="Hugo" creationdate="20210219T120706Z">
         <seg>Bann komanter ki finn extre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105144Z" creationid="Hugo" creationdate="20210222T105144Z">
+        <seg>Extra</seg>
       </tuv>
     </tu>
     <tu>
@@ -8098,6 +8114,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105131Z" creationid="Hugo" creationdate="20210222T105131Z">
+        <seg>Mankan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102813Z" creationid="Hugo" creationdate="20210219T102813Z">
@@ -9545,6 +9569,14 @@ sistem kot ena ou dosie debaz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105342Z" creationid="Hugo" creationdate="20210222T105342Z">
+        <seg>Orfelin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T053812Z" creationid="Hugo" creationdate="20201010T053812Z">
@@ -9581,6 +9613,14 @@ sistem kot ena ou dosie debaz.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133123Z" creationid="Hugo" creationdate="20201013T132937Z">
         <seg>Bann lezot itilizater plito ankouraze servi &lt;a0&gt;Plug-in Filt Okapi&lt;/a0&gt; anplas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105308Z" creationid="Hugo" creationdate="20210222T105308Z">
+        <seg>Lord pa finn respekte</seg>
       </tuv>
     </tu>
     <tu>
@@ -14969,6 +15009,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105348Z" creationid="Hugo" creationdate="20210222T105348Z">
+        <seg>Pa finn spesifie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201128T094944Z" creationid="Hugo" creationdate="20201024T054507Z">
@@ -15574,6 +15622,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073700Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou inplemante depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pou travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T105248Z" creationid="Hugo" creationdate="20210222T105248Z">
+        <seg>Lespas</seg>
       </tuv>
     </tu>
     <tu>
