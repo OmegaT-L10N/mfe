@@ -3360,10 +3360,10 @@ Erer 404</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T081129Z" creationid="Hugo" creationdate="20201015T081129Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104140Z" creationid="Hugo" creationdate="20201015T081129Z">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
-		Enn dosie ki kotenir bann file ki finn tradi.</seg>
+		Enn dosie ki kotenir bann file ki finn tradir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,8 +3570,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T135342Z" creationid="Hugo" creationdate="20201015T134918Z">
-        <seg>&amp;Kree bann Dokiman Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104145Z" creationid="Hugo" creationdate="20201015T134918Z">
+        <seg>&amp;Kree bann Dokiman Tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7812,8 +7812,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T074100Z" creationid="Hugo" creationdate="20201016T074100Z">
-        <seg>Mark bann Segman deza &amp;Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104157Z" creationid="Hugo" creationdate="20201016T074100Z">
+        <seg>Mark bann Segman ki finn deza &amp;Tradir</seg>
       </tuv>
     </tu>
     <tu>
