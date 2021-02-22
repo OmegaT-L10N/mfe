@@ -15676,8 +15676,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115743Z" creationid="Hugo" creationdate="20210222T115743Z">
-        <seg>Si seleksione, bann item dan gloser </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120137Z" creationid="Hugo" creationdate="20210222T115743Z">
+        <seg>Si seleksione, pano antre otomatik depi gloser pou montre text sours-la ousi.</seg>
       </tuv>
     </tu>
     <tu>
