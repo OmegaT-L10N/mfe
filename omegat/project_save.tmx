@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T141537Z" creationid="Hugo" creationdate="20210222T141537Z">
+        <seg>&amp;Aplike pou tou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T115546Z" creationid="Hugo" creationdate="20201020T115546Z">
@@ -2380,6 +2388,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T141600Z" creationid="Hugo" creationdate="20210222T141600Z">
+        <seg>Finn rankont enn erer letan pe ouver eleman-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
@@ -2464,6 +2480,14 @@ The TMX file will not be loaded.</seg>
         <seg>Erer dans analiz file TMX
 {0}
 File TMX pa pou ouver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142357Z" creationid="Hugo" creationdate="20210222T142357Z">
+        <seg>Enn tradiksion existan finn modifie dan enn version diferan de seki ou ti finn swazir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4596,6 +4620,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20210219T074331Z">
         <seg>Eski ou oule kree li?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T141525Z" creationid="Hugo" creationdate="20210222T141525Z">
+        <seg>Eski ou oule ranplas li avek eleman ki ou pe bouze la?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12038,6 +12070,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T134910Z" creationid="Hugo" creationdate="20201013T134910Z">
         <seg>Nesesit tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T141608Z" creationid="Hugo" creationdate="20210222T141608Z">
+        <seg>Rezoud bann konfli</seg>
       </tuv>
     </tu>
     <tu>
