@@ -6412,10 +6412,34 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134456Z" creationid="Hugo" creationdate="20210222T134456Z">
+        <seg>Not gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T142218Z" creationid="Hugo" creationdate="20200525T160936Z">
         <seg>Vole Gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134447Z" creationid="Hugo" creationdate="20210222T134447Z">
+        <seg>Term sours gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134451Z" creationid="Hugo" creationdate="20210222T134451Z">
+        <seg>Term sib gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -6837,6 +6861,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T155757Z" creationid="Hugo" creationdate="20201014T154515Z">
         <seg>Guide pratik - Itilizasion tokenizer OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134819Z" creationid="Hugo" creationdate="20210222T134819Z">
+        <seg>Lien ipertext</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,6 +8622,46 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T134337Z" creationid="Hugo" creationdate="20210222T134337Z">
         <seg>Bann korespondans ki finn modifie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134429Z" creationid="Hugo" creationdate="20210222T134429Z">
+        <seg>Bann korespondans ki finn siprime aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134435Z" creationid="Hugo" creationdate="20210222T134435Z">
+        <seg>Bann korespondans ki finn siprime inaktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134402Z" creationid="Hugo" creationdate="20210222T134402Z">
+        <seg>Bann korespondans ki finn insert aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134412Z" creationid="Hugo" creationdate="20210222T134412Z">
+        <seg>Bann korespondans ki finn insert inaktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134342Z" creationid="Hugo" creationdate="20210222T134342Z">
+        <seg>Bann korespondans ki pa finn modifie</seg>
       </tuv>
     </tu>
     <tu>
