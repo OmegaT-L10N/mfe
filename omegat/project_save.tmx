@@ -3976,6 +3976,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115612Z" creationid="Hugo" creationdate="20210222T115612Z">
+        <seg>Montre bann &amp;term sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092510Z" creationid="Hugo" creationdate="20210219T092348Z">
@@ -6155,8 +6163,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115426Z" creationid="Hugo" creationdate="20210222T115426Z">
-        <seg>Istorik bann antre</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115547Z" creationid="Hugo" creationdate="20210222T115426Z">
+        <seg>Konplete apartir istorik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115557Z" creationid="Hugo" creationdate="20210222T115451Z">
+        <seg>Predir apartir istorik</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,6 +15670,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T090426Z" creationid="Hugo" creationdate="20210210T142253Z">
         <seg>Kan enn file ena plis segman ki sa, bann segman siplemanter pou sarze kan ou defil an-ba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115743Z" creationid="Hugo" creationdate="20210222T115743Z">
+        <seg>Si seleksione, bann item dan gloser </seg>
       </tuv>
     </tu>
     <tu>
