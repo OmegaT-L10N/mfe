@@ -16306,8 +16306,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125811Z" creationid="Hugo" creationdate="20210222T125811Z">
-        <seg>Ou pe sey servi lematizer Hunspell You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T130110Z" creationid="Hugo" creationdate="20210222T125811Z">
+        <seg>Ou pe sey servi HunspellTokenizer pou lang {0}, me okenn diksioner ortografik finn instale pou sa lang-la.</seg>
       </tuv>
     </tu>
     <tu>
