@@ -1614,8 +1614,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T140253Z" creationid="Hugo" creationdate="20210222T140253Z">
-        <seg>&lt;html&gt;&lt;i&gt;Preferans&lt;/i&gt; &amp;gt; &lt;i&gt;Zeneral&lt;/i&gt; &amp;gt; &lt;i&gt;Servi TAB pou to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T140319Z" creationid="Hugo" creationdate="20210222T140253Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferans&lt;/i&gt; &amp;gt; &lt;i&gt;Zeneral&lt;/i&gt; &amp;gt; &lt;i&gt;Servi TAB pou avanse&lt;/i&gt; finn seleksione&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17770,6 +17770,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131200Z" creationid="Hugo" creationdate="20210222T131200Z">
         <seg>{0} segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T140538Z" creationid="Hugo" creationdate="20210222T140538Z">
+        <seg>{0} modifie lorientasion ant gos-drwat (LTR), drwat-gos (RTL) ek lorientasion ki depann lor bann lang</seg>
       </tuv>
     </tu>
     <tu>
