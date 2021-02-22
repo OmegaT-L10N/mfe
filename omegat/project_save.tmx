@@ -4104,6 +4104,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120640Z" creationid="Hugo" creationdate="20210222T120627Z">
+        <seg>Afis bann antre kouma "&lt;sours&gt; → &lt;sib&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120629Z" creationid="Hugo" creationdate="20210222T120558Z">
+        <seg>Afis bann antre kouma "&lt;sib&gt; → &lt;sours&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T133022Z" creationid="Hugo" creationdate="20210212T125320Z">
@@ -5876,6 +5892,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120503Z" creationid="Hugo" creationdate="20210222T120503Z">
+        <seg>Bann opsion antre otomatik depi gloser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T115310Z" creationid="Hugo" creationdate="20210222T115310Z">
@@ -6429,6 +6453,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T132001Z" creationid="Hugo" creationdate="20200924T124338Z">
         <seg>Si sa lopsion-la ek lopsion &lt;l0&gt;&lt;g1&gt;Inser text sours&lt;/g1&gt;&lt;/l0&gt; zot toule-de seleksione, tou bann mo dan enn antre dan gloser pou tradir otomatikman letan text sours integre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120441Z" creationid="Hugo" creationdate="20210222T120441Z">
+        <seg>Si seleksione, bann antre pou triye dan lord alfabetik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12140,6 +12172,22 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120614Z" creationid="Hugo" creationdate="20210222T120614Z">
+        <seg>Montre term &amp;sours an-premie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120533Z" creationid="Hugo" creationdate="20210222T120533Z">
+        <seg>Montre term &amp;sib an-premie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090927Z" creationid="Hugo" creationdate="20201022T090927Z">
@@ -12302,8 +12350,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120319Z" creationid="Hugo" creationdate="20210222T120319Z">
-        <seg>Triy bann term sours par lord alfabetik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120417Z" creationid="Hugo" creationdate="20210222T120319Z">
+        <seg>Triy bann term sours dan lord &amp;alfabetik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12318,8 +12366,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120348Z" creationid="Hugo" creationdate="20210222T120348Z">
-        <seg>Triy </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120421Z" creationid="Hugo" creationdate="20210222T120348Z">
+        <seg>Triy bann term sib dan &amp;lord alfabetik</seg>
       </tuv>
     </tu>
     <tu>
