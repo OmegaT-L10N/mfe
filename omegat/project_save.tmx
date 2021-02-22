@@ -8706,6 +8706,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134007Z" creationid="Hugo" creationdate="20210222T134007Z">
+        <seg>Informasion modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150318Z" creationid="Hugo" creationdate="20210210T150245Z">
@@ -8718,6 +8726,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150409Z" creationid="Hugo" creationdate="20210210T150409Z">
         <seg>MOdel pou informasion modifikasion pou bann segman ki pena dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134028Z" creationid="Hugo" creationdate="20210222T134028Z">
+        <seg>Text informasion modifikasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -9198,6 +9214,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104921Z" creationid="Hugo" creationdate="20210222T104921Z">
         <seg>Lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133917Z" creationid="Hugo" creationdate="20210222T133917Z">
+        <seg>Bann segman ki pa inik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133949Z" creationid="Hugo" creationdate="20210222T133949Z">
+        <seg>Background bann segman ki pa inik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12332,6 +12364,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133754Z" creationid="Hugo" creationdate="20210222T133754Z">
+        <seg>Background marker segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment marker text</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T133731Z" creationid="Hugo" creationdate="20210222T133731Z">
@@ -12408,6 +12448,22 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T135115Z" creationid="Hugo" creationdate="20201016T100640Z">
         <seg>Bann Segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133818Z" creationid="Hugo" creationdate="20210222T133818Z">
+        <seg>Bann segman avek not</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133837Z" creationid="Hugo" creationdate="20210222T133837Z">
+        <seg>Text bann segman avek not</seg>
       </tuv>
     </tu>
     <tu>
@@ -13128,6 +13184,22 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T103506Z" creationid="Hugo" creationdate="20201201T103506Z">
         <seg>Pa finn trouv segman sours pou sertin unit tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133803Z" creationid="Hugo" creationdate="20210222T133803Z">
+        <seg>Bann segman sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133812Z" creationid="Hugo" creationdate="20210222T133812Z">
+        <seg>Text bann segman sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -15435,6 +15507,22 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133901Z" creationid="Hugo" creationdate="20210222T133901Z">
+        <seg>Bann segman ki finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133908Z" creationid="Hugo" creationdate="20210222T133908Z">
+        <seg>Text bann segman ki finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104315Z" creationid="Hugo" creationdate="20201016T101523Z">
@@ -15913,10 +16001,26 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133846Z" creationid="Hugo" creationdate="20210222T133846Z">
+        <seg>Bann segman ki pa finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segments only</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104753Z" creationid="Hugo" creationdate="20200924T111754Z">
         <seg>Selman segman ki pa finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133855Z" creationid="Hugo" creationdate="20210222T133855Z">
+        <seg>Text bann segman ki pa finn tradir</seg>
       </tuv>
     </tu>
     <tu>
