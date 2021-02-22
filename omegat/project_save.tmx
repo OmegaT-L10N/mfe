@@ -8042,6 +8042,22 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142521Z" creationid="Hugo" creationdate="20210222T142521Z">
+        <seg>Gard mo version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142528Z" creationid="Hugo" creationdate="20210222T142528Z">
+        <seg>Gard lot version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135513Z" creationid="Hugo" creationdate="20210212T135513Z">
@@ -12692,6 +12708,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142535Z" creationid="Hugo" creationdate="20210222T142535Z">
+        <seg>Propriyete segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T103416Z" creationid="Hugo" creationdate="20201201T103416Z">
@@ -13906,6 +13930,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133323Z" creationid="Hugo" creationdate="20200924T133323Z">
         <seg>Terminolozi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142555Z" creationid="Hugo" creationdate="20210222T142542Z">
+        <seg>Afisaz Tablo</seg>
       </tuv>
     </tu>
     <tu>
@@ -16998,6 +17030,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T073700Z" creationid="Hugo" creationdate="20201001T121015Z">
         <seg>Sipa li pou inplemante depann an premie lor apresiasion lekip devlopman par rapor so kontribision zeneral OmegaT, ek an segonn lor sipa ena enn devloper disponib pou travay lor la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T142510Z" creationid="Hugo" creationdate="20210222T142510Z">
+        <seg>Ki version ki ou oule garde?</seg>
       </tuv>
     </tu>
     <tu>
