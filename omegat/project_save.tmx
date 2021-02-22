@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125703Z" creationid="Hugo" creationdate="20210222T125703Z">
+        <seg>&amp;Otoriz selman bann karakter inik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T134139Z" creationid="Hugo" creationdate="20210210T134139Z">
@@ -2941,6 +2949,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125719Z" creationid="Hugo" creationdate="20210222T125719Z">
+        <seg>&amp;Efase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140324Z" creationid="Hugo" creationdate="20201016T140324Z">
@@ -3065,6 +3081,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T091110Z" creationid="Hugo" creationdate="20201022T091110Z">
         <seg>Sanze apre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125721Z" creationid="Hugo" creationdate="20210222T125721Z">
+        <seg>Tablo bann karakter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,6 +3868,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102419Z" creationid="Hugo" creationdate="20210219T102419Z">
         <seg>URL server personalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125653Z" creationid="Hugo" creationdate="20210222T125653Z">
+        <seg>Tablo personalize</seg>
       </tuv>
     </tu>
     <tu>
@@ -5864,6 +5896,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T111857Z" creationid="Hugo" creationdate="20210212T111857Z">
         <seg>Enn full chek kapav donn bann fo negatif dan bann text normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125647Z" creationid="Hugo" creationdate="20210222T125647Z">
+        <seg>Tablo konplet</seg>
       </tuv>
     </tu>
     <tu>
@@ -16260,6 +16300,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T104031Z" creationid="Hugo" creationdate="20201022T104031Z">
         <seg>Ou pou modifie {0} segman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T125811Z" creationid="Hugo" creationdate="20210222T125811Z">
+        <seg>Ou pe sey servi lematizer Hunspell You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
     </tu>
     <tu>
