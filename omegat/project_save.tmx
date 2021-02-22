@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132045Z" creationid="Hugo" creationdate="20210222T132045Z">
+        <seg>&amp;Swazir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091949Z" creationid="Hugo" creationdate="20210219T091949Z">
@@ -1040,8 +1048,8 @@
       <tuv lang="en">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131908Z" creationid="Hugo" creationdate="20210222T131908Z">
-        <seg>Resers &amp;TaaS Terminology Lookup</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131932Z" creationid="Hugo" creationdate="20210222T131908Z">
+        <seg>Resers Terminolozi &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,6 +2144,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121746Z" creationid="Hugo" creationdate="20210219T121746Z">
         <seg>Align proze-la par rapor {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132041Z" creationid="Hugo" creationdate="20210222T132041Z">
+        <seg>Tou bann domenn</seg>
       </tuv>
     </tu>
     <tu>
@@ -4040,6 +4056,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131953Z" creationid="Hugo" creationdate="20210222T131953Z">
+        <seg>Deskripsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description of OmegaT (2008).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T150549Z" creationid="Hugo" creationdate="20201014T150549Z">
@@ -4500,6 +4524,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135110Z" creationid="Hugo" creationdate="20200519T160042Z">
         <seg>Eski dosie la ena trwa file mem nom, avek extansion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132025Z" creationid="Hugo" creationdate="20210222T132021Z">
+        <seg>Bann domenn</seg>
       </tuv>
     </tu>
     <tu>
@@ -8774,6 +8806,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131946Z" creationid="Hugo" creationdate="20210222T131946Z">
+        <seg>Nom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Navigate to and select the folder you created for dictionaries.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200921T121740Z" creationid="Hugo" creationdate="20200918T110718Z">
@@ -11634,6 +11674,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132257Z" creationid="Hugo" creationdate="20210222T132257Z">
+        <seg>Rekiper lalis bann koleksion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review of OmegaT 1.6 RC5.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T150525Z" creationid="Hugo" creationdate="20201014T150441Z">
@@ -12876,6 +12924,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132010Z" creationid="Hugo" creationdate="20210222T132010Z">
+        <seg>Mo sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T090720Z" creationid="Hugo" creationdate="20201016T114509Z">
@@ -13278,6 +13334,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T131943Z" creationid="Hugo" creationdate="20210222T131943Z">
+        <seg>Bann Koleksion TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS Terminology</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133323Z" creationid="Hugo" creationdate="20200924T133323Z">
@@ -13338,6 +13402,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121143Z" creationid="Hugo" creationdate="20210219T120951Z">
         <seg>Baliz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132012Z" creationid="Hugo" creationdate="20210222T132012Z">
+        <seg>Mo sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,6 +15765,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104753Z" creationid="Hugo" creationdate="20200924T111754Z">
         <seg>Selman segman ki pa finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132031Z" creationid="Hugo" creationdate="20210222T132031Z">
+        <seg>Aktialize</seg>
       </tuv>
     </tu>
     <tu>
