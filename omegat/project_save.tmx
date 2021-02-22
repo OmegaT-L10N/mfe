@@ -2544,6 +2544,14 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115331Z" creationid="Hugo" creationdate="20210222T115331Z">
+        <seg>Bann antre text otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T091710Z" creationid="Hugo" creationdate="20210219T091710Z">
@@ -2985,6 +2993,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T091110Z" creationid="Hugo" creationdate="20201022T091110Z">
         <seg>Sanze apre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115342Z" creationid="Hugo" creationdate="20210222T115339Z">
+        <seg>Tablo bann karakter</seg>
       </tuv>
     </tu>
     <tu>
@@ -6137,6 +6153,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115426Z" creationid="Hugo" creationdate="20210222T115426Z">
+        <seg>Istorik bann antre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T072415Z" creationid="Hugo" creationdate="20201001T072415Z">
@@ -8134,6 +8158,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T105131Z" creationid="Hugo" creationdate="20210222T105131Z">
         <seg>Mankan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115315Z" creationid="Hugo" creationdate="20210222T115315Z">
+        <seg>Baliz mankan</seg>
       </tuv>
     </tu>
     <tu>
