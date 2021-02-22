@@ -1436,6 +1436,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T114448Z" creationid="Hugo" creationdate="20210222T114448Z">
+        <seg>&lt;Okenn sigzestion&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T114028Z" creationid="Hugo" creationdate="20201003T114028Z">
@@ -9915,6 +9923,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T113906Z" creationid="Hugo" creationdate="20210222T113849Z">
+        <seg>Fer enn nouvo chek validasion bann baliz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select a different folder.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T084921Z" creationid="Hugo" creationdate="20201022T084921Z">
@@ -13754,6 +13770,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201021T133942Z" creationid="Hugo" creationdate="20201021T133942Z">
         <seg>Lang file sib pa valid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T113829Z" creationid="Hugo" creationdate="20210222T113822Z">
+        <seg>Tradiksion-la finn sanze.</seg>
       </tuv>
     </tu>
     <tu>
