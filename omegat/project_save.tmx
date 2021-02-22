@@ -6433,6 +6433,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120238Z" creationid="Hugo" creationdate="20210222T120238Z">
+        <seg>Si seleksione, bann antre ki pli long pou plase an-premie dan lalis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, select this option.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T062909Z" creationid="Hugo" creationdate="20201010T062909Z">
@@ -12124,6 +12132,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120245Z" creationid="Hugo" creationdate="20210222T120212Z">
+        <seg>Montre bann term sib ki pli &amp;long an-premie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090927Z" creationid="Hugo" creationdate="20201022T090927Z">
@@ -12284,10 +12300,26 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120319Z" creationid="Hugo" creationdate="20210222T120319Z">
+        <seg>Triy bann term sours par lord alfabetik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145056Z" creationid="Hugo" creationdate="20210210T145056Z">
         <seg>Triy bann korespondans par:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T120348Z" creationid="Hugo" creationdate="20210222T120348Z">
+        <seg>Triy </seg>
       </tuv>
     </tu>
     <tu>
