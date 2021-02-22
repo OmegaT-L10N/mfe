@@ -12406,8 +12406,8 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       <tuv lang="en">
         <seg>Search Found Mark</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134855Z" creationid="Hugo" creationdate="20210222T134855Z">
-        <seg>Text ki ti</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135538Z" creationid="Hugo" creationdate="20210222T134855Z">
+        <seg>Mark text reserse</seg>
       </tuv>
     </tu>
     <tu>
@@ -12420,10 +12420,18 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134958Z" creationid="Hugo" creationdate="20210222T134958Z">
+        <seg>Text ranplase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T140123Z" creationid="Hugo" creationdate="20200729T124244Z">
-        <seg>Reserse ek Ranplase...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T135114Z" creationid="Hugo" creationdate="20200729T124244Z">
+        <seg>Resers ek Ranplase...</seg>
       </tuv>
     </tu>
     <tu>
