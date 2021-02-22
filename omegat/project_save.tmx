@@ -2046,8 +2046,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210212T122742Z">
-        <seg>Otoriz bann enn lord &amp;diferan pour bann baliz ki finn tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104716Z" creationid="Hugo" creationdate="20210212T122742Z">
+        <seg>Otoriz enn lord &amp;diferan pour bann baliz ki finn tradir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,8 +3278,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T161945Z" creationid="Hugo" creationdate="20210208T161945Z">
-        <seg>Konpres bann lespas dan dokiman tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104630Z" creationid="Hugo" creationdate="20210208T161945Z">
+        <seg>Konpres bann lespas dan dokiman tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -7892,16 +7892,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T121404Z" creationid="Hugo" creationdate="20200729T131811Z">
-        <seg>Mark bann segman deza tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104726Z" creationid="Hugo" creationdate="20200729T131811Z">
+        <seg>Mark bann segman ki finn deza tradir</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T134602Z" creationid="Hugo" creationdate="20200729T131833Z">
-        <seg>Mark bann segman non tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104735Z" creationid="Hugo" creationdate="20200729T131833Z">
+        <seg>Mark bann segman ki pa finn tradir</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,8 +10780,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T162009Z" creationid="Hugo" creationdate="20210208T162009Z">
-        <seg>Siprim bann komanter HTML dan dokiman tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104637Z" creationid="Hugo" creationdate="20210208T162009Z">
+        <seg>Siprim bann komanter HTML dan dokiman tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -12745,9 +12745,9 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T080449Z" creationid="Hugo" creationdate="20201022T132936Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104517Z" creationid="Hugo" creationdate="20201022T132936Z">
         <seg>Ranplasman:
-Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradi.</seg>
+Scope bann ranplasman li lor bann segman sib proze, mem si zot pa ankor tradir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14419,24 +14419,24 @@ depi server.</seg>
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130813Z" creationid="Hugo" creationdate="20201201T130754Z">
-        <seg>Ankodaz File Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104608Z" creationid="Hugo" creationdate="20201201T130754Z">
+        <seg>Ankodaz bann File ki finn Tradir</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated File Encoding:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T145200Z" creationid="Hugo" creationdate="20210208T145144Z">
-        <seg>Ankodaz File Tradi:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104617Z" creationid="Hugo" creationdate="20210208T145144Z">
+        <seg>Ankodaz bann File ki finn Tradir:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T130829Z" creationid="Hugo" creationdate="20201201T130829Z">
-        <seg>Pattern Nom File Tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104543Z" creationid="Hugo" creationdate="20201201T130829Z">
+        <seg>Pattern Nom bann File ki finn Tradir</seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,8 +14947,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segments only</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T111841Z" creationid="Hugo" creationdate="20200924T111754Z">
-        <seg>Selman segman pa tradi</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T104753Z" creationid="Hugo" creationdate="20200924T111754Z">
+        <seg>Selman segman ki pa finn tradir</seg>
       </tuv>
     </tu>
     <tu>
