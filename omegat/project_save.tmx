@@ -4608,6 +4608,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132337Z" creationid="Hugo" creationdate="20210222T132337Z">
+        <seg>Download koleksion {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T105842Z" creationid="Hugo" creationdate="20200519T152003Z">
@@ -11586,6 +11594,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132644Z" creationid="Hugo" creationdate="20210222T132644Z">
+        <seg>Erer reket: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131829Z" creationid="Hugo" creationdate="20210222T131829Z">
@@ -11678,6 +11694,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T132257Z" creationid="Hugo" creationdate="20210222T132257Z">
         <seg>Rekiper lalis bann koleksion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132331Z" creationid="Hugo" creationdate="20210222T132331Z">
+        <seg>Rekiper lalis bann domenn...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,6 +12472,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T135521Z" creationid="Hugo" creationdate="20200924T135521Z">
         <seg>Swazir domenn resers termilozik TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T132314Z" creationid="Hugo" creationdate="20210222T132314Z">
+        <seg>Swazir domenn TaaS</seg>
       </tuv>
     </tu>
     <tu>
