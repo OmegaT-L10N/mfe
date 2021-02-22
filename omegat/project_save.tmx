@@ -2853,6 +2853,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134135Z" creationid="Hugo" creationdate="20210222T134135Z">
+        <seg>Bann karakter kontrol bidireksionel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044452Z" creationid="Hugo" creationdate="20201010T044452Z">
@@ -6140,6 +6148,46 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134156Z" creationid="Hugo" creationdate="20210222T134156Z">
+        <seg>Depi memwar 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134150Z" creationid="Hugo" creationdate="20210222T134150Z">
+        <seg>Depi memwar ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134208Z" creationid="Hugo" creationdate="20210222T134208Z">
+        <seg>Depi memwar otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134218Z" creationid="Hugo" creationdate="20210222T134218Z">
+        <seg>Depi memwar forse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134141Z" creationid="Hugo" creationdate="20210222T134141Z">
+        <seg>Depi memwar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043806Z" creationid="Hugo" creationdate="20201010T043806Z">
@@ -6304,6 +6352,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201020T124011Z" creationid="Hugo" creationdate="20201020T115026Z">
         <seg>Dosie pou bann Gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134254Z" creationid="Hugo" creationdate="20210222T134254Z">
+        <seg>Bann korespondans dan gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,6 +7922,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134311Z" creationid="Hugo" creationdate="20210222T134236Z">
+        <seg>Verifikater lingwistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163310Z" creationid="Hugo" creationdate="20210208T163301Z">
@@ -8518,6 +8582,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T035435Z" creationid="Hugo" creationdate="20201003T035435Z">
         <seg>Propagasion bann korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134337Z" creationid="Hugo" creationdate="20210222T134337Z">
+        <seg>Bann korespondans ki finn modifie</seg>
       </tuv>
     </tu>
     <tu>
@@ -9213,6 +9285,14 @@ Erer 404</seg>
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104921Z" creationid="Hugo" creationdate="20210222T104921Z">
+        <seg>Lespas insekab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134100Z" creationid="Hugo" creationdate="20210222T134100Z">
         <seg>Lespas insekab</seg>
       </tuv>
     </tu>
@@ -10289,6 +10369,14 @@ Vanishing like mist</seg>
         <seg>Sa paz-la finn emansipe
 Li bien-bien lwin zordi...
 Erer 404</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134226Z" creationid="Hugo" creationdate="20210222T134226Z">
+        <seg>Delimitasion paragraf</seg>
       </tuv>
     </tu>
     <tu>
@@ -11570,6 +11658,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134057Z" creationid="Hugo" creationdate="20210222T134057Z">
+        <seg>Text ki bizin siprime dan sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T150324Z" creationid="Hugo" creationdate="20200729T130753Z">
@@ -11614,6 +11710,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140503Z" creationid="Hugo" creationdate="20201016T140503Z">
         <seg>Repetision:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134229Z" creationid="Hugo" creationdate="20210222T134229Z">
+        <seg>Ranplase</seg>
       </tuv>
     </tu>
     <tu>
@@ -13252,6 +13356,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134259Z" creationid="Hugo" creationdate="20210222T134259Z">
+        <seg>Verifikater lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T060147Z" creationid="Hugo" creationdate="20210219T060147Z">
@@ -13622,6 +13734,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134032Z" creationid="Hugo" creationdate="20210222T134032Z">
+        <seg>Bann baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T132012Z" creationid="Hugo" creationdate="20210222T132012Z">
@@ -13682,6 +13802,14 @@ Par defo, scope resers li lor lansanb proze, me kapav konfigir li lor ninport ki
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150331Z" creationid="Hugo" creationdate="20210210T144920Z">
         <seg>Varyab pou model:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134318Z" creationid="Hugo" creationdate="20210222T134318Z">
+        <seg>Terminolozi</seg>
       </tuv>
     </tu>
     <tu>
@@ -16645,6 +16773,14 @@ lalinn {1}, kolonn {2}.</seg>
         <seg>Whitespace</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T105248Z" creationid="Hugo" creationdate="20210222T105248Z">
+        <seg>Lespas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134107Z" creationid="Hugo" creationdate="20210222T134107Z">
         <seg>Lespas</seg>
       </tuv>
     </tu>
