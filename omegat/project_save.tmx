@@ -1822,8 +1822,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104950Z" creationid="Hugo" creationdate="20210224T104950Z">
-        <seg>&lt;s0&gt;Not pou bann itilizater Linux&lt;/s0&gt;: laplipar bann distribision Linux deza ena "Java Runtime Environment", me sertin inplemantasion 'Open Source'  but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T105137Z" creationid="Hugo" creationdate="20210224T104950Z">
+        <seg>&lt;s0&gt;Not pou bann itilizater Linux&lt;/s0&gt;: laplipar bann distribision Linux deza ena "Java Runtime Environment", me sertin inplemantasion 'open source' pa mars bien avek OmegaT (mem si sa pa aparet toutswit).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8211,6 +8211,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T121850Z" creationid="Hugo" creationdate="20200729T113014Z">
         <seg>Si ou lor Mac ek ou oule azout enn sortket &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; pou &lt;m4&gt; &lt;g5&gt;Zouti&lt;/g5&gt; &lt;g6&gt;Statistik&lt;/g6&gt; &lt;/m4&gt;, azout lalinn swivan dan &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T105419Z" creationid="Hugo" creationdate="20210224T105419Z">
+        <seg>Si Linux li enn lanvironnman nouvo pour ou, nou rekomann swazir version OmegaT avek JRE.</seg>
       </tuv>
     </tu>
     <tu>
