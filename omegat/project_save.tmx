@@ -1758,8 +1758,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112115Z" creationid="Hugo" creationdate="20210220T112115Z">
-        <seg>&lt;html&gt;URL Repository:&lt;/html&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20210220T112115Z">
+        <seg>&lt;html&gt;URL 'Repository':&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5694,8 +5694,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T132849Z" creationid="Hugo" creationdate="20201021T132317Z">
-        <seg>URL repository vid dan mapping</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084335Z" creationid="Hugo" creationdate="20201021T132317Z">
+        <seg>URL 'repository' vid dan 'mapping'</seg>
       </tuv>
     </tu>
     <tu>
@@ -5914,8 +5914,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112408Z" creationid="Hugo" creationdate="20210220T112408Z">
-        <seg>Finn rankont enn erer letan pe chek proze-la depi repository distan:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T112408Z">
+        <seg>Finn rankont enn erer letan pe chek proze-la depi 'repository' distan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,8 +6074,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115635Z" creationid="Hugo" creationdate="20210220T115635Z">
-        <seg>Erer aktializasion repository-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T115635Z">
+        <seg>Erer aktializasion 'repository'-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6552,6 +6552,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032053Z" creationid="Hugo" creationdate="20201010T031948Z">
         <seg>Tracking system pou bann reket nouvo fonksionalite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084557Z" creationid="Hugo" creationdate="20210224T084557Z">
+        <seg>'File'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,8 +7086,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201022T100422Z" creationid="Hugo" creationdate="20201022T100422Z">
-        <seg>Pa fer diferans ant &amp;larzer karakter fullwidth ek halfwidth</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084607Z" creationid="Hugo" creationdate="20201022T100422Z">
+        <seg>Pa fer diferans ant &amp;larzer karakter 'fullwidth' ek 'halfwidth'</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,8 +8618,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T124637Z" creationid="Hugo" creationdate="20201020T142652Z">
-        <seg>Tip repository la pa valid: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20201020T142652Z">
+        <seg>Tip 'repository' la pa valid: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9436,8 +9444,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T154036Z" creationid="Hugo" creationdate="20201013T154036Z">
-        <seg>Repository TMX lokalizasion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20201013T154036Z">
+        <seg>'Repository' TMX lokalizasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -9540,8 +9548,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112050Z" creationid="Hugo" creationdate="20201020T130711Z">
-        <seg>Mapping bann Dosie Lokal ver bann Dosie Distan dan bann Repository</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084345Z" creationid="Hugo" creationdate="20201020T130711Z">
+        <seg>'Mapping' bann Dosie Lokal ver bann Dosie Distan dan bann 'Repository'</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,16 +13060,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T112033Z" creationid="Hugo" creationdate="20201020T130531Z">
-        <seg>Bann Repository Distan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20201020T130531Z">
+        <seg>Bann 'Repository' Distan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115607Z" creationid="Hugo" creationdate="20210220T115530Z">
-        <seg>Erer kominikasion avek rezo repository distan: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T115530Z">
+        <seg>Erer kominikasion avek rezo 'repository' distan: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13274,26 +13282,42 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084453Z" creationid="Hugo" creationdate="20210224T084453Z">
+        <seg>'Repository'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115433Z" creationid="Hugo" creationdate="20210220T115433Z">
-        <seg>Informasion Idantifikasion Repository</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20210220T115433Z">
+        <seg>Informasion Idantifikasion 'Repository'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084404Z" creationid="Hugo" creationdate="20210224T084404Z">
+        <seg>'Mapping' bann 'Repository'...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T125644Z" creationid="Hugo" creationdate="20201021T125644Z">
-        <seg>Repository {0} deza prezan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20201021T125644Z">
+        <seg>'Repository' {0} deza prezan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201021T131149Z" creationid="Hugo" creationdate="20201021T131149Z">
-        <seg>Repository {0} inkoni</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084318Z" creationid="Hugo" creationdate="20201021T131149Z">
+        <seg>'Repository' {0} inkoni</seg>
       </tuv>
     </tu>
     <tu>
@@ -15277,6 +15301,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084549Z" creationid="Hugo" creationdate="20210224T084549Z">
+        <seg>Sou-version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090007Z" creationid="Hugo" creationdate="20201008T085949Z">
@@ -15391,8 +15423,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T115443Z" creationid="Hugo" creationdate="20210220T115443Z">
-        <seg>Sinkronizasion bann repository</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T115443Z">
+        <seg>Sinkronizasion bann 'repository'</seg>
       </tuv>
     </tu>
     <tu>
@@ -15618,6 +15650,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T111708Z" creationid="Hugo" creationdate="20210210T111708Z">
         <seg>Lekip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084435Z" creationid="Hugo" creationdate="20210224T084435Z">
+        <seg>'Mapping' bann 'Repository' Mod Lekip</seg>
       </tuv>
     </tu>
     <tu>
@@ -17043,16 +17083,16 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113042Z" creationid="Hugo" creationdate="20210220T113042Z">
-        <seg>Sa enn repository Git.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T113042Z">
+        <seg>Sa enn 'repository' Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210220T113157Z" creationid="Hugo" creationdate="20210220T113157Z">
-        <seg>Sa enn repository Subversion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084306Z" creationid="Hugo" creationdate="20210220T113157Z">
+        <seg>Sa enn 'repository' Subversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17737,6 +17777,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104449Z" creationid="Hugo" creationdate="20201022T102755Z">
         <seg>&amp;Ki pa finn tradir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084438Z" creationid="Hugo" creationdate="20210224T084438Z">
+        <seg>Bann URL</seg>
       </tuv>
     </tu>
     <tu>
