@@ -5560,6 +5560,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T112037Z" creationid="Hugo" creationdate="20210224T111931Z">
+        <seg>Pandan instalasion, ou kapav gagn plizier alert sekirite. Sa depann lor ou 'operating system'.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163808Z" creationid="Hugo" creationdate="20210208T163808Z">
@@ -16414,8 +16422,8 @@ Sey koriz erer-la, ek reload proze.</seg>
       <tuv lang="en">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111708Z" creationid="Hugo" creationdate="20210224T111553Z">
-        <seg>Version 'Web Start' la li enn solision instalasion sinp ki permet </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111904Z" creationid="Hugo" creationdate="20210224T111553Z">
+        <seg>Version 'Web Start' li enn lot fason pou instal OmegaT lor ou ordinater.</seg>
       </tuv>
     </tu>
     <tu>
