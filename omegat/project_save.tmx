@@ -9698,6 +9698,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T105944Z" creationid="Hugo" creationdate="20210224T105944Z">
+        <seg>Mac OS X ena enn fonksion ki apel "Gatekeeper" ki ranfors sekirite ek ampes bann program ki pa signe exekite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074250Z" creationid="Hugo" creationdate="20201016T074250Z">
@@ -15024,6 +15032,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083821Z" creationid="Hugo" creationdate="20200924T142436Z">
         <seg>Montre bwat dialog pou sanz 'font' afisaz text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T105805Z" creationid="Hugo" creationdate="20210224T105805Z">
+        <seg>Signe/Pa Signe</seg>
       </tuv>
     </tu>
     <tu>
