@@ -10282,6 +10282,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T105749Z" creationid="Hugo" creationdate="20210224T105749Z">
+        <seg>Bann itilizater ki pli avanse kapav anvi instal JRE Orcale (Sun) nivo sistem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T105315Z" creationid="Hugo" creationdate="20210219T105315Z">
