@@ -1425,10 +1425,10 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T074023Z" creationid="Hugo" creationdate="20201015T073759Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091422Z" creationid="Hugo" creationdate="20201015T073759Z">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
-		Tokenizer lang sours ou sib ki pou servi (ranplas bann paramet
+		'Tokenizer' lang sours ou sib ki pou servi (ranplas bann paramet
 		proze).</seg>
       </tuv>
     </tu>
@@ -3140,6 +3140,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201027T160102Z" creationid="Hugo" creationdate="20201027T134033Z">
         <seg>Bann preferans finn anrezistre dan {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091615Z" creationid="Hugo" creationdate="20210224T091615Z">
+        <seg>Bakgrownd</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7124,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091552Z" creationid="Hugo" creationdate="20210224T091552Z">
+        <seg>Full-text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20210210T145158Z">
@@ -7827,8 +7843,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T155757Z" creationid="Hugo" creationdate="20201014T154515Z">
-        <seg>Guide pratik - Itilizasion tokenizer OmegaT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091329Z" creationid="Hugo" creationdate="20201014T154515Z">
+        <seg>Guide pratik - Itilizasion 'tokenizer' OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9086,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T142528Z" creationid="Hugo" creationdate="20210222T142528Z">
         <seg>Gard lot version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091517Z" creationid="Hugo" creationdate="20210224T091517Z">
+        <seg>Gard bann baliz dan text tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,8 +10528,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T115910Z" creationid="Hugo" creationdate="20210219T105118Z">
-        <seg>Okenn OAuth token finn spesifie</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091435Z" creationid="Hugo" creationdate="20210219T105118Z">
+        <seg>Okenn 'token' OAuth finn spesifie</seg>
       </tuv>
     </tu>
     <tu>
@@ -10951,6 +10975,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T143613Z" creationid="Hugo" creationdate="20210208T143613Z">
         <seg>Bann o&amp;psion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091454Z" creationid="Hugo" creationdate="20210224T091454Z">
+        <seg>'Token' OAuth</seg>
       </tuv>
     </tu>
     <tu>
