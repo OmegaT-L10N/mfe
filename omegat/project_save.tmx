@@ -14892,6 +14892,22 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090511Z" creationid="Hugo" creationdate="20210224T090336Z">
+        <seg>Donk, li probab ki li pli rapid tap term-la direkteman lor klavie, san pran kont gloser ek so bann sortket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090328Z" creationid="Hugo" creationdate="20210224T090328Z">
+        <seg>Donk, bizin sanz "pojavni meni", setadir form nominatif, dan "pojavnem meniju", setadir form lokatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032401Z" creationid="Hugo" creationdate="20201010T032401Z">
