@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084135Z" creationid="Hugo" creationdate="20210224T084135Z">
+        <seg>&amp;Konsilte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse Online</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T155035Z" creationid="Hugo" creationdate="20210223T155008Z">
@@ -3096,6 +3104,14 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084153Z" creationid="Hugo" creationdate="20210224T084153Z">
+        <seg>Kon&amp;silte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T131726Z" creationid="Hugo" creationdate="20200729T131726Z">
@@ -3261,6 +3277,30 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084210Z" creationid="Hugo" creationdate="20210224T084210Z">
+        <seg>Konsil&amp;te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084230Z" creationid="Hugo" creationdate="20210224T084230Z">
+        <seg>Konsilt&amp;e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084219Z" creationid="Hugo" creationdate="20210224T084219Z">
+        <seg>Konsilte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T134628Z" creationid="Hugo" creationdate="20200924T134628Z">
@@ -3279,8 +3319,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Browser plugin</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T154917Z" creationid="Hugo" creationdate="20201013T125734Z">
-        <seg>Modil Browser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084110Z" creationid="Hugo" creationdate="20201013T125734Z">
+        <seg>Modil Navigater</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,8 +5514,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201020T122947Z" creationid="Hugo" creationdate="20201020T122947Z">
-        <seg>E&amp;xklizion...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T084140Z" creationid="Hugo" creationdate="20201020T122947Z">
+        <seg>Bann E&amp;xklizion...</seg>
       </tuv>
     </tu>
     <tu>
