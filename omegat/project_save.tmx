@@ -5354,8 +5354,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T161925Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>'Download' 'file' la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ouswa &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080022Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>'Download' 'file'-la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ou &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18252,8 +18252,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Servi itiliter dezarsivaz ‘untar’ (ouswa enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer 'file'-la so konteni dan dosie "dictionary" proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080105Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer 'file'-la so konteni dan dosie "Diksioner" proze-la.</seg>
       </tuv>
     </tu>
     <tu>
