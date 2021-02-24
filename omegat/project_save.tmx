@@ -7905,8 +7905,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si 'file'-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo antre pou touzour format text separe par tabilasion ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080839Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si 'file'-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo antre pou touzour dan format text separe par tabilasion ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10200,8 +10200,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200527T174837Z">
-        <seg>Kapav manielman azout enn nouvo term dan 'file' gloser pandan tradiksion, ex. dan enn editer text.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080959Z" creationid="Hugo" creationdate="20200527T174837Z">
+        <seg>Kapav manielman azout enn nouvo term dan 'file' gloser pandan tradiksion, par exanp dan enn editer text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16202,8 +16202,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131906Z" creationid="Hugo" creationdate="20200527T170641Z">
-        <seg>Fonksion gloser trouv zis bann mo ki koresponn exakteman avek bann antre dan gloser (ex. li pa rekonet bann form konzige).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080932Z" creationid="Hugo" creationdate="20200527T170641Z">
+        <seg>Fonksion gloser la pou trouv zis bann mo ki koresponn exakteman avek bann antre dan gloser (par exanp, li pa pou rekonet bann form konzige, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18252,8 +18252,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080105Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer 'file'-la so konteni dan dosie "Diksioner" proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080726Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer 'file'-la so konteni dan dosie "Dictionary" proze-la.</seg>
       </tuv>
     </tu>
     <tu>
