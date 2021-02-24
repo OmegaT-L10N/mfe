@@ -4488,6 +4488,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090803Z" creationid="Hugo" creationdate="20210224T090803Z">
+        <seg>Pa finn resi siprime {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T110822Z" creationid="Hugo" creationdate="20201201T110815Z">
