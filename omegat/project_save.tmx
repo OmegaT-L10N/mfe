@@ -2022,8 +2022,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081501Z" creationid="Hugo" creationdate="20201003T080826Z">
-        <seg>Li ena boukou fonksion, enn linterfas sinp, ek, plis ki tout, enn devlopman konstan ek regilie an open-source!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20201003T080826Z">
+        <seg>Li ena boukou fonksion, enn linterfas sinp, ek, plis ki tout, enn devlopman konstan ek regilie an 'open source'!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3235,14 @@ Erer 404</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20210224T123530Z">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the 'open source' domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"other" should be for "areas" and not (primarily) "volunteers": areas other than programming...</note>
       <tuv lang="en">
         <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
@@ -3359,8 +3367,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031732Z" creationid="Hugo" creationdate="20201010T030505Z">
-        <seg>Bann bug, reket nouvo fonksionalite, ek bann problem dan dokimantasion trete lor Sourceforge par sa tracking systems swivan-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123351Z" creationid="Hugo" creationdate="20201010T030505Z">
+        <seg>Bann bug, reket nouvo fonksionalite, ek bann problem dan dokimantasion trete lor Sourceforge par sa sistem swivi-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,8 +5354,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Documentation tracking system</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032103Z" creationid="Hugo" creationdate="20201010T032103Z">
-        <seg>Tracking system pou dokimantasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123418Z" creationid="Hugo" creationdate="20201010T032103Z">
+        <seg>Sistem swivi pou dokimantasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6630,8 +6638,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Feature requests tracking system</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T032053Z" creationid="Hugo" creationdate="20201010T031948Z">
-        <seg>Tracking system pou bann reket nouvo fonksionalite.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123409Z" creationid="Hugo" creationdate="20201010T031948Z">
+        <seg>Sistem swivi pou bann reket nouvo fonksionalite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,8 +6902,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T112317Z" creationid="Hugo" creationdate="20201003T112257Z">
-        <seg>Pou bann seki defann bann program open-source, sa liberte-la li pli inportan ankor ki fe ki pa bizin peye.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20201003T112257Z">
+        <seg>Pou bann seki defann bann program 'open source', sa liberte-la li pli inportan ankor ki fe ki pa bizin peye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,8 +7046,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025131Z" creationid="Hugo" creationdate="20201001T114014Z">
-        <seg>Pou sa rezon-la, ena enn &lt;a0&gt;mailing list pou devloper&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123236Z" creationid="Hugo" creationdate="20201001T114014Z">
+        <seg>Pou sa rezon-la, ena enn &lt;a0&gt;lalis difizion pou devloper&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8464,6 +8472,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T121427Z" creationid="Hugo" creationdate="20210224T121427Z">
+        <seg>Pou instal version 'Web Start', ou bien ena Java version 1.3 minimum instale lor ou ordinater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T101621Z" creationid="Hugo" creationdate="20210224T101621Z">
@@ -8882,8 +8898,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031925Z" creationid="Hugo" creationdate="20201010T031925Z">
-        <seg>Tracking system pou bann problem/bug</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123401Z" creationid="Hugo" creationdate="20201010T031925Z">
+        <seg>Sistem swivi pou bann problem/bug</seg>
       </tuv>
     </tu>
     <tu>
@@ -8892,6 +8908,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T074757Z" creationid="Hugo" creationdate="20200924T074757Z">
         <seg>Li permet definision bann paramet pou tou bann proze tradiksion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122419Z" creationid="Hugo" creationdate="20210224T122419Z">
+        <seg>Ou kapav ousi 'download' li atraver sa komann git-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8956,6 +8980,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200731T091431Z">
         <seg>Donk li kapav servi tou bann diksioner lib ki sa bann program-la itilize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122310Z" creationid="Hugo" creationdate="20210224T122310Z">
+        <seg>Nou rekomann li pou bann developer ek bann tester serye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9084,8 +9116,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152735Z" creationid="Hugo" creationdate="20201008T152735Z">
-        <seg>So lobzektif li devlop, distribie ek promouvwar OmegaT, enn program open-source memwar tradiksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20201008T152735Z">
+        <seg>So lobzektif li devlop, distribie ek promouvwar OmegaT, enn program 'open source' memwar tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,6 +9766,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T134157Z" creationid="Hugo" creationdate="20210212T134157Z">
         <seg>Opsion Tradiksion Otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123059Z" creationid="Hugo" creationdate="20210224T123059Z">
+        <seg>Bann lalis difizion</seg>
       </tuv>
     </tu>
     <tu>
@@ -11269,8 +11309,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031640Z" creationid="Hugo" creationdate="20201010T025825Z">
-        <seg>OmegaT ena ousi bann mailing lists ek tracking system ki eberze lor Sourceforge:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123202Z" creationid="Hugo" creationdate="20201010T025825Z">
+        <seg>OmegaT ena ousi bann lalis difizion ek bann sistem swivi ki eberze lor Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11413,8 +11453,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201003T055830Z" creationid="Hugo" creationdate="20200929T153844Z">
-        <seg>OmegaT li enn proze ek enn program open-source.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20200929T153844Z">
+        <seg>OmegaT li enn proze ek enn program 'open source'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11437,8 +11477,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT is open-source software.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T081748Z" creationid="Hugo" creationdate="20201003T101459Z">
-        <seg>OmegaT li enn program open-source.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20201003T101459Z">
+        <seg>OmegaT li enn program 'open source'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12125,6 +12165,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122713Z" creationid="Hugo" creationdate="20210224T122430Z">
+        <seg>Bann konpilasion peryodik disponib lor Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Philosophy</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T154346Z" creationid="Hugo" creationdate="20201014T154346Z">
@@ -12261,8 +12309,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T031856Z" creationid="Hugo" creationdate="20201010T031604Z">
-        <seg>Silvouple napa servi sa bann sistem swivi-la avan diskit problem-la lor group itilizater ouswa dan bann mailing lists.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123224Z" creationid="Hugo" creationdate="20201010T031604Z">
+        <seg>Silvouple napa servi sa bann sistem swivi-la avan diskit problem-la lor group itilizater ouswa dan bann lalis difizion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12469,8 +12517,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T101109Z" creationid="Hugo" creationdate="20201010T101109Z">
-        <seg>Bann pre-built binaries disponib sou form Nightly Builds.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122618Z" creationid="Hugo" creationdate="20201010T101109Z">
+        <seg>Bann 'pre-built binaries' disponib sou form bann 'Nightly Builds'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12617,6 +12665,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T191219Z" creationid="Hugo" creationdate="20200606T191219Z">
         <seg>Gloser prioriter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T121939Z" creationid="Hugo" creationdate="20210224T121939Z">
+        <seg>Langazman konfidansialite: 'Web Start' Java OmegaT pa anrezistre okenn ou bann informasion lor bann server web OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15086,8 +15142,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153257Z" creationid="Hugo" creationdate="20201008T153437Z">
-        <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot dimounn, tro boukou pou kapav sit zot tou isi. Toutfwa, nou bien-bien rekonesan pou zot led.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123626Z" creationid="Hugo" creationdate="20201008T153437Z">
+        <seg>Depi so koumansman, proze-la finn gagn soutien boukou lezot dimounn, tro boukou pou kapav sit zot tou isi. Toutfwa, nou tre rekonesan pou zot led.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15328,6 +15384,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T160038Z" creationid="Hugo" creationdate="20201014T160038Z">
         <seg>Kod sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122806Z" creationid="Hugo" creationdate="20210224T122806Z">
+        <seg>Bann pake kor sours pa neseser pou bann itilizater; zot zis pou bann developer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16218,6 +16282,14 @@ pou servi dosie an-kour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122213Z" creationid="Hugo" creationdate="20210224T122213Z">
+        <seg>Version "master" (alfa) li version devlopman ki pli resan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T101040Z" creationid="Hugo" creationdate="20201010T101040Z">
@@ -16308,8 +16380,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T025847Z" creationid="Hugo" creationdate="20201010T025847Z">
-        <seg>Mailing list bann devloper OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123210Z" creationid="Hugo" creationdate="20201010T025847Z">
+        <seg>Lalis difizion bann devloper OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,6 +16504,14 @@ Sey koriz erer-la, ek reload proze.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125035Z" creationid="Hugo" creationdate="20200607T125035Z">
         <seg>Karakter alert (signal) ('\u0007')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T121959Z" creationid="Hugo" creationdate="20210224T121959Z">
+        <seg>Program-la fonksionn lor ou lordinater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16872,8 +16952,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The open-source philosophy</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200929T153801Z" creationid="Hugo" creationdate="20200929T153801Z">
-        <seg>Filozofi open-source</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20200929T153801Z">
+        <seg>Filozofi 'open source'</seg>
       </tuv>
     </tu>
     <tu>
@@ -16906,6 +16986,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T100642Z" creationid="Hugo" creationdate="20201003T072015Z">
         <seg>Enn konpagnon ideal pou nou tou ki pa bizin konplexite me lefikasite; bann gloser, auto-complete ek tradiksion otomatik rann mwa pli prodiktif pou mo bann tradiksion literer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T121331Z" creationid="Hugo" creationdate="20210224T121331Z">
+        <seg>Bann otorizasion ki ou donn sa version-la (setadir "unrestricted access to the computer") pa diferan ki bann otorizasion ki ou donn enn version lokal (setadir akse 'hard drive' ou lordinater).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17357,6 +17445,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123020Z" creationid="Hugo" creationdate="20210224T123020Z">
+        <seg>Ou kapav trouv zot dan bann dosie bann version konpile korespondan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200607T165134Z">
@@ -17595,8 +17691,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T030259Z" creationid="Hugo" creationdate="20201010T030259Z">
-        <seg>Mailing list pou bann lokalizater OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123216Z" creationid="Hugo" creationdate="20201010T030259Z">
+        <seg>Lalis difizion pou bann lokalizater OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17787,8 +17883,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T074058Z" creationid="Hugo" creationdate="20200929T160102Z">
-        <seg>Pou mouvman open-source, sa liberte ki bann itilizater ena pou adapte enn program kouma zot oule li pli inportan ki laspe finansie, setadir laspe kot zot pa bizin peye.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20200929T160102Z">
+        <seg>Pou mouvman 'open source', sa liberte ki bann itilizater ena pou adapte enn program kouma zot oule li pli inportan ki laspe finansie, setadir laspe kot zot pa bizin peye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17893,6 +17989,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133150Z" creationid="Hugo" creationdate="20201013T133150Z">
         <seg>Toxic li enn kontribision Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123308Z" creationid="Hugo" creationdate="20210224T123308Z">
+        <seg>Sistem swivi</seg>
       </tuv>
     </tu>
     <tu>
@@ -19716,8 +19820,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201008T152207Z" creationid="Hugo" creationdate="20201008T152207Z">
-        <seg>Ou kapav al lor &lt;a0&gt;homepage&lt;/a0&gt; pou rod bann linformasion ki ou bizin.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T123659Z" creationid="Hugo" creationdate="20201008T152207Z">
+        <seg>Ou kapav al lor &lt;a0&gt;Paz Lakey&lt;/a0&gt; pou rod bann linformasion ki ou bizin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19846,6 +19950,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T105224Z">
         <seg>Proze-la servi segmantasion par fraz alor ki 'file' TMX servi segmantasion par paragraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T122124Z" creationid="Hugo" creationdate="20210224T122124Z">
+        <seg>Ou bann dokiman ek memwar tradiksion rest lor ou lordinater, ek proze OmegaT pena okenn akse ou travay ouswa ou bann informasion.</seg>
       </tuv>
     </tu>
     <tu>
