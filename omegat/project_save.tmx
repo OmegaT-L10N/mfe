@@ -5584,6 +5584,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T100748Z" creationid="Hugo" creationdate="20210224T100748Z">
+        <seg>Modil EPWING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115040Z" creationid="Hugo" creationdate="20210219T115040Z">
@@ -7160,6 +7168,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T123819Z" creationid="Hugo" creationdate="20210212T123819Z">
         <seg>Korespondans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101046Z" creationid="Hugo" creationdate="20210224T101046Z">
+        <seg>Korespondans parsiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -12837,6 +12853,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T100843Z" creationid="Hugo" creationdate="20210224T100843Z">
+        <seg>Permet lir format diksioner EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150636Z" creationid="Hugo" creationdate="20210210T150636Z">
@@ -13726,6 +13750,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152103Z" creationid="Hugo" creationdate="20201015T151151Z">
         <seg>Mark Drwat-a-Gos (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101031Z" creationid="Hugo" creationdate="20210224T101031Z">
+        <seg>Robert Corner, Institut Laue-Langevin, Lafrans</seg>
       </tuv>
     </tu>
     <tu>
