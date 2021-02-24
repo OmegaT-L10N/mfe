@@ -4858,8 +4858,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201013T125325Z" creationid="Hugo" creationdate="20200519T132551Z">
-        <seg>Diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ou Lingvo DSL.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T075542Z" creationid="Hugo" creationdate="20200519T132551Z">
+        <seg>Bann diksioner dan &lt;a0&gt;OmegaT&lt;/a0&gt; baze lor format StarDict ou Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7539,8 +7539,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>How to download and install dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T161913Z" creationid="Hugo" creationdate="20200519T124358Z">
-        <seg>Kouma 'download' ek instal diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T075532Z" creationid="Hugo" creationdate="20200519T124358Z">
+        <seg>Kouma 'download' ek instal bann diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -13838,8 +13838,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200519T151154Z">
-        <seg>Sers konbinezon lang ki bizin – get par exanp &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080005Z" creationid="Hugo" creationdate="20200519T151154Z">
+        <seg>Rod konbinezon lang ki ou bizin – get par exanp lor &lt;u0&gt;bann lien diksioner ki ena lor Wiki OmegaT&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
