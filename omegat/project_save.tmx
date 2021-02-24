@@ -2036,6 +2036,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083355Z" creationid="Hugo" creationdate="20210224T083355Z">
+        <seg>Konplete otomatikman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153609Z" creationid="Hugo" creationdate="20210204T153609Z">
@@ -7132,6 +7140,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083108Z" creationid="Hugo" creationdate="20210224T083108Z">
+        <seg>Prezantasion bann gloser:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20201020T123935Z">
@@ -9782,6 +9798,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T130337Z" creationid="Hugo" creationdate="20210222T130337Z">
         <seg>Fizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083209Z" creationid="Hugo" creationdate="20210224T083142Z">
+        <seg>Fizionn bann definision alternatif pou enn mem term</seg>
       </tuv>
     </tu>
     <tu>
