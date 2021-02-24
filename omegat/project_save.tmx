@@ -10725,8 +10725,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090010Z" creationid="Hugo" creationdate="20200527T190205Z">
-        <seg>Pran kont ki dan sa lexanp-la, li zis lamwatie vre etandone ki lang sib la (slovenn) servi bann deklinezon.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090150Z" creationid="Hugo" creationdate="20200527T190205Z">
+        <seg>Pran kont ki sa lexanp-la zis lamwatie (ou ankor mwins ki lamwatie) vre, etandone ki lang sib la (slovenn) servi bann deklinezon.</seg>
       </tuv>
     </tu>
     <tu>
