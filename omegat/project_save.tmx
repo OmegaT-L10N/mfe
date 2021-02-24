@@ -4022,8 +4022,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082004Z" creationid="Hugo" creationdate="20210219T123531Z">
-        <seg>Pa kapav 'commit' parski enn lot dimounn finn modifie tradiksion distan.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082250Z" creationid="Hugo" creationdate="20210219T123531Z">
+        <seg>Pa kapav angaz ('commit') parski enn lot dimounn finn modifie tradiksion distan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11729,9 +11729,9 @@ Erer 404</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082004Z" creationid="Hugo" creationdate="20201015T083243Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082250Z" creationid="Hugo" creationdate="20201015T083243Z">
         <seg>Met bann 'file' sours dan ./source ek bann materyel siplemanter
-dan ./tm, ./glossary, ek ./dictionary respektivman, ek 'commit'
+dan ./tm, ./glossary, ek ./dictionary respektivman, ek angaz ('commit')
 lansanb.</seg>
       </tuv>
     </tu>
