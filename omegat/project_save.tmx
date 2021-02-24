@@ -16512,6 +16512,14 @@ pou servi dosie an-kour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104057Z" creationid="Hugo" creationdate="20210224T104025Z">
+        <seg>'Download'-la pou pli rapid ek linstalasion-la pou pran mwins lespas lor ou 'hard drive'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200527T203007Z" creationid="Hugo" creationdate="20200527T203007Z">
@@ -17547,8 +17555,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T161913Z" creationid="Hugo" creationdate="20201010T062326Z">
-        <seg>Sa version-la pou pran plis letan pou 'download' ek pou bizin pli boukou plas lor ou hard drive, me ou kapav sir ki li pou marse.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104039Z" creationid="Hugo" creationdate="20201010T062326Z">
+        <seg>Sa version-la pou pran plis letan pou 'download' ek pou bizin pli boukou plas lor ou 'hard drive', me ou kapav sir ki li pou marse.</seg>
       </tuv>
     </tu>
     <tu>
