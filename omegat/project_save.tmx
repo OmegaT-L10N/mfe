@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T080115Z" creationid="Hugo" creationdate="20201016T080115Z">
-        <seg>&amp;Aktiv history completion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083738Z" creationid="Hugo" creationdate="20201016T080115Z">
+        <seg>&amp;Aktiv fonksion konplete depi istorik</seg>
       </tuv>
     </tu>
     <tu>
@@ -2964,6 +2964,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T131058Z" creationid="Hugo" creationdate="20201201T131058Z">
         <seg>Ranplas otomatikman 'nplurals=INTEGER; &amp;plural=EXPRESSION;' dan lantet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083403Z" creationid="Hugo" creationdate="20210224T083403Z">
+        <seg>Konplete otomatikman</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,8 +5662,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T080152Z" creationid="Hugo" creationdate="20201016T080152Z">
-        <seg>Aktiv history &amp;prediction</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083622Z" creationid="Hugo" creationdate="20201016T080152Z">
+        <seg>Aktiv &amp;presiksion depi istorik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7529,18 +7537,34 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083548Z" creationid="Hugo" creationdate="20210224T083447Z">
+        <seg>Konplete depi istorik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115547Z" creationid="Hugo" creationdate="20210222T115426Z">
-        <seg>Konplete apartir istorik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083452Z" creationid="Hugo" creationdate="20210222T115426Z">
+        <seg>Konplete depi istorik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083552Z" creationid="Hugo" creationdate="20210224T083552Z">
+        <seg>Predir depi istorik</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>History Predictions</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T115557Z" creationid="Hugo" creationdate="20210222T115451Z">
-        <seg>Predir apartir istorik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083454Z" creationid="Hugo" creationdate="20210222T115451Z">
+        <seg>Predir depi istorik</seg>
       </tuv>
     </tu>
     <tu>
