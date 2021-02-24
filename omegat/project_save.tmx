@@ -10540,8 +10540,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T112641Z" creationid="Hugo" creationdate="20200519T154247Z">
-        <seg>Pran kont ki an plis bann diksioner "sours-sib", ou kapav, si ou servi fonksion Diksioner, aksed lezot linformasion kouma:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080206Z" creationid="Hugo" creationdate="20200519T154247Z">
+        <seg>Pran kont ki an plis ki bann diksioner "sours-sib", ou kapav, si ou servi fonksion Diksioner, aksed lezot linformasion kouma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14686,8 +14686,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T075937Z" creationid="Hugo" creationdate="20200519T155114Z">
-        <seg>Sertin diksioner aksesib san kondision (setadir zot 'lib') alor ki lezot (kouma seleksion lao la) soumi lisans GPL/GNU.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080319Z" creationid="Hugo" creationdate="20200519T155114Z">
+        <seg>Sertin diksioner aksesib san kondision (setadir zot "lib") alor ki lezot (kouma seleksion lao la) ena lisans GPL/GNU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16130,8 +16130,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182410Z" creationid="Hugo" creationdate="20200519T155237Z">
-        <seg>Sa lexanp-la montre diksioner Merriam Webster 10th ‘an aksion’:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080333Z" creationid="Hugo" creationdate="20200519T155237Z">
+        <seg>Sa lexanp-la montre diksioner Merriam Webster 10th "an-aksion":</seg>
       </tuv>
     </tu>
     <tu>
