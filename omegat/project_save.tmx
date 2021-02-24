@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082741Z" creationid="Hugo" creationdate="20210224T082741Z">
+        <seg>&amp;Re-sarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T083720Z" creationid="Hugo" creationdate="20201015T083720Z">
@@ -1315,8 +1323,8 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20201015T125147Z">
-        <seg>(Dan gid itilizater, get ''File' pou tradir' &gt; 'Format 'File'' pou enn lalis bann format 'file' ki OmegaT aksepte.)
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082529Z" creationid="Hugo" creationdate="20201015T125147Z">
+        <seg>(Dan gid itilizater, get "'File' pou tradir" &gt; "Format 'File'" pou enn lalis bann format 'file' ki OmegaT aksepte.)
 Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosie Sours..." dan lafnet "Bann 'File' ki dan Proze", ouswa swazir sa opsion-la dan meni "Proze" ek azout bann 'file' ki ou oule.</seg>
       </tuv>
     </tu>
@@ -4362,8 +4370,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200729T115123Z">
-        <seg>Kopie bann 'file' ver dosie "source"...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082714Z" creationid="Hugo" creationdate="20200729T115123Z">
+        <seg>Kopie bann 'File' ver Dosie Sours...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10981,8 +10989,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T130940Z" creationid="Hugo" creationdate="20201015T130940Z">
-        <seg>OmegaT finn swazi lopsion 'Wi' otomatikman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082603Z" creationid="Hugo" creationdate="20201015T130940Z">
+        <seg>OmegaT finn swazi lopsion "Wi" otomatikman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19124,8 +19132,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T125854Z">
-        <seg>Ou ousi kapav kopie bann 'file' direkteman dan dosie "sours" ou proze atraver enn 'file' manager, ek re-sarz ou proze depi 'Proze' &gt; 'Re-sarze'. </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082551Z" creationid="Hugo" creationdate="20201015T125854Z">
+        <seg>Ou ousi kapav kopie bann 'file' direkteman dan dosie "sours" ou proze atraver enn 'file manager', ek re-sarz ou proze depi "Proze" &gt; "Re-sarze". </seg>
       </tuv>
     </tu>
     <tu>
