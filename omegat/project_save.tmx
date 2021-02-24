@@ -8223,6 +8223,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104730Z" creationid="Hugo" creationdate="20210224T104730Z">
+        <seg>Si ou pa sir si ou ena enn version JRE apropriye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153434Z" creationid="Hugo" creationdate="20210210T150759Z">
@@ -8940,6 +8948,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T064624Z" creationid="Hugo" creationdate="20201010T064624Z">
         <seg>Li version ki nou rekomann bann nouvo itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104624Z" creationid="Hugo" creationdate="20210224T104624Z">
+        <seg>Donk, instalasion OmegaT avek JRE li metod ki pli sir.</seg>
       </tuv>
     </tu>
     <tu>
