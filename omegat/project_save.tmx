@@ -16406,8 +16406,16 @@ Sey koriz erer-la, ek reload proze.</seg>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T101305Z" creationid="Hugo" creationdate="20201010T052837Z">
-        <seg>Version Web Start li enn version "Instale apre bliye".&lt;br0/&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111612Z" creationid="Hugo" creationdate="20201010T052837Z">
+        <seg>Version 'Web Start' li enn version "Instale apre bliye".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111708Z" creationid="Hugo" creationdate="20210224T111553Z">
+        <seg>Version 'Web Start' la li enn solision instalasion sinp ki permet </seg>
       </tuv>
     </tu>
     <tu>
@@ -19396,6 +19404,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T061443Z" creationid="Hugo" creationdate="20201010T061443Z">
         <seg>Avek JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111734Z" creationid="Hugo" creationdate="20210224T111734Z">
+        <seg>Avek sa version-la, bann 'update' pou instale otomatikman.</seg>
       </tuv>
     </tu>
     <tu>
