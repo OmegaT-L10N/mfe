@@ -3712,8 +3712,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T153110Z" creationid="Hugo" creationdate="20200519T155627Z">
-        <seg>Chek sipa ou 'file' dict dan bon dosie (ouswa dan enn sou dosie sa dosie la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080416Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek sipa ou 'file' dict dan bon dosie (ouswa dan enn sou dosie sa dosie-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,8 +5242,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200519T160042Z">
-        <seg>Eski dosie la ena trwa 'file' mem nom, avek extansion?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080504Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosie-la ena trwa 'file' mem nom, avek zot extansion?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7102,8 +7102,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200525T142823Z" creationid="Hugo" creationdate="20200525T142823Z">
-        <seg>Gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080532Z" creationid="Hugo" creationdate="20200525T142823Z">
+        <seg>Bann Gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,8 +7897,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200519T160130Z">
-        <seg>Si ena enn sel 'file', get so lextansion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080519Z" creationid="Hugo" creationdate="20200519T160130Z">
+        <seg>Si ena enn sel 'file', chek so lextansion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12247,8 +12247,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>Problems with dictionaries</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200527T182423Z" creationid="Hugo" creationdate="20200519T155324Z">
-        <seg>Problem avek diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080405Z" creationid="Hugo" creationdate="20200519T155324Z">
+        <seg>Bann problem avek diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -16130,8 +16130,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080333Z" creationid="Hugo" creationdate="20200519T155237Z">
-        <seg>Sa lexanp-la montre diksioner Merriam Webster 10th "an-aksion":</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080353Z" creationid="Hugo" creationdate="20200519T155237Z">
+        <seg>Sa lexanp-la montre kouma servi diksioner Merriam Webster 10th:</seg>
       </tuv>
     </tu>
     <tu>
