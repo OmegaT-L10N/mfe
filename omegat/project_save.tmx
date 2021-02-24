@@ -2118,8 +2118,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>About</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T153714Z" creationid="Hugo" creationdate="20201014T153433Z">
-        <seg>Lekip</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092401Z" creationid="Hugo" creationdate="20201014T153433Z">
+        <seg>A-Propo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,8 +4254,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Connect</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T154111Z" creationid="Hugo" creationdate="20201014T154111Z">
-        <seg>Rezo</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092116Z" creationid="Hugo" creationdate="20201014T154111Z">
+        <seg>Rezo sosial</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5388,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131321Z" creationid="Hugo" creationdate="20210222T131321Z">
         <seg>Fini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092111Z" creationid="Hugo" creationdate="20210224T092111Z">
+        <seg>'Download'</seg>
       </tuv>
     </tu>
     <tu>
@@ -11253,8 +11261,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T152311Z" creationid="Hugo" creationdate="20201014T152311Z">
-        <seg>OmegaT li enn program memwar tradiksion lib ki finn an Java pou bann tradikter profesionel.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092033Z" creationid="Hugo" creationdate="20201014T152311Z">
+        <seg>OmegaT li enn program memwar tradiksion lib ki finn ekrir avek Java pou bann tradikter profesionel.</seg>
       </tuv>
     </tu>
     <tu>
