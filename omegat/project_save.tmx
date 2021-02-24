@@ -1788,6 +1788,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101347Z" creationid="Hugo" creationdate="20210224T101347Z">
+        <seg>&lt;i1&gt;Ou kapav instal OmegaT lor ninport ki 'operating system' ki kapav zer Java runtime environment version 1.8.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120034Z" creationid="Hugo" creationdate="20210219T120034Z">
@@ -6982,8 +6990,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201010T054355Z" creationid="Hugo" creationdate="20201010T053848Z">
-        <seg>Pou linstalasion lor lezot operating systems (par exanp FreeBSD ou Solaris).&lt;br0/&gt;</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101226Z" creationid="Hugo" creationdate="20201010T053848Z">
+        <seg>Pou linstalasion lor bann lezot 'operating system' (par exanp FreeBSD ou Solaris).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,8 +7747,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201012T075621Z" creationid="Hugo" creationdate="20201010T134517Z">
-        <seg>Toutfwa, sertin itilizater kapav trouv zot itil, sirtou si zot pe rankont bann kontrint avek zot operating system ouswa avek Java.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101216Z" creationid="Hugo" creationdate="20201010T134517Z">
+        <seg>Toutfwa, sertin itilizater kapav trouv zot itil, sirtou si zot pe rankont bann kontrint avek zot 'operating system' ouswa avek Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11717,6 +11725,14 @@ sistem kot ena ou dosie debaz.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T115500Z" creationid="Hugo" creationdate="20210220T115500Z">
         <seg>Pe ouver proze lekip-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101143Z" creationid="Hugo" creationdate="20210224T101143Z">
+        <seg>'Operating System'</seg>
       </tuv>
     </tu>
     <tu>
@@ -19669,8 +19685,8 @@ Erer 404</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121611Z" creationid="Hugo" creationdate="20210219T051253Z">
-        <seg>Ou sistem finn refiz les OmegaT
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101309Z" creationid="Hugo" creationdate="20210219T051253Z">
+        <seg>Ou 'operating system' finn refiz les OmegaT
 kree so dosie konfigirasion.</seg>
       </tuv>
     </tu>
