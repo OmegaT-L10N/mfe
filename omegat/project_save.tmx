@@ -16460,6 +16460,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T112119Z" creationid="Hugo" creationdate="20210224T112119Z">
+        <seg>Sertifika-la signe par &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, enn sosiete anrezistre Lafrans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125755Z" creationid="Hugo" creationdate="20200607T125755Z">
