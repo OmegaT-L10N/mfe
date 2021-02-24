@@ -3613,6 +3613,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085315Z" creationid="Hugo" creationdate="20210224T085315Z">
+        <seg>Sanz pou "tradiksion-bizin-relektir" olie "fini-tradir"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T091130Z" creationid="Hugo" creationdate="20201022T091130Z">
@@ -7064,6 +7072,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T043806Z" creationid="Hugo" creationdate="20201010T043806Z">
         <seg>Depi seri video YouTube lor OmegaT par Miguel Navarro (Espagnol).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085539Z" creationid="Hugo" creationdate="20210224T085539Z">
+        <seg>Enn verifikasion konplet kapav ena pou rezilta bann fos pozitif dan bann text normal ek filt PO deza detekte zot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12125,8 +12141,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T105826Z" creationid="Hugo" creationdate="20210212T105826Z">
-        <seg>Swazir ki konportman ki apropriye.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085427Z" creationid="Hugo" creationdate="20210212T105826Z">
+        <seg>Swazir konportman ki apropriye.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19480,6 +19496,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T092805Z" creationid="Hugo" creationdate="20210219T092805Z">
         <seg>[Korespondans]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085402Z" creationid="Hugo" creationdate="20210224T085402Z">
+        <seg>[korespondans]</seg>
       </tuv>
     </tu>
     <tu>
