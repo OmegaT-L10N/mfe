@@ -10909,8 +10909,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090150Z" creationid="Hugo" creationdate="20200527T190205Z">
-        <seg>Pran kont ki sa lexanp-la zis lamwatie (ou ankor mwins ki lamwatie) vre, etandone ki lang sib la (slovenn) servi bann deklinezon.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T110858Z" creationid="Hugo" creationdate="20200527T190205Z">
+        <seg>Pran kont ki sa lexanp-la zis lamwatie (ou ankor mwins ki lamwatie) vre, etan done ki lang sib la (slovenn) servi bann deklinezon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11325,8 +11325,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T110848Z" creationid="Hugo" creationdate="20210224T110027Z">
-        <seg>OmegaT pou Mac OS X disponib dan version signe ek version non signe; zot toule-de idantik onivo zot bann fonksion, me version ki signe li prefere etandone ki Mac OS X rekonet li kouma enn program ki pibliye par enn developer koni.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T111152Z" creationid="Hugo" creationdate="20210224T110027Z">
+        <seg>OmegaT pou Mac OS X disponib dan version signe ek version non signe; zot toule-de idantik onivo zot bann fonksion, me bann itilizater prefer version signe etan done ki Mac OS X rekonet li kouma enn program ki pibliye par enn developer koni.</seg>
       </tuv>
     </tu>
     <tu>
