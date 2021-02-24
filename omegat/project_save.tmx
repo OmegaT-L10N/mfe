@@ -8183,6 +8183,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T103859Z" creationid="Hugo" creationdate="20210224T103859Z">
+        <seg>Si ou konfian ki enn JRE deza instale lor ou lordinater, ou kapav 'download' enn version OmegaT san JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161925Z" creationid="Hugo" creationdate="20201010T050614Z">
@@ -8412,6 +8420,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T104159Z" creationid="Hugo" creationdate="20201016T084116Z">
         <seg>Pou aplik bann modifikasion, ou bizin ferm ek re-sarz proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101621Z" creationid="Hugo" creationdate="20210224T101621Z">
+        <seg>Pou ki OmegaT kapav fonksione, "Java Runtime Environment (JRE)" bizin instale lor ou ordinater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10598,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101500Z" creationid="Hugo" creationdate="20210224T101500Z">
+        <seg>'Nightly Builds'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T150003Z" creationid="Hugo" creationdate="20210223T150003Z">
@@ -11199,6 +11223,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T055409Z" creationid="Hugo" creationdate="20201010T055341Z">
         <seg>OmegaT nesesit JRE version 1.6 minimum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101352Z" creationid="Hugo" creationdate="20210224T101352Z">
+        <seg>OmegaT nesesit JRE version 1.8 minimum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19264,6 +19296,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101515Z" creationid="Hugo" creationdate="20210224T101515Z">
+        <seg>Avek/San JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without JRE</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T063620Z" creationid="Hugo" creationdate="20201010T063620Z">
@@ -20018,6 +20058,22 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210208T161908Z">
         <seg>value ('input' button, &amp;submit ek reset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101432Z" creationid="Hugo" creationdate="20210224T101432Z">
+        <seg>{% else %} &lt;a0&gt;'Download'&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T101418Z" creationid="Hugo" creationdate="20210224T101418Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;'Download'&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
