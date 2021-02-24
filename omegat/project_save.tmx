@@ -16228,6 +16228,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T100742Z" creationid="Hugo" creationdate="20210224T100742Z">
+        <seg>API TexTra li disponib gratwitman gras-a NICT, lazans nasional resers gouvernman Zapon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161643Z" creationid="Hugo" creationdate="20210223T161630Z">
