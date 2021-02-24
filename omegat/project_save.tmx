@@ -8272,6 +8272,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104556Z" creationid="Hugo" creationdate="20210224T104556Z">
+        <seg>Si ou instal enn version OmegaT avek JRE alor ki JRE deza instale lor ou lordinater, JRE OmegaT la pou instale separeman ek pa pou ena okenn konfli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T114812Z">
@@ -8452,6 +8460,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the bakgrawnd of the active segment is changed to red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T104342Z" creationid="Hugo" creationdate="20210224T104327Z">
+        <seg>Dan sa ka-la, napa swazir version par defo me swazir enn version diferan (setadir Standard ou Dernie) ek swazir "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
