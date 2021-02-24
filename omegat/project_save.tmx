@@ -1272,8 +1272,8 @@
       <tuv lang="en">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T161846Z" creationid="Hugo" creationdate="20210208T161846Z">
-        <seg>&amp;value (form input, avek button, submit ek reset)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210208T161846Z">
+        <seg>&amp;value (form 'input', avek button, submit ek reset)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,6 +1856,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210105T085504Z" creationid="Hugo" creationdate="20210105T085504Z">
         <seg>Atribi &amp;resname &lt;trans-unit&gt; ki disponib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085124Z" creationid="Hugo" creationdate="20210224T085124Z">
+        <seg>I&amp;D &lt;trans-unit&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8712,6 +8720,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>It can also be used in all the 'input' fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T081226Z" creationid="Hugo" creationdate="20200924T142117Z">
@@ -11561,6 +11577,14 @@ sistem kot ena ou dosie debaz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Opening 'input' file '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T115500Z" creationid="Hugo" creationdate="20210220T115500Z">
@@ -11685,6 +11709,14 @@ sistem kot ena ou dosie debaz.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T093043Z" creationid="Hugo" creationdate="20201016T093043Z">
         <seg>Mod Overwrite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085057Z" creationid="Hugo" creationdate="20210224T085001Z">
+        <seg>'Input' PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -14012,6 +14044,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open 'input' file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seconds:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T103854Z" creationid="Hugo" creationdate="20210222T103854Z">
@@ -14644,6 +14684,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "'input' translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T120245Z" creationid="Hugo" creationdate="20210222T120212Z">
@@ -15088,6 +15136,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161447Z" creationid="Hugo" creationdate="20210223T161447Z">
         <seg>Spesifie enn 'mnemonic' avek "&amp;": "Por&amp;tab" pou servi O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085220Z" creationid="Hugo" creationdate="20210224T085220Z">
+        <seg>Spesifie ki manier bizin tret atribi leta segman</seg>
       </tuv>
     </tu>
     <tu>
@@ -18305,6 +18361,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF 'input'), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113324Z" creationid="Hugo" creationdate="20200729T134851Z">
@@ -18526,6 +18590,22 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T100336Z" creationid="Hugo" creationdate="20201010T100336Z">
         <seg>Bann itilizater ki ena lexperyans OmegaT souvan prefer dernie version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text 'input' and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open 'input' file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19696,8 +19776,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210208T161908Z" creationid="Hugo" creationdate="20210208T161908Z">
-        <seg>value (input button, &amp;submit ek reset)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210208T161908Z">
+        <seg>value ('input' button, &amp;submit ek reset)</seg>
       </tuv>
     </tu>
     <tu>
