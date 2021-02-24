@@ -1471,9 +1471,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T081025Z" creationid="Hugo" creationdate="20201015T081025Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081840Z" creationid="Hugo" creationdate="20201015T081025Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		Konteni pou inklir dan TMX ki pou psedotradi.</seg>
+		Konteni pou inklir dan TMX ki pou psedotradir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1595,10 +1595,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T090805Z" creationid="Hugo" creationdate="20201015T085845Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201015T085845Z">
         <seg>2) Ogmant kantite memwar disponib pou OmegaT, gras-a
 komann "java -Xmx&lt;tay-an-MB&gt;M -jar OmegaT.jar" ki ou
-kapav servi dan command-line ou dan skript demaraz OmegaT;
+kapav servi dan lalign komann ou dan skript demaraz OmegaT;
 Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
     </tu>
@@ -2694,8 +2694,8 @@ File TMX pa pou ouver.</seg>
       <tuv lang="en">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T082408Z">
-        <seg>Zouti command-line intelizan pou prodwir enn 'file' memwar tradiksion depi enn text existan ek so tradiksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201014T082408Z">
+        <seg>Zouti lalign komann intelizan pou prodwir enn 'file' memwar tradiksion depi enn text existan ek so tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8836,16 +8836,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T131826Z">
-        <seg>Skript command-line an Java pou fizionn plizier 'file' TMX.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201013T131826Z">
+        <seg>Skript lalign komann an Java pou fizionn plizier 'file' TMX.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T132410Z">
-        <seg>Skript command-line an Java pou siprim bann inite tradiksion "siperfli" depi enn 'file' TMX: li efas tou bann inite tradiksion ki pena segman sib ouswa kot segman sours ek segman sib idantik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201013T132410Z">
+        <seg>Skript lalign komann an Java pou siprim bann inite tradiksion "siperfli" depi enn 'file' TMX: li efas tou bann inite tradiksion ki pena segman sib ouswa kot segman sours ek segman sib idantik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,10 +10434,10 @@ Erer 404</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T074529Z" creationid="Hugo" creationdate="20201015T074529Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201015T074529Z">
         <seg>Non-GUI mode options:
 	--quiet
-		Redwir output lor stdout command-line.</seg>
+		Redwir output lor stdout lalign komann.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17115,8 +17115,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T075507Z" creationid="Hugo" creationdate="20201010T055857Z">
-        <seg>Pou cheke ki version JRE ou ena lor ou sistem Linux, si ou ena enn, ouver enn konsol (lafnet command-line) ek ekrir:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201010T055857Z">
+        <seg>Pou cheke ki version JRE ou ena lor ou sistem Linux, si ou ena enn, ouver enn konsol (lafnet lalign komann) ek ekrir:</seg>
       </tuv>
     </tu>
     <tu>
