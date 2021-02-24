@@ -8714,8 +8714,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T145633Z" creationid="Hugo" creationdate="20210223T145633Z">
-        <seg>Bann Erer  pou {0} ({1} lor {2})</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090609Z" creationid="Hugo" creationdate="20210223T145633Z">
+        <seg>Bann Erer pou {0} ({1} lor {2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -10288,8 +10288,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085711Z" creationid="Hugo" creationdate="20210224T085711Z">
-        <seg>Pran kont: the Java™ Resource Bundles filter already detects them.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T090736Z" creationid="Hugo" creationdate="20210224T085711Z">
+        <seg>Pran kont: filt pake resours Java™ deza detekte zot.</seg>
       </tuv>
     </tu>
     <tu>
