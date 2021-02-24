@@ -3146,8 +3146,8 @@ bann konportman inabitiel, me korek.</seg>
       <tuv lang="en">
         <seg>Background</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091615Z" creationid="Hugo" creationdate="20210224T091615Z">
-        <seg>Bakgrownd</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091825Z" creationid="Hugo" creationdate="20210224T091615Z">
+        <seg>Bakgrawnd</seg>
       </tuv>
     </tu>
     <tu>
@@ -7953,6 +7953,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
+        <seg>If checked, non-breakable spaces will be displayed with a grey bakgrawnd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
+        <seg>If checked, the bakgrawnd of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T120441Z" creationid="Hugo" creationdate="20210222T120441Z">
@@ -8380,6 +8396,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T074530Z" creationid="Hugo" creationdate="20201001T074530Z">
         <seg>Toutfwa, koordinasion li ousi neseser dan sertin ka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the bakgrawnd of the active segment is changed to red.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10676,8 +10700,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Non-unique segments background</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133949Z" creationid="Hugo" creationdate="20210222T133949Z">
-        <seg>Background bann segman ki pa inik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091820Z" creationid="Hugo" creationdate="20210222T133949Z">
+        <seg>Bakgrawnd bann segman ki pa inik</seg>
       </tuv>
     </tu>
     <tu>
@@ -11053,8 +11077,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T152118Z" creationid="Hugo" creationdate="20201013T090957Z">
-        <seg>OmegaT - zouti lib memwar tradiksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092001Z" creationid="Hugo" creationdate="20201013T090957Z">
+        <seg>OmegaT - Enn Zouti Lib Memwar Tradiksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,6 +13122,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091854Z" creationid="Hugo" creationdate="20210224T091854Z">
+        <seg>Re-sarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T140247Z" creationid="Hugo" creationdate="20201016T140247Z">
@@ -14238,8 +14270,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T133754Z" creationid="Hugo" creationdate="20210222T133754Z">
-        <seg>Background marker segman</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091820Z" creationid="Hugo" creationdate="20210222T133754Z">
+        <seg>Bakgrawnd marker segman</seg>
       </tuv>
     </tu>
     <tu>
@@ -16188,6 +16220,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
+        <seg>The bakgrawnd is restored to normal when the segment is left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133231Z" creationid="Hugo" creationdate="20200607T135752Z">
@@ -16907,6 +16947,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T081152Z">
         <seg>Kapav trouv item souligne "pop-up menu" dan pano Gloser kouma "pojavni menu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
+        <seg>The upper part is in the source language, in bold characters with a green bakgrawnd color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
     </tu>
     <tu>
