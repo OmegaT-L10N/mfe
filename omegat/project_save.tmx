@@ -2118,8 +2118,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>About</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092444Z" creationid="Hugo" creationdate="20201014T153433Z">
-        <seg>Lekip</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092558Z" creationid="Hugo" creationdate="20201014T153433Z">
+        <seg>A-propo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8664,6 +8664,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T093412Z" creationid="Hugo" creationdate="20210224T093412Z">
+        <seg>Integ moter tradiksion otomatik neronal TexTra dan OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interface to Google Translate</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055858Z" creationid="Hugo" creationdate="20201003T055858Z">
@@ -12813,6 +12821,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092706Z" creationid="Hugo" creationdate="20210224T092646Z">
+        <seg>Fourni bann filt pou zer bann lezot format file, kouma Trados TTX ek Markdown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T122603Z" creationid="Hugo" creationdate="20201013T125218Z">
@@ -15914,6 +15930,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T105337Z" creationid="Hugo" creationdate="20210219T105337Z">
         <seg>Test...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092725Z" creationid="Hugo" creationdate="20210224T092725Z">
+        <seg>Modil TexTra</seg>
       </tuv>
     </tu>
     <tu>
