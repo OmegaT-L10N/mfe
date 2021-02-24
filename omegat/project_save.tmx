@@ -2118,8 +2118,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>About</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092401Z" creationid="Hugo" creationdate="20201014T153433Z">
-        <seg>A-Propo</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092444Z" creationid="Hugo" creationdate="20201014T153433Z">
+        <seg>Lekip</seg>
       </tuv>
     </tu>
     <tu>
@@ -7715,8 +7715,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>How-To</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201014T154358Z" creationid="Hugo" creationdate="20201014T154358Z">
-        <seg>Gid pratik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092522Z" creationid="Hugo" creationdate="20201014T154358Z">
+        <seg>Bann Gid Pratik</seg>
       </tuv>
     </tu>
     <tu>
@@ -17927,6 +17927,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120651Z" creationid="Hugo" creationdate="20210219T120651Z">
         <seg>Bann komanter tradikter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T092517Z" creationid="Hugo" creationdate="20210224T092517Z">
+        <seg>Bann 'Tutorial'</seg>
       </tuv>
     </tu>
     <tu>
