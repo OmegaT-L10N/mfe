@@ -560,8 +560,8 @@
       <tuv lang="en">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T140451Z" creationid="Hugo" creationdate="20201015T140435Z">
-        <seg>&amp;Insert Match ou Seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201015T140435Z">
+        <seg>&amp;'Insert' Match ou Seleksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2294,8 +2294,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141616Z" creationid="Hugo" creationdate="20210222T125642Z">
-        <seg>Pou azout bann karakter dan tablo personalize, fer enn doub-klik ouswa 'highlight' ek apiy lor "Insert".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210222T125642Z">
+        <seg>Pou azout bann karakter dan tablo personalize, fer enn doub-klik ouswa 'highlight' ek apiy lor "'Insert'".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,8 +2914,8 @@ bann konportman inabitiel, me korek.</seg>
       <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T145416Z" creationid="Hugo" creationdate="20210210T134958Z">
-        <seg>Sey konverti bann &amp;nimero letan insert enn korespondans parsiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210210T134958Z">
+        <seg>Sey konverti bann &amp;nimero letan 'insert' enn korespondans parsiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,88 +8314,96 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T120048Z" creationid="Hugo" creationdate="20200729T120048Z">
-        <seg>Insert match ouswa seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T120048Z">
+        <seg>'Insert' match ouswa seleksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T092748Z" creationid="Hugo" creationdate="20210219T092748Z">
-        <seg>Insert korespondans ou seleksion dan tradiksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210219T092748Z">
+        <seg>'Insert' korespondans ou seleksion dan tradiksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20201015T150017Z">
-        <seg>Insert bann Baliz Sours ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082856Z" creationid="Hugo" creationdate="20201015T150017Z">
+        <seg>'Insert' bann Baliz Sours Mankan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20200729T122732Z">
-        <seg>Insert bann Baliz Sours ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T122732Z">
+        <seg>'Insert' bann Baliz Sours ki Manke</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201016T093046Z" creationid="Hugo" creationdate="20201016T093046Z">
-        <seg>Mod Insert</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201016T093046Z">
+        <seg>Mod 'Insert'</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210219T121220Z" creationid="Hugo" creationdate="20200729T122742Z">
-        <seg>Insert Prosin Baliz ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082902Z" creationid="Hugo" creationdate="20200729T122742Z">
+        <seg>'Insert' Prosin Baliz Mankan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210212T131721Z" creationid="Hugo" creationdate="20210212T131721Z">
-        <seg>Insert Seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210212T131721Z">
+        <seg>'Insert' Seleksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200729T122703Z" creationid="Hugo" creationdate="20200729T122640Z">
-        <seg>Insert sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T122640Z">
+        <seg>'Insert' sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082838Z" creationid="Hugo" creationdate="20210224T082838Z">
+        <seg>'Insert' Baliz {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T151108Z" creationid="Hugo" creationdate="20201015T151108Z">
-        <seg>Insert Karakter Kontrol Unicode</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201015T151108Z">
+        <seg>'Insert' Karakter Kontrol Unicode</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133649Z" creationid="Hugo" creationdate="20210210T133649Z">
-        <seg>Insert meyer &amp;korespondans</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210210T133649Z">
+        <seg>'Insert' meyer &amp;korespondans</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T133438Z" creationid="Hugo" creationdate="20210210T133438Z">
-        <seg>Insert text &amp;sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210210T133438Z">
+        <seg>'Insert' text &amp;sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -9692,16 +9700,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134402Z" creationid="Hugo" creationdate="20210222T134402Z">
-        <seg>Bann korespondans ki finn insert aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210222T134402Z">
+        <seg>Bann korespondans ki finn 'insert' aktif</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134412Z" creationid="Hugo" creationdate="20210222T134412Z">
-        <seg>Bann korespondans ki finn insert inaktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210222T134412Z">
+        <seg>Bann korespondans ki finn 'insert' inaktif</seg>
       </tuv>
     </tu>
     <tu>
@@ -12828,8 +12836,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201015T150519Z" creationid="Hugo" creationdate="20200729T131147Z">
-        <seg>Definir an tan ki tradiksion idantik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083042Z" creationid="Hugo" creationdate="20200729T131147Z">
+        <seg>Definir an-tan ki tradiksion idantik</seg>
       </tuv>
     </tu>
     <tu>
@@ -13092,8 +13100,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20201016T075238Z">
-        <seg>Ranplas bann antre &amp;gloser letan insert text sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20201016T075238Z">
+        <seg>Ranplas bann antre &amp;gloser letan 'insert' text sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -14446,8 +14454,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200921T121055Z" creationid="Hugo" creationdate="20200729T130822Z">
-        <seg>Definir an tan ki tradiksion vid</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083032Z" creationid="Hugo" creationdate="20200729T130822Z">
+        <seg>Definir an-tan ki tradiksion vid</seg>
       </tuv>
     </tu>
     <tu>
@@ -19584,8 +19592,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T140538Z" creationid="Hugo" creationdate="20210222T140538Z">
-        <seg>{0} modifie lorientasion ant gos-drwat (LTR), drwat-gos (RTL) ek lorientasion ki depann lor bann lang</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083024Z" creationid="Hugo" creationdate="20210222T140538Z">
+        <seg>{0} modifie lorientasion ant gos-a-drwat (LTR), drwat-a-gos (RTL) ek lorientasion ki depann lor bann lang</seg>
       </tuv>
     </tu>
     <tu>
