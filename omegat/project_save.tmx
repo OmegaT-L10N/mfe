@@ -13522,6 +13522,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210306T132553Z" creationid="Hugo" creationdate="20210306T132553Z">
+        <seg>Retir bann baliz </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210205T135527Z" creationid="Hugo" creationdate="20210205T135527Z">
