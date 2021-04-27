@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131641Z" creationid="Hugo" creationdate="20210427T131641Z">
+        <seg>&amp;Anile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080534Z" creationid="Hugo" creationdate="20201016T080534Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135735Z" creationid="Hugo" creationdate="20201201T135735Z">
         <seg>&amp;Bann antre index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131658Z" creationid="Hugo" creationdate="20210427T131658Z">
+        <seg>&amp;Insere</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,8 +2970,8 @@ bann konportman inabitiel, me korek.</seg>
       <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210210T134958Z">
-        <seg>Sey konverti bann &amp;nimero letan 'insert' enn korespondans parsiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131904Z" creationid="Hugo" creationdate="20210210T134958Z">
+        <seg>Sey konverti bann &amp;nimero letan inser enn korespondans parsiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -10076,16 +10092,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210222T134402Z">
-        <seg>Bann korespondans ki finn 'insert' aktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131839Z" creationid="Hugo" creationdate="20210222T134402Z">
+        <seg>Bann korespondans ki finn insere aktif</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20210222T134412Z">
-        <seg>Bann korespondans ki finn 'insert' inaktif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131849Z" creationid="Hugo" creationdate="20210222T134412Z">
+        <seg>Bann korespondans ki finn insere inaktif</seg>
       </tuv>
     </tu>
     <tu>
@@ -13604,8 +13620,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082801Z" creationid="Hugo" creationdate="20201016T075238Z">
-        <seg>Ranplas bann antre &amp;gloser letan 'insert' text sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131928Z" creationid="Hugo" creationdate="20201016T075238Z">
+        <seg>Ranplas bann antre &amp;gloser letan inser text sours</seg>
       </tuv>
     </tu>
     <tu>
