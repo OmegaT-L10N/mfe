@@ -584,8 +584,8 @@
       <tuv lang="en">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201015T140435Z">
-        <seg>&amp;'Insert' Match ou Seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20201015T140435Z">
+        <seg>&amp;Inser Match ou Seleksion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,8 +2350,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210222T125642Z">
-        <seg>Pou azout bann karakter dan tablo personalize, fer enn doub-klik ouswa 'highlight' ek apiy lor "'Insert'".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132024Z" creationid="Hugo" creationdate="20210222T125642Z">
+        <seg>Pou azout bann karakter dan tablo personalize, fer enn doub-klik ouswa 'highlight' ek apiy lor "Insert".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8634,96 +8634,96 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T120048Z">
-        <seg>'Insert' match ouswa seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20200729T120048Z">
+        <seg>Inser match ouswa seleksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210219T092748Z">
-        <seg>'Insert' korespondans ou seleksion dan tradiksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20210219T092748Z">
+        <seg>Inser korespondans ou seleksion dan tradiksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082856Z" creationid="Hugo" creationdate="20201015T150017Z">
-        <seg>'Insert' bann Baliz Sours Mankan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20201015T150017Z">
+        <seg>Inser bann Baliz Sours Mankan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T122732Z">
-        <seg>'Insert' bann Baliz Sours ki Manke</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20200729T122732Z">
+        <seg>Inser bann Baliz Sours ki Manke</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201016T093046Z">
-        <seg>Mod 'Insert'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131956Z" creationid="Hugo" creationdate="20201016T093046Z">
+        <seg>Mod Insere</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082902Z" creationid="Hugo" creationdate="20200729T122742Z">
-        <seg>'Insert' Prosin Baliz Mankan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20200729T122742Z">
+        <seg>Inser Prosin Baliz Mankan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Selection</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210212T131721Z">
-        <seg>'Insert' Seleksion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20210212T131721Z">
+        <seg>Inser Seleksion</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20200729T122640Z">
-        <seg>'Insert' sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20200729T122640Z">
+        <seg>Inser sours</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082838Z" creationid="Hugo" creationdate="20210224T082838Z">
-        <seg>'Insert' Baliz {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20210224T082838Z">
+        <seg>Inser Baliz {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20201015T151108Z">
-        <seg>'Insert' Karakter Kontrol Unicode</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20201015T151108Z">
+        <seg>Inser Karakter Kontrol Unicode</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210210T133649Z">
-        <seg>'Insert' meyer &amp;korespondans</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20210210T133649Z">
+        <seg>Inser meyer &amp;korespondans</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082825Z" creationid="Hugo" creationdate="20210210T133438Z">
-        <seg>'Insert' text &amp;sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132058Z" creationid="Hugo" creationdate="20210210T133438Z">
+        <seg>Inser text &amp;sours</seg>
       </tuv>
     </tu>
     <tu>
@@ -10002,6 +10002,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132242Z" creationid="Hugo" creationdate="20210427T132242Z">
+        <seg>Mark bann mo ki pa kone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Master Password</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153452Z" creationid="Hugo" creationdate="20210223T153407Z">
@@ -10324,8 +10332,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Modification info template for segments without date</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210210T150409Z" creationid="Hugo" creationdate="20210210T150409Z">
-        <seg>MOdel pou informasion modifikasion pou bann segman ki pena dat</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132210Z" creationid="Hugo" creationdate="20210210T150409Z">
+        <seg>Model pou informasion modifikasion pou bann segman ki pena dat</seg>
       </tuv>
     </tu>
     <tu>
