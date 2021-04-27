@@ -2452,6 +2452,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132936Z" creationid="Hugo" creationdate="20210427T132936Z">
+        <seg>Aligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144152Z" creationid="Hugo" creationdate="20210222T135701Z">
@@ -7777,6 +7785,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132930Z" creationid="Hugo" creationdate="20210427T132930Z">
+        <seg>Bann Gid Pratik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T072415Z" creationid="Hugo" creationdate="20201001T072415Z">
@@ -12845,9 +12861,25 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132920Z" creationid="Hugo" creationdate="20210427T132920Z">
+        <seg>&amp;Proze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20201015T135544Z">
+        <seg>Bann 'File' &amp;Proze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132937Z" creationid="Hugo" creationdate="20210427T132937Z">
         <seg>Bann 'File' &amp;Proze...</seg>
       </tuv>
     </tu>
@@ -17996,6 +18028,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20210208T145927Z">
         <seg>'File' HTML tro gro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132923Z" creationid="Hugo" creationdate="20210427T132923Z">
+        <seg>&amp;Zouti</seg>
       </tuv>
     </tu>
     <tu>
