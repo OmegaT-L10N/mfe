@@ -8334,7 +8334,7 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ibid.	</note>
+      <note>Data ouswa done?</note>
       <tuv lang="en">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
@@ -11001,7 +11001,7 @@ Erer 404</seg>
       </tuv>
     </tu>
     <tu>
-      <note>FR &amp; EN do not match.</note>
+      <note>English and French do not match.</note>
       <tuv lang="en">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
       </tuv>
@@ -13304,7 +13304,7 @@ Erer 404</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"Quantificateur gourmand" selon Microsoft : https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/quantifiers-in-regular-expressions</note>
+      <note>"Quantificateur gourmand" dapre Microsoft : https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/quantifiers-in-regular-expressions</note>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
@@ -15771,7 +15771,6 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
     </tu>
     <tu>
-      <note>Vérifier apostrof pour guillemets ou inverted commas...</note>
       <tuv lang="en">
         <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
       </tuv>
@@ -18952,7 +18951,7 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Valider ou avancer ?</note>
+      <note>"advance" ouswa "valider"?!</note>
       <tuv lang="en">
         <seg>Use TAB to Advance</seg>
       </tuv>
