@@ -14484,6 +14484,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T130204Z" creationid="Hugo" creationdate="20210427T130015Z">
+        <seg>Get Opsion &gt; Filt 'file' pou enn lalis bann format bann 'file' ki aksepte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See additional references and examples below.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T122119Z" creationid="Hugo" creationdate="20200607T080854Z">
