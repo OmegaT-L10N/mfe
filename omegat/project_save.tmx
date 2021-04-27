@@ -17825,6 +17825,22 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T130454Z" creationid="Hugo" creationdate="20210427T130454Z">
+        <seg>Pou azout bann 'file' dan enn proze ou kapav
+- rise-depoze bann 'file' dan  drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T033722Z" creationid="Hugo" creationdate="20201010T033722Z">
