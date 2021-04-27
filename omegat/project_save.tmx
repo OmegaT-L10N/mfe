@@ -8546,8 +8546,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200731T092427Z">
-        <seg>Dan ou 'file' manager, kree enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131234Z" creationid="Hugo" creationdate="20200731T092427Z">
+        <seg>Dan ou zestioner fisie, kree enn nouvo dosie pou enrezistr ou diksioner dan enn landrwa konvenab (D:\Translations\spellcheckers dan lexanp enba).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,12 +17831,12 @@ depi server.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131155Z" creationid="Hugo" creationdate="20210427T130454Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131333Z" creationid="Hugo" creationdate="20210427T130454Z">
         <seg>Pou azout bann 'file' dan enn proze ou kapav
 - rise-depoze bann 'file' dan sa pano Editer la
 - servi Proze &gt; Kopie bann 'file' ver Dosie Sours...
 - klik lor "Kopie bann 'file' ver Dosie Sours..." dan lafnet "Bann 'file' proze"
-- kopie bann 'file' ver ou dosie sours dan ou 'file manager', apre re-sarz ou proze avek Proze &gt; Re-sarze.</seg>
+- kopie bann 'file' ver ou dosie sours dan ou zestioner fisie, apre re-sarz ou proze avek Proze &gt; Re-sarze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,8 +19850,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200918T121745Z">
-        <seg>Ouswa ou kopie bann 'file' manielman (depi ninport ki landrwa dan ou sistem) o traver ou 'file' manager; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131244Z" creationid="Hugo" creationdate="20200918T121745Z">
+        <seg>Ouswa ou kopie bann 'file' manielman (depi ninport ki landrwa dan ou sistem) o traver ou zestioner fisie; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
       </tuv>
     </tu>
     <tu>
