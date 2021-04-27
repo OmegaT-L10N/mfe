@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T130923Z">
-        <seg>Otoriz bann tradiksion &amp;vid dan bann 'file' sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T130923Z">
+        <seg>Otoriz bann tradiksion &amp;vid dan bann fisie sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +128,8 @@
       <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T083821Z" creationid="Hugo" creationdate="20201016T100235Z">
-        <seg>&amp;Swazir sa 'font'-la pou bann tabular data (bann 'file' proze, statistik, etc.)</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T100235Z">
+        <seg>&amp;Swazir sa 'font'-la pou bann tabular data (bann fisie proze, statistik, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="en">
         <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T145103Z">
-        <seg>&amp;Pa pran kont kontex 'file'-la pou idantifie bann segman avek bann tradiksion alternatif</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T145103Z">
+        <seg>&amp;Pa pran kont kontex fisie-la pou idantifie bann segman avek bann tradiksion alternatif</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@
       <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T132514Z">
-        <seg>&amp;Siprim bann lasenn ki pa finn tradir dan 'file' sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T132514Z">
+        <seg>&amp;Siprim bann lasenn ki pa finn tradir dan fisie sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1096,8 @@
       <tuv lang="en">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T131035Z">
-        <seg>&amp;Inior lantet bann 'file' PO</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T131035Z">
+        <seg>&amp;Inior lantet bann fisie PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -1437,9 +1437,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T071749Z">
-        <seg>--config-'file'=&lt;path&gt;
-		Enn 'file' .properties Java kot ou kapav sarz bann paramet par defo.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131428Z" creationid="Hugo" creationdate="20201015T071749Z">
+        <seg>--config-file=&lt;path&gt;
+		Enn fisie .properties Java kot ou kapav sarz bann paramet par defo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,9 +1447,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T073157Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T073157Z">
         <seg>--disable-location-save
-		Pa rapel dernie dosie ki finn ouver par selekter 'file'.</seg>
+		Pa rapel dernie dosie ki finn ouver par selekter fisie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,9 +1457,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T073054Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T073054Z">
         <seg>--disable-project-locking
-		Pa sey verouy 'file' proze omegat.project.</seg>
+		Pa sey verouy fisie proze omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,9 +1498,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T071524Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T071524Z">
         <seg>--remote-project
-		Telesarz enn 'file' omegat.project depi URL ki finn spesifie dan &lt;sime
+		Telesarz enn fisie omegat.project depi URL ki finn spesifie dan &lt;sime
 		proze&gt; ek sarz proze-la.</seg>
       </tuv>
     </tu>
@@ -1511,11 +1511,11 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T072007Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T072007Z">
         <seg>--resource-bundle=&lt;path&gt;
-		Enn 'file' .properties Java pou bann text interfas itilizater
+		Enn fisie .properties Java pou bann text interfas itilizater
 	--config-dir=&lt;path&gt;
-		Dosie pou lir/ekrir bann 'file' konfigirasion OmegaT.</seg>
+		Dosie pou lir/ekrir bann fisie konfigirasion OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1523,9 +1523,9 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T075218Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T075218Z">
         <seg>--script=&lt;path&gt;
-		Enn 'file' skript ki pou exekite kan ena bann evennman dan proze.</seg>
+		Enn fisie skript ki pou exekite kan ena bann evennman dan proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,16 +1560,16 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
       <tuv lang="en">
         <seg>...and around 30 other file formats</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201003T054552Z">
-        <seg>...ek apepre 30 lezot format 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201003T054552Z">
+        <seg>...ek apepre 30 lezot format fisie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081210Z" creationid="Hugo" creationdate="20200606T193059Z">
-        <seg>...me mem karakter afise dan pano Editer: lextension 'file'-la pas koresponn avek so lankodaz.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T193059Z">
+        <seg>...me mem karakter afise dan pano Editer: lextension fisie-la pas koresponn avek so lankodaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
       <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T085602Z">
-        <seg>1) Redwir kantite 'file' sours, ek tradir par lo.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T085602Z">
+        <seg>1) Redwir kantite fisie sours, ek tradir par lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,8 +1670,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200525T160348Z">
-        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detekte otomatikman bann 'file' gloser dan sa dosie-la letan enn proze ouver.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T160348Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pou detekte otomatikman bann fisie gloser dan sa dosie-la letan enn proze ouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,8 +1702,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200606T185304Z">
-        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kree enn sinp 'file' avek antre delimite par tabilasion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T185304Z">
+        <seg>&lt;e0&gt;Pran not: &lt;/e0&gt;Biensir ena lezot fason ek mwayin pou kree enn sinp fisie avek antre delimite par tabilasion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,8 +1902,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T160026Z">
-        <seg>Enn koleksion konplet itiliter pou prepar bann 'file' pou zot tradiksion dan enn CAT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T160026Z">
+        <seg>Enn koleksion konplet itiliter pou prepar bann fisie pou zot tradiksion dan enn CAT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,8 +2014,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201010T042107Z">
-        <seg>Gid pratik lor bann utilities Text Extraction ek Text Merging dan Rainbow pou pre- ek post-process bann 'file' pou tradir dan Omegat.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T042107Z">
+        <seg>Gid pratik lor bann utilities Text Extraction ek Text Merging dan Rainbow pou pre- ek post-process bann fisie pou tradir dan Omegat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,16 +2214,16 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Access Project Contents/Source Files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200729T115553Z">
-        <seg>Akse konteni proze/'file' sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200729T115553Z">
+        <seg>Akse konteni proze/fisie sours</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200729T115554Z">
-        <seg>Akse konteni proze/'file' sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200729T115554Z">
+        <seg>Akse konteni proze/fisie sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,8 +2350,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T155746Z">
-        <seg>Azout ou modifie enn deklarasion ankodaz dan bann 'file' HTML ek XHTML:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T155746Z">
+        <seg>Azout ou modifie enn deklarasion ankodaz dan bann fisie HTML ek XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,8 +2598,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210223T140854Z">
-        <seg>Finn rankont enn erer letan pe sarz bann 'file' sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210223T140854Z">
+        <seg>Finn rankont enn erer letan pe sarz bann fisie sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,8 +2614,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210220T113013Z">
-        <seg>Finn rankont enn erer letan pe sey detekte 'file' proze la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210220T113013Z">
+        <seg>Finn rankont enn erer letan pe sey detekte fisie proze la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2649,8 +2649,8 @@ Konfigirasion aktiel li: {0}MB</seg>
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T053738Z">
-        <seg>Enn erer finn arive letan pe proses enn evennman nouvo 'file':
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T053738Z">
+        <seg>Enn erer finn arive letan pe proses enn evennman nouvo fisie:
 {0}</seg>
       </tuv>
     </tu>
@@ -2742,8 +2742,8 @@ File TMX pa pou ouver.</seg>
       <tuv lang="en">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201014T082408Z">
-        <seg>Zouti lalign komann intelizan pou prodwir enn 'file' memwar tradiksion depi enn text existan ek so tradiksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T082408Z">
+        <seg>Zouti lalign komann intelizan pou prodwir enn fisie memwar tradiksion depi enn text existan ek so tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,8 +2938,8 @@ bann konportman inabitiel, me korek.</seg>
       <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200525T155107Z">
-        <seg>Etan done ki konteni existan pa pou modifie, pa pou ena erer dan 'file' existan.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T155107Z">
+        <seg>Etan done ki konteni existan pa pou modifie, pa pou ena erer dan fisie existan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3583,8 +3583,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T120201Z">
-        <seg>Pa kapav kree dosie-la pou bann 'file' ki finn tradir:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T120201Z">
+        <seg>Pa kapav kree dosie-la pou bann fisie ki finn tradir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3607,8 +3607,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Cannot read selected script file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T115549Z">
-        <seg>Pa kapav lir 'file' skript seleksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T115549Z">
+        <seg>Pa kapav lir fisie skript seleksione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,8 +3832,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080416Z" creationid="Hugo" creationdate="20200519T155627Z">
-        <seg>Chek sipa ou 'file' dict dan bon dosie (ouswa dan enn sou dosie sa dosie-la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek sipa ou fisie dict dan bon dosie (ouswa dan enn sou dosie sa dosie-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,8 +3920,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200928T134342Z">
-        <seg>Klik lor &lt;e0&gt;Valer par defo&lt;/e0&gt; pou reset bann filt 'file' lor zot valer par defo.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200928T134342Z">
+        <seg>Klik lor &lt;e0&gt;Valer par defo&lt;/e0&gt; pou reset bann filt fisie lor zot valer par defo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4150,16 +4150,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091619Z">
-        <seg>Anrezistreman bann 'file' sours</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091619Z">
+        <seg>Anrezistreman bann fisie sours</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091725Z">
-        <seg>Anrezistreman bann 'file' sib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091725Z">
+        <seg>Anrezistreman bann fisie sib</seg>
       </tuv>
     </tu>
     <tu>
@@ -4312,10 +4312,10 @@ Erer 404</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T081129Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T081129Z">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
-		Enn dosie ki kotenir bann 'file' ki finn tradir.</seg>
+		Enn dosie ki kotenir bann fisie ki finn tradir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4336,10 +4336,10 @@ Erer 404</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T080404Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T080404Z">
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
-		Enn lalis bann 'file' sours otorize pou tretman.</seg>
+		Enn lalis bann fisie sours otorize pou tretman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,8 +4490,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200918T132108Z">
-        <seg>Enn kopi maniel bann 'file' fer sans si ou deza ena 'file' diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200918T132108Z">
+        <seg>Enn kopi maniel bann fisie fer sans si ou deza ena fisie diksioner dan ou sistem, par exanp dan ou linstalasion Apache OpenOffice, LibreOffice, Firefox ou Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4538,8 +4538,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210220T112715Z">
-        <seg>Pa finn resi anrezistre bann informasion idantifikasion dan enn 'file' text</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210220T112715Z">
+        <seg>Pa finn resi anrezistre bann informasion idantifikasion dan enn fisie text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4642,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T112238Z">
-        <seg>Kree enn 'file' TMX ki kontenir tou bann segman, avek sours ek sib idantik</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T112238Z">
+        <seg>Kree enn fisie TMX ki kontenir tou bann segman, avek sours ek sib idantik</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,8 +5002,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T061340Z">
-        <seg>Dosie pou bann 'file' diksioner</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T061340Z">
+        <seg>Dosie pou bann fisie diksioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,16 +5034,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Dictionary file folder:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T061336Z">
-        <seg>Dosie pou bann 'file' diksioner:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T061336Z">
+        <seg>Dosie pou bann fisie diksioner:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T144658Z">
-        <seg>Dosie ki finn spesifie pou bann 'file' diksioner pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T144658Z">
+        <seg>Dosie ki finn spesifie pou bann fisie diksioner pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,16 +5186,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210212T135415Z">
-        <seg>Afis bann komanter dan segman aktif si zot existe, e si filt 'file' aksept zot (par exanp, PO-filter).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210212T135415Z">
+        <seg>Afis bann komanter dan segman aktif si zot existe, e si filt fisie aksept zot (par exanp, PO-filter).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210212T133004Z">
-        <seg>Afis bann antre dan diksioner ki dan bann 'file' diksioner sitie dan dosie /dictionary/ si bann antre-la prezan dan segman sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210212T133004Z">
+        <seg>Afis bann antre dan diksioner ki dan bann fisie diksioner sitie dan dosie /dictionary/ si bann antre-la prezan dan segman sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,8 +5218,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210212T125320Z">
-        <seg>Afis bann antre dan gloser ki dan bann 'file' gloser sitie dan dosie /glossary/ si bann antre-la prezan dan segman sours.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210212T125320Z">
+        <seg>Afis bann antre dan gloser ki dan bann fisie gloser sitie dan dosie /glossary/ si bann antre-la prezan dan segman sours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,8 +5370,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080504Z" creationid="Hugo" creationdate="20200519T160042Z">
-        <seg>Eski dosie-la ena trwa 'file' mem nom, avek zot extansion?</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T160042Z">
+        <seg>Eski dosie-la ena trwa fisie mem nom, avek zot extansion?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,8 +5490,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080022Z" creationid="Hugo" creationdate="20200519T152003Z">
-        <seg>'Download' 'file'-la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ou &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T152003Z">
+        <seg>'Download' fisie-la – li pou enn arsiv &lt;f0&gt;tarball&lt;/f0&gt; (extansion &lt;e1&gt;tar.bz&lt;/e1&gt; ou &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,8 +5514,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210222T141228Z">
-        <seg>Depoz bann 'file' TMX isi pou azout zot dan proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210222T141228Z">
+        <seg>Depoz bann fisie TMX isi pou azout zot dan proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,16 +5530,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210222T140804Z">
-        <seg>Depoz bann 'file' isi pou azout zot dan proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210222T140804Z">
+        <seg>Depoz bann fisie isi pou azout zot dan proze.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210222T141224Z">
-        <seg>Depoz bann 'file' gloser isi pou azout zot dan proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210222T141224Z">
+        <seg>Depoz bann fisie gloser isi pou azout zot dan proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,8 +5610,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210210T134227Z">
-        <seg>E&amp;xport segman-la ver bann 'file' text</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210210T134227Z">
+        <seg>E&amp;xport segman-la ver bann fisie text</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,8 +5822,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T081003Z">
-        <seg>Permet tradir enn gran kantite format 'file' ki normalman pa ti pou kapav dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T081003Z">
+        <seg>Permet tradir enn gran kantite format fisie ki normalman pa ti pou kapav dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5870,8 +5870,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201026T132552Z">
-        <seg>Okenn blok lafin letan klotir 'file'!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201026T132552Z">
+        <seg>Okenn blok lafin letan klotir fisie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,16 +6050,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T140304Z">
-        <seg>Erer dan 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T140304Z">
+        <seg>Erer dan fisie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T134829Z">
-        <seg>Erer dan 'file' {0}, lalinn {1}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T134829Z">
+        <seg>Erer dan fisie {0}, lalinn {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,16 +6106,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210220T115414Z">
-        <seg>Erer rekiperation {0} antan-ki 'file' proze distan</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210220T115414Z">
+        <seg>Erer rekiperation {0} antan-ki fisie proze distan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T113426Z">
-        <seg>Erer anrezistreman 'file' proze-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T113426Z">
+        <seg>Erer anrezistreman fisie proze-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,8 +6154,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T151242Z" creationid="Hugo" creationdate="20210222T133014Z">
-        <seg>Finn rankont enn erer letan aktializ 'file' gloser</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210222T133014Z">
+        <seg>Finn rankont enn erer letan aktializ fisie gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -6282,8 +6282,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T053714Z">
-        <seg>Evennman: aktivasion enn nouvo 'file' ({0})</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T053714Z">
+        <seg>Evennman: aktivasion enn nouvo fisie ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,8 +6510,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T111928Z">
-        <seg>Extrer tou bann text sours depi bann 'file' proze dan enn sel gro 'file' text</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T111928Z">
+        <seg>Extrer tou bann text sours depi bann fisie proze dan enn sel gro fisie text</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,32 +6542,32 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201123T123845Z">
-        <seg>Pas kapav back up 'file' preferans.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201123T123845Z">
+        <seg>Pas kapav back up fisie preferans.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091507Z">
-        <seg>Pa finn resi anrezistre bann 'file' sours!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091507Z">
+        <seg>Pa finn resi anrezistre bann fisie sours!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091609Z">
-        <seg>Pa finn resi anrezistre bann 'file' sib!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091609Z">
+        <seg>Pa finn resi anrezistre bann fisie sib!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T090643Z">
-        <seg>Pa finn resi konpil bann 'file' proze-la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T090643Z">
+        <seg>Pa finn resi konpil bann fisie proze-la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,40 +6662,40 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>File &amp;Format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210205T140333Z">
-        <seg>&amp;Forma 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210205T140333Z">
+        <seg>&amp;Forma fisie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Copy Failed</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T133822Z">
-        <seg>Pa finn resi kopie 'file'-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T133822Z">
+        <seg>Pa finn resi kopie fisie-la</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Filters</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200925T064924Z">
-        <seg>Filt 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200925T064924Z">
+        <seg>Filt fisie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200729T141447Z">
-        <seg>Filt 'file'...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200729T141447Z">
+        <seg>Filt fisie...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T125347Z">
-        <seg>Forma 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T125347Z">
+        <seg>Forma fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6710,16 +6710,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>File format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200527T190233Z">
-        <seg>Forma 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200527T190233Z">
+        <seg>Forma fisie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201020T114142Z">
-        <seg>Plas bann 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201020T114142Z">
+        <seg>Plas bann fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,32 +6750,32 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T100620Z">
-        <seg>Nom 'file'-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T100620Z">
+        <seg>Nom fisie-la</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filename Variables:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T145825Z">
-        <seg>Bann varyab nom 'file':</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T145825Z">
+        <seg>Bann varyab nom fisie:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201010T072338Z">
-        <seg>Kapav tradir bann 'file' format XML Microsoft Office direkteman dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T072338Z">
+        <seg>Kapav tradir bann fisie format XML Microsoft Office direkteman dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201010T072441Z">
-        <seg>Pou bann 'file' MS Word, Excel ek Powerpoint ki pli ansien, kapav tradir zot apre enn konversion dan format Microsoft Office resan, ouswa format Open XML depi OpenOffice.org ou LibreOffice (gratwitman).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T072441Z">
+        <seg>Pou bann fisie MS Word, Excel ek Powerpoint ki pli ansien, kapav tradir zot apre enn konversion dan format Microsoft Office resan, ouswa format Open XML depi OpenOffice.org ou LibreOffice (gratwitman).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6910,8 +6910,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For all files:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T140632Z">
-        <seg>Pou tou bann 'file's:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131549Z" creationid="Hugo" creationdate="20201016T140632Z">
+        <seg>Pou tou bann fisie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,8 +6958,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T114738Z">
-        <seg>Par exanp, si ou finn swazir ES-MX (Espagnol Mexiken) kouma lang sib, 'file' diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T114738Z">
+        <seg>Par exanp, si ou finn swazir ES-MX (Espagnol Mexiken) kouma lang sib, fisie diksioner bizin apel es_MX.dic ek es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,8 +7214,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T144152Z" creationid="Hugo" creationdate="20201014T081918Z">
-        <seg>Zouti lalignman avek enn linterfas itilizater pou prodwir enn 'file' memwar tradiksion depi enn text existan ek so tradiksion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T081918Z">
+        <seg>Zouti lalignman avek enn linterfas itilizater pou prodwir enn fisie memwar tradiksion depi enn text existan ek so tradiksion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,8 +7302,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200525T143655Z">
-        <seg>Enn gloser, li enn 'file' ki finn kree ek aktialize manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T143655Z">
+        <seg>Enn gloser, li enn fisie ki finn kree ek aktialize manielman pou itilizasion dan &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,16 +7374,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200527T191151Z">
-        <seg>Bann 'file' gloser, zot bann sinp 'file' plain-text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200527T191151Z">
+        <seg>Bann fisie gloser, zot bann sinp fisie plain-text avek trwa kolonn ki form trwa lalis delimite par tabilasion avek term sours ek term sib dan premie ek deziem kolonn respektivman.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T134330Z">
-        <seg>Dosie ki finn spesifie pou bann 'file' gloser pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T134330Z">
+        <seg>Dosie ki finn spesifie pou bann fisie gloser pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7659,8 +7659,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T132728Z">
-        <seg>Servi sa bann paramet-la pou kree bann pattern nom 'file' pou bann 'file' ki pou trete par filt, personaliz bann nom bann 'file' tradiksion, e swazir landkodaz pou sarz bann 'file' sours ek anrezistre bann 'file' sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T132728Z">
+        <seg>Servi sa bann paramet-la pou kree bann pattern nom fisie pou bann fisie ki pou trete par filt, personaliz bann nom bann fisie tradiksion, e swazir landkodaz pou sarz bann fisie sours ek anrezistre bann fisie sib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,16 +7875,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T154456Z">
-        <seg>Guide pratik - Tradir bann 'file' PDF avek Iceni Infix ek OmegaT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T154456Z">
+        <seg>Guide pratik - Tradir bann fisie PDF avek Iceni Infix ek OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201014T154450Z">
-        <seg>Guide pratik - Tradir bann 'file' Word 2007 dan OmegaT</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201014T154450Z">
+        <seg>Guide pratik - Tradir bann fisie Word 2007 dan OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7987,16 +7987,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T154803Z">
-        <seg>Si 'file' HTML-la ena enn deklarasion ankodaz, OmegaT pou servi li ek pa pou pran kont bann paramet ki ou pou indike isi.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T154803Z">
+        <seg>Si fisie HTML-la ena enn deklarasion ankodaz, OmegaT pou servi li ek pa pou pran kont bann paramet ki ou pou indike isi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T162746Z">
-        <seg>Si 'file' HHC ou HHK la ena enn deklarasion ankodaz, OmegaT pou servi li ek pa pou pran kont bann paramet ki ou pou indike isi.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T162746Z">
+        <seg>Si fisie HHC ou HHK la ena enn deklarasion ankodaz, OmegaT pou servi li ek pa pou pran kont bann paramet ki ou pou indike isi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,8 +8113,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T142803Z">
-        <seg>Si neseser, sanz nom bann 'file' diksioner ouswa sanz paramet lang ou proze</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T142803Z">
+        <seg>Si neseser, sanz nom bann fisie diksioner ouswa sanz paramet lang ou proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -8145,16 +8145,16 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080519Z" creationid="Hugo" creationdate="20200519T160130Z">
-        <seg>Si ena enn sel 'file', chek so lextansion.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T160130Z">
+        <seg>Si ena enn sel fisie, chek so lextansion.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080839Z" creationid="Hugo" creationdate="20200525T154835Z">
-        <seg>Si 'file'-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo antre pou touzour dan format text separe par tabilasion ek UTF-8.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T154835Z">
+        <seg>Si fisie-la deza existe, pa pou ena verifikasion so format ou so set karakter: bann nouvo antre pou touzour dan format text separe par tabilasion ek UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8305,8 +8305,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T154332Z">
-        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod lang sib ou proze pa koresponn avek kod lang verifikater lortograf (ex. ou lang li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule-de 'file' korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T154332Z">
+        <seg>Si ou finn deza tradir enn gran kantite text, ek ou realiz enswit ki kod lang sib ou proze pa koresponn avek kod lang verifikater lortograf (ex. ou lang li pt_BR me pena okenn leksik PT_BR) ou kapav sinpleman kopie toule-de fisie korespondan ek sanz zot nom (setadir sanz &lt;e0&gt;pt_PT.aff&lt;/e0&gt; ek &lt;e1&gt;pt_PT.dic&lt;/e1&gt; an &lt;e2&gt;pt_BR.aff&lt;/e2&gt; ek &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8338,16 +8338,16 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T114812Z">
-        <seg>Si ou ena selman enn diksioner espagnol standard (par exanp kot nom bann 'file'-la zot es_es.dic ek es_es.aff), ou kapav kopie bann 'file'-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T114812Z">
+        <seg>Si ou ena selman enn diksioner espagnol standard (par exanp kot nom bann fisie-la zot es_es.dic ek es_es.aff), ou kapav kopie bann fisie-la ek sanz zot nom an es_MX.dic ek es_MX.aff: diksioner-la pou fonksione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200925T070901Z">
-        <seg>Si ou pa oule servi OmegaT pou tradir sertin tip 'file', ou kapav dezaktiv filt korespondan la: rod nom format 'file' dan lalis ek deseleksionn kaz ki akote.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200925T070901Z">
+        <seg>Si ou pa oule servi OmegaT pou tradir sertin tip fisie, ou kapav dezaktiv filt korespondan la: rod nom format fisie dan lalis ek deseleksionn kaz ki akote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8378,8 +8378,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T155443Z">
-        <seg>Si pou ninport ki rezon ou bizin fer sa detan-z-antan, li kapav pli sinp kopie tou bann 'file' dan enn dosie diferan, rezerve zis pou OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T155443Z">
+        <seg>Si pou ninport ki rezon ou bizin fer sa detan-z-antan, li kapav pli sinp kopie tou bann fisie dan enn dosie diferan, rezerve zis pou OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8442,8 +8442,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200731T095127Z">
-        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek klik lor &lt;g1&gt;Konsilte &lt;/g1&gt; akote bwat dosie 'file' diksioner.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200731T095127Z">
+        <seg>Dan OmegaT, al lor &lt;g0&gt;Opsion &gt; Preferans &gt; Lortograf&lt;/g0&gt;, ek klik lor &lt;g1&gt;Konsilte &lt;/g1&gt; akote bwat dosie fisie diksioner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8826,8 +8826,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Invalid file format</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T131706Z">
-        <seg>Forma 'file' invalid</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T131706Z">
+        <seg>Forma fisie invalid</seg>
       </tuv>
     </tu>
     <tu>
@@ -9140,8 +9140,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T082049Z">
-        <seg>Bann 'file' JAR</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T082049Z">
+        <seg>Bann fisie JAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -9196,16 +9196,16 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201013T131826Z">
-        <seg>Skript lalign komann an Java pou fizionn plizier 'file' TMX.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T131826Z">
+        <seg>Skript lalign komann an Java pou fizionn plizier fisie TMX.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081811Z" creationid="Hugo" creationdate="20201013T132410Z">
-        <seg>Skript lalign komann an Java pou siprim bann inite tradiksion "siperfli" depi enn 'file' TMX: li efas tou bann inite tradiksion ki pena segman sib ouswa kot segman sours ek segman sib idantik.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T132410Z">
+        <seg>Skript lalign komann an Java pou siprim bann inite tradiksion "siperfli" depi enn fisie TMX: li efas tou bann inite tradiksion ki pena segman sib ouswa kot segman sours ek segman sib idantik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9636,8 +9636,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T114519Z">
-        <seg>Sarzman bann 'file' TMX...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T114519Z">
+        <seg>Sarzman bann fisie TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10100,8 +10100,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210212T124256Z">
-        <seg>Kapav trouv bann korespondans dan tradiksion an-kour ou dan bann 'file' TMX ki ou finn mete dan dosie /tm/.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210212T124256Z">
+        <seg>Kapav trouv bann korespondans dan tradiksion an-kour ou dan bann fisie TMX ki ou finn mete dan dosie /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10616,8 +10616,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080959Z" creationid="Hugo" creationdate="20200527T174837Z">
-        <seg>Kapav manielman azout enn nouvo term dan 'file' gloser pandan tradiksion, par exanp dan enn editer text.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200527T174837Z">
+        <seg>Kapav manielman azout enn nouvo term dan fisie gloser pandan tradiksion, par exanp dan enn editer text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,8 +10632,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200527T175339Z">
-        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman 'file' text-la pa anrezistre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200527T175339Z">
+        <seg>Bann term ki finn fek azoute pa pou rekonet tan ki bann sanzman fisie text-la pa anrezistre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,8 +10776,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200606T192425Z">
-        <seg>Pa ena okenn 'file' gloser dan dosie "glossary".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T192425Z">
+        <seg>Pa ena okenn fisie gloser dan dosie "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,24 +11005,24 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T135022Z">
-        <seg>Pran kont: Bann 'file' DocBook, zot pa selman defini par zot extansion, me ousi par enn deklarasion DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pou DocBook 4, ouswa enn Namespace: xmlns="http://docbook.org/ns/docbook" pou DocBook 5</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T135022Z">
+        <seg>Pran kont: Bann fisie DocBook, zot pa selman defini par zot extansion, me ousi par enn deklarasion DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pou DocBook 4, ouswa enn Namespace: xmlns="http://docbook.org/ns/docbook" pou DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T162652Z">
-        <seg>Pran kont: bann paramet ankodaz konsern zis bann 'file' HHC ek HHK ki pena okenn deklarasion ankodaz.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T162652Z">
+        <seg>Pran kont: bann paramet ankodaz konsern zis bann fisie HHC ek HHK ki pena okenn deklarasion ankodaz.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T150752Z">
-        <seg>Pran kont: bann paramet ankodaz 'file' sours konsern zis bann 'file' HTML ki pena okenn deklarasion ankodaz.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T150752Z">
+        <seg>Pran kont: bann paramet ankodaz fisie sours konsern zis bann fisie HTML ki pena okenn deklarasion ankodaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,16 +11627,16 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200928T133950Z">
-        <seg>OmegaT pa pou pran kont bann 'file' korespondan kan li sarz proze-la e pou kopie zot dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200928T133950Z">
+        <seg>OmegaT pa pou pran kont bann fisie korespondan kan li sarz proze-la e pou kopie zot dan dosie sib, san modifikasion, letan kreasion bann dokiman sib.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T105254Z">
-        <seg>OmegaT pour sey resegmant 'file' TMX...</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T105254Z">
+        <seg>OmegaT pour sey resegmant fisie TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11683,8 +11683,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200706T192019Z">
-        <seg>Enn fwa ki 'file' &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo sortket.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200706T192019Z">
+        <seg>Enn fwa ki fisie &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo sortket.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11723,16 +11723,16 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T155813Z">
-        <seg>Selman si 'file' (X)HTML ena enn &amp;lantet</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T155813Z">
+        <seg>Selman si fisie (X)HTML ena enn &amp;lantet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T161056Z">
-        <seg>Selman si 'file' (X)HTML ena enn deklarasion an&amp;kodaz</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T161056Z">
+        <seg>Selman si fisie (X)HTML ena enn deklarasion an&amp;kodaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -11995,8 +11995,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210204T153430Z">
-        <seg>Finn detay bann lezot kontribision dan 'file' readme.txt</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210204T153430Z">
+        <seg>Finn detay bann lezot kontribision dan fisie readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12087,8 +12087,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201026T135645Z">
-        <seg>Erer dan analiz 'file' preferans!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201026T135645Z">
+        <seg>Erer dan analiz fisie preferans!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12103,8 +12103,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T153434Z" creationid="Hugo" creationdate="20201201T132349Z">
-        <seg>Bann 'file' PDF ki ena 'password' pa aksepte: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T132349Z">
+        <seg>Bann fisie PDF ki ena 'password' pa aksepte: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12209,8 +12209,8 @@ Erer 404</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T082250Z" creationid="Hugo" creationdate="20201015T083243Z">
-        <seg>Met bann 'file' sours dan ./source ek bann materyel siplemanter
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T083243Z">
+        <seg>Met bann fisie sours dan ./source ek bann materyel siplemanter
 dan ./tm, ./glossary, ek ./dictionary respektivman, ek angaz ('commit')
 lansanb.</seg>
       </tuv>
@@ -12219,8 +12219,8 @@ lansanb.</seg>
       <tuv lang="en">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200918T120734Z">
-        <seg>Met 'file' diksioner ki ou oule servi dan sa dosie-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200918T120734Z">
+        <seg>Met fisie diksioner ki ou oule servi dan sa dosie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12429,8 +12429,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201020T125506Z">
-        <seg>Swazir lang ou bann 'file' sours ek lang sib ou oule tradir.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201020T125506Z">
+        <seg>Swazir lang ou bann fisie sours ek lang sib ou oule tradir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,8 +12751,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201010T041402Z">
-        <seg>Prosedir pou servi OmegaT pou lokaliz bann 'file' XLIFF ki finn exporte depi Wordpress.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T041402Z">
+        <seg>Prosedir pou servi OmegaT pou lokaliz bann fisie XLIFF ki finn exporte depi Wordpress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12863,8 +12863,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>Project Specific File Filters</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T141142Z">
-        <seg>Filt 'file' spesifik pou proze</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T141142Z">
+        <seg>Filt fisie spesifik pou proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,8 +12943,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T130744Z">
-        <seg>Ou proze vid ouswa okenn 'file' finn rekonet par OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T130744Z">
+        <seg>Ou proze vid ouswa okenn fisie finn rekonet par OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,16 +13163,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201128T095327Z">
-        <seg>Lektir 'file' TMX {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201128T095327Z">
+        <seg>Lektir fisie TMX {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Reading of TMX file complete</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201128T141408Z">
-        <seg>Lektir 'file' TMX termine</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201128T141408Z">
+        <seg>Lektir fisie TMX termine</seg>
       </tuv>
     </tu>
     <tu>
@@ -13572,16 +13572,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T140545Z">
-        <seg>Repetision depi lezot 'file':</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T140545Z">
+        <seg>Repetision depi lezot fisie:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Repetitions within this file:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T140524Z">
-        <seg>Repetision dan sa 'file'-la:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T140524Z">
+        <seg>Repetision dan sa fisie-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14188,8 +14188,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200729T113122Z">
-        <seg>Save 'file'-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200729T113122Z">
+        <seg>Save fisie-la ek restart &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14229,9 +14229,9 @@ Erer 404</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T160841Z" creationid="Hugo" creationdate="20201022T130441Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201022T130441Z">
         <seg>'Scope':
-Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport ki 'file' dan enn striktir dosie defini.</seg>
+Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport ki fisie dan enn striktir dosie defini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14278,8 +14278,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T134111Z">
-        <seg>Skript pou extrer text depi enn 'file' plain-text (ex. enn kod informatik) pou tradiksion dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T134111Z">
+        <seg>Skript pou extrer text depi enn fisie plain-text (ex. enn kod informatik) pou tradiksion dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14486,8 +14486,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T130204Z" creationid="Hugo" creationdate="20210427T130015Z">
-        <seg>Get Opsion &gt; Filt 'file' pou enn lalis bann format bann 'file' ki aksepte.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210427T130015Z">
+        <seg>Get Opsion &gt; Filt fisie pou enn lalis bann format bann fisie ki aksepte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14838,8 +14838,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Select a Script File</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T115129Z">
-        <seg>Swazir enn 'file' skript</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T115129Z">
+        <seg>Swazir enn fisie skript</seg>
       </tuv>
     </tu>
     <tu>
@@ -15158,8 +15158,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201003T042927Z">
-        <seg>Tretman paralel bann proze milti'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201003T042927Z">
+        <seg>Tretman paralel bann proze miltifisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -15438,24 +15438,24 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T114509Z">
-        <seg>Sarzman bann 'file' sours termine</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T114509Z">
+        <seg>Sarzman bann fisie sours termine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091723Z">
-        <seg>Bann 'file' sours finn anrezistre</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091723Z">
+        <seg>Bann fisie sours finn anrezistre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T134302Z">
-        <seg>Dosie ki finn spesifie pou bann 'file' sours pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T134302Z">
+        <seg>Dosie ki finn spesifie pou bann fisie sours pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15952,8 +15952,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T154817Z">
-        <seg>Bann 'file' TMX pou lokalizasion dokimantasion ek site web OmegaT. Zot destine bann lokalizater.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T154817Z">
+        <seg>Bann fisie TMX pou lokalizasion dokimantasion ek site web OmegaT. Zot destine bann lokalizater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16080,8 +16080,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T091755Z">
-        <seg>Bann 'file' sib finn anrezistre</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T091755Z">
+        <seg>Bann fisie sib finn anrezistre</seg>
       </tuv>
     </tu>
     <tu>
@@ -16168,8 +16168,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T081144Z" creationid="Hugo" creationdate="20200525T160926Z">
-        <seg>Bann term segman aktif ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan 'file' gloser-la pou afise dan pano Gloser:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T160926Z">
+        <seg>Bann term segman aktif ki &lt;a2&gt;OmegaT&lt;/a2&gt; trouve dan fisie gloser-la pou afise dan pano Gloser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16242,8 +16242,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210209T160042Z">
-        <seg>Segmantasion pou bann 'file' text</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210209T160042Z">
+        <seg>Segmantasion pou bann fisie text</seg>
       </tuv>
     </tu>
     <tu>
@@ -16664,8 +16664,8 @@ pou servi dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200606T171410Z">
-        <seg>Konteni 'file' gloser li garde dan memwar e li sarze kan ouver ou re-sarz proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T171410Z">
+        <seg>Konteni fisie gloser li garde dan memwar e li sarze kan ouver ou re-sarz proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16770,8 +16770,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210223T140258Z">
-        <seg>OmegaT pa aksept 'file' "{0}".</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210223T140258Z">
+        <seg>OmegaT pa aksept fisie "{0}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -16786,8 +16786,8 @@ pou servi dosie an-kour.</seg>
       <tuv lang="en">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T155609Z">
-        <seg>Bann 'file' sa sit-la dan enn version pou sa bann ki oule lokaliz li.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T155609Z">
+        <seg>Bann fisie sa sit-la dan enn version pou sa bann ki oule lokaliz li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16960,16 +16960,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200606T183327Z">
-        <seg>Kapav sanz lanplasman 'file' gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriyete... &lt;/g0&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T183327Z">
+        <seg>Kapav sanz lanplasman fisie gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriyete... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T114143Z">
-        <seg>Nom bann 'file' bizin koresponn avek kod lang ou lang sib tel ki li defini dan bwat dialog propriyete proze (&lt;g0&gt;Proze &gt; Propriyete&lt;/g0&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T114143Z">
+        <seg>Nom bann fisie bizin koresponn avek kod lang ou lang sib tel ki li defini dan bwat dialog propriyete proze (&lt;g0&gt;Proze &gt; Propriyete&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17088,8 +17088,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200528T203338Z">
-        <seg>Ou kapav done enn nom 'file' gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200528T203338Z">
+        <seg>Ou kapav done enn nom fisie gloser ki modifiab dan paramet proze (get depi koumansman sa sapit-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17184,8 +17184,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T133311Z">
-        <seg>Lang 'file' sours pa valid!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T133311Z">
+        <seg>Lang fisie sours pa valid!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17216,8 +17216,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The specified files are not supported.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210223T140834Z">
-        <seg>OmegaT pa aksept bann 'file' ki finn spesifie la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210223T140834Z">
+        <seg>OmegaT pa aksept bann fisie ki finn spesifie la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17240,8 +17240,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200921T153550Z">
-        <seg>Verifikater lortograf servi kod lang sib pou determnn ki lang pou itilize: si lang sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de 'file' ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T153550Z">
+        <seg>Verifikater lortograf servi kod lang sib pou determnn ki lang pou itilize: si lang sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17280,8 +17280,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T133942Z">
-        <seg>Lang 'file' sib pa valid!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T133942Z">
+        <seg>Lang fisie sib pa valid!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17425,8 +17425,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200519T153451Z">
-        <seg>Pou ena trwa 'file' avek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T153451Z">
+        <seg>Pou ena trwa fisie avek extansion &lt;e1&gt;dz, idx &lt;/e1&gt;ek &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17442,9 +17442,9 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210212T141333Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210212T141333Z">
         <seg>Donk, pa kapav determinn lanplasman
-'file' konfigirasion OmegaT avek sertitid.</seg>
+fisie konfigirasion OmegaT avek sertitid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17471,8 +17471,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201010T043337Z">
-        <seg>Sa bann utilities-la permet ou servi OmegaT pou tradir bann format 'file' kot bann filt konversion XLIFF deza existe.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T043337Z">
+        <seg>Sa bann utilities-la permet ou servi OmegaT pou tradir bann format fisie kot bann filt konversion XLIFF deza existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17603,8 +17603,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200925T065018Z">
-        <seg>Sa bwat dialog-la donn enn lalis tou bann filt 'file' disponib.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200925T065018Z">
+        <seg>Sa bwat dialog-la donn enn lalis tou bann filt fisie disponib.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17659,8 +17659,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>This is a valid project file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210220T113314Z">
-        <seg>Sa enn 'file' proze valid.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210220T113314Z">
+        <seg>Sa enn fisie proze valid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,12 +17831,12 @@ depi server.</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131333Z" creationid="Hugo" creationdate="20210427T130454Z">
-        <seg>Pou azout bann 'file' dan enn proze ou kapav
-- rise-depoze bann 'file' dan sa pano Editer la
-- servi Proze &gt; Kopie bann 'file' ver Dosie Sours...
-- klik lor "Kopie bann 'file' ver Dosie Sours..." dan lafnet "Bann 'file' proze"
-- kopie bann 'file' ver ou dosie sours dan ou zestioner fisie, apre re-sarz ou proze avek Proze &gt; Re-sarze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131626Z" creationid="Hugo" creationdate="20210427T130454Z">
+        <seg>Pou azout bann fisie dan enn proze ou kapav
+- rise-depoze bann fisie dan sa pano Editer la
+- servi Proze &gt; Kopie bann Fisie ver Dosie Sours...
+- klik lor "Kopie bann Fisie ver Dosie Sours..." dan lafnet "Bann Fisie Proze"
+- kopie bann fisie ver ou dosie sours dan ou zestioner fisie, apre re-sarz ou proze avek Proze &gt; Re-sarze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17875,16 +17875,16 @@ depi server.</seg>
       <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200928T140511Z">
-        <seg>Pou sanz bann 'file' ek lankodaz asosie avek enn filt, swazir filt-la dan lalis ek klik lor &lt;e1&gt;Modifie&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200928T140511Z">
+        <seg>Pou sanz bann fisie ek lankodaz asosie avek enn filt, swazir filt-la dan lalis ek klik lor &lt;e1&gt;Modifie&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T142951Z">
-        <seg>Pou modifie tip ek lankodaz bann 'file' ki filt pou trete, swazir filt korespondan dan lalis ek klik lor Modifie.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T142951Z">
+        <seg>Pou modifie tip ek lankodaz bann fisie ki filt pou trete, swazir filt korespondan dan lalis ek klik lor Modifie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17915,8 +17915,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200519T132619Z">
-        <seg>Pou instal bann 'file' StarDict neseser, ou bizin:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T132619Z">
+        <seg>Pou instal bann fisie StarDict neseser, ou bizin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18172,8 +18172,8 @@ depi server.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T125341Z">
-        <seg>Sime 'file' tradiksion bizin diferan sime 'file' sours:
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T125341Z">
+        <seg>Sime fisie tradiksion bizin diferan sime fisie sours:
 {0}</seg>
       </tuv>
     </tu>
@@ -18181,16 +18181,16 @@ depi server.</seg>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T134309Z">
-        <seg>Dosie ki finn spesifie pou bann 'file' sib pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T134309Z">
+        <seg>Dosie ki finn spesifie pou bann fisie sib pa existe!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210219T121722Z">
-        <seg>Anplasman bann 'file' ki finn tradir pa finn defini</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T121722Z">
+        <seg>Anplasman bann fisie ki finn tradir pa finn defini</seg>
       </tuv>
     </tu>
     <tu>
@@ -18269,8 +18269,8 @@ depi server.</seg>
       <tuv lang="en">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T144649Z">
-        <seg>Dosie ki finn spesifie pou bann 'file' memwar tradiksion pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T144649Z">
+        <seg>Dosie ki finn spesifie pou bann fisie memwar tradiksion pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18439,8 +18439,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T115039Z">
-        <seg>Inposib kree enn nouvo 'file' TMX!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T115039Z">
+        <seg>Inposib kree enn nouvo fisie TMX!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18471,8 +18471,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201024T054407Z">
-        <seg>Inposib inisializ lektir 'file' XML!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201024T054407Z">
+        <seg>Inposib inisializ lektir fisie XML!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18487,8 +18487,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T124915Z">
-        <seg>Analiz 'file' konfigirasion bann filt inposib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T124915Z">
+        <seg>Analiz fisie konfigirasion bann filt inposib</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,16 +18511,16 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201027T124756Z">
-        <seg>Inposib lir sa 'file'-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201027T124756Z">
+        <seg>Inposib lir sa fisie-la</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201020T125912Z">
-        <seg>Inposib lir 'file' proze la!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201020T125912Z">
+        <seg>Inposib lir fisie proze la!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18535,8 +18535,8 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T124924Z">
-        <seg>Anrezistreman 'file' konfigirasion bann filt inposib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T124924Z">
+        <seg>Anrezistreman fisie konfigirasion bann filt inposib</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,16 +18739,16 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported file encoding</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201026T162420Z">
-        <seg>Inposib lir lankodaz sa 'file'-la</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201026T162420Z">
+        <seg>Inposib lir lankodaz sa fisie-la</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201128T095303Z">
-        <seg>Inposib lir 'file' proze version ({0})!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201128T095303Z">
+        <seg>Inposib lir fisie proze version ({0})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18803,8 +18803,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200606T182107Z">
-        <seg>Savedir li bien sinp aktializ enn 'file' gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak antre) ek save 'file'-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T182107Z">
+        <seg>Savedir li bien sinp aktializ enn fisie gloser: apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; ek ekrir nouvo term-la, so tradiksion ek ninport ki komanter ki ou le (fer atension met enn tab ant sak antre) ek save fisie-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19020,8 +19020,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T080726Z" creationid="Hugo" creationdate="20200519T153310Z">
-        <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer 'file'-la so konteni dan dosie "Dictionary" proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T153310Z">
+        <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer fisie-la so konteni dan dosie "Dictionary" proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19180,8 +19180,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T132501Z">
-        <seg>Itiliter pou konverti bann 'file' Trados TagEditor (TTX) dan enn format intermedier kot kapav tradir zot dan OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T132501Z">
+        <seg>Itiliter pou konverti bann fisie Trados TagEditor (TTX) dan enn format intermedier kot kapav tradir zot dan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19292,8 +19292,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>View or edit file filters.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210208T142106Z">
-        <seg>Konsilte ou modifie bann filt 'file'.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T142106Z">
+        <seg>Konsilte ou modifie bann filt fisie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19396,8 +19396,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20210210T142253Z">
-        <seg>Kan enn 'file' ena plis segman ki sa, bann segman siplemanter pou sarze kan ou defil an-ba.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210210T142253Z">
+        <seg>Kan enn fisie ena plis segman ki sa, bann segman siplemanter pou sarze kan ou defil an-ba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19610,8 +19610,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Wordfast TMX file converter</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201013T144146Z">
-        <seg>Konvertiser 'file' Wordfast TMX</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T144146Z">
+        <seg>Konvertiser fisie Wordfast TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -19626,8 +19626,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Work with more than 30 file formats</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201003T054023Z">
-        <seg>Siport plis ki 30 format 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201003T054023Z">
+        <seg>Siport plis ki 30 format fisie</seg>
       </tuv>
     </tu>
     <tu>
@@ -19650,8 +19650,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201021T134350Z">
-        <seg>Dosie ki finn spesifie pou 'file' gloser ekrivab pa existe!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201021T134350Z">
+        <seg>Dosie ki finn spesifie pou fisie gloser ekrivab pa existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19834,8 +19834,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200706T185459Z">
-        <seg>Ou kapav sanz bann sortket existan ouswa kree bann nouvo sortket si ou met enn 'file' definision sortket dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200706T185459Z">
+        <seg>Ou kapav sanz bann sortket existan ouswa kree bann nouvo sortket si ou met enn fisie definision sortket dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,8 +19850,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131244Z" creationid="Hugo" creationdate="20200918T121745Z">
-        <seg>Ouswa ou kopie bann 'file' manielman (depi ninport ki landrwa dan ou sistem) o traver ou zestioner fisie; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200918T121745Z">
+        <seg>Ouswa ou kopie bann fisie manielman (depi ninport ki landrwa dan ou sistem) o traver ou zestioner fisie; ouswa ou servi fonksion OmegaT &lt;e0&gt;"Instal enn nouvo diksioner"&lt;/e0&gt; ki pou donn ou enn lalis diksioner disponib ki ou kapav swazir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19859,8 +19859,8 @@ Erer 404</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201016T100751Z">
-        <seg>Ou kapav trouv bann linformasion statistik detaye dan 'file':
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T100751Z">
+        <seg>Ou kapav trouv bann linformasion statistik detaye dan fisie:
 {0}</seg>
       </tuv>
     </tu>
@@ -19908,8 +19908,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20200525T150525Z">
-        <seg>Ou kapav definir 'file'-la so lanplasman ek so nom dan bwat dialog propriyete proze-la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200525T150525Z">
+        <seg>Ou kapav definir fisie-la so lanplasman ek so nom dan bwat dialog propriyete proze-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19964,8 +19964,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T161827Z" creationid="Hugo" creationdate="20210219T094323Z">
-        <seg>Ou bizin 'update' ou JDK 1.6 ver dernie version, ouswa siprim bann 'file' jaxb-*.jar dan dosie OmegaT /lib</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210219T094323Z">
+        <seg>Ou bizin 'update' ou JDK 1.6 ver dernie version, ouswa siprim bann fisie jaxb-*.jar dan dosie OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
@@ -19996,8 +19996,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201201T105224Z">
-        <seg>Proze-la servi segmantasion par fraz alor ki 'file' TMX servi segmantasion par paragraf.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201201T105224Z">
+        <seg>Proze-la servi segmantasion par fraz alor ki fisie TMX servi segmantasion par paragraf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20030,8 +20030,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201015T095623Z">
-        <seg>Ou proze pena okenn 'file' ki dan enn format ki OmegaT aksepte.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201015T095623Z">
+        <seg>Ou proze pena okenn fisie ki dan enn format ki OmegaT aksepte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20174,8 +20174,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210223T141929Z" creationid="Hugo" creationdate="20201022T103540Z">
-        <seg>nom bann 'file'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201022T103540Z">
+        <seg>nom bann fisie</seg>
       </tuv>
     </tu>
     <tu>
