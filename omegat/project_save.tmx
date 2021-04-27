@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132350Z" creationid="Hugo" creationdate="20210427T132350Z">
+        <seg>'Download'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Editor...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T074228Z" creationid="Hugo" creationdate="20201016T074228Z">
@@ -15932,7 +15940,7 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
     </tu>
     <tu>
-      <note>Data uswa done?</note>
+      <note>Data ouswa done?</note>
       <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
@@ -16002,6 +16010,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133323Z" creationid="Hugo" creationdate="20200924T133323Z">
         <seg>Terminolozi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210427T132330Z" creationid="Hugo" creationdate="20210427T132330Z">
+        <seg>Tabilasion</seg>
       </tuv>
     </tu>
     <tu>
