@@ -8432,6 +8432,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T150350Z" creationid="Hugo" creationdate="20210505T150350Z">
+        <seg>Pa pran kont bann </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T124624Z">
@@ -12653,8 +12661,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210505T150026Z" creationid="Hugo" creationdate="20210505T145925Z">
-        <seg>Gard bann lespas pou tou bann baliz: chel sa lopsion-la si bann dokiman sours kontenir bann espas inportan pou pou miz-an-paz  </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T150308Z" creationid="Hugo" creationdate="20210505T145925Z">
+        <seg>Gard bann lespas pou tou bann baliz: chek sa lopsion-la si bann dokiman sours kontenir bann espas inportan pou miz-an-paz ki bizin pran garde.</seg>
       </tuv>
     </tu>
     <tu>
