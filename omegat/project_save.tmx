@@ -19417,6 +19417,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T145156Z" creationid="Hugo" creationdate="20210505T145114Z">
+        <seg>Pran Kont: dan bann forma Microsoft Open XML (docx, xlsx, etc.), si tou bann if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091327Z" creationid="Hugo" creationdate="20201008T091327Z">
