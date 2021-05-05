@@ -8207,6 +8207,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T152126Z" creationid="Hugo" creationdate="20210505T152126Z">
+        <seg>Si ou seleksionn sa lopsion-la, pa pou servi nom fisie sours la, e bann tradiksion alternatif pou ena efe dan ninport ki fisie apartir moman ki leres kontex (bann segman presedan/swivan, ouswa ninport ki idantifian segman an fonksion format fisie la) koresponn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153028Z" creationid="Hugo" creationdate="20200921T151147Z">
