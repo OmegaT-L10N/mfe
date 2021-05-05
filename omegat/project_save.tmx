@@ -8512,6 +8512,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T145858Z" creationid="Hugo" creationdate="20210505T145858Z">
+        <seg>Dan bann proze ki pa segmante, ou kapav gard zot si ou les sa lopsion-la vid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T090621Z" creationid="Hugo" creationdate="20201022T090621Z">
@@ -12639,6 +12647,14 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121135Z" creationid="Hugo" creationdate="20210208T144512Z">
         <seg>&amp;Prezerv bann lespas pou tou bann baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T150026Z" creationid="Hugo" creationdate="20210505T145925Z">
+        <seg>Gard bann lespas pou tou bann baliz: chel sa lopsion-la si bann dokiman sours kontenir bann espas inportan pou pou miz-an-paz  </seg>
       </tuv>
     </tu>
     <tu>
