@@ -8434,8 +8434,8 @@ valer par defo apre sanzman lanplasman.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210505T150350Z" creationid="Hugo" creationdate="20210505T150350Z">
-        <seg>Pa pran kont bann </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210505T151407Z" creationid="Hugo" creationdate="20210505T150350Z">
+        <seg>Pa pran kont kontex fisie-la pou idantifie bann segman kot ena bann tradiksion alternatif: par defo, OmegaT pou servi an parti nom enn fisie pou idantifie enn tradiksion alternatif. </seg>
       </tuv>
     </tu>
     <tu>
