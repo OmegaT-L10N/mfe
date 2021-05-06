@@ -14412,6 +14412,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210506T162305Z" creationid="Hugo" creationdate="20210506T162305Z">
+        <seg>Bann skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115108Z" creationid="Hugo" creationdate="20210219T115108Z">
