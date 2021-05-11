@@ -18726,6 +18726,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013054Z" creationid="Hugo" creationdate="20210511T013054Z">
+        <seg>Pou pibliy bann version noter, li kapav pran inpe letan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T153451Z">
@@ -20469,6 +20477,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161913Z" creationid="Hugo" creationdate="20201001T071944Z">
         <seg>Bann itilizater kapav 'download' ek itiliz program-la gratwitman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013310Z" creationid="Hugo" creationdate="20210511T013310Z">
+        <seg>Bann itilizater ki prese kapav servi version non signe anplas; si ou pe rankont bann difikilte letan ou lans program-la, lir lartik &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
