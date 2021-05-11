@@ -2246,8 +2246,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141147Z" creationid="Hugo" creationdate="20210511T141122Z">
-        <seg>Enn sinp set reg verifikasion pou proze OmegaT aktiel</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141905Z" creationid="Hugo" creationdate="20210511T141122Z">
+        <seg>Enn sinp set reg pou Quality Assurance proze OmegaT an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -14495,8 +14495,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141030Z" creationid="Hugo" creationdate="20210511T134811Z">
-        <seg>QA - Bann reg verifikasion</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141435Z" creationid="Hugo" creationdate="20210511T134811Z">
+        <seg>QA – Bann reg verifikasion</seg>
       </tuv>
     </tu>
     <tu>
