@@ -2300,6 +2300,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010629Z" creationid="Hugo" creationdate="20210511T010629Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153138Z" creationid="Hugo" creationdate="20210204T153138Z">
@@ -2584,6 +2592,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083821Z" creationid="Hugo" creationdate="20210219T092640Z">
         <seg>Itilizasion agresif bann 'font' de sekour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010629Z" creationid="Hugo" creationdate="20210511T010629Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,6 +3537,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163337Z" creationid="Hugo" creationdate="20210208T163337Z">
         <seg>Segmantasion/Exsepsion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010630Z" creationid="Hugo" creationdate="20210511T010630Z">
+        <seg>Briac Pilpré</seg>
       </tuv>
     </tu>
     <tu>
@@ -7132,6 +7156,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010534Z" creationid="Hugo" creationdate="20210511T010534Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F5</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010320Z" creationid="Hugo" creationdate="20210511T010320Z">
@@ -7408,6 +7440,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T104355Z" creationid="Hugo" creationdate="20201201T125036Z">
         <seg>Inposib sarz filt '{0}' depi '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010611Z" creationid="Hugo" creationdate="20210511T010611Z">
+        <seg>Filter options</seg>
       </tuv>
     </tu>
     <tu>
@@ -9544,6 +9584,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010630Z" creationid="Hugo" creationdate="20210511T010630Z">
+        <seg>Integration manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interface to Google Translate</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055858Z" creationid="Hugo" creationdate="20201003T055858Z">
@@ -10050,6 +10098,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010626Z" creationid="Hugo" creationdate="20210511T010626Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135513Z" creationid="Hugo" creationdate="20210212T135513Z">
@@ -10078,6 +10134,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T131303Z" creationid="Hugo" creationdate="20201022T131303Z">
         <seg>Enn resers par keyword li pou rod tou bann mo ki finn separe par enn lespas, san pran kont zot lord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010632Z" creationid="Hugo" creationdate="20210511T010632Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -10534,6 +10598,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103546Z" creationid="Hugo" creationdate="20201022T103546Z">
         <seg>Lanplasman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010539Z" creationid="Hugo" creationdate="20210511T010539Z">
+        <seg>Log...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12207,6 +12279,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055906Z" creationid="Hugo" creationdate="20201003T055906Z">
         <seg>Screenshot OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010823Z" creationid="Hugo" creationdate="20210511T010823Z">
+        <seg>OmegaT ena ousi bann lalis difizion ek bann sistem swivi swivan lor SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13921,6 +14001,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T123237Z" creationid="Hugo" creationdate="20210219T123226Z">
         <seg>Proze finn verouye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010627Z" creationid="Hugo" creationdate="20210511T010627Z">
+        <seg>Project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -17197,6 +17285,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010526Z" creationid="Hugo" creationdate="20210511T010526Z">
+        <seg>Team...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150331Z" creationid="Hugo" creationdate="20210210T144920Z">
@@ -20433,6 +20529,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010631Z" creationid="Hugo" creationdate="20210511T010631Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005443Z" creationid="Hugo" creationdate="20210511T005443Z">
@@ -22115,6 +22219,38 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010537Z" creationid="Hugo" creationdate="20210511T010537Z">
+        <seg>helpAboutMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010535Z" creationid="Hugo" creationdate="20210511T010535Z">
+        <seg>helpContentsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010538Z" creationid="Hugo" creationdate="20210511T010538Z">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010539Z" creationid="Hugo" creationdate="20210511T010539Z">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161124Z" creationid="Hugo" creationdate="20210208T161117Z">
@@ -22187,10 +22323,34 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010544Z" creationid="Hugo" creationdate="20210511T010544Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005736Z" creationid="Hugo" creationdate="20210511T005736Z">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010547Z" creationid="Hugo" creationdate="20210511T010547Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010546Z" creationid="Hugo" creationdate="20210511T010546Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22285,6 +22445,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010532Z" creationid="Hugo" creationdate="20210511T010532Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010512Z" creationid="Hugo" creationdate="20210511T010512Z">
@@ -22333,6 +22501,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010528Z" creationid="Hugo" creationdate="20210511T010528Z">
+        <seg>optionsExtTMXMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsFontSelectionMenuItem</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010519Z" creationid="Hugo" creationdate="20210511T010519Z">
@@ -22365,6 +22541,46 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010531Z" creationid="Hugo" creationdate="20210511T010531Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010530Z" creationid="Hugo" creationdate="20210511T010530Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010522Z" creationid="Hugo" creationdate="20210511T010522Z">
+        <seg>optionsSentsegMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010521Z" creationid="Hugo" creationdate="20210511T010521Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010523Z" creationid="Hugo" creationdate="20210511T010523Z">
+        <seg>optionsSpellCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010510Z" creationid="Hugo" creationdate="20210511T010510Z">
@@ -22373,10 +22589,50 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010525Z" creationid="Hugo" creationdate="20210511T010525Z">
+        <seg>optionsTagValidationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010527Z" creationid="Hugo" creationdate="20210511T010527Z">
+        <seg>optionsTeamMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsTransTipsEnableMenuItem</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010515Z" creationid="Hugo" creationdate="20210511T010515Z">
         <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010529Z" creationid="Hugo" creationdate="20210511T010529Z">
+        <seg>optionsViewOptionsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010530Z" creationid="Hugo" creationdate="20210511T010530Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010524Z" creationid="Hugo" creationdate="20210511T010524Z">
+        <seg>optionsWorkflowMenuItem</seg>
       </tuv>
     </tu>
     <tu>
