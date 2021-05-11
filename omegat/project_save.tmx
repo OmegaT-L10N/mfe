@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010214Z" creationid="Hugo" creationdate="20210511T010214Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080331Z" creationid="Hugo" creationdate="20201016T080331Z">
@@ -1360,6 +1368,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010047Z" creationid="Hugo" creationdate="20210511T010047Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044500Z" creationid="Hugo" creationdate="20201010T044500Z">
@@ -1626,6 +1642,14 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T071420Z" creationid="Hugo" creationdate="20201015T071159Z">
         <seg>-h, --help
 		Montre linformasion lor litilizasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010206Z" creationid="Hugo" creationdate="20210511T010206Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,6 +20527,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010218Z" creationid="Hugo" creationdate="20210511T010218Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010217Z" creationid="Hugo" creationdate="20210511T010217Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005544Z" creationid="Hugo" creationdate="20210511T005544Z">
@@ -20851,6 +20891,38 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010116Z" creationid="Hugo" creationdate="20210511T010116Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010200Z" creationid="Hugo" creationdate="20210511T010200Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010204Z" creationid="Hugo" creationdate="20210511T010204Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010118Z" creationid="Hugo" creationdate="20210511T010118Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085402Z" creationid="Hugo" creationdate="20210224T085402Z">
@@ -20871,6 +20943,238 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T150556Z" creationid="Hugo" creationdate="20210223T150556Z">
         <seg>[{0}] “{1}” dan sours; pe atann “{2}” dan sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010055Z" creationid="Hugo" creationdate="20210511T010055Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010053Z" creationid="Hugo" creationdate="20210511T010053Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010052Z" creationid="Hugo" creationdate="20210511T010052Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010053Z" creationid="Hugo" creationdate="20210511T010053Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010216Z" creationid="Hugo" creationdate="20210511T010216Z">
+        <seg>\B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010208Z" creationid="Hugo" creationdate="20210511T010208Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010057Z" creationid="Hugo" creationdate="20210511T010057Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010114Z" creationid="Hugo" creationdate="20210511T010114Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010057Z" creationid="Hugo" creationdate="20210511T010057Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010210Z" creationid="Hugo" creationdate="20210511T010210Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010211Z" creationid="Hugo" creationdate="20210511T010211Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010056Z" creationid="Hugo" creationdate="20210511T010056Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010051Z" creationid="Hugo" creationdate="20210511T010051Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010215Z" creationid="Hugo" creationdate="20210511T010215Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010052Z" creationid="Hugo" creationdate="20210511T010052Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010207Z" creationid="Hugo" creationdate="20210511T010207Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010051Z" creationid="Hugo" creationdate="20210511T010051Z">
+        <seg>\e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010051Z" creationid="Hugo" creationdate="20210511T010051Z">
+        <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010050Z" creationid="Hugo" creationdate="20210511T010050Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010101Z" creationid="Hugo" creationdate="20210511T010101Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010112Z" creationid="Hugo" creationdate="20210511T010112Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010113Z" creationid="Hugo" creationdate="20210511T010113Z">
+        <seg>\p{Sc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010050Z" creationid="Hugo" creationdate="20210511T010050Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010208Z" creationid="Hugo" creationdate="20210511T010208Z">
+        <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010049Z" creationid="Hugo" creationdate="20210511T010049Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010049Z" creationid="Hugo" creationdate="20210511T010049Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010211Z" creationid="Hugo" creationdate="20210511T010211Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010054Z" creationid="Hugo" creationdate="20210511T010054Z">
+        <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010213Z" creationid="Hugo" creationdate="20210511T010213Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -20999,6 +21303,30 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161124Z" creationid="Hugo" creationdate="20210208T161117Z">
         <seg>href (URL bann &amp;lien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010111Z" creationid="Hugo" creationdate="20210511T010111Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010041Z" creationid="Hugo" creationdate="20210511T010041Z">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010045Z" creationid="Hugo" creationdate="20210511T010045Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -21169,6 +21497,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210208T161908Z">
         <seg>value ('input' button, &amp;submit ek reset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010048Z" creationid="Hugo" creationdate="20210511T010048Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
