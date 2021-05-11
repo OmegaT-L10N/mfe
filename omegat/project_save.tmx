@@ -9312,6 +9312,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013518Z" creationid="Hugo" creationdate="20210511T013518Z">
+        <seg>Pou instal version 'Web Start', ou bizin ena Java version 1.8 minimum instale lor ou ordinater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T101621Z" creationid="Hugo" creationdate="20210224T101621Z">
@@ -13273,6 +13281,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172026Z" creationid="Hugo" creationdate="20200607T172026Z">
         <seg>Pwin, swivi par enn maziskil − li posib ki enn lespas manke ant enn pwin ek enn nouvo fraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013533Z" creationid="Hugo" creationdate="20210511T013533Z">
+        <seg>Bann konpilasion peryodik disponib lor Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17883,6 +17899,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013346Z" creationid="Hugo" creationdate="20210511T013346Z">
+        <seg>Sertifika-la signe par prinsipal devloper OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T125755Z" creationid="Hugo" creationdate="20200607T125755Z">
@@ -22319,6 +22343,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010414Z" creationid="Hugo" creationdate="20210511T010414Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T013522Z" creationid="Hugo" creationdate="20210511T013522Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
