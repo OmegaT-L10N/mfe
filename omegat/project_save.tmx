@@ -12459,6 +12459,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T012920Z" creationid="Hugo" creationdate="20210511T012550Z">
+        <seg>OmegaT pou macOS disponib dan version noter ek version non signe; zot toule-de idantik onivo zot bann fonksion, me bann itilizater prefer version noter etan done ki macOS rekonet li kouma enn program ki (a) finn pibliye par enn developer koni, ek (b) finn skan par Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113431Z" creationid="Hugo" creationdate="20200731T072831Z">
