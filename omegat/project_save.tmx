@@ -1434,12 +1434,28 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010225Z" creationid="Hugo" creationdate="20210511T010225Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T103639Z" creationid="Hugo" creationdate="20210220T103639Z">
         <seg>(Ou kapav kontign servi OmegaT
 3.6 pou travay lor sa proze-la kouma enn proze lekip.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010245Z" creationid="Hugo" creationdate="20210511T010245Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,6 +1496,14 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005714Z" creationid="Hugo" creationdate="20210511T005714Z">
         <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010258Z" creationid="Hugo" creationdate="20210511T010258Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,6 +1868,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010309Z" creationid="Hugo" creationdate="20210511T010309Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T185304Z">
@@ -1936,6 +1968,22 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T101347Z" creationid="Hugo" creationdate="20210224T101347Z">
         <seg>&lt;i1&gt;Ou kapav instal OmegaT lor ninport ki 'operating system' ki kapav zer Java runtime environment version 1.8.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010440Z" creationid="Hugo" creationdate="20210511T010440Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010445Z" creationid="Hugo" creationdate="20210511T010445Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,6 +4936,310 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010423Z" creationid="Hugo" creationdate="20210511T010423Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010425Z" creationid="Hugo" creationdate="20210511T010425Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010427Z" creationid="Hugo" creationdate="20210511T010427Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010428Z" creationid="Hugo" creationdate="20210511T010428Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010429Z" creationid="Hugo" creationdate="20210511T010429Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010327Z" creationid="Hugo" creationdate="20210511T010327Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010330Z" creationid="Hugo" creationdate="20210511T010330Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010410Z" creationid="Hugo" creationdate="20210511T010410Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010350Z" creationid="Hugo" creationdate="20210511T010350Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010446Z" creationid="Hugo" creationdate="20210511T010446Z">
+        <seg>Ctrl+J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010414Z" creationid="Hugo" creationdate="20210511T010414Z">
+        <seg>Ctrl+K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010332Z" creationid="Hugo" creationdate="20210511T010332Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010352Z" creationid="Hugo" creationdate="20210511T010352Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010316Z" creationid="Hugo" creationdate="20210511T010316Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010341Z" creationid="Hugo" creationdate="20210511T010341Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010349Z" creationid="Hugo" creationdate="20210511T010349Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010325Z" creationid="Hugo" creationdate="20210511T010325Z">
+        <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010406Z" creationid="Hugo" creationdate="20210511T010406Z">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010328Z" creationid="Hugo" creationdate="20210511T010328Z">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010413Z" creationid="Hugo" creationdate="20210511T010413Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010408Z" creationid="Hugo" creationdate="20210511T010408Z">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010400Z" creationid="Hugo" creationdate="20210511T010400Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010450Z" creationid="Hugo" creationdate="20210511T010450Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010312Z" creationid="Hugo" creationdate="20210511T010312Z">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010452Z" creationid="Hugo" creationdate="20210511T010452Z">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010449Z" creationid="Hugo" creationdate="20210511T010449Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010356Z" creationid="Hugo" creationdate="20210511T010356Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010435Z" creationid="Hugo" creationdate="20210511T010435Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010402Z" creationid="Hugo" creationdate="20210511T010402Z">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010439Z" creationid="Hugo" creationdate="20210511T010439Z">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010505Z" creationid="Hugo" creationdate="20210511T010505Z">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010323Z" creationid="Hugo" creationdate="20210511T010323Z">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010404Z" creationid="Hugo" creationdate="20210511T010404Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010437Z" creationid="Hugo" creationdate="20210511T010437Z">
+        <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010348Z" creationid="Hugo" creationdate="20210511T010348Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010343Z" creationid="Hugo" creationdate="20210511T010343Z">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010420Z" creationid="Hugo" creationdate="20210511T010420Z">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010421Z" creationid="Hugo" creationdate="20210511T010421Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T094813Z" creationid="Hugo" creationdate="20201015T094813Z">
@@ -6780,6 +7132,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010320Z" creationid="Hugo" creationdate="20210511T010320Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook group</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T032456Z" creationid="Hugo" creationdate="20201010T032456Z">
@@ -7152,6 +7512,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083847Z" creationid="Hugo" creationdate="20210224T083840Z">
         <seg>'Font'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010519Z" creationid="Hugo" creationdate="20210511T010519Z">
+        <seg>Font...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13906,6 +14274,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010238Z" creationid="Hugo" creationdate="20210511T010238Z">
+        <seg>Tester Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T114804Z" creationid="Hugo" creationdate="20200607T163917Z">
@@ -14734,6 +15110,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T082516Z" creationid="Hugo" creationdate="20201014T082516Z">
         <seg>Skript ek prosedir Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010324Z" creationid="Hugo" creationdate="20210511T010324Z">
+        <seg>Save</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +16040,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T102107Z" creationid="Hugo" creationdate="20200924T102107Z">
         <seg>Definir Tab kouma tous validasion enn segman olie Enter (tous par defo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010419Z" creationid="Hugo" creationdate="20210511T010419Z">
+        <seg>Shift+F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,6 +20895,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010221Z" creationid="Hugo" creationdate="20210511T010221Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010222Z" creationid="Hugo" creationdate="20210511T010222Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T100227Z" creationid="Hugo" creationdate="20200607T140301Z">
@@ -20535,10 +20943,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010219Z" creationid="Hugo" creationdate="20210511T010219Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010217Z" creationid="Hugo" creationdate="20210511T010217Z">
         <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010220Z" creationid="Hugo" creationdate="20210511T010220Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -20591,10 +21015,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010222Z" creationid="Hugo" creationdate="20210511T010222Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XY as a single group</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163803Z" creationid="Hugo" creationdate="20200607T163803Z">
         <seg>XY kouma enn sel group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010224Z" creationid="Hugo" creationdate="20210511T010224Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -20891,6 +21331,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010246Z" creationid="Hugo" creationdate="20210511T010246Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010116Z" creationid="Hugo" creationdate="20210511T010116Z">
@@ -20951,6 +21399,22 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010055Z" creationid="Hugo" creationdate="20210511T010055Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010247Z" creationid="Hugo" creationdate="20210511T010247Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010252Z" creationid="Hugo" creationdate="20210511T010252Z">
+        <seg>\.[A-Z]</seg>
       </tuv>
     </tu>
     <tu>
@@ -21059,6 +21523,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010254Z" creationid="Hugo" creationdate="20210511T010254Z">
+        <seg>\bis\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\cx</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010052Z" creationid="Hugo" creationdate="20210511T010052Z">
@@ -21135,6 +21607,38 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010208Z" creationid="Hugo" creationdate="20210511T010208Z">
         <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010247Z" creationid="Hugo" creationdate="20210511T010247Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010248Z" creationid="Hugo" creationdate="20210511T010248Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010249Z" creationid="Hugo" creationdate="20210511T010249Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010250Z" creationid="Hugo" creationdate="20210511T010250Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,6 +21739,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010420Z" creationid="Hugo" creationdate="20210511T010420Z">
+        <seg>cycleSwitchCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T114909Z" creationid="Hugo" creationdate="20210219T114909Z">
@@ -21247,6 +21759,214 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170259Z" creationid="Hugo" creationdate="20200607T170259Z">
         <seg>mo doub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010409Z" creationid="Hugo" creationdate="20210511T010409Z">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010307Z" creationid="Hugo" creationdate="20210511T010307Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010407Z" creationid="Hugo" creationdate="20210511T010407Z">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010412Z" creationid="Hugo" creationdate="20210511T010412Z">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010401Z" creationid="Hugo" creationdate="20210511T010401Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010351Z" creationid="Hugo" creationdate="20210511T010351Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010432Z" creationid="Hugo" creationdate="20210511T010432Z">
+        <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010432Z" creationid="Hugo" creationdate="20210511T010432Z">
+        <seg>editMultipleDefault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010353Z" creationid="Hugo" creationdate="20210511T010353Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010358Z" creationid="Hugo" creationdate="20210511T010358Z">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010350Z" creationid="Hugo" creationdate="20210511T010350Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010349Z" creationid="Hugo" creationdate="20210511T010349Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010434Z" creationid="Hugo" creationdate="20210511T010434Z">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010435Z" creationid="Hugo" creationdate="20210511T010435Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010433Z" creationid="Hugo" creationdate="20210511T010433Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010415Z" creationid="Hugo" creationdate="20210511T010415Z">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010424Z" creationid="Hugo" creationdate="20210511T010424Z">
+        <seg>editSelectFuzzy1MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010426Z" creationid="Hugo" creationdate="20210511T010426Z">
+        <seg>editSelectFuzzy2MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010427Z" creationid="Hugo" creationdate="20210511T010427Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010429Z" creationid="Hugo" creationdate="20210511T010429Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010431Z" creationid="Hugo" creationdate="20210511T010431Z">
+        <seg>editSelectFuzzy5MenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010422Z" creationid="Hugo" creationdate="20210511T010422Z">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010421Z" creationid="Hugo" creationdate="20210511T010421Z">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010405Z" creationid="Hugo" creationdate="20210511T010405Z">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010403Z" creationid="Hugo" creationdate="20210511T010403Z">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010348Z" creationid="Hugo" creationdate="20210511T010348Z">
+        <seg>editUndoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -21283,6 +22003,102 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010414Z" creationid="Hugo" creationdate="20210511T010414Z">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010453Z" creationid="Hugo" creationdate="20210511T010453Z">
+        <seg>gotoHistoryBackMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010451Z" creationid="Hugo" creationdate="20210511T010451Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010451Z" creationid="Hugo" creationdate="20210511T010451Z">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010448Z" creationid="Hugo" creationdate="20210511T010448Z">
+        <seg>gotoNextNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010442Z" creationid="Hugo" creationdate="20210511T010442Z">
+        <seg>gotoNextSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010439Z" creationid="Hugo" creationdate="20210511T010439Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010450Z" creationid="Hugo" creationdate="20210511T010450Z">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010438Z" creationid="Hugo" creationdate="20210511T010438Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010448Z" creationid="Hugo" creationdate="20210511T010448Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010446Z" creationid="Hugo" creationdate="20210511T010446Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010447Z" creationid="Hugo" creationdate="20210511T010447Z">
+        <seg>gotoSegmentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163609Z" creationid="Hugo" creationdate="20200607T162812Z">
@@ -21307,10 +22123,34 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010300Z" creationid="Hugo" creationdate="20210511T010300Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010256Z" creationid="Hugo" creationdate="20210511T010256Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010111Z" creationid="Hugo" creationdate="20210511T010111Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010239Z" creationid="Hugo" creationdate="20210511T010239Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
@@ -21327,6 +22167,22 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010045Z" creationid="Hugo" creationdate="20210511T010045Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010304Z" creationid="Hugo" creationdate="20210511T010304Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010303Z" creationid="Hugo" creationdate="20210511T010303Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -21381,6 +22237,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010416Z" creationid="Hugo" creationdate="20210511T010416Z">
+        <seg>lowerCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153719Z" creationid="Hugo" creationdate="20210204T153719Z">
@@ -21421,6 +22285,278 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010512Z" creationid="Hugo" creationdate="20210511T010512Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010517Z" creationid="Hugo" creationdate="20210511T010517Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010518Z" creationid="Hugo" creationdate="20210511T010518Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010516Z" creationid="Hugo" creationdate="20210511T010516Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010516Z" creationid="Hugo" creationdate="20210511T010516Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010520Z" creationid="Hugo" creationdate="20210511T010520Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010519Z" creationid="Hugo" creationdate="20210511T010519Z">
+        <seg>optionsFontSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010513Z" creationid="Hugo" creationdate="20210511T010513Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010514Z" creationid="Hugo" creationdate="20210511T010514Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010513Z" creationid="Hugo" creationdate="20210511T010513Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010510Z" creationid="Hugo" creationdate="20210511T010510Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010515Z" creationid="Hugo" creationdate="20210511T010515Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010338Z" creationid="Hugo" creationdate="20210511T010338Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010339Z" creationid="Hugo" creationdate="20210511T010339Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010336Z" creationid="Hugo" creationdate="20210511T010336Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010336Z" creationid="Hugo" creationdate="20210511T010336Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010334Z" creationid="Hugo" creationdate="20210511T010334Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010337Z" creationid="Hugo" creationdate="20210511T010337Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010338Z" creationid="Hugo" creationdate="20210511T010338Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010340Z" creationid="Hugo" creationdate="20210511T010340Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010324Z" creationid="Hugo" creationdate="20210511T010324Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010327Z" creationid="Hugo" creationdate="20210511T010327Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010331Z" creationid="Hugo" creationdate="20210511T010331Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010341Z" creationid="Hugo" creationdate="20210511T010341Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010319Z" creationid="Hugo" creationdate="20210511T010319Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010313Z" creationid="Hugo" creationdate="20210511T010313Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010317Z" creationid="Hugo" creationdate="20210511T010317Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010306Z" creationid="Hugo" creationdate="20210511T010306Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010318Z" creationid="Hugo" creationdate="20210511T010318Z">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010321Z" creationid="Hugo" creationdate="20210511T010321Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010326Z" creationid="Hugo" creationdate="20210511T010326Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010329Z" creationid="Hugo" creationdate="20210511T010329Z">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010315Z" creationid="Hugo" creationdate="20210511T010315Z">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010320Z" creationid="Hugo" creationdate="20210511T010320Z">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T172133Z" creationid="Hugo" creationdate="20200607T172133Z">
@@ -21433,6 +22569,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T095451Z" creationid="Hugo" creationdate="20201016T095451Z">
         <seg>segman 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010419Z" creationid="Hugo" creationdate="20210511T010419Z">
+        <seg>sentenceCaseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -21457,6 +22601,62 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161154Z" creationid="Hugo" creationdate="20210208T161154Z">
         <seg>src (URL bann &amp;zimaz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010418Z" creationid="Hugo" creationdate="20210511T010418Z">
+        <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010509Z" creationid="Hugo" creationdate="20210511T010509Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010509Z" creationid="Hugo" creationdate="20210511T010509Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010508Z" creationid="Hugo" creationdate="20210511T010508Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010311Z" creationid="Hugo" creationdate="20210511T010311Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010507Z" creationid="Hugo" creationdate="20210511T010507Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toolsValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010506Z" creationid="Hugo" creationdate="20210511T010506Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -21493,10 +22693,122 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010417Z" creationid="Hugo" creationdate="20210511T010417Z">
+        <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210208T161908Z">
         <seg>value ('input' button, &amp;submit ek reset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010502Z" creationid="Hugo" creationdate="20210511T010502Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010500Z" creationid="Hugo" creationdate="20210511T010500Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010501Z" creationid="Hugo" creationdate="20210511T010501Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010455Z" creationid="Hugo" creationdate="20210511T010455Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010333Z" creationid="Hugo" creationdate="20210511T010333Z">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010500Z" creationid="Hugo" creationdate="20210511T010500Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010459Z" creationid="Hugo" creationdate="20210511T010459Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010458Z" creationid="Hugo" creationdate="20210511T010458Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010456Z" creationid="Hugo" creationdate="20210511T010456Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010457Z" creationid="Hugo" creationdate="20210511T010457Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010454Z" creationid="Hugo" creationdate="20210511T010454Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010455Z" creationid="Hugo" creationdate="20210511T010455Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010459Z" creationid="Hugo" creationdate="20210511T010459Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
