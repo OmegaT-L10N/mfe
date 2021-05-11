@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011047Z" creationid="Hugo" creationdate="20210511T011047Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T080331Z" creationid="Hugo" creationdate="20201016T080331Z">
@@ -3601,6 +3609,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T084110Z" creationid="Hugo" creationdate="20201013T125734Z">
         <seg>Modil Navigater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011011Z" creationid="Hugo" creationdate="20210511T010945Z">
+        <seg>Bann bug, reket nouvo fonksionalite, ek bann problem dan dokimantasion, zot tou trete lor Sourceforge par sa sistem swivi-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8213,6 +8229,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011039Z" creationid="Hugo" creationdate="20210511T011039Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20210208T162545Z">
@@ -8493,6 +8517,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T075532Z" creationid="Hugo" creationdate="20200519T124358Z">
         <seg>Kouma 'download' ek instal bann diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011031Z" creationid="Hugo" creationdate="20210511T011031Z">
+        <seg>How to translate Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011034Z" creationid="Hugo" creationdate="20210511T011034Z">
+        <seg>How to translate Wordpress XLIFF files</seg>
       </tuv>
     </tu>
     <tu>
@@ -9962,6 +10002,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011040Z" creationid="Hugo" creationdate="20210511T011040Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153619Z" creationid="Hugo" creationdate="20210204T153619Z">
@@ -10442,6 +10490,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011044Z" creationid="Hugo" creationdate="20210511T011044Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T133248Z" creationid="Hugo" creationdate="20201013T133248Z">
@@ -10630,6 +10686,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153644Z" creationid="Hugo" creationdate="20210204T153644Z">
         <seg>Lucene (lisans Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011043Z" creationid="Hugo" creationdate="20210511T011043Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,6 +10950,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005653Z" creationid="Hugo" creationdate="20210511T005653Z">
         <seg>Mask</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011049Z" creationid="Hugo" creationdate="20210511T011049Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -11882,6 +11954,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011113Z" creationid="Hugo" creationdate="20210511T011113Z">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131725Z" creationid="Hugo" creationdate="20210222T131725Z">
@@ -12215,6 +12295,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T155918Z" creationid="Hugo" creationdate="20201013T155918Z">
         <seg>Framework Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010827Z" creationid="Hugo" creationdate="20210511T010827Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T010826Z" creationid="Hugo" creationdate="20210511T010826Z">
+        <seg>OmTdev</seg>
       </tuv>
     </tu>
     <tu>
@@ -13221,6 +13317,14 @@ lansanb.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T134839Z" creationid="Hugo" creationdate="20201003T054433Z">
         <seg>Plain-text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011048Z" creationid="Hugo" creationdate="20210511T011048Z">
+        <seg>Platform</seg>
       </tuv>
     </tu>
     <tu>
@@ -14245,6 +14349,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T103831Z" creationid="Hugo" creationdate="20201022T103831Z">
         <seg>Resers &amp;rekirsiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011023Z" creationid="Hugo" creationdate="20210511T011023Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -17293,6 +17405,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011017Z" creationid="Hugo" creationdate="20210511T011017Z">
+        <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150331Z" creationid="Hugo" creationdate="20210210T144920Z">
@@ -19410,10 +19530,26 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011029Z" creationid="Hugo" creationdate="20210511T011029Z">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121354Z" creationid="Hugo" creationdate="20210219T121354Z">
         <seg>Tradiksion Proze-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011035Z" creationid="Hugo" creationdate="20210511T011035Z">
+        <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19510,6 +19646,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T092517Z" creationid="Hugo" creationdate="20210224T092517Z">
         <seg>Bann 'Tutorial'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011016Z" creationid="Hugo" creationdate="20210511T011016Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -20481,6 +20625,30 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011036Z" creationid="Hugo" creationdate="20210511T011036Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011037Z" creationid="Hugo" creationdate="20210511T011037Z">
+        <seg>Video 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011037Z" creationid="Hugo" creationdate="20210511T011037Z">
+        <seg>Video 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T031518Z" creationid="Hugo" creationdate="20201003T031511Z">
@@ -20605,6 +20773,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T091327Z" creationid="Hugo" creationdate="20201008T091327Z">
         <seg>Nou pa pe kapav trouv paz ki ou pe rode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011042Z" creationid="Hugo" creationdate="20210511T011042Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -20787,6 +20963,14 @@ Your page is not found</seg>
         <seg>Divan pe soufle
 Sa paz-la finn ale...
 Erer 404</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011042Z" creationid="Hugo" creationdate="20210511T011042Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -22413,6 +22597,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011145Z" creationid="Hugo" creationdate="20210511T011145Z">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>more than one space</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T171749Z" creationid="Hugo" creationdate="20200607T171749Z">
@@ -23249,6 +23441,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005721Z" creationid="Hugo" creationdate="20210511T005721Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011022Z" creationid="Hugo" creationdate="20210511T011022Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
