@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005547Z" creationid="Hugo" creationdate="20210511T005547Z">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Presentation notes</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T140213Z" creationid="Hugo" creationdate="20201201T140213Z">
@@ -5064,6 +5072,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005542Z" creationid="Hugo" creationdate="20210511T005542Z">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T075606Z" creationid="Hugo" creationdate="20201016T075606Z">
@@ -5156,6 +5172,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T073323Z" creationid="Hugo" creationdate="20201003T073323Z">
         <seg>Diego Merino - Tradikter EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005539Z" creationid="Hugo" creationdate="20210511T005539Z">
+        <seg>Diff (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5424,6 +5448,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005445Z" creationid="Hugo" creationdate="20210511T005445Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T135650Z" creationid="Hugo" creationdate="20210212T135650Z">
@@ -5476,6 +5508,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T160042Z">
         <seg>Eski dosie-la ena trwa fisie mem nom, avek zot extansion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005447Z" creationid="Hugo" creationdate="20210511T005447Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5740,6 +5780,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201021T144716Z" creationid="Hugo" creationdate="20201021T144716Z">
         <seg>Erer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005428Z" creationid="Hugo" creationdate="20210511T005428Z">
+        <seg>Edit</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,6 +6456,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005451Z" creationid="Hugo" creationdate="20210511T005451Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210205T140315Z" creationid="Hugo" creationdate="20210205T140303Z">
@@ -6838,8 +6894,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>File {0}: {1}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005355Z" creationid="Hugo" creationdate="20210511T005355Z">
-        <seg>'File'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005419Z" creationid="Hugo" creationdate="20210511T005355Z">
+        <seg>Fisie {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6944,6 +7000,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163743Z" creationid="Hugo" creationdate="20210208T163743Z">
         <seg>Finwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005442Z" creationid="Hugo" creationdate="20210511T005442Z">
+        <seg>Flash XML Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -7372,6 +7436,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005420Z" creationid="Hugo" creationdate="20210511T005420Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T100336Z" creationid="Hugo" creationdate="20210220T100155Z">
@@ -7400,6 +7472,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T100103Z" creationid="Hugo" creationdate="20210220T100103Z">
         <seg>Demaraz exekision Git '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005458Z" creationid="Hugo" creationdate="20210511T005458Z">
+        <seg>Global</seg>
       </tuv>
     </tu>
     <tu>
@@ -7637,6 +7717,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005543Z" creationid="Hugo" creationdate="20210511T005543Z">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T145942Z" creationid="Hugo" creationdate="20210208T145942Z">
@@ -7665,6 +7753,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153520Z" creationid="Hugo" creationdate="20210204T153520Z">
         <seg>HTMLParser 1.6 par Somik Raha, Derrick Oswald ek lezot (lisans LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005421Z" creationid="Hugo" creationdate="20210511T005421Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8077,6 +8173,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102824Z" creationid="Hugo" creationdate="20210219T102824Z">
         <seg>IBM Watson pa disponib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005448Z" creationid="Hugo" creationdate="20210511T005448Z">
+        <seg>ILIAS Language File</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8840,22 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005442Z" creationid="Hugo" creationdate="20210511T005442Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005549Z" creationid="Hugo" creationdate="20210511T005549Z">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T041158Z" creationid="Hugo" creationdate="20201010T041158Z">
@@ -9370,6 +9490,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005551Z" creationid="Hugo" creationdate="20210511T005551Z">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jmyspell (LGPL License)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153547Z" creationid="Hugo" creationdate="20210204T153547Z">
@@ -9478,6 +9606,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005318Z" creationid="Hugo" creationdate="20210511T005318Z">
         <seg>LCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005432Z" creationid="Hugo" creationdate="20210511T005432Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -9954,6 +10090,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005447Z" creationid="Hugo" creationdate="20210511T005447Z">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T123059Z" creationid="Hugo" creationdate="20210224T123059Z">
@@ -10350,6 +10494,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T130455Z" creationid="Hugo" creationdate="20200519T155258Z">
         <seg>Itilizasion diksioner Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005450Z" creationid="Hugo" creationdate="20210511T005450Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -12065,6 +12217,14 @@ sistem kot ena ou dosie debaz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005448Z" creationid="Hugo" creationdate="20210511T005448Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T135708Z" creationid="Hugo" creationdate="20201201T135708Z">
@@ -12229,6 +12389,14 @@ sistem kot ena ou dosie debaz.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153702Z" creationid="Hugo" creationdate="20210204T153702Z">
         <seg>PDFBox (lisans Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005433Z" creationid="Hugo" creationdate="20210511T005433Z">
+        <seg>PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -12711,6 +12879,14 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T152051Z" creationid="Hugo" creationdate="20201015T152051Z">
         <seg>Formataz Direktionel Pop (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005505Z" creationid="Hugo" creationdate="20210511T005452Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -13317,6 +13493,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005436Z" creationid="Hugo" creationdate="20210511T005436Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T115730Z" creationid="Hugo" creationdate="20200729T115730Z">
@@ -13337,6 +13521,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T140621Z" creationid="Hugo" creationdate="20201015T140447Z">
         <seg>R&amp;anplas par Match ou Seleksion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005441Z" creationid="Hugo" creationdate="20210511T005441Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -13986,6 +14178,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005439Z" creationid="Hugo" creationdate="20210511T005439Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141018Z" creationid="Hugo" creationdate="20210223T141018Z">
@@ -14450,12 +14650,28 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005440Z" creationid="Hugo" creationdate="20210511T005440Z">
+        <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201022T130441Z">
         <seg>'Scope':
 Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport ki fisie dan enn striktir dosie defini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005444Z" creationid="Hugo" creationdate="20210511T005444Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -15476,6 +15692,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005546Z" creationid="Hugo" creationdate="20210511T005546Z">
+        <seg>Slovak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T090511Z" creationid="Hugo" creationdate="20210224T090336Z">
@@ -15888,6 +16112,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T151419Z" creationid="Hugo" creationdate="20201014T151419Z">
         <seg>Parenaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005434Z" creationid="Hugo" creationdate="20210511T005434Z">
+        <seg>Standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -16441,6 +16673,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T092725Z" creationid="Hugo" creationdate="20210224T092725Z">
         <seg>Modil TexTra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005437Z" creationid="Hugo" creationdate="20210511T005437Z">
+        <seg>Text</seg>
       </tuv>
     </tu>
     <tu>
@@ -18684,6 +18924,14 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005556Z" creationid="Hugo" creationdate="20210511T005556Z">
+        <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URLs</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161052Z" creationid="Hugo" creationdate="20210223T161047Z">
@@ -19521,6 +19769,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005431Z" creationid="Hugo" creationdate="20210511T005431Z">
+        <seg>Version: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T031518Z" creationid="Hugo" creationdate="20201003T031511Z">
@@ -19565,6 +19821,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T145632Z" creationid="Hugo" creationdate="20200729T141737Z">
         <seg>Afisaz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005443Z" creationid="Hugo" creationdate="20210511T005443Z">
+        <seg>Visio</seg>
       </tuv>
     </tu>
     <tu>
@@ -19879,10 +20143,34 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005508Z" creationid="Hugo" creationdate="20210511T005508Z">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast TMX file converter</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201013T144146Z">
         <seg>Konvertiser fisie Wordfast TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005443Z" creationid="Hugo" creationdate="20210511T005443Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005444Z" creationid="Hugo" creationdate="20210511T005444Z">
+        <seg>Wordpress</seg>
       </tuv>
     </tu>
     <tu>
@@ -19999,6 +20287,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005544Z" creationid="Hugo" creationdate="20210511T005544Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XHTML Filter Options</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T162802Z" creationid="Hugo" creationdate="20210208T162802Z">
@@ -20011,6 +20307,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T054235Z" creationid="Hugo" creationdate="20201003T054235Z">
         <seg>XHTML ek HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005438Z" creationid="Hugo" creationdate="20210511T005438Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -20493,6 +20797,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005541Z" creationid="Hugo" creationdate="20210511T005541Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T161211Z" creationid="Hugo" creationdate="20210208T161211Z">
@@ -20697,6 +21009,22 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083024Z" creationid="Hugo" creationdate="20210222T140538Z">
         <seg>{0} modifie lorientasion ant gos-a-drwat (LTR), drwat-a-gos (RTL) ek lorientasion ki depann lor bann lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005535Z" creationid="Hugo" creationdate="20210511T005535Z">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T005537Z" creationid="Hugo" creationdate="20210511T005537Z">
+        <seg>{0} version {1}, update {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
