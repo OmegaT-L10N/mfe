@@ -2244,6 +2244,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141147Z" creationid="Hugo" creationdate="20210511T141122Z">
+        <seg>Enn sinp set reg verifikasion pou proze OmegaT aktiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201010T042107Z">
@@ -4089,6 +4097,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T162216Z" creationid="Hugo" creationdate="20210223T162216Z">
         <seg>Check Toutswit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141156Z" creationid="Hugo" creationdate="20210511T141156Z">
+        <seg>Bann reg verifikasion</seg>
       </tuv>
     </tu>
     <tu>
@@ -6916,6 +6932,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T115656Z" creationid="Hugo" creationdate="20210220T115656Z">
         <seg>Erer: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141416Z" creationid="Hugo" creationdate="20210511T141416Z">
+        <seg>Bann erer ki finn trouve:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13771,6 +13795,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141223Z" creationid="Hugo" creationdate="20210511T141223Z">
+        <seg>Ouver enn proze dabor ek sey anouvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T075926Z" creationid="Hugo" creationdate="20210219T075926Z">
@@ -14463,8 +14495,8 @@ proze lokal san okenn fonksionalite lekip.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134811Z" creationid="Hugo" creationdate="20210511T134811Z">
-        <seg>QA - Check Rules</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141030Z" creationid="Hugo" creationdate="20210511T134811Z">
+        <seg>QA - Bann reg verifikasion</seg>
       </tuv>
     </tu>
     <tu>
