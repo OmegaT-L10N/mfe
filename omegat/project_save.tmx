@@ -11956,8 +11956,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011113Z" creationid="Hugo" creationdate="20210511T011113Z">
-        <seg>Notarized vs Unsigned</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011227Z" creationid="Hugo" creationdate="20210511T011113Z">
+        <seg>Version noter ek version non signe</seg>
       </tuv>
     </tu>
     <tu>
@@ -22599,8 +22599,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T011145Z" creationid="Hugo" creationdate="20210511T011145Z">
-        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210511T012507Z" creationid="Hugo" creationdate="20210511T011145Z">
+        <seg>macOS ran li difisil pou exekit bann program ki pa finn verifie. Se so fason ogmant so sekirite.</seg>
       </tuv>
     </tu>
     <tu>
