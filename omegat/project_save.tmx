@@ -10056,6 +10056,26 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162743Z" creationid="Hugo" creationdate="20210512T162743Z">
+        <seg>Instalasion OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162723Z" creationid="Hugo" creationdate="20210512T162723Z">
+        <seg>Instalasion OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T090919Z" creationid="Hugo" creationdate="20201015T090919Z">
@@ -10966,6 +10986,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T093519Z" creationid="Hugo" creationdate="20201010T093519Z">
         <seg>Dernie version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162734Z" creationid="Hugo" creationdate="20210512T162734Z">
+        <seg>Lans program instalasion la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12140,6 +12168,15 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141039Z" creationid="Hugo" creationdate="20210223T141039Z">
         <seg>Deplas Laho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162949Z" creationid="Hugo" creationdate="20210512T162949Z">
+        <seg>Bouz dosie-la dan enn anplasman apropriye kouma dosie Applications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21275,6 +21312,15 @@ Enn resers exak li pou rod exakteman seki ou finn mete dan bwat resers-la.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T154812Z" creationid="Hugo" creationdate="20201201T110845Z">
         <seg>Tip modil '{0}' dan '{1}' inkoni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162901Z" creationid="Hugo" creationdate="20210512T162901Z">
+        <seg>Dekonpres arsiv .zip OmegaT pou gagn akse enn dosie kot ena enn fisie dokimantasion ek aplikasion OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
