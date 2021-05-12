@@ -10056,6 +10056,16 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162956Z" creationid="Hugo" creationdate="20210512T162956Z">
+        <seg>Instalasion OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
@@ -13394,6 +13404,15 @@ sistem kot ena ou dosie debaz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163109Z" creationid="Hugo" creationdate="20210512T163109Z">
+        <seg>Ou kapav servi OmegaT toutswit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073500Z" creationid="Hugo" creationdate="20201008T084955Z">
@@ -14145,6 +14164,14 @@ everything.</seg>
         <seg>Met bann fisie sours dan ./source ek bann materyel siplemanter
 dan ./tm, ./glossary, ek ./dictionary respektivman, ek angaz ('commit')
 lansanb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163027Z" creationid="Hugo" creationdate="20210512T163027Z">
+        <seg>Met arsiv-la dan ninport ki dosie apropriye e dekonpres li.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20488,6 +20515,19 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163254Z" creationid="Hugo" creationdate="20210512T163254Z">
+        <seg>Pou servi sa skript-la, ouver enn konsol 
+To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141312Z" creationid="Hugo" creationdate="20210223T141312Z">
@@ -22793,6 +22833,15 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200527T202938Z">
         <seg>Ou kapav fer bann antre avek kolonn sib vid, setadir ki ena zis term sours ek komanter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163218Z" creationid="Hugo" creationdate="20210512T163218Z">
+        <seg>Ou kapav toutfwa servi skript instalasion (linux-install.sh) pou enn instalasion pli prop ek fasil.</seg>
       </tuv>
     </tu>
     <tu>
