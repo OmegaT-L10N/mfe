@@ -4133,6 +4133,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T150831Z" creationid="Hugo" creationdate="20210512T150831Z">
+        <seg>Verifie sipa sours ek sib idantik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T150328Z" creationid="Hugo" creationdate="20210512T145843Z">
@@ -4161,6 +4169,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T150330Z" creationid="Hugo" creationdate="20210512T145900Z">
         <seg>Verifie bann karakter lespasman apre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T150925Z" creationid="Hugo" creationdate="20210512T150925Z">
+        <seg>Verifie si bann segman </seg>
       </tuv>
     </tu>
     <tu>
