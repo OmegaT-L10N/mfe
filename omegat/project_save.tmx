@@ -8023,9 +8023,8 @@ Erer 404</seg>
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175037Z" creationid="Hugo" creationdate="20210512T175037Z">
-        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
-provided (omegat.kaptn).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175224Z" creationid="Hugo" creationdate="20210512T175037Z">
+        <seg>Pou enn fason pli sinp pou exekit OmegaT, ou kapav servi skript Kaptain (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11130,6 +11129,16 @@ itself on the first run.</seg>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T164418Z" creationid="Hugo" creationdate="20210512T164418Z">
         <seg>Lansman OmegaT (Windows)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175323Z" creationid="Hugo" creationdate="20210512T175323Z">
+        <seg>Lansman OmegaT depi lalign komann (pou tou bann sistem)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -19298,6 +19307,14 @@ Sey koriz erer-la, ek reload proze.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175342Z" creationid="Hugo" creationdate="20210512T175324Z">
+        <seg>Komann pou lans OmegaT li:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -20646,6 +20663,14 @@ depi server.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T112656Z" creationid="Hugo" creationdate="20200525T155611Z">
         <seg>Pou servi enn gloser, met li sinpleman dan dosie &lt;f0&gt;/glossary&lt;/f0&gt; apre kreasion proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175244Z" creationid="Hugo" creationdate="20210512T175244Z">
+        <seg>Pou servi sa skript-la, ou bizin instal Kaptain avan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22855,6 +22880,15 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175259Z" creationid="Hugo" creationdate="20210512T175259Z">
+        <seg>Apre ou kapav lans skript Kaptain avek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T161702Z" creationid="Hugo" creationdate="20210223T161702Z">
@@ -23609,6 +23643,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175356Z" creationid="Hugo" creationdate="20210512T175332Z">
+        <seg>cd &lt;dosie kot fisie OmegaT.jar ete&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T170629Z" creationid="Hugo" creationdate="20200607T170629Z">
@@ -24263,6 +24305,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T175034Z" creationid="Hugo" creationdate="20210512T175034Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175301Z" creationid="Hugo" creationdate="20210512T175301Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
