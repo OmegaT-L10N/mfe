@@ -9528,6 +9528,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154319Z" creationid="Hugo" creationdate="20210512T154319Z">
+        <seg>Pa pran kont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T060103Z" creationid="Hugo" creationdate="20210219T060103Z">
@@ -9540,6 +9548,14 @@ valer par defo apre sanzman lanplasman.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210505T151407Z" creationid="Hugo" creationdate="20210505T150350Z">
         <seg>Pa pran kont kontex fisie-la pou idantifie bann segman kot ena bann tradiksion alternatif: par defo, OmegaT pou servi an parti nom enn fisie pou idantifie enn tradiksion alternatif. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154355Z" creationid="Hugo" creationdate="20210512T154355Z">
+        <seg>Pa pran kont maziskil/miniskil dan gloser</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,6 +10862,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T152920Z" creationid="Hugo" creationdate="20201008T152920Z">
         <seg>Devloper prinsipal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154324Z" creationid="Hugo" creationdate="20210512T154324Z">
+        <seg>Pran kont</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,6 +15386,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154409Z" creationid="Hugo" creationdate="20210512T154409Z">
+        <seg>Ranplas bann sekans lesapman </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T133039Z" creationid="Hugo" creationdate="20200924T123746Z">
@@ -17406,16 +17438,16 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134259Z" creationid="Hugo" creationdate="20210222T134259Z">
-        <seg>Verifikater lortograf</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154243Z" creationid="Hugo" creationdate="20210222T134259Z">
+        <seg>Verifikasion lortograf</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Spellcheck - errors found:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154223Z" creationid="Hugo" creationdate="20210512T154223Z">
-        <seg>Spellcheck - errors found:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154310Z" creationid="Hugo" creationdate="20210512T154223Z">
+        <seg>Verifikasion lortograf – finn trouv sa bann erer-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21061,6 +21093,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T105915Z" creationid="Hugo" creationdate="20200924T140707Z">
         <seg>Servi fuzzy matching pou antre diksioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154338Z" creationid="Hugo" creationdate="20210512T154338Z">
+        <seg>Servi gloser</seg>
       </tuv>
     </tu>
     <tu>
