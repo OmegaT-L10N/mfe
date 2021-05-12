@@ -5720,6 +5720,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144832Z" creationid="Hugo" creationdate="20210512T144744Z">
+        <seg>Ponktiasion diferan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144951Z" creationid="Hugo" creationdate="20210512T144951Z">
+        <seg>Premie let maziskil ou miniskil diferan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diptik</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T013607Z" creationid="Hugo" creationdate="20210511T013607Z">
@@ -6732,6 +6748,14 @@ No one hears your screams</seg>
         <seg>Tikou tikou touy loulou
 Sa paz-la finn manz koulou...
 Erer 404</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145020Z" creationid="Hugo" creationdate="20210512T145020Z">
+        <seg>Sours ek sib idantik</seg>
       </tuv>
     </tu>
     <tu>
@@ -17687,8 +17711,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144738Z" creationid="Hugo" creationdate="20210512T144738Z">
-        <seg>Target longer</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144747Z" creationid="Hugo" creationdate="20210512T144738Z">
+        <seg>Sib pli long</seg>
       </tuv>
     </tu>
     <tu>
@@ -20476,6 +20500,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201128T095303Z">
         <seg>Inposib lir fisie proze version ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145039Z" creationid="Hugo" creationdate="20210512T145039Z">
+        <seg>Segman </seg>
       </tuv>
     </tu>
     <tu>
