@@ -11066,6 +11066,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155453Z" creationid="Hugo" creationdate="20210512T155453Z">
+        <seg>Bann kopi lokal working copies cleaned up: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T115653Z" creationid="Hugo" creationdate="20201003T115653Z">
@@ -19285,6 +19293,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155431Z" creationid="Hugo" creationdate="20210512T155431Z">
+        <seg>Skript-la pou ferme aster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T073428Z" creationid="Hugo" creationdate="20200918T131503Z">
@@ -19514,6 +19530,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T155737Z" creationid="Hugo" creationdate="20210223T155737Z">
         <seg>Ena plizier modil pou OmegaT 'online'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155627Z" creationid="Hugo" creationdate="20210512T155416Z">
+        <seg>Pena okenn kopi lokal de-travay dan {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24287,8 +24311,8 @@ kree so dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>{0} is not a local working copy, skipping.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155354Z" creationid="Hugo" creationdate="20210512T155354Z">
-        <seg>{0} napa enn kopi lokal ki fonksione, pas.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155615Z" creationid="Hugo" creationdate="20210512T155354Z">
+        <seg>{0} pa enn kopi lokal de-travay, pas.</seg>
       </tuv>
     </tu>
     <tu>
