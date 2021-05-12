@@ -7216,6 +7216,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153847Z" creationid="Hugo" creationdate="20210512T153841Z">
+        <seg>Exanp – Resers ek Ranplasman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005451Z" creationid="Hugo" creationdate="20210511T005451Z">
@@ -15212,8 +15220,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153350Z" creationid="Hugo" creationdate="20210512T153236Z">
-        <seg>Siprim bann baliz dan segman sib an kour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153823Z" creationid="Hugo" creationdate="20210512T153236Z">
+        <seg>Siprim bann baliz dan sib an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -16068,6 +16076,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153915Z" creationid="Hugo" creationdate="20210512T153915Z">
+        <seg>Resers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T154125Z" creationid="Hugo" creationdate="20210223T154125Z">
@@ -16892,6 +16908,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153911Z" creationid="Hugo" creationdate="20210512T153843Z">
+        <seg>Enn sinp skript resers ek ranplasman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150224Z" creationid="Hugo" creationdate="20210210T150127Z">
@@ -17534,8 +17558,8 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153622Z" creationid="Hugo" creationdate="20210512T153622Z">
-        <seg>Strip tags in current segment</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153803Z" creationid="Hugo" creationdate="20210512T153622Z">
+        <seg>Siprim bann baliz dan segman an kour</seg>
       </tuv>
     </tu>
     <tu>
