@@ -8148,6 +8148,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164112Z" creationid="Hugo" creationdate="20210512T164112Z">
+        <seg>'Download' sa fisie-la ek exekit li:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T123236Z" creationid="Hugo" creationdate="20201001T114014Z">
@@ -9559,6 +9567,15 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164002Z" creationid="Hugo" creationdate="20210512T164002Z">
+        <seg>Si Java finn deza instale lor ou sistem, enn bann fason instal OmegaT se servi Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T154332Z">
@@ -10454,6 +10471,15 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T104237Z" creationid="Hugo" creationdate="20201016T090827Z">
         <seg>Pa finn resi kree bann dokiman tradiksion: sertin baliz manke ouswa zot finn andomaze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164336Z" creationid="Hugo" creationdate="20210512T164336Z">
+        <seg>Sa pou instal lanvironnman apropriye lor ou lordinater ek program limem okour premie exekision.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23933,6 +23959,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010045Z" creationid="Hugo" creationdate="20210511T010045Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164113Z" creationid="Hugo" creationdate="20210512T164113Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
