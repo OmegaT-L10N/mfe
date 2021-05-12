@@ -17532,6 +17532,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153622Z" creationid="Hugo" creationdate="20210512T153622Z">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stripper</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T013550Z" creationid="Hugo" creationdate="20210511T013550Z">
