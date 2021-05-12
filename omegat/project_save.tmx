@@ -3440,6 +3440,14 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160835Z" creationid="Hugo" creationdate="20210512T160835Z">
+        <seg>Backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201024T053227Z" creationid="Hugo" creationdate="20201024T053227Z">
@@ -3496,6 +3504,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T070029Z" creationid="Hugo" creationdate="20201010T070029Z">
         <seg>Dapre ou seleksion, nou rekomann ou servi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160825Z" creationid="Hugo" creationdate="20210512T160825Z">
+        <seg>Ran li pli zoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,6 +4382,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160701Z" creationid="Hugo" creationdate="20210512T160701Z">
+        <seg>Pe netway lantre "{0}"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T160452Z" creationid="Hugo" creationdate="20210223T160452Z">
@@ -4928,6 +4952,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160831Z" creationid="Hugo" creationdate="20210512T160831Z">
+        <seg>Konverti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T101855Z" creationid="Hugo" creationdate="20210220T101855Z">
@@ -5180,6 +5212,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T135937Z" creationid="Hugo" creationdate="20210223T135937Z">
         <seg>Kree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160645Z" creationid="Hugo" creationdate="20210512T160617Z">
+        <seg>Pe kree fisie output "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10938,6 +10978,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160811Z" creationid="Hugo" creationdate="20210512T160811Z">
+        <seg>Nivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133451Z" creationid="Hugo" creationdate="20201201T133451Z">
@@ -11962,6 +12010,22 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141039Z" creationid="Hugo" creationdate="20210223T141039Z">
         <seg>Deplas Laho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160808Z" creationid="Hugo" creationdate="20210512T160738Z">
+        <seg>Pe deplas fisie ki finn netwaye depi "{0}" ver "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160750Z" creationid="Hugo" creationdate="20210512T160727Z">
+        <seg>Pe deplas orizinal-la depi "{0}" ver "{1}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13515,8 +13579,8 @@ sistem kot ena ou dosie debaz.</seg>
       <tuv lang="en">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
-        <seg>Opening 'input' file '{0}'</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160626Z" creationid="Hugo" creationdate="20210224T085034Z">
+        <seg>Pe ouver fisie input "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18201,6 +18265,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T160120Z" creationid="Hugo" creationdate="20210512T160120Z">
         <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160552Z" creationid="Hugo" creationdate="20210512T160552Z">
+        <seg>Tagwipe fini, pe resarz proze...</seg>
       </tuv>
     </tu>
     <tu>
