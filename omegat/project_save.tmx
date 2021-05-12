@@ -2246,8 +2246,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141905Z" creationid="Hugo" creationdate="20210511T141122Z">
-        <seg>Enn sinp set reg pou Quality Assurance proze OmegaT an kour</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T143919Z" creationid="Hugo" creationdate="20210511T141122Z">
+        <seg>Enn sinp set reg pou ’Quality Assurance’ proze OmegaT an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -6938,8 +6938,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Errors found:</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141416Z" creationid="Hugo" creationdate="20210511T141416Z">
-        <seg>Bann erer ki finn trouve:</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144044Z" creationid="Hugo" creationdate="20210511T141416Z">
+        <seg>Finn trouv sa bann erer-la:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,8 +6962,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20201026T134547Z" creationid="Hugo" creationdate="20201026T133852Z">
-        <seg>Karakter lesapman pa ferme!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144225Z" creationid="Hugo" creationdate="20201026T133852Z">
+        <seg>Karakter lespasman pa ferme!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10562,6 +10562,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144059Z" creationid="Hugo" creationdate="20210512T144059Z">
+        <seg>Bann reg LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T152315Z" creationid="Hugo" creationdate="20201014T152315Z">
@@ -13797,8 +13805,8 @@ bizin bann etap adidionel.</seg>
       <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T141223Z" creationid="Hugo" creationdate="20210511T141223Z">
-        <seg>Ouver enn proze dabor ek sey anouvo</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144022Z" creationid="Hugo" creationdate="20210511T141223Z">
+        <seg>Ouver dabor enn proze ek sey ankor</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +15438,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144309Z" creationid="Hugo" creationdate="20210223T144309Z">
         <seg>Lalign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144048Z" creationid="Hugo" creationdate="20210512T144048Z">
+        <seg>Reg</seg>
       </tuv>
     </tu>
     <tu>
@@ -21261,6 +21277,22 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T105248Z" creationid="Hugo" creationdate="20210222T105248Z">
         <seg>Lespas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144123Z" creationid="Hugo" creationdate="20210512T144105Z">
+        <seg>Karakter lespasman Whitespace - leading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144106Z" creationid="Hugo" creationdate="20210512T144106Z">
+        <seg>Whitespace - trailing</seg>
       </tuv>
     </tu>
     <tu>
