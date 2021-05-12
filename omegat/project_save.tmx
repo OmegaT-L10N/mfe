@@ -9559,6 +9559,15 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174417Z" creationid="Hugo" creationdate="20210512T174417Z">
+        <seg>Si ou trouv fisie OmegaT me pa fisie OmegaT.exe dan File Manager (Windows Explorer), sanz bann paramet pou afis bann extansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T080043Z" creationid="Hugo" creationdate="20201010T075902Z">
@@ -19518,8 +19527,8 @@ Erer 404</seg>
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T165229Z" creationid="Hugo" creationdate="20210512T165229Z">
-        <seg>Program instalasion kapav kree bann sortket pou ou dan meni demare, lor ou biro ek dan zonn lansman rapid.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174056Z" creationid="Hugo" creationdate="20210512T165229Z">
+        <seg>Program instalasion kapav kree bann sortket pou ou dan meni Start, lor ou biro ek dan zonn lansman rapid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22859,8 +22868,8 @@ Erer 404</seg>
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T173840Z" creationid="Hugo" creationdate="20210512T173530Z">
-        <seg>Ou kapav ousi rise-glise fisie OmegaT.exe dan meni Start, lor ou biro ouswa dan zonn lansman rapid pou kree enn sortket.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174046Z" creationid="Hugo" creationdate="20210512T173530Z">
+        <seg>Ou kapav ousi rise-depoze fisie OmegaT.exe dan meni Start, lor ou biro ouswa dan zonn lansman rapid pou kree enn sortket.</seg>
       </tuv>
     </tu>
     <tu>
