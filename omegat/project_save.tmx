@@ -4093,6 +4093,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145851Z" creationid="Hugo" creationdate="20210512T145851Z">
+        <seg>Chek bann reg LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T162216Z" creationid="Hugo" creationdate="20210223T162216Z">
@@ -4105,6 +4113,54 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T141156Z" creationid="Hugo" creationdate="20210511T141156Z">
         <seg>Bann reg verifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145913Z" creationid="Hugo" creationdate="20210512T145913Z">
+        <seg>Chek bann espas doub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145920Z" creationid="Hugo" creationdate="20210512T145920Z">
+        <seg>Chek bann mo doub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145843Z" creationid="Hugo" creationdate="20210512T145843Z">
+        <seg>Chek bann karakter lespasman avan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145932Z" creationid="Hugo" creationdate="20210512T145932Z">
+        <seg>Check for longer target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145930Z" creationid="Hugo" creationdate="20210512T145930Z">
+        <seg>Chek bann sib pli kourt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145900Z" creationid="Hugo" creationdate="20210512T145900Z">
+        <seg>Chek bann karakter lespasman apre</seg>
       </tuv>
     </tu>
     <tu>
