@@ -4326,6 +4326,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155030Z" creationid="Hugo" creationdate="20210512T155030Z">
+        <seg>Swazir repertwar SVN pou fer netwayaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose Source File</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20210223T140923Z">
@@ -13757,6 +13765,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155011Z" creationid="Hugo" creationdate="20210512T154922Z">
+        <seg>Fer enn netwayaz SVN dan proze an kour ouswa ninport ki repertwar SVN lokal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T123301Z" creationid="Hugo" creationdate="20210219T123301Z">
@@ -15250,6 +15266,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154815Z" creationid="Hugo" creationdate="20210512T154759Z">
+        <seg>Siprim bann karakter kontrol bidireksionel dan segman an kour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T154702Z" creationid="Hugo" creationdate="20210512T154702Z">
@@ -15894,6 +15918,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T123322Z" creationid="Hugo" creationdate="20210219T123322Z">
         <seg>Demaraz exekision SVN '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154926Z" creationid="Hugo" creationdate="20210512T154909Z">
+        <seg>SVN – Netwayaz (rekirsif)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17664,6 +17696,22 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T132618Z" creationid="Hugo" creationdate="20200528T190305Z">
         <seg>Bann lasenn karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasenn karakter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154739Z" creationid="Hugo" creationdate="20210512T154739Z">
+        <seg>Siprim bann mark BiDi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154839Z" creationid="Hugo" creationdate="20210512T154816Z">
+        <seg>Siprim bann mark BiDi dan segman an kour</seg>
       </tuv>
     </tu>
     <tu>
