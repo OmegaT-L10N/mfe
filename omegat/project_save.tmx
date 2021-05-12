@@ -11106,6 +11106,16 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161606Z" creationid="Hugo" creationdate="20210512T161606Z">
+        <seg>Informasion lor lisans
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T133451Z" creationid="Hugo" creationdate="20201201T133451Z">
@@ -13255,10 +13265,8 @@ Erer 404</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161423Z" creationid="Hugo" creationdate="20210512T161242Z">
-        <seg>OmegaT li enn zouti tradiksion asiste par ordinater ki lib ek open source is a free and open source multiplatform Computer Assisted Translation
-tool with fuzzy matching, translation memory, keyword search, glossaries, and
-translation leveraging into updated projects.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161546Z" creationid="Hugo" creationdate="20210512T161242Z">
+        <seg>OmegaT li enn zouti tradiksion asiste par ordinater milti-platform ki lib ek 'open source', avek resers bann korespondans, memwar tradiksion, resers par mo kle, gloser, ek reitilizasion bann tradiksion dan bann proze ki finn modifie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13283,6 +13291,16 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20200929T153844Z">
         <seg>OmegaT li enn proze ek enn program 'open source'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161841Z" creationid="Hugo" creationdate="20210512T161658Z">
+        <seg>OmegaT disponib sou lisans GNU General Public ki finn pibliye par Free Software Foundation. Lisans ki aplikab li version 3, ouswa ninport ki lisans ki pli resan.</seg>
       </tuv>
     </tu>
     <tu>
