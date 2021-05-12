@@ -9649,6 +9649,15 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164506Z" creationid="Hugo" creationdate="20210512T164506Z">
+        <seg>Si pandan linstalasion ou finn kree enn sortket lor ou biro, fer doub-klik lor sa sortket-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T155443Z">
@@ -11020,6 +11029,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164413Z" creationid="Hugo" creationdate="20210512T164413Z">
+        <seg>Ou pa pou bizin konekte lor internet pou bann lansman swivan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T064734Z" creationid="Hugo" creationdate="20201010T064628Z">
@@ -11040,6 +11057,16 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T162734Z" creationid="Hugo" creationdate="20210512T162734Z">
         <seg>Lans program instalasion la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164418Z" creationid="Hugo" creationdate="20210512T164418Z">
+        <seg>Lansman OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
