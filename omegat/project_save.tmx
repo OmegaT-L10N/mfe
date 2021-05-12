@@ -7430,8 +7430,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Extract Text Content</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134638Z" creationid="Hugo" creationdate="20210511T134638Z">
-        <seg>Extract Text Content</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152615Z" creationid="Hugo" creationdate="20210511T134638Z">
+        <seg>Extrer konteni textiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -12138,6 +12138,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T150003Z" creationid="Hugo" creationdate="20210223T150003Z">
         <seg>Finn Rankont Okenn Erer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Loaded Project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152813Z" creationid="Hugo" creationdate="20210512T152813Z">
+        <seg>Okenn proze finn sarze</seg>
       </tuv>
     </tu>
     <tu>
