@@ -13421,6 +13421,14 @@ sistem kot ena ou dosie debaz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161934Z" creationid="Hugo" creationdate="20210512T161934Z">
+        <seg>OmegaT servi enn kantite bibliotek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
@@ -14501,6 +14509,16 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T102613Z" creationid="Hugo" creationdate="20210219T102613Z">
         <seg>Edision Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162109Z" creationid="Hugo" creationdate="20210512T162109Z">
+        <seg>Kondision prealab pou instal OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -19379,6 +19397,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161952Z" creationid="Hugo" creationdate="20210512T161952Z">
+        <seg>Lisans sak bibliotek finn mansione dan
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T120323Z" creationid="Hugo" creationdate="20200528T191249Z">
@@ -22675,6 +22703,16 @@ Erer 404</seg>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20201016T100751Z">
         <seg>Ou kapav trouv bann linformasion statistik detaye dan fisie:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161905Z" creationid="Hugo" creationdate="20210512T161905Z">
+        <seg>Ou kapav trouv text lisans-la dan
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
