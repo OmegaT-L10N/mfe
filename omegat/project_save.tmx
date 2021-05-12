@@ -3877,6 +3877,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155040Z" creationid="Hugo" creationdate="20210512T155040Z">
+        <seg>Anile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210220T112443Z" creationid="Hugo" creationdate="20210220T112443Z">
@@ -24277,6 +24285,14 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155354Z" creationid="Hugo" creationdate="20210512T155354Z">
+        <seg>{0} napa enn kopi lokal ki fonksione, pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115057Z" creationid="Hugo" creationdate="20210219T115047Z">
@@ -24361,6 +24377,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005651Z" creationid="Hugo" creationdate="20210511T005651Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155055Z" creationid="Hugo" creationdate="20210512T155055Z">
+        <seg>{0}:	netwayaz fini!!</seg>
       </tuv>
     </tu>
     <tu>
