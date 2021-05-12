@@ -4141,6 +4141,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151609Z" creationid="Hugo" creationdate="20210512T151609Z">
+        <seg>Verifie sipa bann nonb idantik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T150328Z" creationid="Hugo" creationdate="20210512T145843Z">
@@ -4153,6 +4161,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T150340Z" creationid="Hugo" creationdate="20210512T145932Z">
         <seg>Verifie bann segman sib pli long</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151728Z" creationid="Hugo" creationdate="20210512T151728Z">
+        <seg>Verifie bann segman ki ena bann erer lortograf</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,6 +7448,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120706Z" creationid="Hugo" creationdate="20210219T120706Z">
         <seg>Bann komanter ki finn extre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extracts the content of the projects in a single text file (one line per segment).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151951Z" creationid="Hugo" creationdate="20210512T151951Z">
+        <seg>Extrer konteni bann proze dan enn sel fisie </seg>
       </tuv>
     </tu>
     <tu>
@@ -14821,6 +14845,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T120710Z" creationid="Hugo" creationdate="20210219T120710Z">
         <seg>Referans:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151739Z" creationid="Hugo" creationdate="20210512T151739Z">
+        <seg>Aktialize</seg>
       </tuv>
     </tu>
     <tu>
