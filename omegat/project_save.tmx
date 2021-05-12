@@ -6104,6 +6104,22 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144541Z" creationid="Hugo" creationdate="20210512T144520Z">
+        <seg>Bann lespas doub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144650Z" creationid="Hugo" creationdate="20210512T144650Z">
+        <seg>Bann mo doub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doublet KK</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T013608Z" creationid="Hugo" creationdate="20210511T013608Z">
@@ -17669,6 +17685,22 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144738Z" creationid="Hugo" creationdate="20210512T144738Z">
+        <seg>Target longer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144735Z" creationid="Hugo" creationdate="20210512T144735Z">
+        <seg>Sib pli kourt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target term:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T150538Z" creationid="Hugo" creationdate="20210210T150538Z">
@@ -21291,8 +21323,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144106Z" creationid="Hugo" creationdate="20210512T144106Z">
-        <seg>Whitespace - trailing</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144506Z" creationid="Hugo" creationdate="20210512T144106Z">
+        <seg>Karakter lespasman - apre</seg>
       </tuv>
     </tu>
     <tu>
