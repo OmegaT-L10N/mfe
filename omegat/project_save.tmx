@@ -12292,8 +12292,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Non-breaking space</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134822Z" creationid="Hugo" creationdate="20210511T134822Z">
-        <seg>Non-breaking space</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152959Z" creationid="Hugo" creationdate="20210511T134822Z">
+        <seg>Lespas insekab</seg>
       </tuv>
     </tu>
     <tu>
@@ -14003,6 +14003,14 @@ bizin bann etap adidionel.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again after opening a project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152856Z" creationid="Hugo" creationdate="20210512T152856Z">
+        <seg>Ouver dabor enn proze ek sey ankor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T144022Z" creationid="Hugo" creationdate="20210511T141223Z">
@@ -15310,6 +15318,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210212T133039Z" creationid="Hugo" creationdate="20200924T123746Z">
         <seg>Inklir bann antre dan gloser kan text sours insere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153223Z" creationid="Hugo" creationdate="20210512T153223Z">
+        <seg>Ranplas bann lespas avek bann lespas insekab kot bizin an Franse</seg>
       </tuv>
     </tu>
     <tu>
@@ -17140,6 +17156,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Text File: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152917Z" creationid="Hugo" creationdate="20210512T152917Z">
+        <seg>Fisie text sours: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T160038Z" creationid="Hugo" creationdate="20201014T160038Z">
@@ -17881,6 +17905,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T140217Z" creationid="Hugo" creationdate="20210223T140217Z">
         <seg>Sib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target Text File: {0}</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152951Z" creationid="Hugo" creationdate="20210512T152951Z">
+        <seg>Fisie text sib: {0}</seg>
       </tuv>
     </tu>
     <tu>
