@@ -2118,8 +2118,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134811Z" creationid="Hugo" creationdate="20210511T134656Z">
-        <seg>Sa dokiman-la finn tradir par Hugues Marianne, "</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161234Z" creationid="Hugo" creationdate="20210511T134656Z">
+        <seg>Sa dokiman-la finn tradir par Hugues Marianne, copyright © 2021.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,6 +2728,14 @@ Konfigirasion aktiel li: {0}MB</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T150008Z" creationid="Hugo" creationdate="20210223T150008Z">
         <seg>Tou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160955Z" creationid="Hugo" creationdate="20210512T160955Z">
+        <seg>Tou bann fisie DOCX dan proze</seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,6 +3520,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T160825Z" creationid="Hugo" creationdate="20210512T160825Z">
         <seg>Ran li pli zoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160938Z" creationid="Hugo" creationdate="20210512T160938Z">
+        <seg>Ran DOCX-la pli zoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -5176,6 +5192,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161023Z" creationid="Hugo" creationdate="20210512T161023Z">
+        <seg>Kree bann fisie backup DOCX orizinal-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121646Z" creationid="Hugo" creationdate="20210219T121444Z">
@@ -5556,6 +5580,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010421Z" creationid="Hugo" creationdate="20210511T010421Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161000Z" creationid="Hugo" creationdate="20210512T161000Z">
+        <seg>Fisie DOCX an kour</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,6 +11014,86 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T160811Z" creationid="Hugo" creationdate="20210512T160811Z">
         <seg>Nivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161031Z" creationid="Hugo" creationdate="20210512T161031Z">
+        <seg>Nivo 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161035Z" creationid="Hugo" creationdate="20210512T161035Z">
+        <seg>Nivo 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161038Z" creationid="Hugo" creationdate="20210512T161038Z">
+        <seg>Nivo 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161040Z" creationid="Hugo" creationdate="20210512T161040Z">
+        <seg>Nivo 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161041Z" creationid="Hugo" creationdate="20210512T161041Z">
+        <seg>Nivo 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161044Z" creationid="Hugo" creationdate="20210512T161044Z">
+        <seg>Nivo 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161046Z" creationid="Hugo" creationdate="20210512T161046Z">
+        <seg>Nivo 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161050Z" creationid="Hugo" creationdate="20210512T161047Z">
+        <seg>Nivo 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161052Z" creationid="Hugo" creationdate="20210512T161048Z">
+        <seg>Nivo 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161054Z" creationid="Hugo" creationdate="20210512T161054Z">
+        <seg>Nivo 9:</seg>
       </tuv>
     </tu>
     <tu>
