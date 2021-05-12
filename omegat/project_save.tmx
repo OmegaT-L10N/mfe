@@ -20519,11 +20519,8 @@ depi server.</seg>
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163254Z" creationid="Hugo" creationdate="20210512T163254Z">
-        <seg>Pou servi sa skript-la, ouver enn konsol 
-To use this script, open a terminal
-window (console), change folder to the folder containing OmegaT.jar and the
-linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163833Z" creationid="Hugo" creationdate="20210512T163254Z">
+        <seg>Pou servi sa skript-la, ouver enn lafnet konsol, al dan dosie kot ena OmegaT.jar e skript linux-install.sh, ek exekit skript-la avek ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
