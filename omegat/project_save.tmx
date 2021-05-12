@@ -4143,16 +4143,16 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check for longer target</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145932Z" creationid="Hugo" creationdate="20210512T145932Z">
-        <seg>Check for longer target</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T150207Z" creationid="Hugo" creationdate="20210512T145932Z">
+        <seg>Chek bann segman sib pli long</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Check for shorter target</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145930Z" creationid="Hugo" creationdate="20210512T145930Z">
-        <seg>Chek bann sib pli kourt</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T150219Z" creationid="Hugo" creationdate="20210512T145930Z">
+        <seg>Chek bann segman sib pli kourt</seg>
       </tuv>
     </tu>
     <tu>
