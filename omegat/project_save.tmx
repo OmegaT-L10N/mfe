@@ -8308,6 +8308,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154159Z" creationid="Hugo" creationdate="20210512T154159Z">
+        <seg>Verifikasion lortograf global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T080532Z" creationid="Hugo" creationdate="20200525T142823Z">
@@ -9061,6 +9069,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T005701Z" creationid="Hugo" creationdate="20210511T005701Z">
         <seg>ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154214Z" creationid="Hugo" creationdate="20210512T154214Z">
+        <seg>PA FINN PRAN KONT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10586,6 +10602,14 @@ dan dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154221Z" creationid="Hugo" creationdate="20210512T154221Z">
+        <seg>FINN PRAN KONT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LF Aligner</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T013559Z" creationid="Hugo" creationdate="20210511T013559Z">
@@ -11718,6 +11742,14 @@ dan dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T134028Z" creationid="Hugo" creationdate="20210222T134028Z">
         <seg>Text informasion modifikasion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154058Z" creationid="Hugo" creationdate="20210512T154058Z">
+        <seg>Bann segman modifie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15284,8 +15316,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210222T134229Z" creationid="Hugo" creationdate="20210222T134229Z">
-        <seg>Ranplase</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153939Z" creationid="Hugo" creationdate="20210222T134229Z">
+        <seg>Ranplas</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,7 +16110,7 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       <tuv lang="en">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153915Z" creationid="Hugo" creationdate="20210512T153915Z">
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153938Z" creationid="Hugo" creationdate="20210512T153915Z">
         <seg>Resers</seg>
       </tuv>
     </tu>
@@ -16120,6 +16152,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T135553Z" creationid="Hugo" creationdate="20210222T134958Z">
         <seg>Mark text ranplase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154034Z" creationid="Hugo" creationdate="20210512T154034Z">
+        <seg>Resers ek ranplasman</seg>
       </tuv>
     </tu>
     <tu>
@@ -17368,6 +17408,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T134259Z" creationid="Hugo" creationdate="20210222T134259Z">
         <seg>Verifikater lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154223Z" creationid="Hugo" creationdate="20210512T154223Z">
+        <seg>Spellcheck - errors found:</seg>
       </tuv>
     </tu>
     <tu>
