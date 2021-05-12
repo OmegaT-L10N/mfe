@@ -12310,6 +12310,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160159Z" creationid="Hugo" creationdate="20210512T160159Z">
+        <seg>Okenn proze finn sarze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115927Z" creationid="Hugo" creationdate="20210219T115851Z">
@@ -14621,6 +14629,14 @@ proze lokal san okenn fonksionalite lekip.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160211Z" creationid="Hugo" creationdate="20210512T160211Z">
+        <seg>Proze-la pena okenn fisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T060034Z" creationid="Hugo" creationdate="20210219T060034Z">
@@ -15338,6 +15354,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160142Z" creationid="Hugo" creationdate="20210512T160121Z">
+        <seg>Siprim bann baliz depi bann dokiman DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T153823Z" creationid="Hugo" creationdate="20210512T153236Z">
@@ -15854,6 +15878,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115818Z" creationid="Hugo" creationdate="20210219T115818Z">
         <seg>Exekit skript lor lanplasman #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160413Z" creationid="Hugo" creationdate="20210512T160413Z">
+        <seg>Exekision Tagwipe pou fisie '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -18129,6 +18161,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T145122Z" creationid="Hugo" creationdate="20210512T145122Z">
         <seg>Baliz – lespas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160120Z" creationid="Hugo" creationdate="20210512T160120Z">
+        <seg>Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
