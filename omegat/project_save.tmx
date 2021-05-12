@@ -4166,6 +4166,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145748Z" creationid="Hugo" creationdate="20210512T145748Z">
+        <seg>Chek proze dan so lansanb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153140Z" creationid="Hugo" creationdate="20210223T150024Z">
