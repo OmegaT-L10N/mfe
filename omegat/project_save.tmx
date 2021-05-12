@@ -10076,6 +10076,16 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163840Z" creationid="Hugo" creationdate="20210512T163840Z">
+        <seg>Instalasion OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -21819,6 +21829,16 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085034Z" creationid="Hugo" creationdate="20210224T085034Z">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text 'input' and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163900Z" creationid="Hugo" creationdate="20210512T163900Z">
+        <seg>Itilizasion Java Web Start pou instal OmegaT (tou bann platform)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
