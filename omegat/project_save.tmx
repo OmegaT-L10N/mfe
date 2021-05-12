@@ -19515,6 +19515,15 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T165229Z" creationid="Hugo" creationdate="20210512T165229Z">
+        <seg>Program instalasion kapav kree bann sortket pou ou dan meni demare, lor ou biro ek dan zonn lansman rapid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200606T192512Z" creationid="Hugo" creationdate="20200606T192512Z">
