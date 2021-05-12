@@ -11068,8 +11068,8 @@ dan dosie konfigirasion.</seg>
       <tuv lang="en">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155453Z" creationid="Hugo" creationdate="20210512T155453Z">
-        <seg>Bann kopi lokal working copies cleaned up: {0}</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155700Z" creationid="Hugo" creationdate="20210512T155453Z">
+        <seg>Bann kopi lokal de-travay netwaye: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,6 +19944,14 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T160117Z" creationid="Hugo" creationdate="20210512T160117Z">
+        <seg>Sa skript-la bizin omwin OmegaT 3.6 pou fonksione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This site is also available in English!</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201003T055529Z" creationid="Hugo" creationdate="20201003T031106Z">
@@ -22291,6 +22299,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201022T104031Z" creationid="Hugo" creationdate="20201022T104031Z">
         <seg>Ou pou modifie {0} segman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T155710Z" creationid="Hugo" creationdate="20210512T155710Z">
+        <seg>Ou pe servi OmegaT version {0}.</seg>
       </tuv>
     </tu>
     <tu>
