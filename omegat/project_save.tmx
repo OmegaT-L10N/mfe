@@ -15210,6 +15210,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153350Z" creationid="Hugo" creationdate="20210512T153236Z">
+        <seg>Siprim bann baliz dan segman sib an kour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T134057Z" creationid="Hugo" creationdate="20210222T134057Z">
@@ -17512,6 +17520,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201201T132618Z" creationid="Hugo" creationdate="20200528T190305Z">
         <seg>Bann lasenn karakter kapav koumans ek fini par apostrof ", seki vedir kapav met virgil dan linteryer lasenn karakter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T153232Z" creationid="Hugo" creationdate="20210512T153232Z">
+        <seg>Siprim bann baliz</seg>
       </tuv>
     </tu>
     <tu>
