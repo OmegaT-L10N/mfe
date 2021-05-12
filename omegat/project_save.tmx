@@ -7454,8 +7454,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Extracts the content of the projects in a single text file (one line per segment).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151951Z" creationid="Hugo" creationdate="20210512T151951Z">
-        <seg>Extrer konteni bann proze dan enn sel fisie </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T152528Z" creationid="Hugo" creationdate="20210512T151951Z">
+        <seg>Extrer konteni bann proze dan enn fisie text inik (enn lalign par segman).</seg>
       </tuv>
     </tu>
     <tu>
