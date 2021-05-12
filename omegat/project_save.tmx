@@ -2820,6 +2820,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175026Z" creationid="Hugo" creationdate="20210512T175026Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T101736Z" creationid="Hugo" creationdate="20210219T101736Z">
@@ -8012,6 +8020,16 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175037Z" creationid="Hugo" creationdate="20210512T175037Z">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T123530Z" creationid="Hugo" creationdate="20201003T112257Z">
@@ -9650,6 +9668,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175025Z" creationid="Hugo" creationdate="20210512T175025Z">
+        <seg>Si ou finn servi skript linux-install.sh, ou bizin kapav lans OmegaT avek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T113314Z" creationid="Hugo" creationdate="20200728T113129Z">
@@ -11074,6 +11100,16 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T162734Z" creationid="Hugo" creationdate="20210512T162734Z">
         <seg>Lans program instalasion la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174933Z" creationid="Hugo" creationdate="20210512T174933Z">
+        <seg>Lansman OmegaT (Linux)
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -22883,6 +22919,15 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174927Z" creationid="Hugo" creationdate="20210512T174927Z">
+        <seg>Ou kapav ousi lans li depi enn resers dan Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
@@ -23520,6 +23565,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T160405Z" creationid="Hugo" creationdate="20200723T185052Z">
         <seg>ek &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; kapav ninport ki tous lor ou klavie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175044Z" creationid="Hugo" creationdate="20210512T175033Z">
+        <seg>ek answit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24202,6 +24255,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200607T163548Z" creationid="Hugo" creationdate="20200607T163548Z">
         <seg>kantificater pares pou match otan tigit korespondans ki zot kapav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175034Z" creationid="Hugo" creationdate="20210512T175034Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
