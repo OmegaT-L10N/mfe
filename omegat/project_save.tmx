@@ -2116,6 +2116,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161241Z" creationid="Hugo" creationdate="20210512T161241Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T161234Z" creationid="Hugo" creationdate="20210511T134656Z">
@@ -13243,6 +13251,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161423Z" creationid="Hugo" creationdate="20210512T161242Z">
+        <seg>OmegaT li enn zouti tradiksion asiste par ordinater ki lib ek open source is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T105005Z" creationid="Hugo" creationdate="20210204T152655Z">
@@ -22013,6 +22033,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T090124Z" creationid="Hugo" creationdate="20201008T090124Z">
         <seg>Eski ou finn deza pans aprann?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161241Z" creationid="Hugo" creationdate="20210512T161241Z">
+        <seg>Ki ete OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
