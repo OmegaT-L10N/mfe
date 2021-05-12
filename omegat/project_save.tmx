@@ -4198,10 +4198,26 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151233Z" creationid="Hugo" creationdate="20210512T151233Z">
+        <seg>Verifie nonb bann baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T150536Z" creationid="Hugo" creationdate="20210512T150536Z">
         <seg>Verifie ponktiasion lafin bann segman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151550Z" creationid="Hugo" creationdate="20210512T151550Z">
+        <seg>Verifie sekans bann baliz</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4234,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T085658Z" creationid="Hugo" creationdate="20210224T085658Z">
         <seg>Chek bann patterns &amp;java MessageFormat sinp (par exanp, {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T151247Z" creationid="Hugo" creationdate="20210512T151247Z">
+        <seg>Verifie bann lespas otour bann baliz</seg>
       </tuv>
     </tu>
     <tu>
