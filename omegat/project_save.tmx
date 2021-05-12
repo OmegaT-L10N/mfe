@@ -9576,6 +9576,14 @@ valer par defo apre sanzman lanplasman.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145322Z" creationid="Hugo" creationdate="20210512T145140Z">
+        <seg>Bann nonb non idantik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T144704Z" creationid="Hugo" creationdate="20201016T135339Z">
@@ -17196,6 +17204,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145621Z" creationid="Hugo" creationdate="20210512T145141Z">
+        <seg>(Bann) erer lortograf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Split</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T141050Z" creationid="Hugo" creationdate="20210223T141050Z">
@@ -17673,6 +17689,30 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T134032Z" creationid="Hugo" creationdate="20210222T134032Z">
         <seg>Bann baliz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145115Z" creationid="Hugo" creationdate="20210512T145115Z">
+        <seg>Baliz – nonb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145128Z" creationid="Hugo" creationdate="20210512T145128Z">
+        <seg>Baliz – lord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145122Z" creationid="Hugo" creationdate="20210512T145122Z">
+        <seg>Baliz – lespas</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,8 +20546,8 @@ lalinn {1}, kolonn {2}.</seg>
       <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145039Z" creationid="Hugo" creationdate="20210512T145039Z">
-        <seg>Segman </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T145103Z" creationid="Hugo" creationdate="20210512T145039Z">
+        <seg>Segman ki pa finn tradir</seg>
       </tuv>
     </tu>
     <tu>
