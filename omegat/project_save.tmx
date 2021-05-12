@@ -7138,8 +7138,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T144225Z" creationid="Hugo" creationdate="20201026T133852Z">
-        <seg>Karakter lespasman pa ferme!</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154436Z" creationid="Hugo" creationdate="20201026T133852Z">
+        <seg>Karakter lesapman pa ferme!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,6 +15210,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154614Z" creationid="Hugo" creationdate="20210512T154614Z">
+        <seg>Siprim bann baliz OmegaT ki ena &lt;br&gt;enn let miniskil avan ek apre zot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T115939Z" creationid="Hugo" creationdate="20210219T115939Z">
@@ -15242,6 +15250,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154702Z" creationid="Hugo" creationdate="20210512T154702Z">
+        <seg>Siprim bann fragman defini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T144502Z" creationid="Hugo" creationdate="20210208T143832Z">
@@ -15262,6 +15278,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210505T145740Z" creationid="Hugo" creationdate="20210505T145740Z">
         <seg>Siprim bann lespas ki dan debi ek lafin bann segman pou bann proze non segmante: par defo, OmegaT siprim bann karakter lespasman ki dan debi ek lafin bann segman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154648Z" creationid="Hugo" creationdate="20210512T154648Z">
+        <seg>Siprim bann mnemonik</seg>
       </tuv>
     </tu>
     <tu>
@@ -15386,10 +15410,18 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154505Z" creationid="Hugo" creationdate="20210512T154505Z">
+        <seg>Ranplas bann baliz personalize par enn lespas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154409Z" creationid="Hugo" creationdate="20210512T154409Z">
-        <seg>Ranplas bann sekans lesapman </seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154452Z" creationid="Hugo" creationdate="20210512T154409Z">
+        <seg>Ranplas bann sekans lesapman par enn lespas</seg>
       </tuv>
     </tu>
     <tu>
@@ -17040,6 +17072,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201014T111931Z" creationid="Hugo" creationdate="20201014T110650Z">
         <seg>Sot bann segman kot ena enn sertin kantite karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210512T154719Z" creationid="Hugo" creationdate="20210512T154719Z">
+        <seg>Pa pran kont bann segman kot sours=sib</seg>
       </tuv>
     </tu>
     <tu>
