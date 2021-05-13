@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053038Z" creationid="Hugo" creationdate="20210513T052940Z">
+        <seg>"Sa programm-la nesesit instalasion omwin Java %d lor ou lordinater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053628Z" creationid="Hugo" creationdate="20210513T053031Z">
+        <seg>"Sa program-la nesesit Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T190526Z" creationid="Hugo" creationdate="20200528T190526Z">
@@ -34,6 +50,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210513T052826Z" creationid="Hugo" creationdate="20210511T134825Z">
         <seg>"Pa kapav sarz lanvironnman exekision Java (Java Runtime Environment).";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052853Z" creationid="Hugo" creationdate="20210513T052853Z">
+        <seg>"Pa kapav sarz enn Java %d Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -14564,6 +14588,14 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153818Z" creationid="Hugo" creationdate="20210223T153818Z">
         <seg>Chek-zot bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053022Z" creationid="Hugo" creationdate="20210513T053022Z">
+        <seg>'Download' ek instal dernie version Java depi www.java.com ek sey ankor.";</seg>
       </tuv>
     </tu>
     <tu>
