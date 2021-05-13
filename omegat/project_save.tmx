@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134825Z" creationid="Hugo" creationdate="20210511T134825Z">
-        <seg>"Unable to load Java Runtime Environment.";</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052826Z" creationid="Hugo" creationdate="20210511T134825Z">
+        <seg>"Pa kapav sarz lanvironnman exekision Java (Java Runtime Environment).";</seg>
       </tuv>
     </tu>
     <tu>
@@ -3778,6 +3778,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T084110Z" creationid="Hugo" creationdate="20201013T125734Z">
         <seg>Modil Navigater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052707Z" creationid="Hugo" creationdate="20210513T052701Z">
+        <seg>Bann rapor bug (Angle), lor sit web SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16171,6 +16179,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052637Z" creationid="Hugo" creationdate="20210513T052637Z">
+        <seg>Bann reket pou ameliorasion (Angle), lor sit web SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T070417Z" creationid="Hugo" creationdate="20201010T070417Z">
@@ -22057,6 +22073,14 @@ lalinn {1}, kolonn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052547Z" creationid="Hugo" creationdate="20210513T052547Z">
+        <seg>Bann resours pou bann itilizater:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User:</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210210T151604Z" creationid="Hugo" creationdate="20210210T151604Z">
@@ -24284,10 +24308,42 @@ kree so dosie konfigirasion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052517Z" creationid="Hugo" creationdate="20210513T052517Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052548Z" creationid="Hugo" creationdate="20210513T052548Z">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T164113Z" creationid="Hugo" creationdate="20210512T164113Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052702Z" creationid="Hugo" creationdate="20210513T052702Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052638Z" creationid="Hugo" creationdate="20210513T052638Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
