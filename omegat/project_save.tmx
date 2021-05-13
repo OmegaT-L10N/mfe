@@ -21,6 +21,23 @@
       </tuv>
     </tu>
     <tu>
+      <note>English and French different.</note>
+      <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054143Z" creationid="Hugo" creationdate="20210513T054143Z">
+        <seg>"Pa kapav lanse depi enn dosie ki ena "/" dan so nom.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053849Z" creationid="Hugo" creationdate="20210513T053849Z">
+        <seg>"Bizin nom klas prinsipal.";</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
@@ -42,6 +59,14 @@
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200528T190526Z" creationid="Hugo" creationdate="20200528T190526Z">
         <seg>"This is a source term, which contains a comma","Ala enn term sours, ki ena enn virgil"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054002Z" creationid="Hugo" creationdate="20210513T054002Z">
+        <seg>"Inposib fer lalis konteni repertwar Java.";</seg>
       </tuv>
     </tu>
     <tu>
