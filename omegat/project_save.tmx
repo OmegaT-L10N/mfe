@@ -2248,8 +2248,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161234Z" creationid="Hugo" creationdate="20210511T134656Z">
-        <seg>Sa dokiman-la finn tradir par Hugues Marianne, copyright © 2021.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T055408Z" creationid="Hugo" creationdate="20210511T134656Z">
+        <seg>Sa dokiman-la finn tradir par Hugues Marianne (hugues[at]posteo.net), copyright © 2021.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22061,6 +22061,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T122008Z" creationid="Hugo" creationdate="20200924T122008Z">
         <seg>Itiliz bann term ki aparet separeman dan text sours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054705Z" creationid="Hugo" creationdate="20210513T054705Z">
+        <seg>Servi lang instalasion dan OmegaT</seg>
       </tuv>
     </tu>
     <tu>
