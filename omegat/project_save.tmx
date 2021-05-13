@@ -1392,6 +1392,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052306Z" creationid="Hugo" creationdate="20210513T052306Z">
+        <seg>(Si ou ousi ou finn boukou kontribie me ou nom pa aparet dan lalis, pran kontak avek nou.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T044500Z" creationid="Hugo" creationdate="20201010T044500Z">
@@ -19767,6 +19776,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052512Z" creationid="Hugo" creationdate="20210513T052512Z">
+        <seg>Linformasion ki pli resan lor OmegaT li disponib lor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T114143Z">
@@ -21962,6 +21979,16 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T153310Z">
         <seg>Servi itiliter dezarsivaz ‘untar’ (ou enn lekivalan, par exanp &lt;f0&gt; winrar&lt;/f0&gt; dan Windows) pou extrer fisie-la so konteni dan dosie "Dictionary" proze-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052316Z" creationid="Hugo" creationdate="20210513T052316Z">
+        <seg>Bann lien itil
+============</seg>
       </tuv>
     </tu>
     <tu>
