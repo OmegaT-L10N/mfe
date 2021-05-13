@@ -9853,8 +9853,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054430Z" creationid="Hugo" creationdate="20210513T054430Z">
-        <seg>Si ou oule servi mem lang dan OmegaT ki lang ki ou finn servi pandan instalasion, met enn lakrwa</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054601Z" creationid="Hugo" creationdate="20210513T054430Z">
+        <seg>Si ou oule servi mem lang dan OmegaT ki lang ki ou finn servi pandan instalasion, seleksionn sa kaz anba la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14235,6 +14235,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T154917Z" creationid="Hugo" creationdate="20201013T132937Z">
         <seg>Bann lezot itilizater plito ankouraze servi &lt;a0&gt;Modil Filt Okapi&lt;/a0&gt; anplas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054640Z" creationid="Hugo" creationdate="20210513T054640Z">
+        <seg>Sinon, OmegaT pou servi mem lang ki ou sistem explwatasion.</seg>
       </tuv>
     </tu>
     <tu>
