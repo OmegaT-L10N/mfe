@@ -9851,6 +9851,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054430Z" creationid="Hugo" creationdate="20210513T054430Z">
+        <seg>Si ou oule servi mem lang dan OmegaT ki lang ki ou finn servi pandan instalasion, met enn lakrwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T074154Z" creationid="Hugo" creationdate="20201008T085644Z">
@@ -13461,8 +13469,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210511T134825Z" creationid="Hugo" creationdate="20210511T134825Z">
-        <seg>OmegaT User Interface Language</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054208Z" creationid="Hugo" creationdate="20210511T134825Z">
+        <seg>Lang pou interfas itilizater OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22103,6 +22111,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201008T153457Z" creationid="Hugo" creationdate="20201008T153457Z">
         <seg>Group itilizater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T054306Z" creationid="Hugo" creationdate="20210513T054213Z">
+        <seg>Lang ki OmegaT servi pou interfas itilizater</seg>
       </tuv>
     </tu>
     <tu>
