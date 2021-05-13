@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_b2daf3459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2240,8 +2240,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161241Z" creationid="Hugo" creationdate="20210512T161241Z">
-        <seg>===============</seg>
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062036Z" creationid="Hugo" creationdate="20210512T161241Z">
+        <seg>==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -5117,9 +5117,9 @@ Erer 404</seg>
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051757Z" creationid="Hugo" creationdate="20210513T051730Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062155Z" creationid="Hugo" creationdate="20210513T051730Z">
         <seg>Bann kontribiter
-============</seg>
+================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10303,9 +10303,9 @@ double-click on that shortcut.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162956Z" creationid="Hugo" creationdate="20210512T162956Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062131Z" creationid="Hugo" creationdate="20210512T162956Z">
         <seg>Instalasion OmegaT (Linux)
-=========================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10313,9 +10313,9 @@ double-click on that shortcut.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162743Z" creationid="Hugo" creationdate="20210512T162743Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062126Z" creationid="Hugo" creationdate="20210512T162743Z">
         <seg>Instalasion OmegaT (Mac)
-=======================</seg>
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10323,9 +10323,9 @@ double-click on that shortcut.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163840Z" creationid="Hugo" creationdate="20210512T163840Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062132Z" creationid="Hugo" creationdate="20210512T163840Z">
         <seg>Instalasion OmegaT (Solaris, FreeBSD, etc.)
-=========================================</seg>
+===========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -10333,9 +10333,9 @@ double-click on that shortcut.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T162723Z" creationid="Hugo" creationdate="20210512T162723Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062124Z" creationid="Hugo" creationdate="20210512T162723Z">
         <seg>Instalasion OmegaT (Windows)
-===========================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11282,9 +11282,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174933Z" creationid="Hugo" creationdate="20210512T174933Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062151Z" creationid="Hugo" creationdate="20210512T174933Z">
         <seg>Lansman OmegaT (Linux)
-========================</seg>
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11292,9 +11292,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T174424Z" creationid="Hugo" creationdate="20210512T174424Z">
-        <seg>LAnsman OmegaT (Mac)
-======================</seg>
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062149Z" creationid="Hugo" creationdate="20210512T174424Z">
+        <seg>Lansman OmegaT (Mac)
+====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11302,9 +11302,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T164418Z" creationid="Hugo" creationdate="20210512T164418Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062135Z" creationid="Hugo" creationdate="20210512T164418Z">
         <seg>Lansman OmegaT (Windows)
-==========================</seg>
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11312,9 +11312,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175323Z" creationid="Hugo" creationdate="20210512T175323Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062152Z" creationid="Hugo" creationdate="20210512T175323Z">
         <seg>Lansman OmegaT depi lalign komann (pou tou bann sistem)
-====================================================</seg>
+=======================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -11458,9 +11458,9 @@ itself on the first run.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161606Z" creationid="Hugo" creationdate="20210512T161606Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062121Z" creationid="Hugo" creationdate="20210512T161606Z">
         <seg>Informasion lor lisans
-=====================</seg>
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -22092,9 +22092,9 @@ lalinn {1}, kolonn {2}.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210513T052316Z" creationid="Hugo" creationdate="20210513T052316Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062156Z" creationid="Hugo" creationdate="20210513T052316Z">
         <seg>Bann lien itil
-============</seg>
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -22246,9 +22246,9 @@ lalinn {1}, kolonn {2}.</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T163900Z" creationid="Hugo" creationdate="20210512T163900Z">
+      <tuv lang="mfe" changeid="Kos Ivantsov" changedate="20210513T062133Z" creationid="Hugo" creationdate="20210512T163900Z">
         <seg>Itilizasion Java Web Start pou instal OmegaT (tou bann platform)
-===========================================================</seg>
+================================================================</seg>
       </tuv>
     </tu>
     <tu>
