@@ -2382,8 +2382,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210204T153138Z" creationid="Hugo" creationdate="20210204T153138Z">
-        <seg>Aaron Madlon-Kay li project manager OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051833Z" creationid="Hugo" creationdate="20210204T153138Z">
+        <seg>Project manager OmegaT li Aaron Madlon-Kay.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,6 +4992,16 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051757Z" creationid="Hugo" creationdate="20210513T051730Z">
+        <seg>Bann kontribiter
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201001T153606Z" creationid="Hugo" creationdate="20201001T113544Z">
@@ -5628,6 +5638,16 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201015T094813Z" creationid="Hugo" creationdate="20201015T094813Z">
         <seg>Itilizasion memwar par VM aktielman: {0}MB; ladan, memwar lib: {1}MB, ek maximum ki disponib: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051851Z" creationid="Hugo" creationdate="20210513T051851Z">
+        <seg>Lekip aktiel:
+(lord alfabetik)</seg>
       </tuv>
     </tu>
     <tu>
