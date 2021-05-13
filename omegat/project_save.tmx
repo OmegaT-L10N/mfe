@@ -1444,8 +1444,8 @@ Pou azout bann 'file' dan enn proze, klik lor bouton "Kopie bann 'File' dan Dosi
       <tuv lang="en">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T175459Z" creationid="Hugo" creationdate="20210512T175459Z">
-        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051401Z" creationid="Hugo" creationdate="20210512T175459Z">
+        <seg>(Fisie Java executable li fisie java lor Linux ek java.exe lor Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9278,6 +9278,16 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210105T085401Z" creationid="Hugo" creationdate="20210105T085401Z">
         <seg>Lidantifian pou servi pou bann tradiksion alternatif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051714Z" creationid="Hugo" creationdate="20210513T051714Z">
+        <seg>Si Java deza instale nivo sistem e si li dan sime komann, li pa neseser ou rant sime konple.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19641,9 +19651,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161952Z" creationid="Hugo" creationdate="20210512T161952Z">
-        <seg>Lisans sak bibliotek finn mansione dan
-/lib/licenses/Licenses.txt.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051316Z" creationid="Hugo" creationdate="20210512T161952Z">
+        <seg>Lisans sak bibliotek finn mansione dan /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23024,9 +23033,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210512T161905Z" creationid="Hugo" creationdate="20210512T161905Z">
-        <seg>Ou kapav trouv text lisans-la dan
-/docs/OmegaT-license.txt.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T051257Z" creationid="Hugo" creationdate="20210512T161905Z">
+        <seg>Ou kapav trouv text lisans-la dan /docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
