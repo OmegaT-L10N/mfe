@@ -24,16 +24,16 @@
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053038Z" creationid="Hugo" creationdate="20210513T052940Z">
-        <seg>"Sa programm-la nesesit instalasion omwin Java %d lor ou lordinater.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053631Z" creationid="Hugo" creationdate="20210513T052940Z">
+        <seg>"Sa program-la nesesit instalasion omwin Java %d lor ou lordinater.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053628Z" creationid="Hugo" creationdate="20210513T053031Z">
-        <seg>"Sa program-la nesesit Java %d JDK or later be installed on your computer.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053652Z" creationid="Hugo" creationdate="20210513T053031Z">
+        <seg>"Sa program-la nesesit instalasion omwin Java %d JDK lor ou lordinater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14588,6 +14588,15 @@ bizin bann etap adidionel.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210223T153818Z" creationid="Hugo" creationdate="20210223T153818Z">
         <seg>Chek-zot bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>oracle.com or java.com	?</note>
+      <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210513T053809Z" creationid="Hugo" creationdate="20210513T053809Z">
+        <seg>'Download' et instal dernie version Java JDK depi oracle.com ek sey ankor.";</seg>
       </tuv>
     </tu>
     <tu>
