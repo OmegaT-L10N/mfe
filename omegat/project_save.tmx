@@ -21117,6 +21117,14 @@ depi server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T162550Z" creationid="Hugo" creationdate="20210514T162550Z">
+        <seg>Pou chek bann reglaz &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210514T152240Z" creationid="Hugo" creationdate="20210514T152240Z">
@@ -23507,6 +23515,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200706T185459Z">
         <seg>Ou kapav sanz bann sortket existan ouswa kree bann nouvo sortket si ou met enn fisie definision sortket dan ou dosie Preferans &lt;a0&gt;OmegaT&lt;/a0&gt;(aksesib depi meni &lt;m1&gt; &lt;g2&gt;Opsion&lt;/g2&gt; &lt;g3&gt;Akse Dosie Konfigirasion&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T162503Z" creationid="Hugo" creationdate="20210514T162503Z">
+        <seg>Ou kapav kree enn nouvo proze pou sak nouvo travay, ek ou kapav azout enn fisie sours dan enn proze ninport ki moman.</seg>
       </tuv>
     </tu>
     <tu>
