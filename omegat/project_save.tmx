@@ -10780,6 +10780,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165723Z" creationid="Hugo" creationdate="20210514T165723Z">
+        <seg>Parfwa, li bien itil fer bann resers dan ou text sours ek dan ou tradiksion: servi &lt;k0&gt;Ctrl+F&lt;/k0&gt; pou apel lafnet &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is recommended for serious developers and testers only.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T122310Z" creationid="Hugo" creationdate="20210224T122310Z">
