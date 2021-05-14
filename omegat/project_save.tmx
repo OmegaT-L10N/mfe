@@ -7972,8 +7972,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161940Z" creationid="Hugo" creationdate="20210514T161940Z">
-        <seg>Detrwa pwin pou gard</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T162030Z" creationid="Hugo" creationdate="20210514T161940Z">
+        <seg>Detrwa lot pwin ki ou bizin kone</seg>
       </tuv>
     </tu>
     <tu>
@@ -9556,8 +9556,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161949Z" creationid="Hugo" creationdate="20210514T161949Z">
-        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T162150Z" creationid="Hugo" creationdate="20210514T161949Z">
+        <seg>Si enn fisie pa pe ouver dan pano &lt;g0&gt;Editer&lt;/g0&gt;, kapav li dan enn format ki pa konpatib avek OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17267,6 +17267,14 @@ Par defo, 'scope' resers li lor lansanb proze, me kapav konfigir li lor ninport 
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210204T153458Z" creationid="Hugo" creationdate="20210204T153458Z">
         <seg>Get /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T162306Z" creationid="Hugo" creationdate="20210514T162212Z">
+        <seg>Get &lt;m1&gt;&lt;g2&gt;Opsion&lt;/g2&gt;&lt;g3&gt;Preferans...&lt;/g3&gt;&lt;g4&gt;Filt Fisie&lt;/g4&gt;&lt;/m1&gt; pou enn lalis bann format file konpatib avek OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
