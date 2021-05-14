@@ -7970,6 +7970,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161940Z" creationid="Hugo" creationdate="20210514T161940Z">
+        <seg>Detrwa pwin pou gard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T084557Z" creationid="Hugo" creationdate="20210224T084557Z">
@@ -9542,6 +9550,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20210208T162746Z">
         <seg>Si fisie HHC ou HHK la ena enn deklarasion ankodaz, OmegaT pou servi li ek pa pou pran kont bann paramet ki ou pou indike isi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161949Z" creationid="Hugo" creationdate="20210514T161949Z">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14073,8 +14089,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161750Z" creationid="Hugo" creationdate="20210514T161750Z">
-        <seg>Kan ou sir ki pena okenn erer baliz dan ou proze, apiy lor &lt;k0&gt;Ctrl+D&lt;/k0&gt; pou kree bann fisie sib dan sou-dosie &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161841Z" creationid="Hugo" creationdate="20210514T161750Z">
+        <seg>Kan ou sir ki pena okenn erer baliz dan ou proze, apiy lor &lt;k0&gt;Ctrl+D&lt;/k0&gt; pou kree bann fisie sib dan sou-dosie &lt;f1&gt;/target/&lt;/f1&gt; dan dosie ou proze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22912,8 +22928,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155414Z" creationid="Hugo" creationdate="20210514T155414Z">
-        <seg>Ninport ki moman ou oule vizializ ou tradiksion final, apiy lor &lt;k2&gt;Ctrl+D&lt;/k2&gt; pou kree bann dokiman final dan sou-dosie &lt;f3&gt;/sib/&lt;/f3&gt; ou dosie proze.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161822Z" creationid="Hugo" creationdate="20210514T155414Z">
+        <seg>Ninport ki moman ou oule vizializ ou tradiksion final, apiy lor &lt;k2&gt;Ctrl+D&lt;/k2&gt; pou kree bann dokiman final dan sou-dosie &lt;f3&gt;/target/&lt;/f3&gt; ou dosie proze.</seg>
       </tuv>
     </tu>
     <tu>
