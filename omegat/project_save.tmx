@@ -2806,6 +2806,15 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154623Z" creationid="Hugo" creationdate="20210514T154623Z">
+        <seg>Kan Apre ki ou finn tradir 
+After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083821Z" creationid="Hugo" creationdate="20210219T092640Z">
@@ -12864,8 +12873,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153541Z" creationid="Hugo" creationdate="20210514T153525Z">
-        <seg>Answit, laftnet &lt;g0&gt;Bann Fisie Proze&lt;/g0&gt; ouver.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154409Z" creationid="Hugo" creationdate="20210514T153525Z">
+        <seg>Answit, laftnet &lt;g0&gt;Bann Fisie Proze&lt;/g0&gt; pou ouver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13919,6 +13928,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154514Z" creationid="Hugo" creationdate="20210514T154514Z">
+        <seg>OmegaT pou montre ou segman par segman pou tradir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T071257Z" creationid="Hugo" creationdate="20201010T071257Z">
@@ -13929,8 +13946,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154013Z" creationid="Hugo" creationdate="20210514T153710Z">
-        <seg>OmegaT pou kopie bann fisie ki ou finn seleksione dan sou-dosie &lt;f2&gt;/source/&lt;/f2&gt; proze ki finn fek kree la.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154425Z" creationid="Hugo" creationdate="20210514T153710Z">
+        <seg>OmegaT pou kopie bann fisie ki ou finn seleksione dan sou-dosie &lt;f2&gt;/source/&lt;/f2&gt; dan proze ki finn fek kree la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21203,6 +21220,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200729T135544Z" creationid="Hugo" creationdate="20200729T135544Z">
         <seg>TransTips/Aktiv Transtips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154434Z" creationid="Hugo" creationdate="20210514T154434Z">
+        <seg>Tradir fisie-la</seg>
       </tuv>
     </tu>
     <tu>
