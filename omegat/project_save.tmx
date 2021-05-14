@@ -9947,6 +9947,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T164658Z" creationid="Hugo" creationdate="20210514T164658Z">
+        <seg>Si ou met sa bann fisie memwar tradiksion la dan sou-dosie &lt;f6&gt;/tm/&lt;/f6&gt; ou proze, OmegaT pou otomatikman rod ladan kan ou tradir bann segman ki simi zot pou will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200925T070901Z">
