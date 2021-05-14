@@ -10084,6 +10084,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T152321Z" creationid="Hugo" creationdate="20210514T152321Z">
+        <seg>Dan meni &lt;g0&gt;Proze&lt;/g0&gt;, swazir &lt;m1&gt;&lt;g2&gt;Nouvo...&lt;/g2&gt;&lt;/m1&gt; ek met nom ou proze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T091746Z" creationid="Hugo" creationdate="20210224T091746Z">
@@ -15897,6 +15905,14 @@ Erer 404</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201016T135307Z" creationid="Hugo" creationdate="20201016T135307Z">
         <seg>Rest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T152601Z" creationid="Hugo" creationdate="20210514T152601Z">
+        <seg>Pa bliye kot ou pe kree proze-la, parski ou pou bizin aksed sa dosie-la apre.</seg>
       </tuv>
     </tu>
     <tu>
