@@ -6790,6 +6790,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155606Z" creationid="Hugo" creationdate="20210514T155440Z">
+        <seg>Pandan tradiksion, servi bann meni &lt;g4&gt;Edit&lt;/g4&gt; ek &lt;g5&gt;Al&lt;/g5&gt; pou realiz diver fonksion bien pratik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210208T163808Z" creationid="Hugo" creationdate="20210208T163808Z">
