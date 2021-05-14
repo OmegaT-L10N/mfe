@@ -3428,8 +3428,8 @@ bann konportman inabitiel, me korek.</seg>
       <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T163243Z" creationid="Hugo" creationdate="20210514T163243Z">
-        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T163826Z" creationid="Hugo" creationdate="20210514T163243Z">
+        <seg>Kan ou terminn ou tradiksion, OmegaT export trwa memwar tradiksion &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; ek &lt;f2&gt;omegat&lt;/f2&gt; dan dosie ou proze.</seg>
       </tuv>
     </tu>
     <tu>
