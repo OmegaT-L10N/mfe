@@ -2168,8 +2168,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T151519Z" creationid="Hugo" creationdate="20210514T151421Z">
-        <seg>&lt;r0&gt;Not:&lt;/r0&gt; Lor enn Mac, servi tous &lt;k1&gt;Command&lt;/k1&gt; olie tous &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154346Z" creationid="Hugo" creationdate="20210514T151421Z">
+        <seg>&lt;r0&gt;Not:&lt;/r0&gt; Lor Mac, servi tous &lt;k1&gt;Command&lt;/k1&gt; olie tous &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154138Z" creationid="Hugo" creationdate="20210514T154138Z">
-        <seg>Kan bann fisie sours sarze dan &lt;g3&gt;Editer&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154256Z" creationid="Hugo" creationdate="20210514T154138Z">
+        <seg>Kan bann fisie sours sarze dan pano &lt;g3&gt;Editer&lt;/g3&gt;, ou kapav ferm lafnet &lt;g4&gt;Bann Fisie Proze&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
