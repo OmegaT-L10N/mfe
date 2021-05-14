@@ -8611,6 +8611,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161548Z" creationid="Hugo" creationdate="20210514T161548Z">
+        <seg>Kree ou tradiksion final</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Genua</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T013610Z" creationid="Hugo" creationdate="20210511T013610Z">
@@ -14059,6 +14067,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200706T192019Z">
         <seg>Enn fwa ki fisie &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; finn sanze, bizin restart &lt;a1&gt;OmegaT&lt;/a1&gt; pou pran kont bann nouvo sortket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T161750Z" creationid="Hugo" creationdate="20210514T161750Z">
+        <seg>Kan ou sir ki pena okenn erer baliz dan ou proze, apiy lor &lt;k0&gt;Ctrl+D&lt;/k0&gt; pou kree bann fisie sib dan sou-dosie &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
     </tu>
     <tu>
