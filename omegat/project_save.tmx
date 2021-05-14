@@ -2790,6 +2790,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154138Z" creationid="Hugo" creationdate="20210514T154138Z">
+        <seg>Kan bann fisie sours sarze dan &lt;g3&gt;Editer&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210514T152701Z" creationid="Hugo" creationdate="20210514T152648Z">
@@ -4506,8 +4514,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200519T155627Z">
-        <seg>Chek sipa ou fisie dict dan bon dosie (ouswa dan enn sou dosie sa dosie-la).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153809Z" creationid="Hugo" creationdate="20200519T155627Z">
+        <seg>Chek sipa ou fisie dict dan bon dosie (ouswa dan enn sou-dosie sa dosie-la).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13921,8 +13929,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153710Z" creationid="Hugo" creationdate="20210514T153710Z">
-        <seg>OmegaT pou kopie bann fisie ki ou finn seleksione dan sou dosie &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154013Z" creationid="Hugo" creationdate="20210514T153710Z">
+        <seg>OmegaT pou kopie bann fisie ki ou finn seleksione dan sou-dosie &lt;f2&gt;/source/&lt;/f2&gt; proze ki finn fek kree la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19956,16 +19964,16 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120323Z" creationid="Hugo" creationdate="20200528T191249Z">
-        <seg>Fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn sou dosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153809Z" creationid="Hugo" creationdate="20200528T191249Z">
+        <seg>Fisie &lt;f0&gt;.tbx&lt;/f0&gt; la bizin dan dosie &lt;f1&gt;/glossary&lt;/f1&gt;, me li kapav dan enn sou-dosie (ex.: &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20200924T120307Z" creationid="Hugo" creationdate="20200525T151151Z">
-        <seg>Fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn sou dosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153809Z" creationid="Hugo" creationdate="20200525T151151Z">
+        <seg>Fisie-la bizin dan dosie &lt;f2&gt;/glossary&lt;/f2&gt;, me il kapav dan enn sou-dosie (ex.: &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20268,8 +20276,8 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200921T153550Z">
-        <seg>Verifikater lortograf servi kod lang sib pou determnn ki lang pou itilize: si lang sib li Portige Brezilien (PT_BR), sou dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153809Z" creationid="Hugo" creationdate="20200921T153550Z">
+        <seg>Verifikater lortograf servi kod lang sib pou determnn ki lang pou itilize: si lang sib li Portige Brezilien (PT_BR), sou-dosie ki kontenir bann leksik bizin ena de fisie ki apel &lt;e0&gt;pt_br.aff&lt;/e0&gt; ek &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
