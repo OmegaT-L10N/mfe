@@ -2790,6 +2790,14 @@ Konfigirasion aktiel li: {0}MB</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T152701Z" creationid="Hugo" creationdate="20210514T152648Z">
+        <seg>Apre ki ou finn nomm ou proze, enn lafnet &lt;g0&gt;Kree enn Nouvo Proze&lt;/g0&gt; pou aparet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210224T083821Z" creationid="Hugo" creationdate="20210219T092640Z">
@@ -3390,6 +3398,14 @@ bann konportman inabitiel, me korek.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201013T130552Z" creationid="Hugo" creationdate="20201001T134103Z">
         <seg>Toutfwa, pinsip devlopman lib res primordial: savedir ki ninport ki sanzman OmegaT pou bizin konstitie enn benefis pou program-la ek so bann itilizater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153155Z" creationid="Hugo" creationdate="20210514T153155Z">
+        <seg>Lao sa laftnet-la, swazir lang fisie sours ek lang tradiksion, e klik lor &lt;g1&gt;OK&lt;/g1&gt; pou kontigne.</seg>
       </tuv>
     </tu>
     <tu>
