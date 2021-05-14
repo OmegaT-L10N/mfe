@@ -3426,10 +3426,18 @@ bann konportman inabitiel, me korek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T163243Z" creationid="Hugo" creationdate="20210514T163243Z">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153155Z" creationid="Hugo" creationdate="20210514T153155Z">
-        <seg>Lao sa laftnet-la, swazir lang fisie sours ek lang tradiksion, e klik lor &lt;g1&gt;OK&lt;/g1&gt; pou kontigne.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T163530Z" creationid="Hugo" creationdate="20210514T153155Z">
+        <seg>Dan lao sa laftnet-la, swazir lang fisie sours ek lang tradiksion, e klik lor &lt;g1&gt;OK&lt;/g1&gt; pou kontigne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16063,8 +16071,8 @@ Erer 404</seg>
       <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T152601Z" creationid="Hugo" creationdate="20210514T152601Z">
-        <seg>Pa bliye kot ou pe kree proze-la, parski ou pou bizin aksed sa dosie-la apre.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T163409Z" creationid="Hugo" creationdate="20210514T152601Z">
+        <seg>Pa bliye lanplasman proze-la, parski ou pou bizin aksed sa dosie-la apre.</seg>
       </tuv>
     </tu>
     <tu>
