@@ -2792,8 +2792,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154256Z" creationid="Hugo" creationdate="20210514T154138Z">
-        <seg>Kan bann fisie sours sarze dan pano &lt;g3&gt;Editer&lt;/g3&gt;, ou kapav ferm lafnet &lt;g4&gt;Bann Fisie Proze&lt;/g4&gt;.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154633Z" creationid="Hugo" creationdate="20210514T154138Z">
+        <seg>Enn fwa ki bann fisie sours sarze dan pano &lt;g3&gt;Editer&lt;/g3&gt;, ou kapav ferm lafnet &lt;g4&gt;Bann Fisie Proze&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,9 +2808,9 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154623Z" creationid="Hugo" creationdate="20210514T154623Z">
-        <seg>Kan Apre ki ou finn tradir 
-After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154949Z" creationid="Hugo" creationdate="20210514T154623Z">
+        <seg>Kan ki ou finn tradir enn segman, apiy lor &lt;k0&gt;Ctrl+U&lt;/k0&gt; pou al lor prosin segman 
+to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
     </tu>
     <tu>
