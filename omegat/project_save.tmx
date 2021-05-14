@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_b2daf3459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11331,6 +11331,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210512T154324Z" creationid="Hugo" creationdate="20210512T154324Z">
         <seg>Pran kont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T151308Z" creationid="Hugo" creationdate="20210514T104200Z">
+        <seg>Aprann servi OmegaT an zis sink minit!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24162,6 +24170,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010348Z" creationid="Hugo" creationdate="20210511T010348Z">
         <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T104200Z" creationid="Hugo" creationdate="20210514T104200Z">
+        <seg>en</seg>
       </tuv>
     </tu>
     <tu>
