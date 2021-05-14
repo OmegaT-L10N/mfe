@@ -9947,6 +9947,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155906Z" creationid="Hugo" creationdate="20210514T155906Z">
+        <seg>Si ou bann fisie sours zot bann fisie formate, par exanp si zot dan format Microsoft Word, LibreOffice Writer ouswa HTML, OmegaT pou konverti formataz-la an bann baliz otour ou text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, during installation, you have created a shortcut on the desktop,
 double-click on that shortcut.</seg>
       </tuv>
@@ -22465,6 +22473,14 @@ lalinn {1}, kolonn {2}.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210219T121120Z" creationid="Hugo" creationdate="20200729T132556Z">
         <seg>Valid bann baliz pou sa dokiman-la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155632Z" creationid="Hugo" creationdate="20210514T155616Z">
+        <seg>Valid ou bann baliz</seg>
       </tuv>
     </tu>
     <tu>
