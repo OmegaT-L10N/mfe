@@ -23517,6 +23517,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165531Z" creationid="Hugo" creationdate="20210514T165531Z">
+        <seg>Pou azout enn nouvo term dan gloser, apiy lor &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, ouswa kopie bann gloser existan dan sous-dosie &lt;f1&gt;/glossary/&lt;/f1&gt; dan dosie ou proze, ek OmegaT pou rod bann term ladan otomatikman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20201010T035308Z" creationid="Hugo" creationdate="20201010T034746Z">
