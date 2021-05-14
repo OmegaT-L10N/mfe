@@ -2808,9 +2808,8 @@ Konfigirasion aktiel li: {0}MB</seg>
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T154949Z" creationid="Hugo" creationdate="20210514T154623Z">
-        <seg>Kan ki ou finn tradir enn segman, apiy lor &lt;k0&gt;Ctrl+U&lt;/k0&gt; pou al lor prosin segman 
-to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155118Z" creationid="Hugo" creationdate="20210514T154623Z">
+        <seg>Kan ki ou finn tradir enn segman, apiy lor &lt;k0&gt;Ctrl+U&lt;/k0&gt; pou al lor prosin segman ki pa finn ankor tradir (ouswa &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; pour al lor prosin segman ki finn fini tradi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22811,6 +22810,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200928T134237Z" creationid="Hugo" creationdate="20200928T134126Z">
         <seg>Letan ou oule reservi filt-la, nek seleksionn kaz korespondan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T155414Z" creationid="Hugo" creationdate="20210514T155414Z">
+        <seg>Ninport ki moman ou oule vizializ ou tradiksion final, apiy lor &lt;k2&gt;Ctrl+D&lt;/k2&gt; pou kree bann dokiman final dan sou-dosie &lt;f3&gt;/sib/&lt;/f3&gt; ou dosie proze.</seg>
       </tuv>
     </tu>
     <tu>
