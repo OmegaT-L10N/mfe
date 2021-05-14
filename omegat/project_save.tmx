@@ -8274,6 +8274,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165958Z" creationid="Hugo" creationdate="20210514T165958Z">
+        <seg>Pou enn introdiksion pli detaye, lir &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; (Angle) ki disponib lor sit web OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
@@ -10782,8 +10790,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165723Z" creationid="Hugo" creationdate="20210514T165723Z">
-        <seg>Parfwa, li bien itil fer bann resers dan ou text sours ek dan ou tradiksion: servi &lt;k0&gt;Ctrl+F&lt;/k0&gt; pou apel lafnet &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165858Z" creationid="Hugo" creationdate="20210514T165723Z">
+        <seg>Parfwa, li bien itil fer bann resers dan ou text sours ek dan ou tradiksion: servi &lt;k0&gt;Ctrl+F&lt;/k0&gt; pou fer lafnet &lt;g1&gt;Resers Textiel&lt;/g1&gt; aparet ninport kan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24762,6 +24770,14 @@ kree so dosie konfigirasion.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210513T052517Z" creationid="Hugo" creationdate="20210513T052517Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T165901Z" creationid="Hugo" creationdate="20210514T165901Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
