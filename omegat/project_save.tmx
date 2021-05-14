@@ -19420,6 +19420,14 @@ pou servi dosie an-kour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T164051Z" creationid="Hugo" creationdate="20210514T164051Z">
+        <seg>Bann itilizater lot program tradiksion kapav ouver bann memwar &lt;f3&gt;level1&lt;/f3&gt; ek &lt;f4&gt;level2&lt;/f4&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210511T010032Z" creationid="Hugo" creationdate="20210511T010032Z">
@@ -20094,6 +20102,14 @@ kot xx ou xxx kod lang, ek YY kod rezion ouswa pei (opsionel).</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210427T131410Z" creationid="Hugo" creationdate="20200606T183327Z">
         <seg>Kapav sanz lanplasman fisie gloser modifiab-la dan dialog &lt;g0&gt;Proze &gt; Propriyete... &lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T164352Z" creationid="Hugo" creationdate="20210514T164352Z">
+        <seg>Par kont, zis OmegaT kapav servi memwar &lt;f5&gt;omegat&lt;/f5&gt;, ek ou kapav servi sa memwar-la dan ninport ki proze fitir avek OmegaT. </seg>
       </tuv>
     </tu>
     <tu>
