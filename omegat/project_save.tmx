@@ -4632,6 +4632,14 @@ Erer 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153642Z" creationid="Hugo" creationdate="20210514T153642Z">
+        <seg>Klik lor &lt;g1&gt;Kopie bann Fisie ver Dosie Sours...&lt;/g1&gt; pou swazir ou bann fisie sours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20200924T133824Z" creationid="Hugo" creationdate="20200924T133824Z">
@@ -12842,6 +12850,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="mfe" changeid="Hugo" changedate="20210222T131623Z" creationid="Hugo" creationdate="20210222T131623Z">
         <seg>Swivan →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="mfe" changeid="Hugo" changedate="20210514T153541Z" creationid="Hugo" creationdate="20210514T153525Z">
+        <seg>Answit, laftnet &lt;g0&gt;Bann Fisie Proze&lt;/g0&gt; ouver.</seg>
       </tuv>
     </tu>
     <tu>
